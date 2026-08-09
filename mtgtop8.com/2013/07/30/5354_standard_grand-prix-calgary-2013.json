@@ -1,0 +1,953 @@
+{
+    "tournament": {
+        "date": "2013-07-30",
+        "name": "Grand Prix Calgary 2013",
+        "url": "https://mtgtop8.com/event?e=5354",
+        "format": "Standard",
+        "players": 630
+    },
+    "decks": [
+        {
+            "date": "2013-07-30",
+            "player": "Alexander Hayne",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230885&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Restoration Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 1,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 1,
+                    "name": "Moorland Haunt"
+                },
+                {
+                    "count": 3,
+                    "name": "Clifftop Retreat"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 3,
+                    "name": "Pillar of Flame"
+                },
+                {
+                    "count": 2,
+                    "name": "Turn/Burn"
+                },
+                {
+                    "count": 2,
+                    "name": "Syncopate"
+                },
+                {
+                    "count": 2,
+                    "name": "Warleader's Helix"
+                },
+                {
+                    "count": 4,
+                    "name": "Think Twice"
+                },
+                {
+                    "count": 3,
+                    "name": "Azorius Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Rewind"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterflux"
+                },
+                {
+                    "count": 3,
+                    "name": "Sphinx's Revelation"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Renounce the Guilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Izzet Staticaster"
+                },
+                {
+                    "count": 3,
+                    "name": "Thundermaw Hellkite"
+                },
+                {
+                    "count": 3,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                }
+            ],
+            "notes": "The main objective of this deck is to quickly and aggressively control the battlefield by using a combination of creatures, instants, and sorceries to deal damage and disrupt the opponent's strategies. With a mix of versatile creatures like Snapcaster Mage and Restoration Angel, along with powerful spells like Supreme Verdict and Sphinx's Revelation, the deck aims to maintain board presence while also controlling the opponent's plays. The mana base is designed to ensure consistency in casting spells of all colors, allowing for adaptability and flexibility in different matchups."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Stephane Gerard",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230884&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Huntmaster of the Fells"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodgift Demon"
+                },
+                {
+                    "count": 4,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Kessig Wolf Run"
+                },
+                {
+                    "count": 2,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska the Unseen"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonfire of the Damned"
+                },
+                {
+                    "count": 2,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Putrefy"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Slip"
+                },
+                {
+                    "count": 3,
+                    "name": "Olivia Voldaren"
+                },
+                {
+                    "count": 4,
+                    "name": "Lifebane Zombie"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Barter in Blood"
+                },
+                {
+                    "count": 1,
+                    "name": "Sever the Bloodline"
+                },
+                {
+                    "count": 2,
+                    "name": "Pillar of Flame"
+                },
+                {
+                    "count": 3,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 1,
+                    "name": "Devour Flesh"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Rakdos's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Tragic Slip"
+                }
+            ],
+            "notes": "This deck aims to overwhelm opponents with fast and aggressive creatures while utilizing removal spells to control the board. The key strategy is to quickly deploy threats such as Huntmaster of the Fells, Thragtusk, and Olivia Voldaren, while using cards like Bonfire of the Damned and Rakdos's Return to disrupt the opponent's game plan. With a mix of powerful creatures and removal spells, this Jund Aggro deck looks to maintain pressure and control tempo throughout the match, ultimately leading to victory through sheer aggression and disruption."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Brady Boychuk",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230882&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Kessig Wolf Run"
+                },
+                {
+                    "count": 4,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Domri Rade"
+                },
+                {
+                    "count": 3,
+                    "name": "Mizzium Mortars"
+                },
+                {
+                    "count": 3,
+                    "name": "Strangleroot Geist"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 2,
+                    "name": "Gyre Sage"
+                },
+                {
+                    "count": 4,
+                    "name": "Thundermaw Hellkite"
+                },
+                {
+                    "count": 4,
+                    "name": "Hellrider"
+                },
+                {
+                    "count": 4,
+                    "name": "Flinthoof Boar"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghor-Clan Rampager"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Huntmaster of the Fells"
+                },
+                {
+                    "count": 2,
+                    "name": "Zealous Conscripts"
+                },
+                {
+                    "count": 1,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 3,
+                    "name": "Pillar of Flame"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                }
+            ],
+            "notes": "This deck focuses on aggressive gameplay by utilizing Gruul creatures to quickly overwhelm the opponent. It aims to deal damage quickly and efficiently by playing powerful creatures like Thundermaw Hellkite and Hellrider. The deck also includes cards like Burning-Tree Emissary and Ghor-Clan Rampager to generate additional mana and provide combat tricks. Domri Rade helps with creature selection and removal, while Mizzium Mortars provides direct damage to deal with opposing threats. Overall, the deck's strategy is to establish a strong board presence early on and maintain pressure throughout the game."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Ryan Zawalsky",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230883&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 3,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 2,
+                    "name": "Kessig Wolf Run"
+                },
+                {
+                    "count": 1,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Garruk, Primal Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonfire of the Damned"
+                },
+                {
+                    "count": 4,
+                    "name": "Farseek"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Putrefy"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Slip"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Olivia Voldaren"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Huntmaster of the Fells"
+                },
+                {
+                    "count": 4,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 2,
+                    "name": "Arbor Elf"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Barter in Blood"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Curse of Death's Hold"
+                },
+                {
+                    "count": 2,
+                    "name": "Underworld Connections"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Slip"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by using removal spells and powerful creatures to out-value the opponent. This is achieved by playing cards such as Bonfire of the Damned, Rakdos's Return, and Olivia Voldaren to control the board while also utilizing cards like Garruk, Primal Hunter and Huntmaster of the Fells to generate card advantage. The deck also aims to ramp up its mana with cards like Farseek and Arbor Elf to cast its powerful threats such as Thragtusk and Scavenging Ooze ahead of schedule."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Gavin Bennett",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230886&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 3,
+                    "name": "Hinterland Harbor"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunpetal Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Ajani, Caller of the Pride"
+                },
+                {
+                    "count": 4,
+                    "name": "Spectral Flight"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Unflinching Courage"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 2,
+                    "name": "Increasing Savagery"
+                },
+                {
+                    "count": 4,
+                    "name": "Geist of Saint Traft"
+                },
+                {
+                    "count": 4,
+                    "name": "Invisible Stalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Avacyn's Pilgrim"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiendslayer Paladin"
+                },
+                {
+                    "count": 3,
+                    "name": "Gladecover Scout"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Sigarda, Host of Herons"
+                },
+                {
+                    "count": 2,
+                    "name": "Mending Touch"
+                },
+                {
+                    "count": 2,
+                    "name": "Fog"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Nevermore"
+                },
+                {
+                    "count": 3,
+                    "name": "Voice of Resurgence"
+                }
+            ],
+            "notes": "This deck focuses on utilizing powerful auras and enchantments to boost the strength and evasiveness of creatures, particularly Geist of Saint Traft and Invisible Stalker. By quickly buffing these hexproof creatures with cards like Ethereal Armor and Unflinching Courage, the goal is to deal massive damage to the opponent before they have a chance to mount a defense. The inclusion of Ajani, Caller of the Pride provides additional ways to enhance the creatures' abilities and close out the game swiftly. The mana base is designed to support the aggressive playstyle with a mixture of shocklands and checklands."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Adam Laforest",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230889&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Brimstone Volley"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Earth"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonfire of the Damned"
+                },
+                {
+                    "count": 4,
+                    "name": "Pillar of Flame"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Spear"
+                },
+                {
+                    "count": 4,
+                    "name": "Chandra's Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Reckoner"
+                },
+                {
+                    "count": 4,
+                    "name": "Thundermaw Hellkite"
+                },
+                {
+                    "count": 4,
+                    "name": "Hellrider"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 21,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Mark of Mutiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Wild Ricochet"
+                },
+                {
+                    "count": 3,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 3,
+                    "name": "Curse of the Pierced Heart"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Strength"
+                },
+                {
+                    "count": 1,
+                    "name": "Blasphemous Act"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deal damage to the opponent through aggressive plays and burn spells. By utilizing a combination of efficient creatures like Boros Reckoner and Thundermaw Hellkite, along with direct damage spells like Searing Spear and Pillar of Flame, the goal is to apply constant pressure and overwhelm the opponent before they can stabilize. The inclusion of Mutavault allows for additional creature threats, while Burning Earth punishes opponents who rely heavily on non-basic lands. This deck aims to end the game swiftly through a combination of creature attacks and burn spells."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Trent Douglas",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230887&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Underworld Connections"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska the Unseen"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Slip"
+                },
+                {
+                    "count": 2,
+                    "name": "Devour Flesh"
+                },
+                {
+                    "count": 3,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Sign in Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutilate"
+                },
+                {
+                    "count": 2,
+                    "name": "Disciple of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 3,
+                    "name": "Lifebane Zombie"
+                },
+                {
+                    "count": 4,
+                    "name": "Desecration Demon"
+                },
+                {
+                    "count": 4,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 1,
+                    "name": "Rogue's Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 16,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Curse of Death's Hold"
+                },
+                {
+                    "count": 2,
+                    "name": "Primeval Bounty"
+                },
+                {
+                    "count": 1,
+                    "name": "Underworld Connections"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska the Unseen"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 1,
+                    "name": "Lifebane Zombie"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through the use of removal and disruption spells while leveraging powerful creatures like Desecration Demon and Thragtusk to pressure the opponent. The deck aims to control the board state with cards like Mutilate and Liliana of the Veil, while also gaining card advantage with Underworld Connections and Sign in Blood. The inclusion of Scavenging Ooze and Lifebane Zombie further disrupts the opponent's strategy, making it difficult for them to establish a board presence. Ultimately, the deck seeks to outvalue the opponent and grind out a win through attrition."
+        },
+        {
+            "date": "2013-07-30",
+            "player": "Jacob Wilson",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=5354&d=230888&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Jace, Architect of Thought"
+                },
+                {
+                    "count": 3,
+                    "name": "Detention Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphinx's Revelation"
+                },
+                {
+                    "count": 4,
+                    "name": "Syncopate"
+                },
+                {
+                    "count": 4,
+                    "name": "Think Twice"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Aetherling"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Restoration Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Moorland Haunt"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Renounce the Guilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Clone"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 1,
+                    "name": "Terminus"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, Architect of Thought"
+                },
+                {
+                    "count": 1,
+                    "name": "Aetherling"
+                }
+            ],
+            "notes": "This deck focuses on controlling the board with removal spells and counterspells, while utilizing card draw and card advantage to maintain tempo. It also includes creatures with flash and enters-the-battlefield effects to disrupt the opponent's strategy. Jace, Architect of Thought and Sphinx's Revelation provide additional card advantage, while Aetherling serves as a finisher. The mana base allows for a stable curve and access to all necessary colors. The deck aims to outvalue the opponent and win through incremental advantage rather than brute force."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

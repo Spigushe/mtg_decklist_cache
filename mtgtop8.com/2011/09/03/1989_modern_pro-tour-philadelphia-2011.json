@@ -1,0 +1,961 @@
+{
+    "tournament": {
+        "date": "2011-09-03",
+        "name": "Pro Tour Philadelphia 2011",
+        "url": "https://mtgtop8.com/event?e=1989",
+        "format": "Modern",
+        "players": 417
+    },
+    "decks": [
+        {
+            "date": "2011-09-03",
+            "player": "Samuele Estratti",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214162&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Cascade Bluffs"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Deceiver Exarch"
+                },
+                {
+                    "count": 2,
+                    "name": "Kiki-Jiki, Mirror Breaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Disrupting Shoal"
+                },
+                {
+                    "count": 3,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Pestermite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Remand"
+                },
+                {
+                    "count": 1,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Splinter Twin"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendilion Clique"
+                }
+            ],
+            "notes": "The main concept of this deck is to create a powerful combo using the cards Splinter Twin and Deceiver Exarch/Pestermite. By enchanting one of these creatures with Splinter Twin, it creates an infinite token combo that allows for a win condition. The deck also includes control elements such as counterspells and removal to protect the combo and disrupt the opponent's strategy. The mana base is designed to support a wide variety of colors to ensure consistent access to the necessary cards for the combo."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Josh Utter-Leyton",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214158&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Reliquary"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 1,
+                    "name": "Qasali Pridemage"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Nacatl"
+                },
+                {
+                    "count": 3,
+                    "name": "Bant Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth, Knight-Errant"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Helix"
+                },
+                {
+                    "count": 4,
+                    "name": "Path to Exile"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Qasali Pridemage"
+                },
+                {
+                    "count": 3,
+                    "name": "Aven Mindcensor"
+                },
+                {
+                    "count": 3,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon Jura"
+                },
+                {
+                    "count": 1,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Rule of Law"
+                },
+                {
+                    "count": 3,
+                    "name": "Unified Will"
+                }
+            ],
+            "notes": "The deck focuses on playing efficient creatures and using versatile spells to maintain board control and pressure the opponent. By deploying powerful creatures like Tarmogoyf and Knight of the Reliquary early on, combined with spells like Lightning Bolt and Path to Exile, the deck aims to keep the opponent on the back foot and gradually chip away at their life total. The mana base is optimized to support the aggressive strategy and maximize the deck's consistency in deploying threats. Overall, the deck is designed to overwhelm the opponent quickly and decisively."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Samuel Black",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214164&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Snapback"
+                },
+                {
+                    "count": 1,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Summoner's Pact"
+                },
+                {
+                    "count": 2,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 3,
+                    "name": "Disrupting Shoal"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazing Shoal"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Muddle the Mixture"
+                },
+                {
+                    "count": 4,
+                    "name": "Peer Through Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Blighted Agent"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Tolaria West"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 2,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace Beleren"
+                },
+                {
+                    "count": 1,
+                    "name": "Slaughter Pact"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 1,
+                    "name": "Trickbind"
+                }
+            ],
+            "notes": "This deck focuses on the key concept of quickly infecting the opponent's life total to win the game. It utilizes a combination of infect creatures like Blighted Agent and control elements like counterspells to protect and enable the infect strategy. The deck also features several cantrips and card search spells to ensure consistency and find the pieces needed to execute the combo. The inclusion of Dragonstorm allows for a potentially explosive win condition, and the land base is designed to provide the necessary mana and utility."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Chikara Nakajima",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214160&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 3,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Signal Pest"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Cranial Plating"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Shrapnel Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Springleaf Drum"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Etched Champion"
+                },
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Torpor Orb"
+                }
+            ],
+            "notes": "This deck aims to quickly overwhelm the opponent with a swarm of cheap artifacts. It utilizes cards like Arcbound Ravager and Atog to accumulate +1/+1 counters and deal massive damage. The deck also includes cards like Cranial Plating and Springleaf Drum to further boost the power of its creatures. Additionally, cards like Galvanic Blast and Shrapnel Blast provide direct damage to the opponent's life total. The deck's mana base is heavily focused on artifact lands like Darksteel Citadel and Blinkmoth Nexus to maximize its artifact synergy. Overall, the key concept of this deck is to aggressively attack the opponent with a flood of artifacts while utilizing their abilities to deal significant damage."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Jesse Hampton",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214159&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cloudpost"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmerpost"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Vesuva"
+                },
+                {
+                    "count": 4,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 4,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Sakura-Tribe Elder"
+                },
+                {
+                    "count": 1,
+                    "name": "Terastodon"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Infinite Gyre"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 3,
+                    "name": "Beast Within"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Gruul Signet"
+                },
+                {
+                    "count": 4,
+                    "name": "Through the Breach"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brooding Saurian"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 3,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 3,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Qasali Pridemage"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Primordium"
+                }
+            ],
+            "notes": "This Modern 1 vs 1 deck revolves around the key strategy of controlling the game using the UrzaTron lands and powerful cards. It aims to assemble the UrzaTron lands (Cloudpost, Glimmerpost, Vesuva) to generate massive amounts of mana, enabling the deck to play its costly threats such as Emrakul, the Aeons Torn, Primeval Titan, and Ulamog, the Infinite Gyre. The deck also includes control elements like Beast Within and Wall of Roots to disrupt the opponent's strategy. The final touch is the combination of Through the Breach and Green Sun's Zenith to cheat out the creatures and overwhelm the opponent."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Max Sjöblom",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214157&f=MO",
+            "mainboard": [
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Banefire"
+                },
+                {
+                    "count": 4,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Grapeshot"
+                },
+                {
+                    "count": 2,
+                    "name": "Ideas Unbound"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 2,
+                    "name": "Muddle the Mixture"
+                },
+                {
+                    "count": 4,
+                    "name": "Peer Through Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyromancer Ascension"
+                },
+                {
+                    "count": 4,
+                    "name": "Remand"
+                },
+                {
+                    "count": 4,
+                    "name": "Rite of Flame"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Spree"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 1,
+                    "name": "Wipe Away"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the interaction between Pyromancer Ascension and the various spells in the deck to generate a large storm count and a lethal amount of damage. The deck focuses on card selection and cantrips such as Ponder, Preordain, and Gitaxian Probe to find the necessary pieces and rituals like Rite of Flame to accelerate mana. The deck also includes counterspells like Remand and Muddle the Mixture to protect the combo and disrupt the opponent's game plan. Overall, the deck aims to assemble Pyromancer Ascension, generate a high storm count, and finish off the opponent with spells like Grapeshot or Banefire."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Andrejs Prost",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214161&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyromancer Ascension"
+                },
+                {
+                    "count": 4,
+                    "name": "Remand"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Visions"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 4,
+                    "name": "Deceiver Exarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Splinter Twin"
+                }
+            ],
+            "notes": "The main concept of this deck is to use the UR Storm archetype to generate a large number of spells, which can then be copied or recurred using Pyromancer Ascension and Noxious Revival. The deck is focused on creating an efficient and consistent combo engine by utilizing cantrips, card draw, and card manipulation spells like Gitaxian Probe, Ponder, Preordain, and Serum Visions. Additionally, the deck includes countermagic like Mana Leak and Remand to protect its combo pieces and disrupt the opponent's strategy."
+        },
+        {
+            "date": "2011-09-03",
+            "player": "Alessandro Portaro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=1989&d=214163&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Cascade Bluffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Deceiver Exarch"
+                },
+                {
+                    "count": 2,
+                    "name": "Kiki-Jiki, Mirror Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Pestermite"
+                },
+                {
+                    "count": 2,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 2,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Remand"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Splinter Twin"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Firespout"
+                },
+                {
+                    "count": 2,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Slagstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendilion Clique"
+                }
+            ],
+            "notes": "The key concept of this deck is to create an infinite combo by pairing the cards Splinter Twin and either Deceiver Exarch or Pestermite. By enchanting the creature with Splinter Twin, it creates a token that has haste and can tap to create more tokens. This allows for an infinite loop of creating tokens with haste. Additionally, the deck includes counterspells and removal spells to protect the combo and disrupt the opponent's plans. The land base is carefully constructed to ensure the right colors and mana consistency for the combo to work effectively."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

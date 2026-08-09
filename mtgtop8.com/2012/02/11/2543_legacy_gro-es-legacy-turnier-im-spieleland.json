@@ -1,0 +1,581 @@
+{
+    "tournament": {
+        "date": "2012-02-11",
+        "name": "Großes Legacy Turnier im Spieleland",
+        "url": "https://mtgtop8.com/event?e=2543",
+        "format": "Legacy",
+        "players": 42
+    },
+    "decks": [
+        {
+            "date": "2012-02-11",
+            "player": "Felix Heptner",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=2543&d=216534&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 1,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Meditate"
+                },
+                {
+                    "count": 3,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 3,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "High Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Turnabout"
+                },
+                {
+                    "count": 4,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Time Spiral"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Meditate"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Rebuild"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Sun's Zenith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Wipe Away"
+                },
+                {
+                    "count": 3,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": "The deck focuses on generating large amounts of mana through High Tide and Turnabout, allowing the player to cast powerful spells like Time Spiral and Intuition to dig for key combo pieces. The inclusion of cantrips like Brainstorm, Ponder, and Preordain ensure consistent draws and manipulation of the deck. Cunning Wish provides additional flexibility in accessing sideboard cards, while Force of Will and Pact of Negation provide protection against opposing disruption. The deck aims to efficiently assemble its combo pieces and win the game quickly while controlling the opponent's resources."
+        },
+        {
+            "date": "2012-02-11",
+            "player": "Helge Gathemann",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=2543&d=216535&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Eternal Witness"
+                },
+                {
+                    "count": 1,
+                    "name": "Gigapede"
+                },
+                {
+                    "count": 1,
+                    "name": "Iona, Shield of Emeria"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Unburial Rites"
+                },
+                {
+                    "count": 3,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Creeping Tar Pit"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Kitchen Finks"
+                },
+                {
+                    "count": 1,
+                    "name": "Loxodon Hierarch"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Shriekmaw"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 1,
+                    "name": "Path to Exile"
+                }
+            ],
+            "notes": "This control deck aims to control the game through disruption and removal, while also utilizing graveyard recursion and card advantage to outvalue the opponent. It employs a combination of counter spells, removal spells, and powerful threats such as Iona and Jace, the Mind Sculptor. The deck also utilizes Intuition to set up combos and fetch key pieces from the graveyard. It aims to control the board state and outvalue the opponent in a grindy game."
+        },
+        {
+            "date": "2012-02-11",
+            "player": "Fabian Freiberger",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=2543&d=216537&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Nimble Mongoose"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Rough/Tumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Mind Harness"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The deck focuses on playing efficient aggressive creatures like Delver of Secrets, Nimble Mongoose, and Tarmogoyf while disrupting the opponent with counter spells like Force of Will and Spell Snare. It also utilizes powerful cantrips like Brainstorm and Ponder to keep the gas flowing. The goal is to apply pressure early and maintain control of the game through disruption and tempo plays, with the ability to finish off the opponent with burn spells like Lightning Bolt. The mana base is designed to support the deck's color requirements and also includes land destruction with Wasteland."
+        },
+        {
+            "date": "2012-02-11",
+            "player": "Johann Kolp",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=2543&d=216536&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Eternal Witness"
+                },
+                {
+                    "count": 3,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Reliquary"
+                },
+                {
+                    "count": 2,
+                    "name": "Devastating Dreams"
+                },
+                {
+                    "count": 3,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 4,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 2,
+                    "name": "Seismic Assault"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Devastating Dreams"
+                },
+                {
+                    "count": 2,
+                    "name": "Aven Mindcensor"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 2,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                }
+            ],
+            "notes": "The deck focuses on disrupting the opponent's game plan by using control elements like Vindicate and Chalice of the Void while also utilizing Life from the Loam to establish a resource advantage. The combination of Loam and cards like Seismic Assault allow the deck to grind out opponents with land destruction and recursive threats like Knight of the Reliquary. The deck also has strong value plays with cards like Eternal Witness and Dark Confidant, providing card advantage and resilience in longer games. Additionally, the deck has a solid manabase with a mix of fetchlands and utility lands to support its game plan."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

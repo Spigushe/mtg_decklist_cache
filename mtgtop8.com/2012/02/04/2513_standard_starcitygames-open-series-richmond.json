@@ -1,0 +1,953 @@
+{
+    "tournament": {
+        "date": "2012-02-04",
+        "name": "Starcitygames Open Series: Richmond",
+        "url": "https://mtgtop8.com/event?e=2513",
+        "format": "Standard",
+        "players": 301
+    },
+    "decks": [
+        {
+            "date": "2012-02-04",
+            "player": "Nils Tolpingrud",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216302&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispatch"
+                },
+                {
+                    "count": 4,
+                    "name": "Tempered Steel"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Origin Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk Idol"
+                },
+                {
+                    "count": 4,
+                    "name": "Etched Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Signal Pest"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Gavony Township"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 9,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Shrine of Loyal Legions"
+                },
+                {
+                    "count": 1,
+                    "name": "Celestial Purge"
+                },
+                {
+                    "count": 4,
+                    "name": "Hero of Bladehold"
+                },
+                {
+                    "count": 2,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 2,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispatch"
+                }
+            ],
+            "notes": "This deck focuses on quickly deploying low-cost artifact creatures and buffing them with Tempered Steel to overwhelm the opponent with a fast and aggressive playstyle. The key strategy is to establish early board presence with creatures like Memnite, Signal Pest, and Vault Skirge, then further boost their power with Tempered Steel. Dispatch and Oblivion Ring provide removal options, while Mox Opal helps accelerate mana production. Gavony Township can provide a late-game boost, while Inkmoth Nexus offers an alternate win condition. The deck aims to win swiftly before the opponent can stabilize."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Ben Isgur",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216305&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Faith's Shield"
+                },
+                {
+                    "count": 1,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 3,
+                    "name": "Runechanter's Pike"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 2,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Geist of Saint Traft"
+                },
+                {
+                    "count": 4,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Moorland Haunt"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Divine Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Dissipate"
+                },
+                {
+                    "count": 2,
+                    "name": "Dungeon Geists"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Sword of War and Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Mutagenic Growth"
+                }
+            ],
+            "notes": "The key idea behind this deck is to establish early board presence with aggressive creatures like Delver of Secrets and Geist of Saint Traft, while protecting them with countermagic like Mana Leak and Vapor Snag. The deck aims to quickly close out games by equipping Runechanter's Pike for additional damage and utilizing cards like Snapcaster Mage for value. The inclusion of cards like Thought Scour and Gitaxian Probe help to maintain card advantage and ensure consistency. Additionally, cards like Moorland Haunt provide utility in generating additional threats."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Andy Moore",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216303&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Unburial Rites"
+                },
+                {
+                    "count": 2,
+                    "name": "Day of Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Black Sun's Zenith"
+                },
+                {
+                    "count": 2,
+                    "name": "Tragic Slip"
+                },
+                {
+                    "count": 3,
+                    "name": "Dissipate"
+                },
+                {
+                    "count": 3,
+                    "name": "Think Twice"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Grand Cenobite"
+                },
+                {
+                    "count": 2,
+                    "name": "Sun Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Nephalia Drownyard"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 2,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 3,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 3,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Timely Reinforcements"
+                },
+                {
+                    "count": 2,
+                    "name": "Tribute to Hunger"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Celestial Purge"
+                },
+                {
+                    "count": 2,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                }
+            ],
+            "notes": "This Esper Control deck focuses on using a combination of removal spells, counterspells, and card advantage to control the game and outvalue the opponent. It also includes powerful finishers like Elesh Norn and Sun Titan to lock down the board and close out the game. The deck can grind out wins through attrition and card advantage, while also having the ability to cheat out threats with Unburial Rites. The mana base is designed to support the deck's triple color requirements while also providing utility lands like Nephalia Drownyard and Ghost Quarter."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Charles Johnson",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216304&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 3,
+                    "name": "Sword of War and Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 3,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Porcelain Legionnaire"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Geist of Saint Traft"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Moorland Haunt"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Divine Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Dissipate"
+                },
+                {
+                    "count": 2,
+                    "name": "Sword of Feast and Famine"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                }
+            ],
+            "notes": "The deck focuses on quick and aggressive plays using cheap creatures and spells to put pressure on the opponent early in the game. It also includes disruptive elements like counterspells and bounce spells to control the board and protect its threats. The key strategy is to efficiently use mana and tempo advantage to maintain pressure and outpace the opponent, while capitalizing on card advantage with cards like Snapcaster Mage and Gitaxian Probe. The deck aims to close out games quickly and efficiently by overwhelming the opponent with its threats."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Harold White",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216308&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Sword of War and Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 3,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 4,
+                    "name": "Lingering Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 3,
+                    "name": "Drogskol Captain"
+                },
+                {
+                    "count": 4,
+                    "name": "Geist of Saint Traft"
+                },
+                {
+                    "count": 4,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Moorland Haunt"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 2,
+                    "name": "Dissipate"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Timely Reinforcements"
+                },
+                {
+                    "count": 1,
+                    "name": "Gut Shot"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying evasive threats like Geist of Saint Traft and Delver of Secrets, supported by protection spells like Mana Leak and Vapor Snag. Drogskol Captain provides a powerful buff to your spirits, while cards like Lingering Souls and Snapcaster Mage offer versatility and card advantage. The deck aims to control the board early on and apply pressure with efficient beaters, backed up by disruption and card selection spells to maintain the advantage. Moorland Haunt is used as a utility land, providing a steady stream of spirits to close out the game."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Todd Anderson",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216306&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Garruk Relentless"
+                },
+                {
+                    "count": 3,
+                    "name": "Garruk, Primal Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Sword of War and Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Acidic Slime"
+                },
+                {
+                    "count": 1,
+                    "name": "Bellowing Tanglewurm"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrun, the Last Troll"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Dungrove Elder"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Strangleroot Geist"
+                },
+                {
+                    "count": 24,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Tumble Magnet"
+                },
+                {
+                    "count": 1,
+                    "name": "Glissa, the Traitor"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Creeping Corrosion"
+                },
+                {
+                    "count": 3,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Sword of Feast and Famine"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with aggressive green creatures and pump spells. Utilizing cards like Birds of Paradise and Llanowar Elves to ramp up your mana quickly, you can play powerful threats like Dungrove Elder and Thrun, the Last Troll. Sword of War and Peace provides additional damage and protection, while Phyrexian Metamorph offers versatility. With the ability to tutor for creatures with Green Sun's Zenith and generate card advantage with Garruk, Primal Hunter, this deck aims to take control of the game early and maintain pressure until victory."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Ali Aintrazi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216307&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Black Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Tragic Slip"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartless Summoning"
+                },
+                {
+                    "count": 1,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 2,
+                    "name": "Sphinx of Uthuun"
+                },
+                {
+                    "count": 2,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 2,
+                    "name": "Havengul Lich"
+                },
+                {
+                    "count": 2,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 3,
+                    "name": "Rune-Scarred Demon"
+                },
+                {
+                    "count": 4,
+                    "name": "Solemn Simulacrum"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 3,
+                    "name": "Buried Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Perilous Myr"
+                },
+                {
+                    "count": 3,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 3,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Sever the Bloodline"
+                },
+                {
+                    "count": 2,
+                    "name": "Mimic Vat"
+                },
+                {
+                    "count": 1,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the board through removal spells and disruption while utilizing Heartless Summoning to reduce the cost of powerful creatures. By controlling the game with cards like Doom Blade and Tragic Slip, the deck aims to assemble a board presence of high-impact creatures like Sphinx of Uthuun and Wurmcoil Engine. Havengul Lich allows for recursion of key creatures, while cards like Solemn Simulacrum provide card advantage and ramp. The deck aims to grind out the opponent and win through value and incremental advantage."
+        },
+        {
+            "date": "2012-02-04",
+            "player": "Dave Wasser",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=2513&d=216309&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "White Sun's Zenith"
+                },
+                {
+                    "count": 1,
+                    "name": "Gideon Jura"
+                },
+                {
+                    "count": 2,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Day of Judgment"
+                },
+                {
+                    "count": 3,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Rampant Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of the Suns"
+                },
+                {
+                    "count": 1,
+                    "name": "Thrun, the Last Troll"
+                },
+                {
+                    "count": 1,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 1,
+                    "name": "Acidic Slime"
+                },
+                {
+                    "count": 2,
+                    "name": "Elesh Norn, Grand Cenobite"
+                },
+                {
+                    "count": 2,
+                    "name": "Sun Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Solemn Simulacrum"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 2,
+                    "name": "Kessig Wolf Run"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunpetal Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Karn Liberated"
+                },
+                {
+                    "count": 3,
+                    "name": "Timely Reinforcements"
+                },
+                {
+                    "count": 3,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Autumn's Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "White Sun's Zenith"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                }
+            ],
+            "notes": "This deck focuses on control through ramping, removal, and powerful creatures like Primeval Titan and Sun Titan. The key is to quickly ramp up mana using cards like Rampant Growth and Sphere of the Suns to cast your big creatures like Elesh Norn and Thrun. Removal spells like Day of Judgment and Oblivion Ring help control the board while cards like Solemn Simulacrum provide card advantage. Kessig Wolf Run and Inkmoth Nexus provide win conditions by pumping up your creatures for a lethal attack."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

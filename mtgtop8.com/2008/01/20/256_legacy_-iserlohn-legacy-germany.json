@@ -1,0 +1,878 @@
+{
+    "tournament": {
+        "date": "2008-01-20",
+        "name": "# Iserlohn Legacy (Germany)",
+        "url": "https://mtgtop8.com/event?e=256",
+        "format": "Legacy",
+        "players": 77
+    },
+    "decks": [
+        {
+            "date": "2008-01-20",
+            "player": "Patrick Richter",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=115996&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 3,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 2,
+                    "name": "Humility"
+                },
+                {
+                    "count": 2,
+                    "name": "Nantuko Monastery"
+                },
+                {
+                    "count": 2,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Vedalken Shackles"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Extirpate"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Green"
+                },
+                {
+                    "count": 1,
+                    "name": "Planar Void"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by denying resources and slowing down the opponent's strategy. This is achieved through a combination of counterspells, removal spells, and disruptive enchantments, while maintaining card advantage and board presence with Standstill. The deck also aims to control the opponent's mana base with Wasteland and Crucible of Worlds, while packing versatile answers to various threats with cards like Pernicious Deed and Vedalken Shackles. Overall, the deck excels at grinding out advantages and outlasting the opponent in a war of attrition."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "Linus Neitzke",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=115997&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 3,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 3,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 2,
+                    "name": "Gamble"
+                },
+                {
+                    "count": 2,
+                    "name": "Devastating Dreams"
+                },
+                {
+                    "count": 2,
+                    "name": "Seismic Assault"
+                },
+                {
+                    "count": 2,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 1,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 1,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 1,
+                    "name": "Riftstone Portal"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 1,
+                    "name": "Gamble"
+                },
+                {
+                    "count": 1,
+                    "name": "Devastating Dreams"
+                },
+                {
+                    "count": 4,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 3,
+                    "name": "Extirpate"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Spree"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Regrowth"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the board through land denial with cards like Wasteland and Terravore, while also utilizing Life from the Loam to recur lands and maintain card advantage. Burning Wish allows for versatile options, such as accessing sideboard cards like Devastating Dreams or Seismic Assault. The deck also has a strong late game with cards like Tarmogoyf and Genesis. Overall, the deck seeks to disrupt the opponent's game plan while setting up its own win conditions through land destruction and recursion."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "Jasmin Arifovic",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=115998&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Jötun Grunt"
+                },
+                {
+                    "count": 4,
+                    "name": "Hymn to Tourach"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Sinkhole"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Loxodon Hierarch"
+                },
+                {
+                    "count": 3,
+                    "name": "Werebear"
+                },
+                {
+                    "count": 2,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 2,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Extirpate"
+                },
+                {
+                    "count": 2,
+                    "name": "Mortify"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through a combination of removal spells, hand disruption, and land destruction. By using cards like Pernicious Deed, Duress, and Sinkhole, the deck aims to keep the opponent's resources in check while developing its own board presence through cards like Dark Confidant and Loxodon Hierarch. The inclusion of versatile removal spells like Swords to Plowshares and Vindicate allows the deck to handle a variety of threats efficiently. Overall, the deck seeks to disrupt the opponent's game plan while steadily gaining advantage and securing victory."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "Marc Bauerett",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=115999&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Eternal Witness"
+                },
+                {
+                    "count": 3,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 3,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Bone Shredder"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 1,
+                    "name": "Eladamri's Call"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Harmonic Sliver"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Extirpate"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                }
+            ],
+            "notes": "The deck focuses on a toolbox approach, utilizing cards like Duress, Cabal Therapy, and Engineered Explosives to disrupt the opponent's game plan while also assembling a powerful combo with Survival of the Fittest and Eternal Witness. The control elements such as Swords to Plowshares and Bone Shredder help to maintain board presence and keep the opponent in check. The deck aims to control the game early on, establish a strong board presence with Tarmogoyf and Birds of Paradise, and eventually win through a combo finish or overwhelming advantage."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "Eugen Libkin",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=116003&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Kird Ape"
+                },
+                {
+                    "count": 4,
+                    "name": "Magma Jet"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 3,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Tin Street Hooligan"
+                },
+                {
+                    "count": 3,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 2,
+                    "name": "Skyshroud Elite"
+                },
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                }
+            ],
+            "notes": "This deck focuses on quickly deploying aggressive creatures and burn spells to deal direct damage to the opponent and control the board. It includes powerful cards like Tarmogoyf and Fireblast to put pressure on the opponent and finish the game quickly. The inclusion of cards like Price of Progress and Blood Moon punish opponents who rely heavily on non-basic lands. The deck aims to win the game in the early turns by overwhelming the opponent with a combination of creatures and burn spells."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "José Antonio David Sendas",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=116000&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Nimble Mongoose"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Visions"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Drake"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 2,
+                    "name": "Propaganda"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this Legacy Aggro - Canadian Threshold deck is to control the game and aggressively play powerful creatures like Nimble Mongoose and Tarmogoyf to deal damage quickly. It utilizes cards like Stifle, Force of Will, and Daze to disrupt the opponent's game plan while efficiently drawing cards with Brainstorm and Serum Visions. With a mix of burn spells like Lightning Bolt and tempo plays like Wasteland, this deck aims to pressure the opponent constantly and outmaneuver them to secure a victory."
+        },
+        {
+            "date": "2008-01-20",
+            "player": "André Lohmann",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=256&d=116004&f=LE",
+            "mainboard": [
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 3,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 2,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirror Entity"
+                },
+                {
+                    "count": 1,
+                    "name": "Wort, Boggart Auntie"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Pyromancer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                }
+            ],
+            "notes": "This Goblin aggro deck focuses on quickly deploying low-cost Goblin creatures to overwhelm the opponent with a fast and aggressive strategy. Utilizing cards like Goblin Lackey and Aether Vial to put creatures into play for free, Goblin Warchief to reduce costs, and Goblin Matron to tutor for key cards, the deck aims to swarm the board with threats like Goblin Piledriver and Siege-Gang Commander while disrupting the opponent's resources with cards like Wasteland. The deck also includes removal in Swords to Plowshares and Gempalm Incinerator for added flexibility."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

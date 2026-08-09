@@ -1,0 +1,941 @@
+{
+    "tournament": {
+        "date": "2010-11-13",
+        "name": "5k$ Kentucky Open",
+        "url": "https://mtgtop8.com/event?e=625",
+        "format": "Standard",
+        "players": 214
+    },
+    "decks": [
+        {
+            "date": "2010-11-13",
+            "player": "Donnie Noland",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207304&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Jace's Ingenuity"
+                },
+                {
+                    "count": 2,
+                    "name": "Garruk Wildspeaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Explore"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of Lost Truths"
+                },
+                {
+                    "count": 1,
+                    "name": "Avenger of Zendikar"
+                },
+                {
+                    "count": 3,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 3,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 1,
+                    "name": "Halimar Depths"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Tar Pit"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Acidic Slime"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 3,
+                    "name": "Memoricide"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten-Tail Masticore"
+                },
+                {
+                    "count": 3,
+                    "name": "Consume the Meek"
+                },
+                {
+                    "count": 2,
+                    "name": "Obstinate Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the board and the game through a combination of powerful spells and creatures. The deck utilizes a mix of card draw, counter spells, removal, and powerful planeswalkers like Jace, the Mind Sculptor to dominate the game. Additionally, the deck focuses on ramping up mana quickly with cards like Lotus Cobra and Explore to play big threats like Frost Titan and Avenger of Zendikar. The goal is to outvalue and outlast the opponent while maintaining control of the game."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Chris Anderson",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207305&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Volition Reins"
+                },
+                {
+                    "count": 1,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Explore"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenger of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 3,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 2,
+                    "name": "Halimar Depths"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Raging Ravine"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Obstinate Baloth"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Frost Titan"
+                }
+            ],
+            "notes": "The main concept of this RUG Control deck is to utilize powerful control elements such as counterspells and board control cards like Pyroclasm and Volition Reins, while also ramping up mana with cards like Lotus Cobra and Explore. The deck aims to control the board state using cards like Jace, the Mind Sculptor and Frost Titan, while also generating value with Avenger of Zendikar and Oracle of Mul Daya. The deck focuses on efficient removal and card advantage to outvalue opponents and secure a win through superior control of the game."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Thomas Graves",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207306&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Creeping Tar Pit"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 2,
+                    "name": "Grave Titan"
+                },
+                {
+                    "count": 2,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Abyssal Persecutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 1,
+                    "name": "Mimic Vat"
+                },
+                {
+                    "count": 1,
+                    "name": "Consuming Vapors"
+                },
+                {
+                    "count": 1,
+                    "name": "Volition Reins"
+                },
+                {
+                    "count": 2,
+                    "name": "Into the Roil"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace Beleren"
+                },
+                {
+                    "count": 2,
+                    "name": "Everflowing Chalice"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Consuming Vapors"
+                },
+                {
+                    "count": 1,
+                    "name": "Volition Reins"
+                },
+                {
+                    "count": 2,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 3,
+                    "name": "Consume the Meek"
+                },
+                {
+                    "count": 3,
+                    "name": "Memoricide"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by countering opponent's threats, removing creatures, and utilizing card advantage with Jace, the Mind Sculptor. The win condition is to produce advantage with card advantage and eventually win through creature beats with Grave Titan and Creeping Tar Pit. The deck aims to control the board state and grind out the opponent with its powerful Planeswalkers and removal spells while maintaining card advantage and tempo."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "E McKenzie",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207307&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Tar Pit"
+                },
+                {
+                    "count": 4,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Abyssal Persecutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Trinket Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 3,
+                    "name": "Jace Beleren"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Consuming Vapors"
+                },
+                {
+                    "count": 2,
+                    "name": "Into the Roil"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 1,
+                    "name": "Elixir of Immortality"
+                },
+                {
+                    "count": 1,
+                    "name": "Brittle Effigy"
+                },
+                {
+                    "count": 2,
+                    "name": "Everflowing Chalice"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Memoricide"
+                },
+                {
+                    "count": 3,
+                    "name": "Consume the Meek"
+                },
+                {
+                    "count": 4,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by using a combination of counterspells, removal spells, and powerful planeswalkers like Jace, the Mind Sculptor and Jace Beleren. The deck also includes cards like Abyssal Persecutor and Frost Titan to apply pressure on the opponent. Trinket Mage helps to search for important artifacts like Elixir of Immortality and Everflowing Chalice, while Tectonic Edge helps to disrupt the opponent's mana base. The deck aims to outvalue and outmaneuver the opponent by controlling the game and winning through incremental advantages."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Corey Waugh",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207308&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Raging Ravine"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Halimar Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 3,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 3,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Explore"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Arc Trail"
+                },
+                {
+                    "count": 1,
+                    "name": "Volition Reins"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Obstinate Baloth"
+                }
+            ],
+            "notes": "The focus of this deck is to use land ramp and control spells to accelerate into powerful threats like Frost Titan and Jace, the Mind Sculptor. The deck aims to disrupt the opponent's plans with counterspells and removal while building up its own mana base with cards like Lotus Cobra and Oracle of Mul Daya. By efficiently controlling the game and ramping into threats, the deck can overwhelm opponents and dominate the battlefield."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Jon Robinson",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207309&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Terramorphic Expanse"
+                },
+                {
+                    "count": 1,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Teetering Peaks"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Plated Geopede"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Steppe Lynx"
+                },
+                {
+                    "count": 4,
+                    "name": "Spikeshot Elder"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 2,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 3,
+                    "name": "Adventuring Gear"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Tunnel Ignus"
+                },
+                {
+                    "count": 1,
+                    "name": "Basilisk Collar"
+                },
+                {
+                    "count": 3,
+                    "name": "Koth of the Hammer"
+                },
+                {
+                    "count": 2,
+                    "name": "Mark of Mutiny"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Body and Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Cunning Sparkmage"
+                },
+                {
+                    "count": 1,
+                    "name": "Act of Treason"
+                }
+            ],
+            "notes": "This deck focuses on quickly playing and using landfall creatures to deal significant damage to the opponent. By consistently dropping lands and utilizing cards like Plated Geopede, Steppe Lynx, and Spikeshot Elder, the deck aims to overwhelm the opponent before they can establish a strong defense. Additionally, the inclusion of interactive spells like Lightning Bolt, Burst Lightning, and Journey to Nowhere help control the board and clear the way for aggressive attacks. Stoneforge Mystic provides additional utility and card advantage to keep the pressure on the opponent."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Bernie Wen",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207310&f=ST",
+            "mainboard": [
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Halimar Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Raging Ravine"
+                },
+                {
+                    "count": 3,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenger of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 3,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Explore"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Flashfreeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Revenge"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Claim"
+                }
+            ],
+            "notes": "The main concept of this RUG Control deck is to control the board and manipulate the game state through a combination of powerful planeswalkers, efficient counterspells, and ramping creatures. By utilizing cards like Jace, the Mind Sculptor, Mana Leak, and Lotus Cobra, the deck aims to disrupt the opponent's plans while accelerating its own game plan. Additionally, cards like Frost Titan and Avenger of Zendikar provide powerful threats that can quickly end the game if left unchecked. Overall, the deck focuses on maintaining control of the game and out-valuing the opponent."
+        },
+        {
+            "date": "2010-11-13",
+            "player": "Ben Weinburg",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=625&d=207311&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Raging Ravine"
+                },
+                {
+                    "count": 2,
+                    "name": "Halimar Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Frost Titan"
+                },
+                {
+                    "count": 3,
+                    "name": "Oracle of Mul Daya"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Explore"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Mind Sculptor"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Goblin Ruinblaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Obstinate Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Into the Roil"
+                }
+            ],
+            "notes": "The deck focuses on utilizing powerful control spells and creatures to dominate the battlefield. By ramping up mana with cards like Lotus Cobra and Oracle of Mul Daya, the goal is to play high-impact threats like Frost Titan and Jace, the Mind Sculptor. The deck also includes removal and counter spells like Lightning Bolt and Mana Leak to disrupt the opponent's game plan. Raging Ravine provides a recurring threat while cards like Explore and Preordain help filter through the deck and find key pieces. The strategy revolves around maintaining board control and out-valuing the opponent."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,517 @@
+{
+    "tournament": {
+        "date": "2015-03-01",
+        "name": "Modern Cup",
+        "url": "https://mtgtop8.com/event?e=9272",
+        "format": "Modern",
+        "players": 43
+    },
+    "decks": [
+        {
+            "date": "2015-03-01",
+            "player": "Tsurusawa Kenta",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=9272&d=253288&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Electromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyretic Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Desperate Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Peer Through Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Visions"
+                },
+                {
+                    "count": 2,
+                    "name": "Grapeshot"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 3,
+                    "name": "Past in Flames"
+                },
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyromancer Ascension"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Swan Song"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Empty the Warrens"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly generate mana and card draw using spells such as Pyretic Ritual, Manamorphose, and Gitaxian Probe, while setting up Pyromancer Ascension to duplicate spells. The ultimate goal is to cast a huge Grapeshot spell to deal lethal damage to the opponent. Past in Flames allows for recursion of spells in the graveyard, while Faithless Looting helps filter through the deck. The deck aims to win by assembling the combo pieces and executing a massive storm turn to overwhelm the opponent."
+        },
+        {
+            "date": "2015-03-01",
+            "player": "Kageyama Hiroki",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=9272&d=253287&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 4,
+                    "name": "Satyr Wayfinder"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodsoaked Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Gravecrawler"
+                },
+                {
+                    "count": 3,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotleth Troll"
+                },
+                {
+                    "count": 4,
+                    "name": "Grisly Salvage"
+                },
+                {
+                    "count": 4,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Twilight Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 2,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Fulminator Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Lifebane Zombie"
+                },
+                {
+                    "count": 1,
+                    "name": "Choke"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Clan"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "This deck focuses on quickly filling the graveyard with creatures like Vengevine, Bloodghast, and Gravecrawler to bring them back onto the battlefield and overwhelm the opponent with a strong board presence. The combination of self-mill cards like Satyr Wayfinder and Lotleth Troll, along with removal spells like Abrupt Decay and Inquisition of Kozilek, allows for a consistent stream of creatures to be brought back from the graveyard. The goal is to create a powerful board state that can quickly close out the game."
+        },
+        {
+            "date": "2015-03-01",
+            "player": "Nozaki Issei",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=9272&d=253281&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 3,
+                    "name": "Glimmervoid"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensoul Artifact"
+                },
+                {
+                    "count": 1,
+                    "name": "Illness in the Ranks"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostfire Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Cranial Plating"
+                },
+                {
+                    "count": 1,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Signal Pest"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 1,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Etched Champion"
+                },
+                {
+                    "count": 2,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Stain the Mind"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Whipflare"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispatch"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Illness in the Ranks"
+                },
+                {
+                    "count": 1,
+                    "name": "Spellskite"
+                }
+            ],
+            "notes": "The deck focuses on quickly overwhelming the opponent with a swarm of artifacts, utilizing cards like Cranial Plating, Ensoul Artifact, and Arcbound Ravager to pump up creatures and deal massive damage. The key strategy is to take advantage of synergies between artifacts, like Mox Opal and Springleaf Drum, while using efficient creatures like Signal Pest and Vault Skirge to apply constant pressure. The deck also includes disruption elements like Illness in the Ranks and Spellskite to disrupt the opponent's game plan, making it difficult for them to recover once the aggro strategy is in full swing."
+        },
+        {
+            "date": "2015-03-01",
+            "player": "Tani Chiharu",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=9272&d=253286&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Sundering Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Painter's Servant"
+                },
+                {
+                    "count": 3,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 3,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 3,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 3,
+                    "name": "Chromatic Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 3,
+                    "name": "Beast Within"
+                },
+                {
+                    "count": 3,
+                    "name": "Through the Breach"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Scrying"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 3,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 1,
+                    "name": "Through the Breach"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 3,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Blightsteel Colossus"
+                },
+                {
+                    "count": 3,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 3,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Shelters All"
+                }
+            ],
+            "notes": "The deck focuses on assembling the UrzaTron lands (Urza's Mine, Power Plant, Tower) in order to generate a large amount of mana and cast powerful threats such as Emrakul, the Aeons Torn, and Ugin, the Spirit Dragon. It also includes cards like Beast Within and Sundering Titan for removal and disruption. Through the Breach allows for unexpected big creature plays, while cards like Sylvan Scrying and Expedition Map help find missing Tron pieces. The deck aims to control the board through powerful threats and disruption, overwhelming the opponent with its late-game power."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

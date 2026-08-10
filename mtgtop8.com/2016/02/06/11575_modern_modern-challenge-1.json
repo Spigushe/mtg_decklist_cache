@@ -1,0 +1,957 @@
+{
+    "tournament": {
+        "date": "2016-02-06",
+        "name": "Modern Challenge #1",
+        "url": "https://mtgtop8.com/event?e=11575",
+        "format": "Modern",
+        "players": 27
+    },
+    "decks": [
+        {
+            "date": "2016-02-06",
+            "player": "Nahuel Morales",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265859&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Nacatl"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Atarka's Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 3,
+                    "name": "Destructive Revelry"
+                },
+                {
+                    "count": 3,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 1,
+                    "name": "Stony Silence"
+                },
+                {
+                    "count": 3,
+                    "name": "Molten Rain"
+                },
+                {
+                    "count": 2,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 2,
+                    "name": "Deflecting Palm"
+                }
+            ],
+            "notes": "This deck focuses on quickly dealing damage to the opponent through a combination of efficient creatures and burn spells. It aims to put pressure on the opponent from the start of the game, using cards like Monastery Swiftspear, Goblin Guide, and Wild Nacatl to attack early and often. Spells like Lightning Bolt, Boros Charm, and Atarka's Command provide additional reach and removal to close out the game. The key strategy is to maintain a fast and aggressive tempo while using burn spells to clear the way for direct damage to the opponent."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Martin Dominguez",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265858&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Unflinching Courage"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirit Link"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirit Mantle"
+                },
+                {
+                    "count": 4,
+                    "name": "Spider Umbra"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hyena Umbra"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Daybreak Coronet"
+                },
+                {
+                    "count": 3,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 4,
+                    "name": "Gladecover Scout"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 3,
+                    "name": "Stony Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Path to Exile"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly build up a powerful creature with hexproof by attaching multiple auras to it, making it difficult for your opponent to target or remove. By utilizing a combination of auras that provide both offensive and defensive benefits, such as lifelink, protection, and additional power and toughness, this aggro deck aims to overwhelm the opponent with a highly resilient and threatening creature. With a focus on creating a hard-to-deal-with threat early in the game, this deck aims to quickly close out games before the opponent can adequately respond."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Jonathan Maximiliano Rizzo",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265862&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 1,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 3,
+                    "name": "Raging Ravine"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 3,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 3,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Pia and Kiran Nalaar"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Hangarback Walker"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Unravel the Aether"
+                },
+                {
+                    "count": 2,
+                    "name": "Fulminator Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Olivia Voldaren"
+                },
+                {
+                    "count": 1,
+                    "name": "Courser of Kruphix"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaying Tendrils"
+                },
+                {
+                    "count": 1,
+                    "name": "Damnation"
+                },
+                {
+                    "count": 1,
+                    "name": "Painful Truths"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Crumble to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                }
+            ],
+            "notes": "Focused on fast, aggressive gameplay, the Jund deck utilizes powerful creatures like Tarmogoyf and Dark Confidant alongside efficient removal spells such as Terminate and Lightning Bolt. The deck also includes disruptive spells like Inquisition of Kozilek and Thoughtseize to control the opponent's hand. Additionally, Liliana of the Veil and Kolaghan's Command provide value by helping to disrupt the opponent's board state. The deck aims to apply pressure early and maintain control over the game through a combination of efficient threats and disruption spells."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Nicolas Percario",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265857&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Grapeshot"
+                },
+                {
+                    "count": 2,
+                    "name": "Empty the Warrens"
+                },
+                {
+                    "count": 3,
+                    "name": "Past in Flames"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyretic Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lore"
+                },
+                {
+                    "count": 4,
+                    "name": "Locket of Yesterdays"
+                },
+                {
+                    "count": 4,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Desperate Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Reforge the Soul"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyromancer Ascension"
+                },
+                {
+                    "count": 17,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Shattering Spree"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Nature"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger of the Gods"
+                },
+                {
+                    "count": 2,
+                    "name": "Shatterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Vandalblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Empty the Warrens"
+                }
+            ],
+            "notes": "This deck focuses on the combination of spells that generate mana and rituals to create a large storm count, which is then used to cast copies of Grapeshot or Empty the Warrens for massive amounts of damage or a swarm of goblin tokens. The deck also utilizes card draw and graveyard recursion through Faithless Looting, Gitaxian Probe, and Past in Flames to maximize its potential. Pyromancer Ascension and Locket of Yesterdays assist in reducing costs and enabling the combo to go off consistently. Overall, the deck aims to generate a powerful storm count and unleash devastating combos on the opponent."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Francisco Dayan",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265855&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Abbot of Keral Keep"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Nacatl"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Atarka's Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 2,
+                    "name": "Rift Bolt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Destructive Revelry"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Shusher"
+                },
+                {
+                    "count": 2,
+                    "name": "Kor Firewalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Rain"
+                },
+                {
+                    "count": 2,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 1,
+                    "name": "Deflecting Palm"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                }
+            ],
+            "notes": "The deck focuses on fast and aggressive plays, utilizing low-cost creatures and burn spells to quickly reduce the opponent's life total. It aims to apply constant pressure to overwhelm the opponent and end the game as quickly as possible. Key cards include Goblin Guide, Monastery Swiftspear, and Eidolon of the Great Revel for early aggression, while burn spells like Lightning Bolt, Lava Spike, and Boros Charm provide reach and finishers. The mana base is designed to support the aggressive strategy and maximize efficiency in casting spells."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Adrian G. Ciapparelli",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265856&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Shelters All"
+                },
+                {
+                    "count": 1,
+                    "name": "Calciform Pools"
+                },
+                {
+                    "count": 2,
+                    "name": "Mistveil Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Temple of Triumph"
+                },
+                {
+                    "count": 3,
+                    "name": "Nykthos, Shrine to Nyx"
+                },
+                {
+                    "count": 4,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 10,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Form of the Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Enduring Ideal"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 1,
+                    "name": "Dovescape"
+                },
+                {
+                    "count": 2,
+                    "name": "Sphere of Safety"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Unlife"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghostly Prison"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Suppression Field"
+                },
+                {
+                    "count": 2,
+                    "name": "Greater Auramancy"
+                },
+                {
+                    "count": 4,
+                    "name": "Runed Halo"
+                },
+                {
+                    "count": 4,
+                    "name": "Porphyry Nodes"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Silence"
+                },
+                {
+                    "count": 3,
+                    "name": "Nevermore"
+                },
+                {
+                    "count": 3,
+                    "name": "Kor Firewalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Assemble the Legion"
+                },
+                {
+                    "count": 1,
+                    "name": "Karma"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Shelters All"
+                },
+                {
+                    "count": 3,
+                    "name": "Stony Silence"
+                }
+            ],
+            "notes": "The main concept of this Modern deck is to assemble a lock that prevents the opponent from interacting with you while you search for and cast your win condition, Enduring Ideal. Using cards like Leyline of Sanctity, Ghostly Prison, and Ensnaring Bridge, the deck aims to create a defense that can stall the opponent long enough to find and resolve Enduring Ideal, which will then search for powerful enchantments like Form of the Dragon and Dovescape to seal the game. The deck utilizes mana acceleration and card draw to facilitate its combo and control elements."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Gerardo Heidel",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265860&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Oblivion Sower"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Reality Smasher"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 3,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 2,
+                    "name": "Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Endless One"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Matter Reshaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland Strangler"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Dragon's Claw"
+                },
+                {
+                    "count": 2,
+                    "name": "Warping Wail"
+                },
+                {
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "All Is Dust"
+                }
+            ],
+            "notes": "This deck focuses on aggressive plays with Eldrazi creatures, utilizing their powerful abilities and synergies to quickly overwhelm the opponent. It includes disruption cards like Dismember and Wasteland Strangler to control the game, while also benefiting from Eldrazi lands like Eye of Ugin and Eldrazi Temple to ramp and cast big threats early. The deck aims to put pressure on the opponent with large creatures like Reality Smasher and Thought-Knot Seer, while also having recursive graveyard hate with Relic of Progenitus."
+        },
+        {
+            "date": "2016-02-06",
+            "player": "Carlos Basseti",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=11575&d=265861&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 3,
+                    "name": "Vedalken Shackles"
+                },
+                {
+                    "count": 2,
+                    "name": "Cryptic Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Visions"
+                },
+                {
+                    "count": 3,
+                    "name": "Restoration Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 3,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Miren, the Moaning Well"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunlance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Timely Reinforcements"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Geist of Saint Traft"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrath of God"
+                }
+            ],
+            "notes": "This control deck focuses on disrupting the opponent's game plan through counterspells and removal spells, while also leveraging creatures like Restoration Angel and Vendilion Clique to apply pressure. The deck aims to control the board with cards like Vedalken Shackles and Cryptic Command, while also generating card advantage with Serum Visions and Snapcaster Mage. The inclusion of Mutavault and Spellstutter Sprite adds additional utility and evasion. Overall, this UWx Midrange deck aims to outvalue and outmaneuver the opponent through a combination of disruption, efficient threats, and card advantage."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

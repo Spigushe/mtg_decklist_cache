@@ -1,0 +1,993 @@
+{
+    "tournament": {
+        "date": "2017-01-29",
+        "name": "SCG Classic Richmond",
+        "url": "https://mtgtop8.com/event?e=14601",
+        "format": "Standard",
+        "players": 94
+    },
+    "decks": [
+        {
+            "date": "2017-01-29",
+            "player": "Todd Stevens",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287611&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindwrack Demon"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 2,
+                    "name": "Ruinous Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdurous Gearhulk"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 3,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 1,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 1,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                }
+            ],
+            "notes": "The deck focuses on aggressive gameplay with a mix of creatures and removal spells. It aims to overwhelm the opponent with early threats like Grim Flayer and Mindwrack Demon, while also providing card advantage and boosting the power of creatures with cards like Rishkar, Peema Renegade and Verdurous Gearhulk. The deck also includes some removal spells like Grasp of Darkness and Fatal Push to deal with opposing threats. Overall, the deck aims to maintain board presence and pressure the opponent to win the game quickly."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Michael Finney",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287609&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Confirm Suspicions"
+                },
+                {
+                    "count": 1,
+                    "name": "Blessed Alliance"
+                },
+                {
+                    "count": 1,
+                    "name": "Horribly Awry"
+                },
+                {
+                    "count": 2,
+                    "name": "Nahiri, the Harbinger"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 3,
+                    "name": "Anticipate"
+                },
+                {
+                    "count": 3,
+                    "name": "Stasis Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Archangel Avacyn"
+                },
+                {
+                    "count": 3,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Wandering Fumarole"
+                },
+                {
+                    "count": 1,
+                    "name": "Needle Spires"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Port Town"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Spell Queller"
+                },
+                {
+                    "count": 1,
+                    "name": "Decommission"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, Unraveler of Secrets"
+                },
+                {
+                    "count": 1,
+                    "name": "Linvala, the Preserver"
+                },
+                {
+                    "count": 2,
+                    "name": "Quarantine Field"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Flames"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                }
+            ],
+            "notes": "The deck aims to control the game by countering spells, removing threats, and drawing cards efficiently. It utilizes a mix of counterspells, removal spells, and card advantage cards to disrupt the opponent's game plan while maintaining card advantage. Nahiri, the Harbinger and Archangel Avacyn can provide additional threats or answers when needed. The mana base is designed to provide the necessary colors for the spells and ensure smooth gameplay. Ultimately, the goal is to outlast the opponent and win through card advantage and powerful late-game threats."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Diego Valdivia",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287610&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Mindwrack Demon"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 2,
+                    "name": "Ruinous Path"
+                },
+                {
+                    "count": 2,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 4,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdurous Gearhulk"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Rishkar's Expertise"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 2,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 2,
+                    "name": "Lost Legacy"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 2,
+                    "name": "Heroic Intervention"
+                },
+                {
+                    "count": 1,
+                    "name": "To the Slaughter"
+                }
+            ],
+            "notes": "The deck focuses on quickly building a board presence using efficient creatures like Grim Flayer and Walking Ballista, supported by Winding Constrictor to enhance their abilities. Rishkar, Peema Renegade and Verdurous Gearhulk provide additional ways to pump up the team. Removal spells like Fatal Push and Grasp of Darkness help clear the way for attacks, while To the Slaughter and Ruinous Path deal with problematic threats. The deck aims to apply constant pressure on the opponent, overwhelming them with creature threats and disruption."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Anthony Mascio",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287608&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 3,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Nissa, Voice of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 3,
+                    "name": "Servant of the Conduit"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Westvale Abbey"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Key to the City"
+                },
+                {
+                    "count": 1,
+                    "name": "Appetite for the Unnatural"
+                },
+                {
+                    "count": 1,
+                    "name": "Heroic Intervention"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Lifecrafter's Bestiary"
+                },
+                {
+                    "count": 1,
+                    "name": "Murder"
+                },
+                {
+                    "count": 1,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Ruinous Path"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                }
+            ],
+            "notes": "The main goal of this deck is to quickly build a strong board presence by playing efficient creatures like Scrapheap Scrounger, Verdurous Gearhulk, and Walking Ballista, supported by cards like Rishkar, Peema Renegade and Winding Constrictor that provide additional value and buffs. The deck also includes removal spells such as Fatal Push and Grasp of Darkness to control the opponent's board while using Nissa, Voice of Zendikar to generate token creatures. The mana base is designed to provide consistent access to both green and black mana sources for casting spells."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Frank Skarren",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287606&f=ST",
+            "mainboard": [
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Voice of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 2,
+                    "name": "Ruinous Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindwrack Demon"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 3,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 3,
+                    "name": "Lost Legacy"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                }
+            ],
+            "notes": "This Golgari Aggro deck focuses on building a strong board presence with creatures like Winding Constrictor, Verdurous Gearhulk, and Tireless Tracker. The deck includes removal spells like Grasp of Darkness and Fatal Push to control the opponent's board while accelerating its own game plan. The combination of creatures with +1/+1 counters and powerful removal spells allows the deck to apply pressure early in the game and maintain that pressure as the game progresses. It also has options for card advantage and additional removal with cards like Grim Flayer and Ruinous Path."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Joshua Warsaw",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287607&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Skywhaler's Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Immolating Glare"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 4,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 3,
+                    "name": "Anticipate"
+                },
+                {
+                    "count": 4,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Wandering Fumarole"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 3,
+                    "name": "Prairie Stream"
+                },
+                {
+                    "count": 4,
+                    "name": "Port Town"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, Unraveler of Secrets"
+                },
+                {
+                    "count": 1,
+                    "name": "Stasis Snare"
+                },
+                {
+                    "count": 1,
+                    "name": "Quarantine Field"
+                },
+                {
+                    "count": 2,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 1,
+                    "name": "Void Shatter"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Shock"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Queller"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Flames"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Dragonmaster Outcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Confirm Suspicions"
+                },
+                {
+                    "count": 1,
+                    "name": "Fumigate"
+                }
+            ],
+            "notes": "The main concept of this Jeskai Control deck is to control the board with counterspells and removal spells while generating card advantage with draw spells like Glimmer of Genius. The deck aims to stabilize the board with cards like Torrential Gearhulk and Jace, Unraveler of Secrets, while using versatile removal spells like Immolating Glare and Harnessed Lightning to deal with threats. The mana base includes a mix of lands to ensure consistent access to the deck's colors and spells. The deck is designed to outvalue and outlast opponents in a slower, grindy game."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "T. Scott Ross",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287605&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Depala, Pilot Exemplar"
+                },
+                {
+                    "count": 2,
+                    "name": "Inventor's Apprentice"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 3,
+                    "name": "Thalia, Heretic Cathar"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Toolcraft Exemplar"
+                },
+                {
+                    "count": 4,
+                    "name": "Veteran Motorist"
+                },
+                {
+                    "count": 2,
+                    "name": "Cultivator's Caravan"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 1,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 4,
+                    "name": "Fevered Visions"
+                },
+                {
+                    "count": 2,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 2,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Sram's Expertise"
+                }
+            ],
+            "notes": "The main concept of this Mardu Aggro deck is to aggressively pressure the opponent with a combination of efficient creatures and powerful vehicles, while disrupting their game plan with removal spells like Unlicensed Disintegration and Shock. The deck aims to quickly establish a board presence and deal consistent damage to the opponent, utilizing cards like Toolcraft Exemplar, Heart of Kiran, and Depala, Pilot Exemplar. By incorporating a mix of creatures, vehicles, and removal spells, the deck can maintain pressure and control the game tempo throughout the match."
+        },
+        {
+            "date": "2017-01-29",
+            "player": "Matt Tumavitch",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=14601&d=287604&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 3,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 2,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Heretic Cathar"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Advocate"
+                },
+                {
+                    "count": 4,
+                    "name": "Archangel Avacyn"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Nissa, Voice of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Canopy Vista"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Fortified Village"
+                },
+                {
+                    "count": 9,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Westvale Abbey"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 2,
+                    "name": "Ajani Unyielding"
+                },
+                {
+                    "count": 3,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 2,
+                    "name": "Lambholt Pacifist"
+                },
+                {
+                    "count": 1,
+                    "name": "Skywhaler's Shot"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly and aggressively overwhelm your opponent with a combination of efficient creatures like Sylvan Advocate and Archangel Avacyn, backed up by powerful planeswalkers like Gideon, Ally of Zendikar and Nissa, Voice of Zendikar. The deck also includes removal cards like Stasis Snare and Declaration in Stone to deal with your opponent's threats. With an emphasis on strong creatures and versatile removal options, this deck aims to establish board control and put pressure on the opponent to quickly secure a victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

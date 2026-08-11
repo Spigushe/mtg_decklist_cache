@@ -1,0 +1,968 @@
+{
+    "tournament": {
+        "date": "2017-10-01",
+        "name": "Goldmine Pauper Tournament",
+        "url": "https://mtgtop8.com/event?e=17075",
+        "format": "Pauper",
+        "players": 20
+    },
+    "decks": [
+        {
+            "date": "2017-10-01",
+            "player": "Angelo Mancini",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305650&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Flayer Husk"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 3,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Clan"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                }
+            ],
+            "notes": "The deck focuses on quickly casting multiple artifact creatures and taking advantage of the affinity mechanic to reduce their casting cost. By using cards like Thoughtcast and Prophetic Prism to draw cards and ramp up mana, the player can overwhelm their opponent with a swarm of powerful creatures like Gearseeker Serpent, Atog, and Myr Enforcer. Additional burn spells like Galvanic Blast and combat tricks like Temur Battle Rage provide additional reach and the ability to surprise the opponent for a quick win."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Fabiano Mariani",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305649&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 2,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 2,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Swiftwater Cliffs"
+                },
+                {
+                    "count": 1,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 1,
+                    "name": "Painted Bluffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Shimmering Grotto"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Lens"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Capsize"
+                },
+                {
+                    "count": 1,
+                    "name": "Rolling Thunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Condescend"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Exclude"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrostatic Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                }
+            ],
+            "sideboard": [],
+            "notes": "The main concept of this deck is to control the game through efficient removal spells, counterspells, and card advantage. By utilizing the Urzatron lands to generate large amounts of mana, the deck can cast powerful spells like Dinrova Horror and Rolling Thunder to take control of the game. With a focus on card draw and recursion, the deck aims to out-value opponents and grind out wins through attrition. The deck also includes utility lands like Bojuka Bog and Crop Rotation to further disrupt opponents' strategies."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Daniele Cignitti",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305647&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Corrupt"
+                },
+                {
+                    "count": 18,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 1,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 2,
+                    "name": "Victim of Night"
+                },
+                {
+                    "count": 1,
+                    "name": "Tendrils of Corruption"
+                },
+                {
+                    "count": 1,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 3,
+                    "name": "Geth's Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 1,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 2,
+                    "name": "Dead Weight"
+                },
+                {
+                    "count": 2,
+                    "name": "Cartouche of Ambition"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Rager"
+                },
+                {
+                    "count": 4,
+                    "name": "Gray Merchant of Asphodel"
+                },
+                {
+                    "count": 3,
+                    "name": "Cuombajj Witches"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Chittering Rats"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Nausea"
+                },
+                {
+                    "count": 4,
+                    "name": "Choking Sands"
+                },
+                {
+                    "count": 1,
+                    "name": "Unmake"
+                },
+                {
+                    "count": 2,
+                    "name": "Trespasser's Curse"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly overwhelm the opponent with aggressive creatures and disruption spells in order to deal damage efficiently and consistently. The deck focuses on low-cost creatures and removal spells to control the battlefield and drain the opponent's life total. By utilizing cards like Gray Merchant of Asphodel and Corrupt, the deck aims to maintain a steady stream of damage and finish off the opponent before they can stabilize. Overall, the strategy revolves around quickly establishing dominance and closing out the game before the opponent can mount a defense."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Bernardo Toraldo",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305648&f=PAU",
+            "mainboard": [
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismal Backwater"
+                },
+                {
+                    "count": 3,
+                    "name": "Dimir Aqueduct"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 3,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Teachings"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Shrivel"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Devour Flesh"
+                },
+                {
+                    "count": 2,
+                    "name": "Vodalian Zombie"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                }
+            ],
+            "notes": "This Dimir Control deck focuses on disrupting and controlling the opponent's strategy through a combination of counter spells, removal spells, and card draw. It aims to control the game with efficient removal and countermagic, while drawing cards to maintain advantage. The deck also includes a few threats to close out the game, such as Gurmag Angler and Mulldrifter. The key strategy is to outvalue the opponent by efficiently navigating the game and outsmarting their plays."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Emanuele Taliano",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305646&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 1,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Flayer Husk"
+                },
+                {
+                    "count": 2,
+                    "name": "Terrarion"
+                },
+                {
+                    "count": 3,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Walker"
+                },
+                {
+                    "count": 3,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Clan"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                }
+            ],
+            "notes": "The main idea of this deck is to overwhelm the opponent quickly with a low mana curve and efficient artifact creatures. By utilizing cards like Atog and Myr Enforcer, along with a variety of artifacts, the deck aims to establish a strong board presence early on and maintain pressure throughout the game. The inclusion of cards like Galvanic Blast and Temur Battle Rage provides additional reach and potential for quick kills, making it a formidable Aggro deck in a Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Luca Bonuglia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305644&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Warden"
+                },
+                {
+                    "count": 2,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Abundant Growth"
+                },
+                {
+                    "count": 2,
+                    "name": "Wirewood Pride"
+                },
+                {
+                    "count": 4,
+                    "name": "Distant Melody"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 2,
+                    "name": "Mob Justice"
+                },
+                {
+                    "count": 2,
+                    "name": "Luminescent Rain"
+                },
+                {
+                    "count": 2,
+                    "name": "Aerial Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Spidersilk Armor"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaervek's Torch"
+                }
+            ],
+            "notes": "This deck focuses on quickly generating mana with cards like Priest of Titania and Llanowar Elves, while also flooding the board with Elf creatures to overwhelm the opponent. Cards like Timberwatch Elf and Lys Alana Huntmaster provide powerful buffs to the Elves, allowing for massive damage output. The deck also includes some utility cards like Quirion Ranger and Wellwisher for added flexibility and survivability. Drawing cards with Distant Melody helps to refill the hand and keep up the pressure on the opponent. With efficient mana ramp and strong creature synergy, this deck aims to win quickly through aggressive Elf tribal strategies."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Simone Conte",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305645&f=PAU",
+            "mainboard": [
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 4,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 3,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 3,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Sundering Vitae"
+                },
+                {
+                    "count": 2,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquility"
+                },
+                {
+                    "count": 1,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 1,
+                    "name": "Luminescent Rain"
+                },
+                {
+                    "count": 1,
+                    "name": "Life Goes On"
+                },
+                {
+                    "count": 2,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrap in Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Spidersilk Armor"
+                },
+                {
+                    "count": 1,
+                    "name": "Wellwisher"
+                }
+            ],
+            "notes": "The main idea of this Pauper 1 vs 1 deck is to overwhelm the opponent with a fast and aggressive strategy using elves. By playing multiple mana-producing creatures like Elvish Mystic and Llanowar Elves, the deck aims to quickly ramp up to play powerful elf cards such as Timberwatch Elf and Lys Alana Huntmaster. The deck also includes cards like Distant Melody and Wellwisher to draw more cards and gain life, respectively, to keep the pressure on the opponent and maintain card advantage."
+        },
+        {
+            "date": "2017-10-01",
+            "player": "Marco Catuogno",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=17075&d=305643&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Dead Weight"
+                },
+                {
+                    "count": 2,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 3,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Night's Whisper"
+                },
+                {
+                    "count": 4,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 2,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 3,
+                    "name": "Aven Riftwatcher"
+                },
+                {
+                    "count": 3,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 2,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 4,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Patrician's Scorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using a combination of removal spells, life gain, and board wipes to outlast the opponent. The deck utilizes cards like Pestilence, Crypt Rats, and Guardian of the Guildpact to clear the board, while also using cards like Aven Riftwatcher and Arashin Cleric to gain life and stay ahead. Additionally, the deck includes card draw and value creatures like Thraben Inspector and Kor Skyfisher to maintain card advantage and board presence. The mana base ensures consistent access to the necessary colors for casting spells."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

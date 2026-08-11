@@ -1,0 +1,921 @@
+{
+    "tournament": {
+        "date": "2017-04-29",
+        "name": "CTCS Spring Standard Classic",
+        "url": "https://mtgtop8.com/event?e=15397",
+        "format": "Standard",
+        "players": 26
+    },
+    "decks": [
+        {
+            "date": "2017-04-29",
+            "player": "David Nolan",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293698&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Dissenter's Deliverance"
+                },
+                {
+                    "count": 1,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Sweltering Suns"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Pull from Tomorrow"
+                },
+                {
+                    "count": 3,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 3,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 3,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 3,
+                    "name": "Censor"
+                },
+                {
+                    "count": 4,
+                    "name": "Dynavolt Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Attune with Aether"
+                },
+                {
+                    "count": 4,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheltered Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Lumbering Falls"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Longtusk Cub"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Release the Gremlins"
+                },
+                {
+                    "count": 2,
+                    "name": "Confiscation Coup"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                }
+            ],
+            "notes": "The deck focuses on utilizing control cards and removal spells to maintain board control and disrupt opponents' strategies. The key strategy revolves around using Dynavolt Tower as a win condition, while also generating energy with cards like Harnessed Lightning and Attune with Aether. The deck also features card draw and counterspells to ensure consistency and protect against threats. Torrential Gearhulk serves as a versatile threat and can also be used to recast important spells. Overall, the deck aims to out-value opponents and grind out wins through resource management and efficient plays."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Jacob Lewis",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293699&f=ST",
+            "mainboard": [
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Scattered Groves"
+                },
+                {
+                    "count": 4,
+                    "name": "Fortified Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Canopy Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Nissa"
+                },
+                {
+                    "count": 4,
+                    "name": "Archangel Avacyn"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Channeler Initiate"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Advocate"
+                },
+                {
+                    "count": 4,
+                    "name": "Nissa, Voice of Zendikar"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 3,
+                    "name": "Dissenter's Deliverance"
+                },
+                {
+                    "count": 2,
+                    "name": "Gisela, the Broken Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Skywhaler's Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Angel of Sanctions"
+                },
+                {
+                    "count": 1,
+                    "name": "Ajani Unyielding"
+                },
+                {
+                    "count": 3,
+                    "name": "Fumigate"
+                }
+            ],
+            "notes": "The deck focuses on utilizing aggressive creatures such as Archangel Avacyn and Gideon, Ally of Zendikar to quickly overwhelm the opponent. It also includes support cards like Walking Ballista and Cast Out to control the board and maintain pressure. The mana base consists of a mix of Forest, Plains, and dual lands to ensure consistent access to all colors. Overall, the goal is to establish a strong board presence early on and maintain pressure throughout the game."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Holly Barra",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293700&f=ST",
+            "mainboard": [
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Smoldering Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 2,
+                    "name": "Shock"
+                },
+                {
+                    "count": 3,
+                    "name": "Incendiary Flow"
+                },
+                {
+                    "count": 3,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Inventor's Apprentice"
+                },
+                {
+                    "count": 2,
+                    "name": "Harsh Mentor"
+                },
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Foreboding Ruins"
+                },
+                {
+                    "count": 3,
+                    "name": "Weldfast Engineer"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 3,
+                    "name": "Pia Nalaar"
+                },
+                {
+                    "count": 2,
+                    "name": "Forerunner of Slaughter"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 3,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Release the Gremlins"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Key to the City"
+                }
+            ],
+            "notes": "The key strategy of this deck is to quickly deploy aggressive creatures and efficient removal spells to apply pressure on the opponent and control the battlefield. By using cards such as Bomat Courier, Scrapheap Scrounger, and Heart of Kiran, the deck aims to maintain a fast pace and constantly threaten the opponent's life total. With a mix of creatures and burn spells like Chandra, Torch of Defiance and Unlicensed Disintegration, the deck can adapt to different board states and maintain constant pressure on the opponent."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Tam Tran",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293701&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Electrostatic Pummeler"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Game Trail"
+                },
+                {
+                    "count": 9,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Uncaged Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Larger Than Life"
+                },
+                {
+                    "count": 2,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Built to Smash"
+                },
+                {
+                    "count": 4,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 4,
+                    "name": "Attune with Aether"
+                },
+                {
+                    "count": 4,
+                    "name": "Servant of the Conduit"
+                },
+                {
+                    "count": 2,
+                    "name": "Longtusk Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Voltaic Brawler"
+                },
+                {
+                    "count": 4,
+                    "name": "Bristling Hydra"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Bombardment"
+                },
+                {
+                    "count": 4,
+                    "name": "Fevered Visions"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deploy aggressive creatures like Voltaic Brawler, Bristling Hydra, and Electrostatic Pummeler, then pump them up with spells like Larger Than Life and Built to Smash to deal massive damage to the opponent. The deck also includes cards like Uncaged Fury and Blossoming Defense to protect your creatures and ensure they can connect with the opponent. Additionally, cards like Attune with Aether and Servant of the Conduit help ensure you have the resources needed to power up your creatures and maintain a strong offense."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Erik Rose",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293696&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Wretched Gryff"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 3,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 4,
+                    "name": "Elder Deep-Fiend"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormenting Voice"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Sanctum of Ugin"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Smoldering Marsh"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunken Hollow"
+                },
+                {
+                    "count": 2,
+                    "name": "Insolent Neonate"
+                },
+                {
+                    "count": 4,
+                    "name": "Minister of Inquiries"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Dead"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Scarab Feast"
+                },
+                {
+                    "count": 3,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 2,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 1,
+                    "name": "Summary Dismissal"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 2,
+                    "name": "Distended Mindbender"
+                }
+            ],
+            "notes": "This deck focuses on quickly bringing out powerful creatures with the Emerge ability by discarding cards from the hand. It also has support cards like Lightning Axe and Kozilek's Return for removal and disruption. The goal is to overwhelm the opponent with strong creatures like Elder Deep-Fiend and Prized Amalgam while also reaping the benefits of cards like Haunted Dead and Scrapheap Scrounger. The deck aims to control the board early on and finish off the opponent with its aggressive plays."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Shake Fordice",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293694&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 1,
+                    "name": "Censor"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Immolating Glare"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 3,
+                    "name": "Anticipate"
+                },
+                {
+                    "count": 3,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 4,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 2,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Archangel Avacyn"
+                },
+                {
+                    "count": 2,
+                    "name": "Irrigated Farmland"
+                },
+                {
+                    "count": 2,
+                    "name": "Wandering Fumarole"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Prairie Stream"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Forsake the Worldly"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Final Word"
+                },
+                {
+                    "count": 2,
+                    "name": "Blessed Alliance"
+                },
+                {
+                    "count": 1,
+                    "name": "Nahiri, the Harbinger"
+                },
+                {
+                    "count": 1,
+                    "name": "By Force"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Linvala, the Preserver"
+                },
+                {
+                    "count": 2,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 1,
+                    "name": "Oketra the True"
+                },
+                {
+                    "count": 2,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game by countering opponent's spells, removing threats, and drawing cards. It aims to stabilize the board with board wipes like Fumigate and removal spells such as Immolating Glare and Magma Spray. It also utilizes countering spells like Disallow and Essence Scatter to disrupt the opponent's game plan. The deck includes powerful creatures like Archangel Avacyn and Torrential Gearhulk to close out the game. The mana base is designed to ensure consistent access to all colors needed for the spells in the deck."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Daniel Norton",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293695&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Toolcraft Exemplar"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Shambling Vent"
+                },
+                {
+                    "count": 1,
+                    "name": "Needle Spires"
+                },
+                {
+                    "count": 3,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 4,
+                    "name": "Spire of Industry"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Pia Nalaar"
+                },
+                {
+                    "count": 2,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Veteran Motorist"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Painful Truths"
+                },
+                {
+                    "count": 1,
+                    "name": "Anguished Unmaking"
+                },
+                {
+                    "count": 2,
+                    "name": "Release the Gremlins"
+                },
+                {
+                    "count": 2,
+                    "name": "Oath of Chandra"
+                },
+                {
+                    "count": 2,
+                    "name": "Lay Bare the Heart"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorin, Grim Nemesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Dusk/Dawn"
+                },
+                {
+                    "count": 1,
+                    "name": "Shambling Vent"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                }
+            ],
+            "notes": "The deck focuses on fast and aggressive creatures like Toolcraft Exemplar and Scrapheap Scrounger, along with removal spells like Unlicensed Disintegration and Fatal Push to control the board. The Planeswalkers, Gideon, Ally of Zendikar, and Pia Nalaar provide additional threats while cards like Heart of Kiran and Glorybringer offer powerful creatures to close out the game quickly. The mana base allows for consistent casting of spells and creatures, while also providing flexibility with cards like Canyon Slough and Needle Spires for additional utility."
+        },
+        {
+            "date": "2017-04-29",
+            "player": "Greg Bartlett",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=15397&d=293697&f=ST",
+            "mainboard": [
+                {
+                    "count": 19,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Salvation"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Liliana's Mastery"
+                },
+                {
+                    "count": 4,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Diregraf Colossus"
+                },
+                {
+                    "count": 4,
+                    "name": "Metallic Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Lord of the Accursed"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryptbreaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Relentless Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Dread Wanderer"
+                },
+                {
+                    "count": 3,
+                    "name": "Westvale Abbey"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dispossess"
+                },
+                {
+                    "count": 1,
+                    "name": "Lost Legacy"
+                },
+                {
+                    "count": 1,
+                    "name": "Scarab Feast"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, Death's Majesty"
+                },
+                {
+                    "count": 2,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Never/Return"
+                },
+                {
+                    "count": 3,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                }
+            ],
+            "notes": "The main concept of this Mono Black Aggro deck is to overwhelm the opponent with a fast and aggressive strategy. By using a combination of efficient removal spells like Fatal Push and Grasp of Darkness, along with powerful anthem effects like Liliana's Mastery and Lord of the Accursed, the deck aims to flood the board with resilient creatures like Diregraf Colossus and Relentless Dead. Cryptbreaker and Dread Wanderer provide card advantage and additional threats, while Westvale Abbey offers a late-game finisher option if needed. This deck focuses on speed and efficiency to quickly defeat the opponent."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,973 @@
+{
+    "tournament": {
+        "date": "2017-06-25",
+        "name": "Environmental Master - Amonkhet",
+        "url": "https://mtgtop8.com/event?e=16039",
+        "format": "Standard",
+        "players": 245
+    },
+    "decks": [
+        {
+            "date": "2017-06-25",
+            "player": "Harane Kenta",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298748&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Elder Deep-Fiend"
+                },
+                {
+                    "count": 2,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 4,
+                    "name": "Rogue Refiner"
+                },
+                {
+                    "count": 3,
+                    "name": "Servant of the Conduit"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "World Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Grapple with the Past"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 4,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 3,
+                    "name": "Vessel of Nascency"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheltered Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum of Ugin"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Flamecaller"
+                },
+                {
+                    "count": 2,
+                    "name": "Confiscation Coup"
+                },
+                {
+                    "count": 2,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 1,
+                    "name": "Manglehorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                }
+            ],
+            "notes": "The deck focuses on quickly putting pressure on the opponent with aggressive creatures like Elder Deep-Fiend and Glorybringer, while also utilizing emerge mechanics to bring out powerful creatures from the graveyard. The deck includes ways to mana ramp and fix colors, as well as removal and card draw to maintain board control. The versatility of the deck allows for different strategies depending on the situation, and the ability to quickly close out games before the opponent can stabilize."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Takahashi Yuuta",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298749&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 4,
+                    "name": "Longtusk Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 3,
+                    "name": "Nissa, Voice of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Attune with Aether"
+                },
+                {
+                    "count": 3,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 2,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Manglehorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 3,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 1,
+                    "name": "Tireless Tracker"
+                }
+            ],
+            "notes": "The main concept of this Golgari Aggro deck is to quickly establish a board presence with efficient, aggressive creatures like Winding Constrictor, Walking Ballista, and Longtusk Cub. Synergies between cards like Rishkar, Peema Renegade and Verdurous Gearhulk allow for powerful plays and a strong offense. Cards like Glint-Sleeve Siphoner and Tireless Tracker provide card advantage and extra value. In addition, the deck includes removal spells like Fatal Push and Blossoming Defense to keep the opponent's board in check and protect key creatures. With strong creature synergies and efficient removal, this deck aims to overwhelm opponents with a fast and powerful aggro strategy."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Naide Kazutaka",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298751&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 4,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 1,
+                    "name": "Archangel Avacyn"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Heretic Cathar"
+                },
+                {
+                    "count": 4,
+                    "name": "Veteran Motorist"
+                },
+                {
+                    "count": 4,
+                    "name": "Toolcraft Exemplar"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 1,
+                    "name": "Needle Spires"
+                },
+                {
+                    "count": 2,
+                    "name": "Shambling Vent"
+                },
+                {
+                    "count": 3,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Spire of Industry"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Fumigate"
+                },
+                {
+                    "count": 3,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 2,
+                    "name": "Oath of Liliana"
+                },
+                {
+                    "count": 1,
+                    "name": "Painful Truths"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorin, Grim Nemesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Archangel Avacyn"
+                }
+            ],
+            "notes": "The core strategy of this Mardu Aggro deck is to quickly establish a board presence with efficient creatures like Toolcraft Exemplar and Scrapheap Scrounger, supported by powerful planeswalkers like Gideon, Ally of Zendikar. The deck utilizes disruptive spells like Fatal Push and Unlicensed Disintegration to control the opponent's board while applying pressure. With a mix of aggressive creatures, removal spells, and a variety of lands for consistency, this deck aims to overwhelm the opponent with a fast and aggressive game plan that can close out games quickly."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Umezawa Shinobu",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298750&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Incendiary Flow"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Game Trail"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Attune with Aether"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Whirler Virtuoso"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Servant of the Conduit"
+                },
+                {
+                    "count": 4,
+                    "name": "Rogue Refiner"
+                },
+                {
+                    "count": 4,
+                    "name": "Longtusk Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 3,
+                    "name": "Elder Deep-Fiend"
+                },
+                {
+                    "count": 3,
+                    "name": "Bristling Hydra"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Flames"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Manglehorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Incendiary Flow"
+                },
+                {
+                    "count": 2,
+                    "name": "Baral's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Flamecaller"
+                }
+            ],
+            "notes": "This Temur Aggro deck focuses on generating energy and mana efficiency to quickly deploy threats that pressure the opponent's life total. By utilizing cards like Attune with Aether and Servant of the Conduit, the deck aims to ramp up its mana base and play powerful creatures like Glorybringer and Elder Deep-Fiend ahead of schedule. Additionally, the deck includes removal spells like Magma Spray and Harnessed Lightning to control the board and clear the way for its aggressive creatures to deal damage efficiently. Ultimately, this deck aims to overwhelm the opponent with a fast and powerful offense."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Takahashi Tetsuhiro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298754&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunken Hollow"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Perpetual Timepiece"
+                },
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Elder Deep-Fiend"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Honored Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Minister of Inquiries"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Nahiri's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, Unraveler of Secrets"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 2,
+                    "name": "Distended Mindbender"
+                },
+                {
+                    "count": 1,
+                    "name": "Collective Brutality"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly ramp up and play powerful creatures like Elder Deep-Fiend and Honored Hydra by utilizing the emerge mechanic. The deck also includes various cards that can fill up the graveyard, such as Minister of Inquiries and Haunted Dead, to enable the recursion of creatures like Prized Amalgam. Additionally, cards like Kozilek's Return provide board control while Aethersphere Harvester offers some lifegain and evasion. Overall, this deck aims to overwhelm the opponent with a steady stream of threats while leveraging the graveyard for advantage."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Takahashi Jun",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298747&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 3,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Never/Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Never/Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Appetite for the Unnatural"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 1,
+                    "name": "Lifecrafter's Bestiary"
+                },
+                {
+                    "count": 1,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 3,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 3,
+                    "name": "Yahenni's Expertise"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with strong aggressive creatures like Grim Flayer, Rishkar, and Verdurous Gearhulk, supported by synergistic cards like Winding Constrictor and Walking Ballista. The deck also includes removal spells like Fatal Push and Grasp of Darkness to control the board. Traverse the Ulvenwald allows for consistency in getting key cards, while Liliana, the Last Hope provides additional value. The mana base is designed to ensure a consistent flow of both black and green mana sources."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Wada Yusuke",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298752&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 1,
+                    "name": "Cultivator's Caravan"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 4,
+                    "name": "Catacomb Sifter"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 9,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 3,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Distended Mindbender"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 2,
+                    "name": "Manglehorn"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                }
+            ],
+            "notes": "This deck focuses on playing aggressive creatures like Winding Constrictor, Walking Ballista, and Verdurous Gearhulk while also using removal spells like Grasp of Darkness and Fatal Push to control the board. The deck aims to overwhelm opponents with a mix of powerful creatures and efficient removal, utilizing cards like Scrapheap Scrounger and Rishkar, Peema Renegade to generate additional value. Skysovereign, Consul Flagship and Cultivator's Caravan provide additional threats and utility, rounding out the aggressive Golgari strategy."
+        },
+        {
+            "date": "2017-06-25",
+            "player": "Horiuchi Makoto",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=16039&d=298753&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Smoldering Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Hissing Quagmire"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Cinder Glade"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, Death's Majesty"
+                },
+                {
+                    "count": 4,
+                    "name": "Traverse the Ulvenwald"
+                },
+                {
+                    "count": 4,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindwrack Demon"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Transgress the Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 2,
+                    "name": "Manglehorn"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Flames"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifecrafter's Bestiary"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, Death's Majesty"
+                }
+            ],
+            "notes": "The main focus of this Jund Control deck is to maintain board control and card advantage through strong removal spells like Fatal Push and Unlicensed Disintegration, as well as powerful creatures like Grim Flayer, Walking Ballista, and Verdurous Gearhulk. The deck also utilizes cards like Traverse the Ulvenwald to search for key pieces and keep the deck consistent. The inclusion of cards like Liliana, Death's Majesty and Tireless Tracker provide additional value and resources to outlast opponents. This deck aims to outvalue and outlast opponents through a combination of removal, threats, and card advantage."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

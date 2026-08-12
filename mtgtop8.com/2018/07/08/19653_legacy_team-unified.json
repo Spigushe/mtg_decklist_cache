@@ -1,0 +1,807 @@
+{
+    "tournament": {
+        "date": "2018-07-08",
+        "name": "Team Unified",
+        "url": "https://mtgtop8.com/event?e=19653",
+        "format": "Legacy",
+        "players": 30
+    },
+    "decks": [
+        {
+            "date": "2018-07-08",
+            "player": "Adam Fiffles",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326138&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Vortex"
+                },
+                {
+                    "count": 1,
+                    "name": "Manabond"
+                },
+                {
+                    "count": 4,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 4,
+                    "name": "Gamble"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 2,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheltered Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "Riftstone Portal"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 2,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Barbarian Ring"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 1,
+                    "name": "Drop of Honey"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game through land destruction and recursion. It utilizes cards like Punishing Fire, Wasteland, and Ghost Quarter to disrupt the opponent's mana base while constantly recurring lands with Life from the Loam. The deck aims to assemble the Dark Depths-Thespian's Stage combo to create a 20/20 Marit Lage token to close out the game. With cards like Crop Rotation and Exploration to accelerate and tutor for key lands, the deck aims to outvalue and outmaneuver the opponent through resource denial and efficient land plays."
+        },
+        {
+            "date": "2018-07-08",
+            "player": "Justin Porchas",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326140&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Monastery Mentor"
+                },
+                {
+                    "count": 3,
+                    "name": "Terminus"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Predict"
+                },
+                {
+                    "count": 3,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterbalance"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 3,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Search for Azcanta"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "This deck focuses on control and disruption, utilizing cards like Terminus, Swords to Plowshares, and Counterbalance to keep the opponent's threats in check. It also includes card advantage engines like Snapcaster Mage and Jace, the Mind Sculptor, as well as powerful planeswalkers like Teferi, Hero of Dominaria. The deck aims to control the game through counterspells and removal spells while generating incremental advantage with cantrips like Ponder and Brainstorm. The mana base includes fetch lands to ensure consistent mana fixing and deck thinning."
+        },
+        {
+            "date": "2018-07-08",
+            "player": "Olin Tellefsen",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326139&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Tidespout Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Sire of Insanity"
+                },
+                {
+                    "count": 2,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Chancellor of the Annex"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Stronghold Gambit"
+                },
+                {
+                    "count": 1,
+                    "name": "Iona, Shield of Emeria"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Grand Cenobite"
+                },
+                {
+                    "count": 2,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Archon"
+                },
+                {
+                    "count": 1,
+                    "name": "Archetype of Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                }
+            ],
+            "notes": "The deck focuses on quickly filling the graveyard with powerful creatures using cards like Entomb and Faithless Looting, and then using Reanimate spells to bring them back into play. It aims to achieve a fast and explosive win by reanimating big threats like Griselbrand or Tidespout Tyrant to overwhelm the opponent. The deck also includes disruption cards like Thoughtseize and Unmask to disrupt the opponent's game plan and protect its own combo. The key strategy is to combo off quickly and efficiently before the opponent can mount a defense."
+        },
+        {
+            "date": "2018-07-08",
+            "player": "Hunter Bolding",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326136&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum Prelate"
+                },
+                {
+                    "count": 1,
+                    "name": "Palace Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Orzhov Pontiff"
+                },
+                {
+                    "count": 2,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Reflector Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitesail Freebooter"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of the Parish"
+                },
+                {
+                    "count": 1,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 4,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Ziggurat"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 2,
+                    "name": "Mirran Crusader"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 2,
+                    "name": "Devout Chaplain"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum Prelate"
+                },
+                {
+                    "count": 1,
+                    "name": "Orzhov Pontiff"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly and aggressively build a board presence with powerful Human creatures while disrupting the opponent's game plan with disruptive creatures like Meddling Mage and Reflector Mage. Aether Vial allows for creatures to be put onto the battlefield at instant speed, keeping the pressure on the opponent. The deck utilizes a mix of disruptive and aggressive creatures to overwhelm the opponent early in the game, leveraging the Human creature type for synergy with cards like Thalia's Lieutenant and Champion of the Parish."
+        },
+        {
+            "date": "2018-07-08",
+            "player": "Max Goddard",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326144&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Natural Order"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimpse of Nature"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Reclamation Sage"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Heritage Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 2,
+                    "name": "Craterhoof Behemoth"
+                },
+                {
+                    "count": 2,
+                    "name": "Birchlore Rangers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Meekstone"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                }
+            ],
+            "notes": "This deck focuses on generating quick mana and card advantage with Elves, using cards like Gaea's Cradle, Heritage Druid, and Glimpse of Nature. The deck aims to combo off with cards like Natural Order and Craterhoof Behemoth to overwhelm the opponent with a massive board of Elves for a lethal attack. The key strategy is to efficiently ramp and draw cards early in the game, eventually leading to a powerful finish with a large, buffed-up army of creatures."
+        },
+        {
+            "date": "2018-07-08",
+            "player": "Connor Oakes",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=19653&d=326143&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sheltered Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 3,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Vortex"
+                },
+                {
+                    "count": 1,
+                    "name": "Manabond"
+                },
+                {
+                    "count": 4,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 4,
+                    "name": "Gamble"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 2,
+                    "name": "Taiga"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 3,
+                    "name": "Krosan Grip"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                }
+            ],
+            "notes": "The main idea of this deck is to control the game by utilizing lands to disrupt the opponent's strategy while also assembling the Dark Depths stage combo for a quick win condition. The deck focuses on utilizing cards like Wasteland, Rishadan Port, and Ghost Quarter to disrupt the opponent's mana base, while cards like Punishing Fire and Maze of Ith provide additional control options. By utilizing Life from the Loam to continuously recur lands and Crop Rotation to search for key pieces, the deck aims to outvalue the opponent and grind out a victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

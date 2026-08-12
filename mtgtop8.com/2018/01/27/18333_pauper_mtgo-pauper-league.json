@@ -1,0 +1,656 @@
+{
+    "tournament": {
+        "date": "2018-01-27",
+        "name": "MTGO Pauper League",
+        "url": "https://mtgtop8.com/event?e=18333",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2018-01-27",
+            "player": "LiquidQuik",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=18333&d=313758&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 15,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Hyena Umbra"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Cho-Manno's Blessing"
+                },
+                {
+                    "count": 4,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 2,
+                    "name": "Emerge Unscathed"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Defiant Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Lagonna-Band Trailblazer"
+                },
+                {
+                    "count": 2,
+                    "name": "Benevolent Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Akroan Skyguard"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Holy Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 1,
+                    "name": "Death Speakers"
+                },
+                {
+                    "count": 2,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Cat"
+                }
+            ],
+            "notes": "The deck focuses on quickly building up a board of small creatures like Sacred Cat and Lagonna-Band Trailblazer, then buffing them with auras like Ethereal Armor and Hyena Umbra to create a fast and aggressive offensive strategy. Cards like Mutagenic Growth and Cho-Manno's Blessing provide protection and additional boosts to the creatures. The goal is to overwhelm the opponent with a swarm of weenies while maintaining enough protection to keep them safe from removal spells."
+        },
+        {
+            "date": "2018-01-27",
+            "player": "Kzrds",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=18333&d=313759&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 2,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 1,
+                    "name": "Devour Flesh"
+                },
+                {
+                    "count": 1,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Thornwood Falls"
+                },
+                {
+                    "count": 3,
+                    "name": "Shimmering Grotto"
+                },
+                {
+                    "count": 1,
+                    "name": "Remote Isle"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Fengraf"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismal Backwater"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Simic Signet"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Dimir Signet"
+                },
+                {
+                    "count": 2,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Rolling Thunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 3,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Teachings"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Wretched Gryff"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 1,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Capsize"
+                }
+            ],
+            "notes": "This deck focuses on using the Urzatron lands to generate massive amounts of mana in order to control the game through countering spells, removal, and card advantage. It also has the ability to reset key pieces with Ghostly Flicker and Mnemonic Wall, as well as recycle important spells with Mystical Teachings. The deck aims to stall the game with Moment's Peace and counter threats until it can establish a dominant board presence and win condition, whether through a large Rolling Thunder or overwhelming the opponent with Mulldrifters and Dinrova Horrors."
+        },
+        {
+            "date": "2018-01-27",
+            "player": "henryys",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=18333&d=313760&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 9,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swirling Sandstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura Flux"
+                }
+            ],
+            "notes": "The deck focuses on efficiently controlling the board while maintaining a steady stream of card advantage. Utilizing low-cost creatures like Ninja of the Deep Hours and Faerie Miscreant, along with disruptive spells like Counterspell and Spellstutter Sprite, the deck aims to keep the opponent on the back foot. Delver of Secrets provides additional pressure, while Augur of Bolas helps dig for key cards. The inclusion of burn spells like Lightning Bolt and Skred allows for additional reach and removal. The deck's mana base is optimized with a mix of Islands, Mountains, and fetch lands to ensure consistent casting of spells."
+        },
+        {
+            "date": "2018-01-27",
+            "player": "Capoeira02",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=18333&d=313761&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 3,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Warden"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 13,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 2,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 2,
+                    "name": "Wellwisher"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Essence Warden"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrap in Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 3,
+                    "name": "Spidersilk Armor"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Magnify"
+                },
+                {
+                    "count": 1,
+                    "name": "Luminescent Rain"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Viridian Longbow"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize the synergy between elves to quickly swarm the board with creatures and overwhelm the opponent with their numbers. By utilizing cards that generate mana and provide card advantage, the deck aims to quickly build a strong board presence and apply pressure to the opponent. Additionally, cards like Timberwatch Elf and Elvish Vanguard allow for pumping up creatures to deal substantial amounts of damage. The inclusion of Lead the Stampede and Distant Melody helps to refill the hand and maintain a consistent flow of elves onto the battlefield."
+        },
+        {
+            "date": "2018-01-27",
+            "player": "LeroyB",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=18333&d=313762&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Swiftwater Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Shimmering Grotto"
+                },
+                {
+                    "count": 2,
+                    "name": "Izzet Guildgate"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrite Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Lens"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 2,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 2,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Rolling Thunder"
+                },
+                {
+                    "count": 2,
+                    "name": "Condescend"
+                },
+                {
+                    "count": 1,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Devour Flesh"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 1,
+                    "name": "Resounding Scream"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Exclude"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                }
+            ],
+            "notes": "The deck focuses on assembling Urzatron lands to generate a large amount of mana quickly. It uses control elements such as counterspells and removal spells to disrupt the opponent's game plan. The deck also includes card draw and recursion to maintain resources and out-value the opponent. The goal is to control the game until it can cast powerful finishers like Rolling Thunder or Dinrova Horror to close out the game."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

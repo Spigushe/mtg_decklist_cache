@@ -1,0 +1,937 @@
+{
+    "tournament": {
+        "date": "2018-07-14",
+        "name": "SCG Invitational Qualifier Lexington",
+        "url": "https://mtgtop8.com/event?e=19690",
+        "format": "Standard",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2018-07-14",
+            "player": "Sean Evans",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326526&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Tezzeret, Artifice Master"
+                },
+                {
+                    "count": 2,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Karn, Scion of Urza"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Baral's Expertise"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Amber"
+                },
+                {
+                    "count": 3,
+                    "name": "Aetherflux Reservoir"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Renegade Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Nest Crane"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 1,
+                    "name": "Inventors' Fair"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Zhalfirin Void"
+                },
+                {
+                    "count": 13,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Whir of Invention"
+                },
+                {
+                    "count": 2,
+                    "name": "Baral, Chief of Compliance"
+                },
+                {
+                    "count": 3,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 1,
+                    "name": "Padeem, Consul of Innovation"
+                },
+                {
+                    "count": 2,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 4,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
+                }
+            ],
+            "notes": "This deck focuses on utilizing artifacts to generate mana and card advantage in order to set up a powerful combo involving Aetherflux Reservoir. By bouncing and replaying artifacts with cards like Paradoxical Outcome and Baral's Expertise, the deck can quickly amass a high storm count to deal lethal amounts of damage with Aetherflux Reservoir. Tezzeret, Artifice Master and Karn, Scion of Urza provide additional card draw and token generation to support the combo. Metallic Rebuke serves as a versatile counterspell to protect the combo."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Victor Logan",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326527&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 2,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, Death's Majesty"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 2,
+                    "name": "Doomfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 1,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 2,
+                    "name": "The Scarab God"
+                },
+                {
+                    "count": 3,
+                    "name": "Nicol Bolas, the Ravager"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of Wits"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Gifted Aetherborn"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Never/Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                }
+            ],
+            "notes": "The deck focuses on aggressive play with a mix of creatures and control spells in the colors of blue and black. The key strategy is to quickly establish board presence with efficient creatures like Glint-Sleeve Siphoner and Champion of Wits, while using removal spells like Fatal Push and Vraska's Contempt to control the opponent's board. The deck also utilizes powerful creatures like The Scarab God and Nicol Bolas, the Ravager for additional pressure and card advantage. Overall, the deck aims to overwhelm the opponent with a combination of early aggression and late-game power."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Jeremy Russel",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326524&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 2,
+                    "name": "Irrigated Farmland"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Submerged Boneyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 2,
+                    "name": "Search for Azcanta"
+                },
+                {
+                    "count": 4,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Syncopate"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Hieroglyphic Illumination"
+                },
+                {
+                    "count": 2,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Disallow"
+                },
+                {
+                    "count": 2,
+                    "name": "Censor"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Blink of an Eye"
+                },
+                {
+                    "count": 3,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "The Scarab God"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "The Eldest Reborn"
+                },
+                {
+                    "count": 2,
+                    "name": "Yahenni's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 1,
+                    "name": "Forsake the Worldly"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 1,
+                    "name": "Arch of Orazca"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "The Scarab God"
+                }
+            ],
+            "notes": "Utilizing a variety of removal spells, counter spells, and card draw, this Esper Control deck aims to control the game and outvalue the opponent. By playing defensively with cards like Teferi, Hero of Dominaria and Torrential Gearhulk, while also disrupting the opponent's strategy, this deck looks to dominate the late game and win through attrition. With a mix of powerful planeswalkers, efficient removal spells, and strong finishers like The Scarab God, this deck is built to outlast the opponent and grind out victories."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Lee Baxter",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326528&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Elvish Clancaller"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Marwyn, the Nurturer"
+                },
+                {
+                    "count": 4,
+                    "name": "Metallic Mimic"
+                },
+                {
+                    "count": 3,
+                    "name": "Reclamation Sage"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Leaf Champion"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn Lieutenant"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 4,
+                    "name": "Adventurous Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 19,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hashep Oasis"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Shapers' Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Way"
+                },
+                {
+                    "count": 1,
+                    "name": "Reclamation Sage"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 2,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Crushing Canopy"
+                },
+                {
+                    "count": 2,
+                    "name": "Deathgorge Scavenger"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifecrafter's Bestiary"
+                }
+            ],
+            "notes": "This deck focuses on rapidly developing a strong board presence by playing efficient creatures and utilizing cards that can boost their power. The key strategy involves playing aggressive creatures like Steel Leaf Champion and Rhonas the Indomitable early on, supported by cards like Elvish Clancaller and Metallic Mimic to quickly grow your creature's power. The deck also includes cards like Thorn Lieutenant and Reclamation Sage to help deal with opposing threats. Overall, the goal is to overwhelm your opponent with fast, powerful creatures and secure a quick victory."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Tim Hall",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326525&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Kefnet's Monument"
+                },
+                {
+                    "count": 4,
+                    "name": "Curious Obsession"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Retort"
+                },
+                {
+                    "count": 3,
+                    "name": "Seafloor Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Exclusion Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Naban, Dean of Iteration"
+                },
+                {
+                    "count": 3,
+                    "name": "Watertrap Weaver"
+                },
+                {
+                    "count": 4,
+                    "name": "Siren Stormtamer"
+                },
+                {
+                    "count": 4,
+                    "name": "Silvergill Adept"
+                },
+                {
+                    "count": 4,
+                    "name": "River Sneak"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 22,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 2,
+                    "name": "Naru Meha, Master Wizard"
+                },
+                {
+                    "count": 2,
+                    "name": "Kopala, Warden of Waves"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Deeproot Waters"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": "The main idea of this Merfolk Aggro deck is to quickly build a board presence of Merfolk creatures and use cards like Curious Obsession to draw cards and maintain momentum. Cards like Siren Stormtamer and Merfolk Trickster provide protection and disruption for the opponent's strategy, while Naban, Dean of Iteration amplifies the effects of Merfolk creature abilities. Using counterspells like Spell Pierce and Wizard's Retort, along with tempo plays like Watertrap Weaver and Exclusion Mage, this deck aims to overwhelm the opponent with its aggressive and synergistic Merfolk tribe."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Chris Robinson",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326531&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 2,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 1,
+                    "name": "Pia Nalaar"
+                },
+                {
+                    "count": 3,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 2,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 2,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Heart of Kiran"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Torment of Hailfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Hour of Glory"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Doomfall"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                }
+            ],
+            "notes": "This deck focuses on aggressive plays and dealing damage quickly. It includes creatures with hasty abilities and powerful attacks, along with spells for removal and direct damage. The mana base is designed to support the fast-paced gameplay, with a mix of lands that provide flexibility and consistency. Overall, the strategy of this deck is to pressure the opponent early and maintain momentum throughout the game, aiming to win before the opponent can stabilize."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Donald Mason",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326529&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 3,
+                    "name": "Earthshaker Khenra"
+                },
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 22,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "The Flame of Keld"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 3,
+                    "name": "Banefire"
+                },
+                {
+                    "count": 3,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrade"
+                }
+            ],
+            "notes": "This deck focuses on playing aggressive red creatures and burn spells to quickly deal damage to the opponent and win the game before they have a chance to fully set up their board. By playing efficient creatures like Goblin Chainwhirler and Viashino Pyromancer, along with burn spells like Shock and Lightning Strike, the deck aims to control the board and continuously pressure the opponent. The Flame of Keld provides additional card draw and damage boost to help close out the game."
+        },
+        {
+            "date": "2018-07-14",
+            "player": "Joshua Wedell",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=19690&d=326530&f=ST",
+            "mainboard": [
+                {
+                    "count": 22,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Treasure Map"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 3,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Earthshaker Khenra"
+                },
+                {
+                    "count": 3,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 3,
+                    "name": "Ahn-Crop Crasher"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Silent Gravestone"
+                },
+                {
+                    "count": 2,
+                    "name": "Sentinel Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Jaya's Immolating Inferno"
+                },
+                {
+                    "count": 1,
+                    "name": "Jaya Ballard"
+                },
+                {
+                    "count": 3,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Banefire"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 1,
+                    "name": "Bomat Courier"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with aggressive red creatures and burn spells. By utilizing efficient creatures like Goblin Chainwhirler and Hazoret the Fervent, along with direct damage spells like Lightning Strike and Abrade, the deck aims to deal damage quickly and efficiently. Cards like Chandra, Torch of Defiance and Rekindling Phoenix provide additional value and card advantage, while Ahn-Crop Crasher and Earthshaker Khenra help push through damage and disrupt the opponent's game plan. Overall, this deck aims to win the game as fast as possible through aggressive plays and direct damage."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

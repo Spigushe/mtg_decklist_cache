@@ -1,0 +1,989 @@
+{
+    "tournament": {
+        "date": "2018-04-07",
+        "name": "PPTQ",
+        "url": "https://mtgtop8.com/event?e=18938",
+        "format": "Standard",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2018-04-07",
+            "player": "Jason Clymer",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318870&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Ifnir Deadlands"
+                },
+                {
+                    "count": 2,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 1,
+                    "name": "Foul Orchard"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 3,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 3,
+                    "name": "Hadana's Climb"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdurous Gearhulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Bristling Hydra"
+                },
+                {
+                    "count": 1,
+                    "name": "Rishkar, Peema Renegade"
+                },
+                {
+                    "count": 3,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Constrictor"
+                },
+                {
+                    "count": 4,
+                    "name": "Servant of the Conduit"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Sleeve Siphoner"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Deathgorge Scavenger"
+                },
+                {
+                    "count": 2,
+                    "name": "Cartouche of Ambition"
+                },
+                {
+                    "count": 1,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                }
+            ],
+            "notes": "The deck focuses on playing aggressive creatures with +1/+1 counter synergies to overwhelm the opponent quickly. By using cards like Winding Constrictor and Hadana's Climb, the deck can pump up its creatures and grow them in power rapidly. Cards like Glint-Sleeve Siphoner provide card advantage, while Walking Ballista and Verdurous Gearhulk offer powerful finishers. The deck also includes removal spells like Vraska's Contempt and Fatal Push to deal with threats from the opponent. Overall, the strategy revolves around building a board presence and using it to deal damage efficiently."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Robert Taylor",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318869&f=ST",
+            "mainboard": [
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Struggle/Survive"
+                },
+                {
+                    "count": 4,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 4,
+                    "name": "Commune with Dinosaurs"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 2,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Regisaur Alpha"
+                },
+                {
+                    "count": 4,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 4,
+                    "name": "Deathgorge Scavenger"
+                },
+                {
+                    "count": 3,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheltered Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Rootbound Crag"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Sweltering Suns"
+                },
+                {
+                    "count": 1,
+                    "name": "Struggle/Survive"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 1,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifecrafter's Bestiary"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Carnage Tyrant"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with powerful dinosaur creatures and aggressive plays. The deck focuses on ramping up mana quickly to play big threats like Ghalta, Primal Hunger and Regisaur Alpha. It also includes removal spells like Abrade and Magma Spray to deal with opposing threats. The deck aims to apply pressure early on and maintain board presence with resilient creatures like Rekindling Phoenix and Rhonas the Indomitable. The inclusion of cards like Blossoming Defense and Heart of Kiran helps protect key creatures and push damage through."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Nathanael Perigo",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318868&f=ST",
+            "mainboard": [
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 1,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Consign/Oblivion"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, Death's Majesty"
+                },
+                {
+                    "count": 2,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 3,
+                    "name": "The Scarab God"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of Wits"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 3,
+                    "name": "Dusk Legion Zealot"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "River's Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Golden Demise"
+                },
+                {
+                    "count": 1,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Doomfall"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                }
+            ],
+            "notes": "This deck focuses on utilizing a mix of removal, disruption, and card advantage to maintain control while applying pressure to the opponent. By combining aggressive creatures like Glint-Sleeve Siphoner and Champion of Wits with powerful finishers like The Scarab God and Gonti, Lord of Luxury, the deck aims to quickly overwhelm the opponent while maintaining a steady stream of resources. The inclusion of counterspells and removal spells like Vraska's Contempt and Fatal Push helps to control the board and disrupt the opponent's game plan, ensuring that the aggro strategy can succeed."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Vivien Marmelat",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318864&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Glimmer of Genius"
+                },
+                {
+                    "count": 1,
+                    "name": "Commit/Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 4,
+                    "name": "Harnessed Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 2,
+                    "name": "The Scarab God"
+                },
+                {
+                    "count": 2,
+                    "name": "Whirler Virtuoso"
+                },
+                {
+                    "count": 2,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Champion of Wits"
+                },
+                {
+                    "count": 3,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 1,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Fetid Pools"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Golden Demise"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Search for Azcanta"
+                },
+                {
+                    "count": 1,
+                    "name": "Vizier of Many Faces"
+                },
+                {
+                    "count": 1,
+                    "name": "Lost Legacy"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Angrath, the Flame-Chained"
+                },
+                {
+                    "count": 1,
+                    "name": "Deadeye Tracker"
+                },
+                {
+                    "count": 2,
+                    "name": "Doomfall"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The deck focuses on controlling the board and opponent's resources through a combination of removal spells, counter magic, and powerful planeswalkers like Chandra, Torch of Defiance. It also utilizes card advantage engines like Glint-Sleeve Siphoner and Champion of Wits to maintain hand advantage. The inclusion of powerful creatures like The Scarab God and Gonti, Lord of Luxury provides additional late-game threats. The mana base is carefully crafted to ensure consistent access to all three colors of mana. Overall, the deck aims to outvalue and outlast opponents through efficient removal and powerful threats."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Justin Jensen",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318865&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Earthshaker Khenra"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Ahn-Crop Crasher"
+                },
+                {
+                    "count": 4,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 2,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 2,
+                    "name": "Ifnir Deadlands"
+                },
+                {
+                    "count": 15,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Pia Nalaar"
+                },
+                {
+                    "count": 2,
+                    "name": "Puncturing Blow"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 1,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Hour of Devastation"
+                }
+            ],
+            "notes": "The main focus of this Rakdos Aggro deck is to quickly overwhelm your opponent with aggressive creatures and direct damage spells. Utilizing cards like Bomat Courier, Earthshaker Khenra, and Hazoret the Fervent, you aim to apply relentless pressure and end the game before your opponent can stabilize. Unlicensed Disintegration provides removal and reach, while Rekindling Phoenix offers resilience against removal spells. By maintaining a low mana curve and a high density of threats, you seek to maintain tempo and close out the game swiftly."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Michael Howard",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318866&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Shefet Dunes"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunpetal Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Adorned Pouncer"
+                },
+                {
+                    "count": 2,
+                    "name": "Longtusk Cub"
+                },
+                {
+                    "count": 4,
+                    "name": "Metallic Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Pride Sovereign"
+                },
+                {
+                    "count": 2,
+                    "name": "Prowling Serpopard"
+                },
+                {
+                    "count": 4,
+                    "name": "Regal Caracal"
+                },
+                {
+                    "count": 3,
+                    "name": "Shapers' Sanctuary"
+                },
+                {
+                    "count": 2,
+                    "name": "Thopter Arrest"
+                },
+                {
+                    "count": 2,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 3,
+                    "name": "Appeal/Authority"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 6,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Scattered Groves"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 1,
+                    "name": "Crook of Condemnation"
+                },
+                {
+                    "count": 2,
+                    "name": "Heroic Intervention"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Prowling Serpopard"
+                },
+                {
+                    "count": 2,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 1,
+                    "name": "Blossoming Defense"
+                }
+            ],
+            "notes": "This deck focuses on quickly assembling a board of aggressive creature threats, supported by tribal synergy and protection spells. By utilizing powerful creatures like Adorned Pouncer and Regal Caracal alongside Metallic Mimic and Pride Sovereign, it aims to overwhelm the opponent with a fast and efficient strategy. Additionally, cards like Shapers' Sanctuary and Blossoming Defense provide protection and card advantage, allowing the deck to maintain tempo and outvalue its opponents. The mana base is designed to support the aggressive game plan while providing consistent access to all necessary colors of mana."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Jonathan Perigo",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318867&f=ST",
+            "mainboard": [
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Canyon Slough"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 3,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, Death's Majesty"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 2,
+                    "name": "Gonti, Lord of Luxury"
+                },
+                {
+                    "count": 3,
+                    "name": "Pia Nalaar"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint-Sleeve Siphoner"
+                },
+                {
+                    "count": 3,
+                    "name": "Dusk Legion Zealot"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Angrath, Minotaur Pirate"
+                },
+                {
+                    "count": 1,
+                    "name": "Angrath, the Flame-Chained"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Lost Legacy"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 2,
+                    "name": "Sweltering Suns"
+                }
+            ],
+            "notes": "The main focus of this Rakdos Aggro deck is to aggressively control the board and disrupt your opponent's strategy while dealing damage quickly and efficiently. Utilizing powerful removal spells like Fatal Push and Vraska's Contempt, along with strong creatures like Glorybringer and Gonti, Lord of Luxury, this deck aims to apply pressure early on and maintain momentum throughout the game. With a mix of aggressive creatures and disruptive spells, this deck seeks to overwhelm opponents and secure a swift victory."
+        },
+        {
+            "date": "2018-04-07",
+            "player": "Erik Peters",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=18938&d=318863&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Minister of Inquiries"
+                },
+                {
+                    "count": 2,
+                    "name": "Warkite Marauder"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of Wits"
+                },
+                {
+                    "count": 4,
+                    "name": "Combat Celebrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Trophy Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Vizier of Many Faces"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Gate to the Afterlife"
+                },
+                {
+                    "count": 2,
+                    "name": "God-Pharaoh's Gift"
+                },
+                {
+                    "count": 2,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Ipnu Rivulet"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Warkite Marauder"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Padeem, Consul of Innovation"
+                },
+                {
+                    "count": 2,
+                    "name": "Silent Gravestone"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Sweltering Suns"
+                },
+                {
+                    "count": 2,
+                    "name": "Whirler Virtuoso"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game through a combination of creatures like Combat Celebrant, Champion of Wits, and Walking Ballista, along with disruption from cards like Trophy Mage and Warkite Marauder. The key strategy is to fill up the graveyard with creatures using Minister of Inquiries and Gate to the Afterlife, then utilize God-Pharaoh's Gift to reanimate powerful creatures like Combat Celebrant and Champion of Wits. The deck also includes card draw and filtering with cards like Cathartic Reunion and Bomat Courier to ensure consistency in drawing key pieces."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

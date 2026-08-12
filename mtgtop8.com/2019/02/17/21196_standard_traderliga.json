@@ -1,0 +1,857 @@
+{
+    "tournament": {
+        "date": "2019-02-17",
+        "name": "Traderliga",
+        "url": "https://mtgtop8.com/event?e=21196",
+        "format": "Standard",
+        "players": 28
+    },
+    "decks": [
+        {
+            "date": "2019-02-17",
+            "player": "Michael Kammer",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341458&f=ST",
+            "mainboard": [
+                {
+                    "count": 8,
+                    "name": "Forest"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Memorial to Folly"
+                },
+                {
+                    "count": 2,
+                    "name": "The Immortal Sun"
+                },
+                {
+                    "count": 2,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 3,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Midnight Reaper"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Chupacabra"
+                },
+                {
+                    "count": 4,
+                    "name": "The Eldest Reborn"
+                },
+                {
+                    "count": 3,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 3,
+                    "name": "Druid of the Cowl"
+                },
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 3,
+                    "name": "Vine Mare"
+                },
+                {
+                    "count": 3,
+                    "name": "Crushing Canopy"
+                },
+                {
+                    "count": 3,
+                    "name": "Knight of Malice"
+                },
+                {
+                    "count": 2,
+                    "name": "Golden Demise"
+                }
+            ],
+            "notes": "The Golgari Aggro deck focuses on utilizing efficient creatures with graveyard recursion spells to overwhelm opponents quickly. By combining aggressive early plays with powerful mid-game threats like Carnage Tyrant and The Eldest Reborn, the deck aims to pressure opponents while maintaining card advantage through cards like Midnight Reaper. The inclusion of Find / Finality and Assassin's Trophy gives the deck versatility in dealing with threats, while ramp cards like Llanowar Elves and Druid of the Cowl help accelerate the mana curve. Overall, this deck aims to establish board presence and control the game through efficient creature plays and disruption spells."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Klaas De Witt",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341459&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Warkite Marauder"
+                },
+                {
+                    "count": 4,
+                    "name": "Tempest Djinn"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Sleep"
+                },
+                {
+                    "count": 4,
+                    "name": "Siren Stormtamer"
+                },
+                {
+                    "count": 4,
+                    "name": "Pteramander"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Capture"
+                },
+                {
+                    "count": 20,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Retort"
+                },
+                {
+                    "count": 4,
+                    "name": "Dive Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Curious Obsession"
+                },
+                {
+                    "count": 2,
+                    "name": "Chart a Course"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Warkite Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Sleep"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Capture"
+                },
+                {
+                    "count": 2,
+                    "name": "Surge Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, Cunning Castaway"
+                },
+                {
+                    "count": 4,
+                    "name": "Exclusion Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Entrancing Melody"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Chemister's Insight"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent quickly with a combination of low-cost creatures and disruption spells, while utilizing the Mono Blue Aggro archetype. The deck contains various flying and unblockable creatures to push through damage, as well as counterspells and protection spells to control the board and protect key creatures. The deck also includes card draw spells to maintain hand advantage and maintain momentum. Overall, the deck aims to be fast and aggressive, securing victory before the opponent can stabilize."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Darren Kopatz",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341460&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos Guildgate"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Treasure Map"
+                },
+                {
+                    "count": 3,
+                    "name": "Status/Statue"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, Scion of Urza"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Rix Maadi Reveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Skarrgan Hellkite"
+                },
+                {
+                    "count": 2,
+                    "name": "Carnival/Carnage"
+                },
+                {
+                    "count": 2,
+                    "name": "Find/Finality"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Drill Bit"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Plaguecrafter"
+                },
+                {
+                    "count": 1,
+                    "name": "The Eldest Reborn"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Shivan Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Angrath, the Flame-Chained"
+                },
+                {
+                    "count": 1,
+                    "name": "The Immortal Sun"
+                }
+            ],
+            "notes": "The main idea behind this deck is to maintain control of the game through a combination of removal spells, creature threats, and card advantage. By using a mix of efficient removal like Lava Coil and Shock, along with powerful creatures like Rekindling Phoenix and Skarrgan Hellkite, the deck aims to disrupt opponents' strategies while presenting its own threats. Cards like Rix Maadi Reveler and Treasure Map help generate card advantage, while Karn, Scion of Urza and Dire Fleet Daredevil offer additional utility. The deck seeks to outvalue opponents and grind out victories through efficient resource management."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Sebastian Wilde",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341461&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Runaway Steam-Kin"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 20,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Risk Factor"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Banefire"
+                },
+                {
+                    "count": 2,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Immolation Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "The Flame of Keld"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively deal damage to the opponent using cheap and efficient burn spells, along with aggressive creatures like Viashino Pyromancer and Goblin Chainwhirler. The deck aims to control the board early on with cards like Fanatical Firebrand and Ghitu Lavarunner, while also generating card advantage with Light Up the Stage and Risk Factor. By maintaining an aggressive tempo and constantly pressuring the opponent's life total, the deck aims to win the game before the opponent can stabilize."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Mathias Liene",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341462&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Discovery/Dispersal"
+                },
+                {
+                    "count": 1,
+                    "name": "Beacon Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Dive Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 4,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 4,
+                    "name": "Enigma Drake"
+                },
+                {
+                    "count": 4,
+                    "name": "Pteramander"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Shivan Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Firemind's Research"
+                },
+                {
+                    "count": 2,
+                    "name": "Niv-Mizzet, Parun"
+                },
+                {
+                    "count": 2,
+                    "name": "Beacon Bolt"
+                }
+            ],
+            "notes": "The key idea of this deck is to quickly establish a board presence with cheap, efficient creatures like Crackling Drake and Enigma Drake, while using instant and sorcery spells like Shock and Lava Coil to control the opponent's board. This deck aims to be fast and aggressive, putting pressure on the opponent early in the game while also having some card draw and protection tools like Dive Down and Spell Pierce to maintain its advantage. The inclusion of Murmuring Mystic and Pteramander adds versatility and additional threats to the deck."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Lars Niederhausen",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341463&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Consecrate/Consume"
+                },
+                {
+                    "count": 1,
+                    "name": "Bedevil"
+                },
+                {
+                    "count": 2,
+                    "name": "Angrath, the Flame-Chained"
+                },
+                {
+                    "count": 3,
+                    "name": "Ajani, Adversary of Tyrants"
+                },
+                {
+                    "count": 3,
+                    "name": "Mortify"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 2,
+                    "name": "Aurelia, Exemplar of Justice"
+                },
+                {
+                    "count": 2,
+                    "name": "Lyra Dawnbringer"
+                },
+                {
+                    "count": 3,
+                    "name": "Tithe Taker"
+                },
+                {
+                    "count": 3,
+                    "name": "Resplendent Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Rix Maadi Reveler"
+                },
+                {
+                    "count": 3,
+                    "name": "Seraph of the Scales"
+                },
+                {
+                    "count": 3,
+                    "name": "Hero of Precinct One"
+                },
+                {
+                    "count": 4,
+                    "name": "Judith, the Scourge Diva"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Clifftop Retreat"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Vona, Butcher of Magan"
+                },
+                {
+                    "count": 2,
+                    "name": "Tocatli Honor Guard"
+                },
+                {
+                    "count": 1,
+                    "name": "Banefire"
+                },
+                {
+                    "count": 2,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 1,
+                    "name": "Huatli, Warrior Poet"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaya, Orzhov Usurper"
+                },
+                {
+                    "count": 1,
+                    "name": "Profane Procession"
+                }
+            ],
+            "notes": "The focus of this deck is to overwhelm the opponent with a fast-paced aggressive strategy utilizing a combination of powerful creatures and removal spells. By maintaining pressure on the opponent's life total early in the game, the deck aims to close out the match before the opponent has a chance to stabilize. This deck includes a mix of efficient creatures with strong abilities and a variety of versatile removal spells to handle opposing threats. The combination of creature aggression and removal spells creates a strong tempo advantage, allowing the deck to dictate the pace of the game."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Moritz Frevert",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341464&f=ST",
+            "mainboard": [
+                {
+                    "count": 19,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Curious Obsession"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Retort"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Capture"
+                },
+                {
+                    "count": 3,
+                    "name": "Mist-Cloaked Herald"
+                },
+                {
+                    "count": 4,
+                    "name": "Pteramander"
+                },
+                {
+                    "count": 4,
+                    "name": "Siren Stormtamer"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 4,
+                    "name": "Tempest Djinn"
+                },
+                {
+                    "count": 2,
+                    "name": "Dive Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Blink of an Eye"
+                },
+                {
+                    "count": 3,
+                    "name": "Chart a Course"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Surge Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Search for Azcanta"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Duelist"
+                },
+                {
+                    "count": 2,
+                    "name": "Exclusion Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Entrancing Melody"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Freeze"
+                }
+            ],
+            "notes": "The deck focuses on utilizing cheap, evasive creatures like Mist-Cloaked Herald and Pteramander to quickly pressure the opponent while protecting them with counterspells like Wizard's Retort and Spell Pierce. Curious Obsession provides card advantage and tempo, while Merfolk Trickster disrupts the opponent's strategies. Tempest Djinn serves as a powerful finisher, backed up by protection spells like Dive Down and Siren Stormtamer. The deck aims to maintain board control and pressure the opponent consistently to secure a quick victory."
+        },
+        {
+            "date": "2019-02-17",
+            "player": "Ayk Guluk",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=21196&d=341465&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Clifftop Retreat"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 10,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Aurelia, Exemplar of Justice"
+                },
+                {
+                    "count": 4,
+                    "name": "Heroic Reinforcements"
+                },
+                {
+                    "count": 2,
+                    "name": "Act of Treason"
+                },
+                {
+                    "count": 3,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Tajic, Legion's Edge"
+                },
+                {
+                    "count": 4,
+                    "name": "Adanto Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithe Taker"
+                },
+                {
+                    "count": 3,
+                    "name": "Legion's Landing"
+                },
+                {
+                    "count": 4,
+                    "name": "Skymarcher Aspirant"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauntless Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunted Witness"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Healing Grace"
+                },
+                {
+                    "count": 4,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 1,
+                    "name": "Make a Stand"
+                },
+                {
+                    "count": 2,
+                    "name": "Shalai, Voice of Plenty"
+                },
+                {
+                    "count": 2,
+                    "name": "Vanquisher's Banner"
+                },
+                {
+                    "count": 3,
+                    "name": "Militia Bugler"
+                }
+            ],
+            "notes": "The main idea of this Boros Aggro deck is to overwhelm the opponent with a fast and aggressive playstyle. The deck focuses on playing efficient creatures like Skymarcher Aspirant and Adanto Vanguard early on, then following up with powerful cards like Heroic Reinforcements and Aurelia, Exemplar of Justice to quickly finish off the opponent. Cards like Legion's Landing and Legion Warboss help to generate tokens and maintain pressure on the board. Overall, the deck aims to be proactive and push for a quick victory by leveraging its strong creatures and combat tricks."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

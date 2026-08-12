@@ -1,0 +1,909 @@
+{
+    "tournament": {
+        "date": "2018-10-20",
+        "name": "PPTQ",
+        "url": "https://mtgtop8.com/event?e=20356",
+        "format": "Standard",
+        "players": 37
+    },
+    "decks": [
+        {
+            "date": "2018-10-20",
+            "player": "Wesley Situ",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333213&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ajani, Adversary of Tyrants"
+                },
+                {
+                    "count": 1,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 1,
+                    "name": "Conclave Cavalier"
+                },
+                {
+                    "count": 2,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of Grace"
+                },
+                {
+                    "count": 4,
+                    "name": "Adanto Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "History of Benalia"
+                },
+                {
+                    "count": 4,
+                    "name": "Conclave Tribunal"
+                },
+                {
+                    "count": 3,
+                    "name": "March of the Multitudes"
+                },
+                {
+                    "count": 4,
+                    "name": "Flower/Flourish"
+                },
+                {
+                    "count": 4,
+                    "name": "Venerated Loxodon"
+                },
+                {
+                    "count": 2,
+                    "name": "Trostani Discordant"
+                },
+                {
+                    "count": 3,
+                    "name": "Emmara, Soul of the Accord"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunpetal Grove"
+                },
+                {
+                    "count": 8,
+                    "name": "Plains"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Arch of Orazca"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dawn of Hope"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 1,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 2,
+                    "name": "Shalai, Voice of Plenty"
+                },
+                {
+                    "count": 2,
+                    "name": "Lyra Dawnbringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Cleansing Nova"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal Away"
+                },
+                {
+                    "count": 1,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 2,
+                    "name": "Knight of Autumn"
+                }
+            ],
+            "notes": "The key concept of this Selesnya Aggro deck is to flood the board with low cost creatures and tokens, while efficiently controlling the board with removal spells like Conclave Tribunal. By quickly building a wide board presence, the deck can overwhelm the opponent with powerful cards like Venerated Loxodon and March of the Multitudes. The inclusion of Ajani, Adversary of Tyrants and Trostani Discordant provide additional value and support for the aggressive game plan, making it difficult for the opponent to stabilize. Overall, the deck aims to pressure the opponent and close out the game quickly before the opponent can establish their own game plan."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Ryan Saltzman",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333210&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 3,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Memorial to Folly"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 2,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Hinterland Harbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Isareth the Awakener"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 3,
+                    "name": "Seekers' Squire"
+                },
+                {
+                    "count": 4,
+                    "name": "Thief of Sanity"
+                },
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Findbroker"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Chupacabra"
+                },
+                {
+                    "count": 3,
+                    "name": "Vraska, Relic Seeker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Deathgorge Scavenger"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Ritual of Soot"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Vine Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildgrowth Walker"
+                }
+            ],
+            "notes": "This Golgari Aggro deck focuses on a strong creature presence on the board while also utilizing powerful removal spells like Assassin's Trophy and Vraska's Contempt to control the opponent's board. The deck also includes cards like Thief of Sanity and Ravenous Chupacabra to disrupt the opponent's game plan and generate card advantage. Vivien Reid and Vraska, Golgari Queen provide additional value and flexibility to handle a variety of threats. Overall, the deck aims to apply early pressure and maintain board control to overwhelm the opponent and secure victory."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Brian Vegso",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333211&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "History of Benalia"
+                },
+                {
+                    "count": 2,
+                    "name": "Conclave Tribunal"
+                },
+                {
+                    "count": 1,
+                    "name": "Ajani, Adversary of Tyrants"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 3,
+                    "name": "Deafening Clarion"
+                },
+                {
+                    "count": 1,
+                    "name": "Tajic, Legion's Edge"
+                },
+                {
+                    "count": 3,
+                    "name": "Shalai, Voice of Plenty"
+                },
+                {
+                    "count": 4,
+                    "name": "Resplendent Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Lyra Dawnbringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of Grace"
+                },
+                {
+                    "count": 3,
+                    "name": "Aurelia, Exemplar of Justice"
+                },
+                {
+                    "count": 4,
+                    "name": "Adanto Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 12,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Clifftop Retreat"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 3,
+                    "name": "Tocatli Honor Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal Away"
+                },
+                {
+                    "count": 2,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Huatli, Warrior Poet"
+                },
+                {
+                    "count": 1,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Banefire"
+                }
+            ],
+            "notes": "The main concept of this deck is to flood the board with aggressive creatures that can quickly overwhelm the opponent. These creatures are supported by powerful cards like History of Benalia and Resplendent Angel to further strengthen the board presence. The deck also includes removal spells like Lightning Strike and Deafening Clarion to control the opponent's board and clear the way for attacking. The inclusion of cards like Shalai, Voice of Plenty and Lyra Dawnbringer provide additional protection and lifegain to ensure a steady stream of threats for the opponent to deal with."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Lance Gyger",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333212&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 2,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 3,
+                    "name": "The Flame of Keld"
+                },
+                {
+                    "count": 3,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 3,
+                    "name": "Risk Factor"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Runaway Steam-Kin"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 3,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 21,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 3,
+                    "name": "Fight with Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Diamond Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 1,
+                    "name": "Fanatical Firebrand"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly overwhelm the opponent with aggressive red creatures and burn spells. By efficiently using low-cost creatures like Ghitu Lavarunner and Fanatical Firebrand along with powerful burn spells like Lightning Strike and Wizard's Lightning, the player aims to chip away at the opponent's life total and finish them off with cards like Risk Factor and The Flame of Keld. Additionally, cards like Runaway Steam-Kin and Experimental Frenzy provide extra value and card advantage to keep the pressure on the opponent."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Shae Wiley",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333206&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Findbroker"
+                },
+                {
+                    "count": 4,
+                    "name": "Doom Whisperer"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Memorial to Folly"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Chupacabra"
+                },
+                {
+                    "count": 2,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 1,
+                    "name": "Izoni, Thousand-Eyed"
+                },
+                {
+                    "count": 1,
+                    "name": "District Guide"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska, Relic Seeker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 1,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 1,
+                    "name": "Arguel's Blood Fast"
+                },
+                {
+                    "count": 2,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "The Eldest Reborn"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 1,
+                    "name": "Golden Demise"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska's Contempt"
+                }
+            ],
+            "notes": "The main concept of the Golgari Aggro deck is to quickly establish a board presence with mana ramp from Llanowar Elves and strong creatures like Jadelight Ranger and Doom Whisperer. The deck utilizes a mix of removal spells like Ravenous Chupacabra and Cast Down to control the board while also being able to recover creatures from the graveyard with Golgari Findbroker and Find / Finality. The deck also includes powerful planeswalkers like Vraska, Golgari Queen and Vivien Reid for additional card advantage and removal options."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Zhivko Nedelchev",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333207&f=ST",
+            "mainboard": [
+                {
+                    "count": 21,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Runaway Steam-Kin"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 3,
+                    "name": "Risk Factor"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 2,
+                    "name": "Legion Warboss"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 3,
+                    "name": "Fight with Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 3,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 1,
+                    "name": "Act of Treason"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deal damage to the opponent using aggressive red creatures and burn spells. By deploying a constant stream of cheap creatures and direct damage spells, the deck aims to pressure the opponent and finish the game as quickly as possible. Cards like Fanatical Firebrand and Lightning Strike help clear the way for attacking creatures, while Runaway Steam-Kin and Experimental Frenzy provide additional card advantage and ramp to keep the pressure on. Overall, the deck aims to overwhelm the opponent with relentless aggression."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "Vince Mallow",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333209&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Findbroker"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Chupacabra"
+                },
+                {
+                    "count": 3,
+                    "name": "Vraska, Relic Seeker"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 2,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Hinterland Harbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Doom Whisperer"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 3,
+                    "name": "Seekers' Squire"
+                },
+                {
+                    "count": 4,
+                    "name": "Thief of Sanity"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 3,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Memorial to Folly"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Ritual of Soot"
+                },
+                {
+                    "count": 2,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Deathgorge Scavenger"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska's Contempt"
+                }
+            ],
+            "notes": "The deck focuses on combining strong creatures and removal spells to apply pressure on the opponent while controlling the board. By utilizing cards like Thief of Sanity and Doom Whisperer to disrupt the opponent's strategy, while building your own board presence with cards like Jadelight Ranger and Ravenous Chupacabra, the Golgari Aggro deck aims to quickly overwhelm the opponent before they can stabilize. The deck also includes planeswalkers like Vraska, Relic Seeker and Vivien Reid for additional value and options. Finally, the deck features a mix of lands to ensure consistent mana production for its powerful spells."
+        },
+        {
+            "date": "2018-10-20",
+            "player": "John Hornberg",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=20356&d=333208&f=ST",
+            "mainboard": [
+                {
+                    "count": 20,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Adanto Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Benalish Marshal"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauntless Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunted Witness"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of Grace"
+                },
+                {
+                    "count": 3,
+                    "name": "Remorseful Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Tocatli Honor Guard"
+                },
+                {
+                    "count": 4,
+                    "name": "Venerated Loxodon"
+                },
+                {
+                    "count": 1,
+                    "name": "Pride of Conquerors"
+                },
+                {
+                    "count": 1,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 3,
+                    "name": "Conclave Tribunal"
+                },
+                {
+                    "count": 4,
+                    "name": "History of Benalia"
+                },
+                {
+                    "count": 3,
+                    "name": "Legion's Landing"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tocatli Honor Guard"
+                },
+                {
+                    "count": 2,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 3,
+                    "name": "Ajani, Adversary of Tyrants"
+                },
+                {
+                    "count": 2,
+                    "name": "Bounty Agent"
+                },
+                {
+                    "count": 1,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Shield Mare"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorcerous Spyglass"
+                }
+            ],
+            "notes": "The focus of this deck is to overwhelm the opponent with a swarm of low-cost white creatures, enabling a fast and aggressive playstyle. By quickly building a board presence with cards like Adanto Vanguard, Hunted Witness, and Venerated Loxodon, the deck aims to outpace the opponent and maintain control of the battlefield. Utilizing support cards like Benalish Marshal and History of Benalia reinforces the strength of the weenie creatures. Additionally, cards like Remorseful Cleric and Conclave Tribunal provide removal and disruption to handle opposing threats."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

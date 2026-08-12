@@ -1,0 +1,981 @@
+{
+    "tournament": {
+        "date": "2019-03-22",
+        "name": "MTGO Competitive Modern League",
+        "url": "https://mtgtop8.com/event?e=21426",
+        "format": "Modern",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2019-03-22",
+            "player": "JeffCunningham",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343434&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 4,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 2,
+                    "name": "Conflagrate"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Chill"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 3,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormenting Voice"
+                },
+                {
+                    "count": 4,
+                    "name": "Shriekhorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Stomping Ground"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Tectonic Edge"
+                }
+            ],
+            "notes": "The deck focuses on self-mill and graveyard recursion to quickly fill the graveyard with powerful creatures like Bloodghast, Golgari Thug, Narcomoeba, and Prized Amalgam. By utilizing cards like Cathartic Reunion, Faithless Looting, and Shriekhorn, the player can easily dump their deck into the graveyard. The key strategy is to then use cards like Creeping Chill and Conflagrate to finish off the opponent, taking advantage of the creatures that come back from the graveyard. Life from the Loam helps to ensure a steady stream of lands for mana."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "jpellman",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343435&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 4,
+                    "name": "Gravecrawler"
+                },
+                {
+                    "count": 4,
+                    "name": "Hangarback Walker"
+                },
+                {
+                    "count": 4,
+                    "name": "Insolent Neonate"
+                },
+                {
+                    "count": 2,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Stitcher's Supplier"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 3,
+                    "name": "Viscera Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Bridge from Below"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 3,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Bontu's Last Reckoning"
+                },
+                {
+                    "count": 1,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 1,
+                    "name": "Corrosive Gale"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Axe"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize the graveyard as a resource to quickly and efficiently bring out powerful creatures like Vengevine and Gravecrawler. This is achieved through cards like Faithless Looting, Stitcher's Supplier, and Insolent Neonate to fill the graveyard and trigger cards like Bridge from Below. The deck also includes combo pieces like Goblin Bushwhacker and Walking Ballista to provide additional win conditions. The goal is to overwhelm the opponent with a swarm of creatures from the graveyard and combo off for a quick victory."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "Hemsley",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343436&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Karn, Scion of Urza"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Worker"
+                },
+                {
+                    "count": 4,
+                    "name": "Hangarback Walker"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Overseer"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 2,
+                    "name": "Animation Module"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Throne of Geth"
+                },
+                {
+                    "count": 4,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 4,
+                    "name": "Hardened Scales"
+                },
+                {
+                    "count": 1,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Gavony Township"
+                },
+                {
+                    "count": 2,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Reborn"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Consulate Crackdown"
+                },
+                {
+                    "count": 3,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 3,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Spellskite"
+                }
+            ],
+            "notes": "This deck focuses on quickly building up a strong board presence with +1/+1 counters using cards like Hardened Scales, Steel Overseer, and Arcbound Ravager. By utilizing cards like Hangarback Walker and Walking Ballista to generate additional value from counters, the deck aims to overwhelm opponents with powerful creatures and strategic interactions. The inclusion of cards like Ancient Stirrings and Karn, Scion of Urza helps to ensure consistency and card advantage, while lands like Inkmoth Nexus and Gavony Township provide additional versatility and reach."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "Ibaitor",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343437&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Funeral Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrench Mind"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Shrieking Affliction"
+                },
+                {
+                    "count": 4,
+                    "name": "The Rack"
+                },
+                {
+                    "count": 4,
+                    "name": "Smallpox"
+                },
+                {
+                    "count": 4,
+                    "name": "Raven's Crime"
+                },
+                {
+                    "count": 4,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 4,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Hostile Desert"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Waste Not"
+                },
+                {
+                    "count": 4,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Fulminator Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Delirium Skeins"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Confidant"
+                }
+            ],
+            "notes": "The main focus of this Mono Black Control deck is to disrupt the opponent's hand with discard spells like Thoughtseize and Inquisition of Kozilek, while also utilizing cards such as Fatal Push and Smallpox to control the board. The win condition comes from slowly draining the opponent's life total with cards like Shrieking Affliction and The Rack. Liliana of the Veil provides additional disruption and graveyard control. The deck also has some utility lands like Mutavault and Hostile Desert to provide extra creature threats. Overall, the deck aims to control the game and win through attrition."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "chaba_lol",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343438&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 4,
+                    "name": "Flameblade Adept"
+                },
+                {
+                    "count": 4,
+                    "name": "Flamewake Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 2,
+                    "name": "Tasigur, the Golden Fang"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning Inquiry"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lore"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "The deck focuses on quickly casting powerful creatures like Hollow One and Gurmag Angler by discarding cards with effects like Burning Inquiry and Faithless Looting. It also utilizes cards like Bloodghast and Flameblade Adept for aggro pressure. The deck aims to overwhelm the opponent with fast, efficient creatures and burn spells like Lightning Bolt, while also utilizing the graveyard for additional value with cards like Tasigur, the Golden Fang. The mana base is built around consistently casting spells and utilizing lands like Blackcleave Cliffs and Bloodstained Mire for color fixing."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "urzatheplaneswalker",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343439&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Curator of Mysteries"
+                },
+                {
+                    "count": 4,
+                    "name": "Desert Cerodon"
+                },
+                {
+                    "count": 4,
+                    "name": "Striped Riverwinder"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendilion Clique"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Vision"
+                },
+                {
+                    "count": 4,
+                    "name": "Living End"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 3,
+                    "name": "Cryptic Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Electrodominance"
+                },
+                {
+                    "count": 2,
+                    "name": "Izzet Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Remand"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "As Foretold"
+                },
+                {
+                    "count": 2,
+                    "name": "Cascade Bluffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Tolaria West"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Anger of the Gods"
+                },
+                {
+                    "count": 2,
+                    "name": "Bottle Gnomes"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Fulminator Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Ingot Chewer"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Shatterstorm"
+                }
+            ],
+            "notes": "The main concept of this deck is to efficiently cycle through cards and control the board until you can cast Living End with the help of cards like As Foretold and Electrodominance. By constantly cycling creatures like Curator of Mysteries and Desert Cerodon, you can quickly fill your graveyard and bring them all back with Living End. Additionally, cards like Ancestral Vision and Remand help you draw cards and disrupt your opponent's plays, while cards like Cryptic Command provide additional control options. Overall, this deck focuses on setting up a powerful combo finish with Living End."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "WillyBlake",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343440&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Death's Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Steppe Lynx"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Nacatl"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Become Immense"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 2,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Faith's Shield"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 1,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 1,
+                    "name": "Ranger of Eos"
+                }
+            ],
+            "notes": "The deck aims to aggressively lower its own life total to power up Death's Shadow and enable the use of Become Immense to deal massive amounts of damage in a short amount of time. It utilizes efficient creatures like Monastery Swiftspear, Tarmogoyf, and Wild Nacatl along with pump spells like Mutagenic Growth and Temur Battle Rage to quickly close out the game. The deck also includes disruption in the form of Thoughtseize and removal spells like Dismember and Lightning Bolt to help clear a path to victory."
+        },
+        {
+            "date": "2019-03-22",
+            "player": "LeGacier",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=21426&d=343441&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Benthic Biomancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Tides"
+                },
+                {
+                    "count": 4,
+                    "name": "Lord of Atlantis"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of the Pearl Trident"
+                },
+                {
+                    "count": 2,
+                    "name": "Master of Waves"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 4,
+                    "name": "Silvergill Adept"
+                },
+                {
+                    "count": 2,
+                    "name": "Cryptic Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Spreading Seas"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 13,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Oboro, Palace in the Clouds"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ceremonious Rejection"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Tectonic Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Venser, Shaper Savant"
+                }
+            ],
+            "notes": "The main concept of this Modern Aggro-Merfolk deck is to quickly establish a board presence with efficient Merfolk creatures like Lord of Atlantis and Master of the Pearl Trident, while disrupting the opponent's game plan with cards like Merfolk Trickster and Spreading Seas. The deck aims to overwhelm the opponent with aggressive creatures and tricky plays, using Aether Vial to cheat creatures into play and control spells like Cryptic Command and Deprive to maintain tempo. By leveraging the synergies within the Merfolk tribe and utilizing disruptive elements, this deck aims to secure a fast victory in 1 vs 1 matches."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

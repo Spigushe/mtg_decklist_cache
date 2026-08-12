@@ -1,0 +1,965 @@
+{
+    "tournament": {
+        "date": "2018-10-08",
+        "name": "MTGO Pauper Challenge",
+        "url": "https://mtgtop8.com/event?e=20285",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2018-10-08",
+            "player": "Nulyan",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332622&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Gush"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Swirling Sandstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                }
+            ],
+            "notes": "This deck focuses on quick and aggressive gameplay, utilizing low-cost spells and creatures to control the board and deal significant damage to the opponent. It relies on a mix of efficient removal spells like Skred and Lightning Bolt, combined with counterspells like Counterspell and Dispel to disrupt the opponent's strategy. The deck also includes card draw and manipulation spells like Gush, Brainstorm, Preordain, and Ponder to maintain card advantage and consistency. The main win condition is through evasive creatures like Spellstutter Sprite, Ninja of the Deep Hours, Faerie Miscreant, Delver of Secrets, and Augur of Bolas to consistently deal damage and overwhelm the opponent."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "jp0822",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332623&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Dimir Aqueduct"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Serrated Arrows"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sage's Row Denizen"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Ethereal Haze"
+                },
+                {
+                    "count": 1,
+                    "name": "Erase"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Serrated Arrows"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by utilizing bounce lands to generate extra mana and allowing for repeatable effects. It aims to stall the opponent with counterspells like Negate and control the board with removal like Serrated Arrows. The deck's key strength lies in its ability to generate card advantage through cards like Deep Analysis and Mulldrifter, while also being able to reuse key spells with cards like Mnemonic Wall and Ghostly Flicker. The inclusion of Sunscape Familiar helps reduce the cost of spells, making it easier to maintain control over the game."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "deluxeicoff",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332609&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Tormenting Voice"
+                },
+                {
+                    "count": 3,
+                    "name": "Rally the Peasants"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Firebolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Raise the Alarm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 3,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 6,
+                    "name": "Plains"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Lumithread Field"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 3,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura Fracture"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly overwhelm the opponent with a combination of aggressive creatures and efficient combat tricks. The deck includes a mixture of cheap creatures like Sacred Cat and Squadron Hawk, along with burn spells like Lightning Bolt and Firebolt to control the board. Various flashbacks spells like Faithless Looting and Prismatic Strands provide additional value, while creatures like Seeker of the Way gain life and provide a strong offense. The deck utilizes the Boros color combination for its aggressive creatures and efficient removal."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "JaguarXJ",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332608&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 3,
+                    "name": "Flayer Husk"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Clan"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly generate a large number of artifacts on the battlefield, allowing for the early deployment of powerful creatures like Carapace Forger, Frogmite, and Myr Enforcer. By utilizing cards like Thoughtcast and Prophetic Prism to draw additional cards, the deck aims to maintain a steady stream of threats while also potentially utilizing cards like Fling and Galvanic Blast for direct damage to the opponent. The inclusion of Atog provides a potential finisher, allowing for a quick victory in this aggressive Affinity-based deck."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "Blloodpet",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332607&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Serrated Arrows"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Izzet Boilerworks"
+                },
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 3,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Sage's Row Denizen"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 2,
+                    "name": "Serrated Arrows"
+                },
+                {
+                    "count": 2,
+                    "name": "Aven Riftwatcher"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by utilizing cards like Sea Gate Oracle, Sunscape Familiar, and Mulldrifter to draw cards and maintain board presence. It also includes cards like Snap, Stonehorn Dignitary, and Serrated Arrows to disrupt opponent's strategies. The deck benefits from the Ephemerate mechanic, allowing for additional value by blinking key creatures like Mulldrifter and Sea Gate Oracle. With a mix of counterspells, card draw, and flicker effects, this deck aims to outvalue opponents and control the game until victory."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "Hampuse1",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332606&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 1,
+                    "name": "Compulsive Research"
+                },
+                {
+                    "count": 1,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 2,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 2,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Rejuvenator"
+                },
+                {
+                    "count": 2,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Remote Isle"
+                },
+                {
+                    "count": 4,
+                    "name": "Thornwood Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Cove"
+                },
+                {
+                    "count": 4,
+                    "name": "Unknown Shores"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Serrated Arrows"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                }
+            ],
+            "notes": "The deck focuses on establishing control through efficient card draw and creature removal, while ramping up mana quickly to cast powerful spells. It utilizes the Urzatron lands to generate large amounts of colorless mana, allowing for the casting of massive threats like Dinrova Horror. Mulldrifter and Sea Gate Oracle provide card advantage, while Stonehorn Dignitary stalls the opponent's attack. Ghostly Flicker combines with various creatures for additional value, while Moment's Peace and Pulse of Murasa offer protection and sustainability. The deck aims to outvalue and outlast opponents through resource management and efficient plays."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "mlovbo",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332605&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Cove"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 3,
+                    "name": "Rhystic Circle"
+                },
+                {
+                    "count": 1,
+                    "name": "Angelic Renewal"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 3,
+                    "name": "Azorius Signet"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Compulsive Research"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 3,
+                    "name": "Custodi Squire"
+                },
+                {
+                    "count": 1,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Aven Riftwatcher"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Holy Light"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 1,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                }
+            ],
+            "notes": "This Pauper 1 vs 1 Control - Urzatron deck focuses on utilizing the Urza's lands to generate mana efficiently and control the game with counterspells, removal, and card draw. By assembling the Urzatron lands, the deck can quickly ramp into powerful threats like Ulamog's Crusher while utilizing defensive creatures like Custodi Squire and Aven Riftwatcher to control the board. The deck also includes card draw and recursion effects to maintain card advantage and resilience in longer games, making it a versatile and powerful control deck in the Pauper format."
+        },
+        {
+            "date": "2018-10-08",
+            "player": "_DissonancE_",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=20285&d=332620&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 2,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 4,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Alchemist's Vial"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                }
+            ],
+            "notes": "The main concept of this Boros Aggro deck is to utilize efficient creature and burn spells to quickly apply pressure and overwhelm the opponent. By combining low-cost creatures like Thraben Inspector and Kor Skyfisher with powerful removal spells like Lightning Bolt and Journey to Nowhere, the deck aims to control the board while dealing direct damage to the opponent. Additionally, the deck includes card draw and recursion options to maintain consistency and resource advantage, allowing for a steady stream of threats to be deployed."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

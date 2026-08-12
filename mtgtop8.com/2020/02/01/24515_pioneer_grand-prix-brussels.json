@@ -1,0 +1,925 @@
+{
+    "tournament": {
+        "date": "2020-02-01",
+        "name": "Grand Prix Brussels",
+        "url": "https://mtgtop8.com/event?e=24515",
+        "format": "Pioneer",
+        "players": 1663
+    },
+    "decks": [
+        {
+            "date": "2020-02-01",
+            "player": "Carlos Moral",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371375&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Jace, Wielder of Mysteries"
+                },
+                {
+                    "count": 2,
+                    "name": "Choked Estuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 2,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 1,
+                    "name": "Ipnu Rivulet"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Omen of the Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Thought Erasure"
+                },
+                {
+                    "count": 1,
+                    "name": "Tyrant's Scorn"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 3,
+                    "name": "Censor"
+                },
+                {
+                    "count": 4,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Inverter of Truth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Noxious Grasp"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Coax from the Blind Eternities"
+                },
+                {
+                    "count": 1,
+                    "name": "Cry of the Carnarium"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Infernal Reckoning"
+                },
+                {
+                    "count": 1,
+                    "name": "Languish"
+                },
+                {
+                    "count": 1,
+                    "name": "Legion's End"
+                },
+                {
+                    "count": 1,
+                    "name": "Murderous Rider"
+                }
+            ],
+            "notes": "The main concept of this Dimir Inverter deck is to quickly fill the graveyard with key cards using powerful card draw and selection spells like Dig Through Time and Opt, then cast Inverter of Truth to switch their graveyard with their library. This strategy aims to set up Thassa's Oracle to win the game by having zero cards in their library and ensuring a victory when it enters the battlefield. This deck focuses on efficiently comboing off to win the game in a unique and powerful way."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Claes De Graaff",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371374&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phoenix of Ash"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Abbot of Keral Keep"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Torbran, Thane of Red Fell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 17,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 2,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Kari Zev's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 4,
+                    "name": "Scab-Clan Berserker"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blood"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The main idea of this deck is to overwhelm the opponent with aggressive creatures like Phoenix of Ash, Monastery Swiftspear, and Bonecrusher Giant, supported by burn spells like Lightning Strike and Wild Slash. The deck focuses on dealing damage quickly and efficiently, using cards like Soul-Scar Mage and Torbran, Thane of Red Fell to increase the damage output. With a mix of creatures, burn spells, and lands that can deal damage, this Aggro - Red Deck Wins archetype aims to win the game as fast as possible through relentless aggression."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Olli Saarinen",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371373&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Scab-Clan Berserker"
+                },
+                {
+                    "count": 3,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 2,
+                    "name": "Kari Zev's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                }
+            ],
+            "notes": "The main idea of this Aggro Red Deck Wins Pioneer 1 vs 1 deck is to overwhelm the opponent with a fast and aggressive playstyle. The deck focuses on playing efficient and low-cost creatures and spells like Bomat Courier, Bonecrusher Giant, and Monastery Swiftspear to deal damage quickly. Utilizing burn spells like Lightning Strike and Wild Slash, as well as card advantage cards like Light Up the Stage, the deck aims to keep the pressure on the opponent while maintaining card advantage and board presence. The key strategy is to outpace the opponent and win the game before they can stabilize."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Kyriakos Avgoustis",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371376&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Empyrean Eagle"
+                },
+                {
+                    "count": 4,
+                    "name": "Mausoleum Wanderer"
+                },
+                {
+                    "count": 4,
+                    "name": "Nebelgast Herald"
+                },
+                {
+                    "count": 4,
+                    "name": "Rattlechains"
+                },
+                {
+                    "count": 4,
+                    "name": "Selfless Spirit"
+                },
+                {
+                    "count": 4,
+                    "name": "Spectral Sailor"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Queller"
+                },
+                {
+                    "count": 4,
+                    "name": "Supreme Phantom"
+                },
+                {
+                    "count": 1,
+                    "name": "Rally of Wings"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Port Town"
+                },
+                {
+                    "count": 1,
+                    "name": "Unclaimed Territory"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 3,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Settle the Wreckage"
+                }
+            ],
+            "notes": "The deck focuses on utilizing aggressive Spirit creatures to overwhelm and outpace opponents. By utilizing cards like Brazen Borrower, Spell Queller, and Supreme Phantom, the deck creates a fast and efficient strategy to control the board and deal damage quickly. The inclusion of flyers like Empyrean Eagle and Nebelgast Herald further enhances the deck's ability to close out games swiftly. The deck also includes support cards like Selfless Spirit and Rattlechains to protect key creatures and disrupt opponent's strategies. Additionally, Rally of Wings provides a powerful finisher to secure victory."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Fabian Gorzgen",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371372&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Shrine of the Forsaken Gods"
+                },
+                {
+                    "count": 3,
+                    "name": "Sanctum of Ugin"
+                },
+                {
+                    "count": 3,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Castle Garenbrig"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 4,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Nissa's Pilgrimage"
+                },
+                {
+                    "count": 4,
+                    "name": "World Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 2,
+                    "name": "Oblivion Sower"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Rejuvenator"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavalier of Thorns"
+                },
+                {
+                    "count": 4,
+                    "name": "Arboreal Grazer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Spatial Contortion"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Courser of Kruphix"
+                }
+            ],
+            "notes": "The main focus of this deck is to efficiently ramp up mana with cards like Shrine of the Forsaken Gods and Nissa's Pilgrimage, while controlling the board with cards like World Breaker and Ugin, the Spirit Dragon. By generating a large amount of mana early on and using powerful ramp spells, the deck aims to play big threats like Ulamog, the Ceaseless Hunger and Oblivion Sower quickly to overwhelm the opponent. The inclusion of cards like Arboreal Grazer and Castle Garenbrig further aid in mana ramping and ensuring smooth gameplay."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Miguel Castro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371369&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Sandsteppe Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Opulent Palace"
+                },
+                {
+                    "count": 1,
+                    "name": "Nomad Outpost"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Frontier Bivouac"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 2,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Nahiri, the Harbinger"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Erasure"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Slaughter Games"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Enter the God-Eternals"
+                },
+                {
+                    "count": 4,
+                    "name": "Bring to Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Utter End"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Caryatid"
+                },
+                {
+                    "count": 1,
+                    "name": "Siege Rhino"
+                },
+                {
+                    "count": 3,
+                    "name": "Paradise Druid"
+                },
+                {
+                    "count": 3,
+                    "name": "Niv-Mizzet Reborn"
+                },
+                {
+                    "count": 1,
+                    "name": "Hostage Taker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unravel the Aether"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "The Scarab God"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos's Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Infernal Reckoning"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Deafening Clarion"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game by utilizing a wide range of powerful spells and versatile creatures to outvalue and outmaneuver opponents. By playing a mix of control spells, removal, and powerful threats like Niv-Mizzet Reborn, the deck aims to disrupt the opponent's game plan while steadily building its own resources and advantages. The mana base is designed to provide access to a variety of colors to ensure the deck can cast its diverse array of spells effectively. Ultimately, the deck seeks to dominate the game through strategic decision-making and card advantage."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Alexander Mertins",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371370&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Bomat Courier"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 3,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 3,
+                    "name": "Roast"
+                },
+                {
+                    "count": 2,
+                    "name": "Scab-Clan Berserker"
+                },
+                {
+                    "count": 3,
+                    "name": "Searing Blood"
+                }
+            ],
+            "notes": "The main aim of this Aggro Red Deck Wins Pioneer deck is to quickly deal damage to the opponent by using efficient burn spells and aggressive creatures. By utilizing low-cost creatures like Viashino Pyromancer and Monastery Swiftspear, along with powerful burn spells like Lightning Strike and Shock, the deck aims to overwhelm the opponent before they have a chance to stabilize. The inclusion of cards like Light Up the Stage allows for card advantage and consistent pressure, while cards like Bonecrusher Giant provide versatility and additional reach."
+        },
+        {
+            "date": "2020-02-01",
+            "player": "Lev Ducenko",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=24515&d=371371&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Port Town"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 3,
+                    "name": "Curious Obsession"
+                },
+                {
+                    "count": 4,
+                    "name": "Supreme Phantom"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Queller"
+                },
+                {
+                    "count": 4,
+                    "name": "Spectral Sailor"
+                },
+                {
+                    "count": 3,
+                    "name": "Selfless Spirit"
+                },
+                {
+                    "count": 4,
+                    "name": "Rattlechains"
+                },
+                {
+                    "count": 3,
+                    "name": "Nebelgast Herald"
+                },
+                {
+                    "count": 4,
+                    "name": "Mausoleum Wanderer"
+                },
+                {
+                    "count": 4,
+                    "name": "Empyrean Eagle"
+                },
+                {
+                    "count": 4,
+                    "name": "Brazen Borrower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Isolate"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Declaration in Stone"
+                }
+            ],
+            "notes": "The main concept of this deck is to flood the board with Spirit creatures and use their synergies to overwhelm the opponent. By playing aggressive threats like Supreme Phantom, Spell Queller, and Spectral Sailor, the deck aims to quickly chip away at the opponent's life total. Cards like Curious Obsession and Brazen Borrower provide additional pressure and disruption to keep the opponent on their back foot. Selfless Spirit and Nebelgast Herald also offer protection and control options to help maintain board presence and push through for the win."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,568 @@
+{
+    "tournament": {
+        "date": "2020-06-11",
+        "name": "MTGO Pioneer Preliminary",
+        "url": "https://mtgtop8.com/event?e=26042",
+        "format": "Pioneer",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2020-06-11",
+            "player": "MaxMagicer",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=26042&d=395968&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Hero's Downfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Cling to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Censor"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 4,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, Vryn's Prodigy"
+                },
+                {
+                    "count": 4,
+                    "name": "Inverter of Truth"
+                },
+                {
+                    "count": 3,
+                    "name": "Jace, Wielder of Mysteries"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Ipnu Rivulet"
+                },
+                {
+                    "count": 2,
+                    "name": "Fetid Pools"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Choked Estuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 1,
+                    "name": "The Elderspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Legion's End"
+                },
+                {
+                    "count": 1,
+                    "name": "Heartless Act"
+                },
+                {
+                    "count": 1,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 2,
+                    "name": "Cry of the Carnarium"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Nightmare Muse"
+                }
+            ],
+            "notes": "This deck focuses on quickly setting up a combo win condition by using cards like Thoughtseize and Dig Through Time to control the game, while also disrupting the opponent's strategy with removal spells like Fatal Push and Hero's Downfall. The key strategy is to get either Thassa's Oracle or Jace, Wielder of Mysteries onto the battlefield alongside Inverter of Truth to win the game instantly by manipulating the top of the library. The inclusion of cards like Cling to Dust and Collective Brutality provide additional utility and flexibility in different matchups."
+        },
+        {
+            "date": "2020-06-11",
+            "player": "yamakiller",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=26042&d=395967&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Stasis Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon's Intervention"
+                },
+                {
+                    "count": 3,
+                    "name": "Gideon of the Trials"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 2,
+                    "name": "Anafenza, Kin-Tree Spirit"
+                },
+                {
+                    "count": 2,
+                    "name": "Daxos, Blessed by the Sun"
+                },
+                {
+                    "count": 3,
+                    "name": "Arcanist's Owl"
+                },
+                {
+                    "count": 3,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Heliod, Sun-Crowned"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the White Orchid"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Ardenvale"
+                },
+                {
+                    "count": 3,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 4,
+                    "name": "Nykthos, Shrine to Nyx"
+                },
+                {
+                    "count": 17,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "The Immortal Sun"
+                },
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth Conquers Death"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 1,
+                    "name": "Glare of Heresy"
+                },
+                {
+                    "count": 1,
+                    "name": "Glass Casket"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Baffling End"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly overwhelm the opponent with a swarm of small, efficient creatures and disruption spells. The deck focuses on aggressive early game plays with cards like Thraben Inspector and Knight of the White Orchid, while also utilizing powerful enchantments like Heliod, Sun-Crowned and Anafenza, Kin-Tree Spirit to buff the team. Control elements like Stasis Snare and Gideon of the Trials help deal with threats, while cards like Karn, the Great Creator provide additional utility. The mana base is built around Nykthos, Shrine to Nyx to generate large amounts of mana for explosive turns."
+        },
+        {
+            "date": "2020-06-11",
+            "player": "petomartinez",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=26042&d=395966&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Zealot"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 3,
+                    "name": "Searing Blood"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Chained to the Rocks"
+                }
+            ],
+            "notes": "Focused on aggressive plays and dealing damage quickly, this Red Deck Wins deck utilizes low-cost creatures and burn spells to pressure the opponent. The main strategy revolves around playing cheap and efficient spells to continually chip away at the opponent's life total, while also utilizing the companion Lurrus of the Dream-Den for additional value. By maintaining a fast pace and consistently applying pressure, this aggro deck aims to overwhelm the opponent and secure a swift victory before they can stabilize."
+        },
+        {
+            "date": "2020-06-11",
+            "player": "UrbanPope",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=26042&d=395965&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brave the Elements"
+                },
+                {
+                    "count": 4,
+                    "name": "Dire Tactics"
+                },
+                {
+                    "count": 2,
+                    "name": "Kytheon, Hero of Akros"
+                },
+                {
+                    "count": 3,
+                    "name": "General Kudro of Drannith"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Soldier of the Pantheon"
+                },
+                {
+                    "count": 4,
+                    "name": "Mardu Woe-Reaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauntless Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Benalish Marshal"
+                },
+                {
+                    "count": 4,
+                    "name": "Venerable Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Kitesail Freebooter"
+                },
+                {
+                    "count": 2,
+                    "name": "High Priest of Penance"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon of the Trials"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Tomik, Distinguished Advokist"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "This deck focuses on utilizing cheap, efficient creatures to quickly overwhelm the opponent with a fast and aggressive playstyle. By utilizing cards like Thalia's Lieutenant and Benalish Marshal to pump up the small creatures, it aims to deal damage quickly and efficiently. Cards like Brave the Elements and Dire Tactics help to protect the board and remove threats to keep the pressure on the opponent. The inclusion of Kytheon, Hero of Akros adds a bit of resilience and flexibility to the deck, allowing for different lines of play to push for victory."
+        },
+        {
+            "date": "2020-06-11",
+            "player": "Lord_Beerus",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=26042&d=395964&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 15,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 2,
+                    "name": "Zurgo Bellstriker"
+                },
+                {
+                    "count": 3,
+                    "name": "Torbran, Thane of Red Fell"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Kari Zev's Expertise"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blood"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The deck focuses on aggressive red creatures and direct burn spells to quickly defeat the opponent. It includes powerful creatures like Soul-Scar Mage, Monastery Swiftspear, and Goblin Rabblemaster to apply pressure early on. The burn spells like Wild Slash and Lightning Strike provide reach and removal, while cards like Torbran, Thane of Red Fell increase the damage output of all red sources. The deck aims to win the game as quickly as possible by being proactive and dealing direct damage to the opponent."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

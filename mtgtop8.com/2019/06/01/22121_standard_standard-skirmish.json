@@ -1,0 +1,969 @@
+{
+    "tournament": {
+        "date": "2019-06-01",
+        "name": "Standard Skirmish",
+        "url": "https://mtgtop8.com/event?e=22121",
+        "format": "Standard",
+        "players": 22
+    },
+    "decks": [
+        {
+            "date": "2019-06-01",
+            "player": "Pippy, Matt",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349587&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Sorin, Vengeful Bloodlord"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Ineffable"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, Dreadhorde General"
+                },
+                {
+                    "count": 4,
+                    "name": "Hero of Precinct One"
+                },
+                {
+                    "count": 3,
+                    "name": "Thief of Sanity"
+                },
+                {
+                    "count": 3,
+                    "name": "Elite Guardmage"
+                },
+                {
+                    "count": 1,
+                    "name": "Hostage Taker"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Erasure"
+                },
+                {
+                    "count": 2,
+                    "name": "Tyrant's Scorn"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Despark"
+                },
+                {
+                    "count": 2,
+                    "name": "Mortify"
+                },
+                {
+                    "count": 2,
+                    "name": "Oath of Kaya"
+                },
+                {
+                    "count": 1,
+                    "name": "Command the Dreadhorde"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Command the Dreadhorde"
+                },
+                {
+                    "count": 2,
+                    "name": "The Elderspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaya, Orzhov Usurper"
+                },
+                {
+                    "count": 3,
+                    "name": "Basilica Bell-Haunt"
+                },
+                {
+                    "count": 2,
+                    "name": "Lyra Dawnbringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Wipe"
+                }
+            ],
+            "notes": "This deck focuses on utilizing efficient threats and disruption spells to maintain board control and pressure the opponent. By combining powerful planeswalkers like Teferi, Time Raveler and Teferi, Hero of Dominaria with cards like Hero of Precinct One and Thief of Sanity, the deck aims to outvalue and outpace opponents. Sorin, Vengeful Bloodlord and Command the Dreadhorde provide recursion and lifegain to extend the game. Thought Erasure and other removal spells help disrupt the opponent's game plan, while Oath of Kaya and Elite Guardmage offer additional utility and resilience."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Diamond, Cody",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349588&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Saheeli, Sublime Artificer"
+                },
+                {
+                    "count": 2,
+                    "name": "Discovery/Dispersal"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormenting Voice"
+                },
+                {
+                    "count": 3,
+                    "name": "Radical Idea"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Finale of Promise"
+                },
+                {
+                    "count": 4,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 2,
+                    "name": "God-Eternal Kefnet"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Electromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 3,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 1,
+                    "name": "Ral, Izzet Viceroy"
+                },
+                {
+                    "count": 1,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Entrancing Melody"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Beacon Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly play low-cost spells to trigger powerful abilities from creatures like Arclight Phoenix and Crackling Drake. The deck utilizes cards like Saheeli, Sublime Artificer to create tokens, and spells like Finale of Promise to cast multiple spells from the graveyard. This aggressive strategy aims to overwhelm the opponent with a flurry of spells and creatures, while maintaining card advantage through card draw effects like Radical Idea and Chart a Course. The deck also includes removal spells like Lightning Strike and Lava Coil to deal with opposing threats."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Yetman, Caleb",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349589&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 4,
+                    "name": "Interplanar Beacon"
+                },
+                {
+                    "count": 3,
+                    "name": "Hinterland Harbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Command the Dreadhorde"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Collector of Tales"
+                },
+                {
+                    "count": 2,
+                    "name": "Sorin, Vengeful Bloodlord"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Trostani Discordant"
+                },
+                {
+                    "count": 1,
+                    "name": "Massacre Girl"
+                },
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 3,
+                    "name": "Paradise Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unmoored Ego"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "The Elderspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Kraul Harpooner"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Finale of Eternity"
+                },
+                {
+                    "count": 1,
+                    "name": "Massacre Girl"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by using a combination of powerful planeswalkers and hand disruption spells. By utilizing cards like Command the Dreadhorde and Teferi, Time Raveler, the player can manipulate the board state to their advantage. The deck also includes a variety of creatures with explore abilities to help stabilize their life total. Overall, the goal is to outvalue the opponent through careful card selection and strategic plays, ultimately leading to a victory through attrition."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Flynn, Alexander",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349590&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, Dreadhorde General"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 4,
+                    "name": "Kaya's Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, Scion of Urza"
+                },
+                {
+                    "count": 2,
+                    "name": "Kasmina, Enigmatic Mentor"
+                },
+                {
+                    "count": 3,
+                    "name": "Oath of Kaya"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaya, Orzhov Usurper"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 2,
+                    "name": "The Elderspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Erasure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Command the Dreadhorde"
+                },
+                {
+                    "count": 2,
+                    "name": "Ixalan's Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Cry of the Carnarium"
+                },
+                {
+                    "count": 2,
+                    "name": "Enter the God-Eternals"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 1,
+                    "name": "The Elderspell"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by disrupting the opponent's strategy with counterspells, removal, and hand disruption spells. It aims to stabilize the board with sweepers like Kaya's Wrath and spot removal spells like Cast Down, while also generating card advantage with planeswalkers like Teferi, Hero of Dominaria and Narset, Parter of Veils. The deck also has win conditions in the form of planeswalker ultimates and incremental damage from Oath of Kaya and Kaya, Orzhov Usurper. Overall, the deck seeks to outvalue and outlast the opponent in a grindy, attrition-based game."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Sharpe, Paul",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349592&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Isolated Chapel"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Erasure"
+                },
+                {
+                    "count": 1,
+                    "name": "Oath of Kaya"
+                },
+                {
+                    "count": 1,
+                    "name": "Despark"
+                },
+                {
+                    "count": 1,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 3,
+                    "name": "Mortify"
+                },
+                {
+                    "count": 2,
+                    "name": "Tyrant's Scorn"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaya, Orzhov Usurper"
+                },
+                {
+                    "count": 2,
+                    "name": "Sorin, Vengeful Bloodlord"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 1,
+                    "name": "Basilica Bell-Haunt"
+                },
+                {
+                    "count": 2,
+                    "name": "Elite Guardmage"
+                },
+                {
+                    "count": 2,
+                    "name": "Hostage Taker"
+                },
+                {
+                    "count": 4,
+                    "name": "Thief of Sanity"
+                },
+                {
+                    "count": 4,
+                    "name": "Hero of Precinct One"
+                },
+                {
+                    "count": 1,
+                    "name": "Enter the God-Eternals"
+                },
+                {
+                    "count": 4,
+                    "name": "Drowned Catacomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Ineffable"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Sentinel Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "The Elderspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaya's Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Despark"
+                },
+                {
+                    "count": 3,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Enter the God-Eternals"
+                }
+            ],
+            "notes": "This deck focuses on combining aggressive creatures with disruptive spells and planeswalkers to control the game. It aims to put pressure on the opponent while also disrupting their game plan with cards like Thought Erasure and Thief of Sanity. The planeswalkers provide additional card advantage and utility, while cards like Mortify and Despark deal with threats on the board. Overall, the deck aims to be versatile and proactive, adapting to different matchups and strategies while constantly applying pressure on the opponent."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Warr, Marcel",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349591&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Ineffable"
+                },
+                {
+                    "count": 1,
+                    "name": "Find/Finality"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 2,
+                    "name": "Vraska's Contempt"
+                },
+                {
+                    "count": 3,
+                    "name": "Nissa, Who Shakes the World"
+                },
+                {
+                    "count": 3,
+                    "name": "Casualties of War"
+                },
+                {
+                    "count": 3,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Carnage Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Chupacabra"
+                },
+                {
+                    "count": 4,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Wildgrowth Walker"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Branchwalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 2,
+                    "name": "Finale of Eternity"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis's Cruelty"
+                },
+                {
+                    "count": 1,
+                    "name": "Massacre Girl"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 3,
+                    "name": "The Elderspell"
+                }
+            ],
+            "notes": "The main focus of this Golgari Aggro deck is to quickly ramp up mana with cards like Llanowar Elves and Nissa, Who Shakes the World, while generating card advantage with Jadelight Ranger and Merfolk Branchwalker. These creatures also provide early board presence and help set up for powerful plays like Find / Finality and Casualties of War. With removal spells like Vraska's Contempt and Assassin's Trophy, along with threats like Carnage Tyrant and Vivien Reid, this deck aims to overwhelm opponents with a mix of aggression and control elements."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Stoyles, Chris",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349594&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sarkhan the Masterless"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Who Shakes the World"
+                },
+                {
+                    "count": 2,
+                    "name": "Shock"
+                },
+                {
+                    "count": 3,
+                    "name": "Domri, Anarch of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 3,
+                    "name": "Skarrgan Hellkite"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Gruul Spellbreaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Growth-Chamber Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Rootbound Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Chandra, Fire Artisan"
+                },
+                {
+                    "count": 1,
+                    "name": "Tibalt, Rakish Instigator"
+                },
+                {
+                    "count": 3,
+                    "name": "Thrashing Brontodon"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 3,
+                    "name": "Ripjaw Raptor"
+                }
+            ],
+            "notes": "The deck focuses on fast and aggressive gameplay, utilizing creatures with haste, powerful creature buffs, and direct damage spells to overwhelm the opponent. The key strategy is to quickly establish a board presence with efficient creatures like Legion Warboss and Gruul Spellbreaker, while also utilizing planeswalkers like Domri, Anarch of Bolas for additional value. The deck aims to put pressure on the opponent early on and maintain that pressure throughout the game, ultimately finishing off the opponent with direct damage spells or powerful creatures like Skarrgan Hellkite."
+        },
+        {
+            "date": "2019-06-01",
+            "player": "Crewe-wyatt, Shane",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22121&d=349593&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Chandra, Fire Artisan"
+                },
+                {
+                    "count": 3,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 3,
+                    "name": "Wizard's Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Viashino Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Runaway Steam-Kin"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Firebrand"
+                },
+                {
+                    "count": 20,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Dire Fleet Daredevil"
+                },
+                {
+                    "count": 3,
+                    "name": "Tibalt, Rakish Instigator"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 1,
+                    "name": "Experimental Frenzy"
+                }
+            ],
+            "notes": "The deck focuses on playing low-cost aggressive creatures and burn spells to quickly deal damage to the opponent. By combining cheap spells like Shock and Lightning Strike with efficient creatures like Viashino Pyromancer and Goblin Chainwhirler, the deck aims to finish the game in a fast and aggressive manner. Experimental Frenzy helps generate card advantage and Light Up the Stage offers additional card selection. Runaway Steam-Kin can also help ramp up mana for bigger spells. Overall, the deck aims to overwhelm the opponent with early pressure and direct damage."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

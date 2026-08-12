@@ -1,0 +1,921 @@
+{
+    "tournament": {
+        "date": "2019-05-25",
+        "name": "1k",
+        "url": "https://mtgtop8.com/event?e=22072",
+        "format": "Modern",
+        "players": 45
+    },
+    "decks": [
+        {
+            "date": "2019-05-25",
+            "player": "Taylor Johnson",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349194&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 1,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Animation Module"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Worker"
+                },
+                {
+                    "count": 4,
+                    "name": "Hangarback Walker"
+                },
+                {
+                    "count": 4,
+                    "name": "Hardened Scales"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 3,
+                    "name": "Throne of Geth"
+                },
+                {
+                    "count": 4,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 3,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Reborn"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn's Bastion"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 3,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Welding Jar"
+                }
+            ],
+            "notes": "This Modern 1 vs 1 Aggro deck focuses on utilizing the Hardened Scales card to enhance the +1/+1 counter synergies of the deck. The key strategy involves playing low-cost artifact creatures like Arcbound Ravager and Hangarback Walker, while using cards like Animation Module and Walking Ballista to quickly generate and distribute +1/+1 counters. The deck also includes support cards like Throne of Geth and Welding Jar to protect and manipulate counters, creating a fast-paced and efficient aggro strategy that overwhelms opponents with large, powerful creatures."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Zachary Gottschalk",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349201&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Grapeshot"
+                },
+                {
+                    "count": 2,
+                    "name": "Past in Flames"
+                },
+                {
+                    "count": 4,
+                    "name": "Gifts Ungiven"
+                },
+                {
+                    "count": 1,
+                    "name": "Repeal"
+                },
+                {
+                    "count": 3,
+                    "name": "Remand"
+                },
+                {
+                    "count": 1,
+                    "name": "Peer Through Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Desperate Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyretic Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Visions"
+                },
+                {
+                    "count": 4,
+                    "name": "Baral, Chief of Compliance"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Electromancer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Grapeshot"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Pieces of the Puzzle"
+                },
+                {
+                    "count": 3,
+                    "name": "Empty the Warrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Wipe Away"
+                }
+            ],
+            "notes": "The main focus of this deck is to generate a high amount of mana quickly with cards like Desperate Ritual and Pyretic Ritual, while also reducing the cost of spells with Baral, Chief of Compliance and Goblin Electromancer. Using card draw spells like Opt, Serum Visions, and Sleight of Hand, the goal is to find key combo pieces such as Past in Flames and Grapeshot. By chaining spells together and utilizing Gifts Ungiven to search for specific cards, the deck aims to storm off and deal a lethal amount of damage to the opponent in one explosive turn."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Andra Marinesau",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349200&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Mantis Rider"
+                },
+                {
+                    "count": 4,
+                    "name": "Reflector Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 1,
+                    "name": "Kessig Malcontents"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Heretic Cathar"
+                },
+                {
+                    "count": 3,
+                    "name": "Mayor of Avabruck"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of the Parish"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Ziggurat"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Tajic, Legion's Edge"
+                },
+                {
+                    "count": 2,
+                    "name": "Anafenza, the Foremost"
+                },
+                {
+                    "count": 3,
+                    "name": "Auriok Champion"
+                },
+                {
+                    "count": 2,
+                    "name": "Mirran Crusader"
+                },
+                {
+                    "count": 3,
+                    "name": "Deputy of Detention"
+                },
+                {
+                    "count": 1,
+                    "name": "Kambal, Consul of Allocation"
+                }
+            ],
+            "notes": "The main concept of this Modern deck is to overwhelm the opponent with a fast and aggressive strategy centered around Human creatures. By playing cards like Champion of the Parish and Thalia's Lieutenant, the deck aims to quickly build up a board presence and deal damage efficiently. Cards like Meddling Mage and Reflector Mage disrupt the opponent's game plan, while Aether Vial allows for creatures to be played at instant speed. The mana base is optimized to support a diverse array of Human creatures, ensuring a consistent and powerful game plan."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Geoffrey Thompson",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349199&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 3,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 2,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Ineffable"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn Liberated"
+                },
+                {
+                    "count": 1,
+                    "name": "Buried Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Scrying"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Oblivion Stone"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Promised End"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 2,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 2,
+                    "name": "Warping Wail"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 1,
+                    "name": "Thragtusk"
+                }
+            ],
+            "notes": "The key concept of this deck is to use the UrzaTron lands - Urza's Tower, Urza's Power Plant, and Urza's Mine - to assemble a powerful mana base that allows for casting huge colorless threats like Ulamog, the Ceaseless Hunger and Wurmcoil Engine. The deck focuses on controlling the game with a variety of sweepers like Oblivion Stone and Karn Liberated, while also using Expedition Map and Ancient Stirrings to find key pieces. The deck aims to overwhelm the opponent with powerful threats and take control of the game."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Wesley Higbee",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349195&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 3,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Signal Pest"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Cranial Plating"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Overseer"
+                },
+                {
+                    "count": 1,
+                    "name": "Master of Etherium"
+                },
+                {
+                    "count": 3,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 3,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 2,
+                    "name": "Spire of Industry"
+                },
+                {
+                    "count": 3,
+                    "name": "Glimmervoid"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ghirapur Aether Grid"
+                },
+                {
+                    "count": 4,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispatch"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": "The deck focuses on quickly overwhelming the opponent with a swarm of low-cost artifact creatures, supported by various artifacts and enchantments to boost their power and effectiveness. The key strategy involves using cards like Arcbound Ravager and Cranial Plating to pump up creatures like Vault Skirge and Signal Pest, while utilizing Mox Opal and Springleaf Drum for mana acceleration. Steel Overseer provides additional buffs to the team while Experimental Frenzy allows for continuous card advantage and potential explosive turns. The deck aims to win through aggressive creature combat and direct damage with cards like Galvanic Blast."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Travis Hutton",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349196&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 1,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Helix"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 2,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 2,
+                    "name": "Exquisite Firecraft"
+                },
+                {
+                    "count": 3,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Deflecting Palm"
+                }
+            ],
+            "notes": "This aggressive red deck focuses on quickly dealing damage to the opponent with efficient creatures like Goblin Guide and Monastery Swiftspear, while also using burn spells like Skullcrack and Boros Charm to finish off the opponent. The deck aims to keep the pressure on the opponent by dealing consistent damage and punishing them for playing spells with cards like Eidolon of the Great Revel. With a low mana curve and plenty of direct damage spells, this deck aims to win quickly and decisively."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Kimber Fodge",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349197&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 1,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Helix"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Exquisite Firecraft"
+                },
+                {
+                    "count": 4,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 2,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                }
+            ],
+            "notes": "The deck consists of efficient, low-cost burn spells like Skewer the Critics, Lightning Bolt, and Lava Spike, alongside aggressive creatures like Monastery Swiftspear and Goblin Guide. The goal is to deal damage quickly and efficiently to the opponent, while also disrupting their game plan with cards like Eidolon of the Great Revel. The mana base is streamlined and focused on producing the necessary red mana sources to cast spells. By maintaining pressure and threatening the opponent with a continuous stream of burn spells and creatures, the deck aims to close out the game before the opponent can stabilize."
+        },
+        {
+            "date": "2019-05-25",
+            "player": "Fox Hallock",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22072&d=349198&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Risk Factor"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 2,
+                    "name": "Deflecting Palm"
+                },
+                {
+                    "count": 3,
+                    "name": "Destructive Revelry"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Exquisite Firecraft"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Kor Firewalker"
+                }
+            ],
+            "notes": "The main focus of this deck is to aggressively deal damage to the opponent as quickly as possible, using efficient creature spells like Goblin Guide and Monastery Swiftspear, along with a mix of burn spells like Lightning Bolt and Lava Spike. The deck aims to control the board with cards like Skullcrack and Searing Blaze while maintaining card advantage with Light Up the Stage and Risk Factor. This Aggro - Red Deck Wins archetype relies on a fast and relentless strategy to overwhelm the opponent before they have a chance to stabilize."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,941 @@
+{
+    "tournament": {
+        "date": "2019-06-23",
+        "name": "SCG IQ",
+        "url": "https://mtgtop8.com/event?e=22330",
+        "format": "Modern",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2019-06-23",
+            "player": "Todd Cohner",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351515&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Altar of Dementia"
+                },
+                {
+                    "count": 3,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Bridge from Below"
+                },
+                {
+                    "count": 4,
+                    "name": "Carrion Feeder"
+                },
+                {
+                    "count": 2,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Gravecrawler"
+                },
+                {
+                    "count": 4,
+                    "name": "Hogaak, Arisen Necropolis"
+                },
+                {
+                    "count": 4,
+                    "name": "Insolent Neonate"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Stitcher's Supplier"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Darkblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Ingot Chewer"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 3,
+                    "name": "Silent Gravestone"
+                },
+                {
+                    "count": 3,
+                    "name": "Wispmare"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly fill up your graveyard with cards like Stitcher's Supplier and Faithless Looting, allowing you to bring back powerful creatures like Hogaak, Arisen Necropolis and Vengevine. By sacrificing creatures with cards like Altar of Dementia and Carrion Feeder, you can trigger effects like Bridge from Below and maximize your graveyard synergies. This combo-oriented deck focuses on overwhelming your opponent with a constant stream of creatures and graveyard recursion, leading to fast and explosive plays to secure victory in Modern 1 vs 1 matches."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Cameron Lantz",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351516&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaya's Guile"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Lingering Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 2,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 4,
+                    "name": "Seasoned Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Kambal, Consul of Allocation"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                }
+            ],
+            "notes": "This Mardu Aggro deck focuses on proactive disruption and generating value through token generation and card advantage. It looks to disrupt the opponent's game plan with cards like Thoughtseize, Inquisition of Kozilek, and Fatal Push, while also utilizing proactive threats like Young Pyromancer and Seasoned Pyromancer to pressure the opponent and generate tokens. The deck also includes recursion with Unearth and powerful removal options like Dreadbore and Lightning Bolt. Overall, the key concept of this deck is to disrupt the opponent while generating value and pressure on the battlefield."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Alex Costello",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351517&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Shriekhorn"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 1,
+                    "name": "Nurturing Peatland"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Darkblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Chill"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 2,
+                    "name": "Conflagrate"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Cathartic Reunion"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 4,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 2,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Darkblast"
+                }
+            ],
+            "notes": "The main concept of this deck is to efficiently fill the graveyard with cards, especially using cards like Faithless Looting and Stinkweed Imp, in order to bring back powerful creatures like Prized Amalgam and Bloodghast from the graveyard to the battlefield. By utilizing cards like Life from the Loam to dredge cards back into the hand, this deck aims to overwhelm the opponent with a flurry of creatures and deal massive damage using cards like Creeping Chill and Conflagrate. The key strategy is to consistently mill cards and efficiently recur threats from the graveyard to win the game."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Michael Stanzione",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351514&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Waterlogged Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 3,
+                    "name": "Reflector Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 1,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Mantis Rider"
+                },
+                {
+                    "count": 3,
+                    "name": "Kitesail Freebooter"
+                },
+                {
+                    "count": 4,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 2,
+                    "name": "Deputy of Detention"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of the Parish"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Ziggurat"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Revoker"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Auriok Champion"
+                },
+                {
+                    "count": 1,
+                    "name": "Deputy of Detention"
+                }
+            ],
+            "notes": "This deck focuses on quickly building a board presence with aggressive Human creatures and disrupts the opponent's game plan with disruptive creatures like Thalia, Guardian of Thraben and Meddling Mage. By utilizing cards like Aether Vial and Champion of the Parish, the deck aims to overwhelm the opponent with a fast and efficient offense. The mana base is optimized for casting the diverse array of Human creatures, ensuring a smooth and consistent curve throughout the game."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Daniel Definis",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351513&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Overseer"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Spire of Industry"
+                },
+                {
+                    "count": 4,
+                    "name": "Signal Pest"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 1,
+                    "name": "Master of Etherium"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Experimental Frenzy"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Cranial Plating"
+                },
+                {
+                    "count": 4,
+                    "name": "Blinkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcbound Ravager"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ghirapur Aether Grid"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Etched Champion"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                }
+            ],
+            "notes": "The deck focuses on quickly putting out a swarm of artifact creatures and using Cranial Plating to make them bigger threats. Using cards like Steel Overseer and Arcbound Ravager, it can buff up its creatures even more while also having removal options like Galvanic Blast. The inclusion of cards like Welding Jar and Experimental Frenzy adds additional versatility and resilience to the deck, allowing it to adapt to different matchups and situations. Overall, the deck aims to overwhelm the opponent with a fast and aggressive strategy built around its affinity for artifacts."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Ryan Potter",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351512&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Finale of Promise"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 3,
+                    "name": "Crash Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Manamorphose"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Blistercoil Weird"
+                },
+                {
+                    "count": 3,
+                    "name": "Bedlam Reveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunbaked Canyon"
+                },
+                {
+                    "count": 16,
+                    "name": "Snow-Covered Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattering Spree"
+                },
+                {
+                    "count": 1,
+                    "name": "Seasoned Pyromancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Saheeli, Sublime Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Forked Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrade"
+                }
+            ],
+            "notes": "This deck focuses on utilizing cheap, efficient spells and creatures to deal damage quickly to the opponent. By casting low-cost spells like Lightning Bolt and Lava Spike, the deck can apply pressure early on, with cards like Monastery Swiftspear and Soul-Scar Mage benefiting from casting spells. Cards like Faithless Looting and Light Up the Stage help to maintain card advantage and find more burn spells. The goal is to overwhelm the opponent with fast, consistent damage and secure a quick victory."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Jeremy Lesher",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351511&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Altar of Dementia"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Bridge from Below"
+                },
+                {
+                    "count": 3,
+                    "name": "Carrion Feeder"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 3,
+                    "name": "Gravecrawler"
+                },
+                {
+                    "count": 4,
+                    "name": "Hogaak, Arisen Necropolis"
+                },
+                {
+                    "count": 4,
+                    "name": "Insolent Neonate"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Stitcher's Supplier"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodghast"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Crypt"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Darkblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 1,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "The main concept of this Dredge combo deck is to utilize cards such as Faithless Looting and Stitcher's Supplier to quickly fill your graveyard with creatures like Gravecrawler and Bloodghast. This allows you to easily cast powerful cards like Vengevine and Hogaak, Arisen Necropolis. The key strategy is to constantly bring back creatures from your graveyard, triggering Bridge from Below and overwhelming your opponent with a swarm of creatures. Leyline of the Void is included to disrupt opponent's graveyard strategies, making it difficult for them to interact with your game plan."
+        },
+        {
+            "date": "2019-06-23",
+            "player": "Albert Liao",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=22330&d=351510&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 2,
+                    "name": "Anafenza, the Foremost"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Ziggurat"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Champion of the Parish"
+                },
+                {
+                    "count": 1,
+                    "name": "Deputy of Detention"
+                },
+                {
+                    "count": 4,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Mantis Rider"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Phantasmal Image"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Reflector Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 2,
+                    "name": "Unsettled Mariner"
+                },
+                {
+                    "count": 1,
+                    "name": "Waterlogged Grove"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Deputy of Detention"
+                },
+                {
+                    "count": 3,
+                    "name": "Auriok Champion"
+                },
+                {
+                    "count": 2,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 1,
+                    "name": "Kessig Malcontents"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 2,
+                    "name": "Sin Collector"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": "The main concept of this Aggro-Humans deck is to utilize efficient creatures and disruptive spells to quickly overwhelm the opponent. By using cards like Champion of the Parish, Thalia's Lieutenant, and Noble Hierarch to pump up the creatures, alongside cards like Meddling Mage and Thalia, Guardian of Thraben to disrupt the opponent's game plan, the deck aims to create a fast and aggressive board state. Cards like Aether Vial and Unclaimed Territory allow for flexibility in casting creatures, while cards like Reflector Mage provide tempo advantage by bouncing the opponent's threats."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

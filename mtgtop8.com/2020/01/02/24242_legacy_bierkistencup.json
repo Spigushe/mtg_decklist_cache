@@ -1,0 +1,641 @@
+{
+    "tournament": {
+        "date": "2020-01-02",
+        "name": "Bierkistencup",
+        "url": "https://mtgtop8.com/event?e=24242",
+        "format": "Legacy",
+        "players": 15
+    },
+    "decks": [
+        {
+            "date": "2020-01-02",
+            "player": "Thomas Buchner",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=24242&d=369232&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Glistener Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Blighted Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Invigorate"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 2,
+                    "name": "Become Immense"
+                },
+                {
+                    "count": 3,
+                    "name": "Berserk"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Crop Rotation"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Silent Gravestone"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Blossoming Defense"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and efficiently deal poison counters to the opponent using infect creatures like Glistener Elf and Blighted Agent. The deck aims to protect these creatures with counter spells like Force of Will and Daze while also pumping them up with spells like Berserk and Invigorate to close out the game as quickly as possible. The deck also includes some card draw and manipulation with Brainstorm, Ponder, and Sylvan Library to ensure the combo pieces come together smoothly. Additionally, the deck includes disruption with cards like Wasteland and Spell Pierce to control the game state."
+        },
+        {
+            "date": "2020-01-02",
+            "player": "Michael Buchner",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=24242&d=369233&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 1,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Reliquary"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 2,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 2,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 3,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Devastating Dreams"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 1,
+                    "name": "Garruk Relentless"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The deck focuses on disrupting the opponent's strategy through a combination of land destruction with Wasteland, recurring Punishing Fire, and controlling the board with Chalice of the Void. The main win condition revolves around assembling the Dark Depths-Thespian's Stage combo or using Knight of the Reliquary to search for key lands. The deck also includes hand disruption with Liliana of the Veil and removal spells like Abrupt Decay and Assassin's Trophy. Life from the Loam helps to recur valuable lands while filling the graveyard for potential graveyard synergies."
+        },
+        {
+            "date": "2020-01-02",
+            "player": "Pox",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=24242&d=369231&f=LE",
+            "mainboard": [
+                {
+                    "count": 9,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Pit"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 1,
+                    "name": "Tombstalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Rotting Regisaur"
+                },
+                {
+                    "count": 1,
+                    "name": "Nether Spirit"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 4,
+                    "name": "Smallpox"
+                },
+                {
+                    "count": 3,
+                    "name": "Innocent Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 3,
+                    "name": "Hymn to Tourach"
+                },
+                {
+                    "count": 4,
+                    "name": "Sinkhole"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 4,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Grim Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Nether Void"
+                },
+                {
+                    "count": 1,
+                    "name": "The Abyss"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 3,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Chains of Mephistopheles"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                }
+            ],
+            "notes": "The main concept of this deck is to heavily disrupt the opponent's resources and win through attrition. By utilizing cards like Smallpox, Sinkhole, and The Abyss, the deck aims to control the board and destroy the opponent's lands and creatures. This strategy is supported by cards like Dark Ritual for fast mana acceleration, and Liliana of the Veil for discard and removal. The inclusion of cards like Nether Void and Tabernacle at Pendrell Vale further adds to the disruption, making it difficult for the opponent to develop their board and ultimately securing victory."
+        },
+        {
+            "date": "2020-01-02",
+            "player": "Michael Hammelmüller",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=24242&d=369230&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 3,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 1,
+                    "name": "God-Eternal Kefnet"
+                },
+                {
+                    "count": 1,
+                    "name": "Bedlam Reveler"
+                },
+                {
+                    "count": 1,
+                    "name": "The Royal Scions"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "Magmatic Sinkhole"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Serum Visions"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Sudden Demise"
+                },
+                {
+                    "count": 1,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Darksteel Colossus"
+                }
+            ],
+            "notes": "This UR Aggro deck aims to quickly overwhelm the opponent with aggressive creatures and efficient spells. The deck is built around powerful threats like Delver of Secrets, Young Pyromancer, and Dreadhorde Arcanist, backed up by disruptive spells like Force of Will, Daze, and Wasteland to control the game. The deck's low mana curve and card draw spells like Brainstorm and Ponder ensure that the player can maintain pressure throughout the game. The goal is to deal damage quickly and efficiently, while disrupting the opponent's game plan."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

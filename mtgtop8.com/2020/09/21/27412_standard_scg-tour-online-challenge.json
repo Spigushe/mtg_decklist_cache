@@ -1,0 +1,937 @@
+{
+    "tournament": {
+        "date": "2020-09-21",
+        "name": "SCG Tour Online - Challenge",
+        "url": "https://mtgtop8.com/event?e=27412",
+        "format": "Standard",
+        "players": 22
+    },
+    "decks": [
+        {
+            "date": "2020-09-21",
+            "player": "Adam Hernandez",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417575&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 2,
+                    "name": "Migration Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 4,
+                    "name": "Terror of the Peaks"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Beanstalk Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Radha, Heart of Keld"
+                },
+                {
+                    "count": 1,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenrith, the Returned King"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 2,
+                    "name": "Thundering Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Storm's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Elder Gargaroth"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game while ramping up mana with Omnath as the key card. By playing powerful ramp spells like Genesis Ultimatum and Lotus Cobra, you can quickly flood the board with strong threats such as Terror of the Peaks and Uro. With a strong mana base and card draw engines like Uro, this deck can outpace and outvalue opponents in the mid to late game. The inclusion of removal spells like Bonecrusher Giant and versatile creatures like Radha provide flexibility in handling threats while maintaining pressure on the opponent."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Hajime Sugawara",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417576&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Primal Might"
+                },
+                {
+                    "count": 3,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Turntimber Symbiosis"
+                },
+                {
+                    "count": 4,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 1,
+                    "name": "Radha, Heart of Keld"
+                },
+                {
+                    "count": 3,
+                    "name": "Garruk's Harbinger"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Rimrock Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Edgewall Innkeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Robber of the Rich"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 2,
+                    "name": "Temple of Abandon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Thundering Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Garruk, Unleashed"
+                },
+                {
+                    "count": 2,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 2,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 2,
+                    "name": "Primal Might"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying creatures and using them to apply pressure on the opponent while utilizing the Adventure mechanic to generate value and maintain card advantage. It also includes powerful finishers like Embercleave and Primal Might to help close out games swiftly. The mix of aggressive creatures and versatile removal spells make it a strong contender in the early to mid-game, aiming to overwhelm the opponent before they can establish a solid defense. The deck's strategy revolves around efficient creature plays and combat tricks to come out victorious in battle."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Shohei Yamamoto",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417578&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Primal Might"
+                },
+                {
+                    "count": 3,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Turntimber Symbiosis"
+                },
+                {
+                    "count": 4,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 1,
+                    "name": "Radha, Heart of Keld"
+                },
+                {
+                    "count": 3,
+                    "name": "Garruk's Harbinger"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Rimrock Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Robber of the Rich"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Edgewall Innkeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 2,
+                    "name": "Temple of Abandon"
+                },
+                {
+                    "count": 3,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Thundering Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Garruk, Unleashed"
+                },
+                {
+                    "count": 2,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 2,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 2,
+                    "name": "Primal Might"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the Adventure mechanic to maintain a constant stream of aggressive creatures with additional benefits from casting Adventure spells. By including powerful creatures like Questing Beast and Lovestruck Beast, along with removal spells like Primal Might and Shatterskull Smashing, the deck aims to dominate the board and overwhelm the opponent quickly. The key strategy is to maintain pressure through a combination of efficient creatures and removal spells while also leveraging the card advantage provided by Edgewall Innkeeper and Robber of the Rich."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Shota Yokoyama",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417577&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape to the Wilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Cultivate"
+                },
+                {
+                    "count": 3,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 2,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenrith, the Returned King"
+                },
+                {
+                    "count": 4,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Riverglide Pathway"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Confounding Conundrum"
+                },
+                {
+                    "count": 2,
+                    "name": "Felidar Retreat"
+                },
+                {
+                    "count": 2,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 1,
+                    "name": "Baneslayer Angel"
+                }
+            ],
+            "notes": "This deck aims to control the game by ramping into powerful threats like Uro, Titan of Nature's Wrath and Omnath, Locus of Creation. With cards like Genesis Ultimatum and Escape to the Wilds, the deck can quickly generate advantage and overwhelm opponents. The inclusion of Ugin, the Spirit Dragon provides additional control elements to deal with opposing threats. The mana base is carefully constructed to ensure consistent ramp and color fixing, allowing the deck to execute its game plan efficiently and effectively."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Jamal Greenidge",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417580&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Mythos of Illuna"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 3,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 4,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 4,
+                    "name": "Cultivate"
+                },
+                {
+                    "count": 2,
+                    "name": "Moraug, Fury of Akoum"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenrith, the Returned King"
+                },
+                {
+                    "count": 2,
+                    "name": "Gilded Goose"
+                },
+                {
+                    "count": 2,
+                    "name": "Azusa, Lost but Seeking"
+                },
+                {
+                    "count": 3,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple of Enlightenment"
+                },
+                {
+                    "count": 2,
+                    "name": "Temple of Plenty"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Vantress"
+                },
+                {
+                    "count": 3,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Temple of Mystery"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Neutralize"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Shatter the Sky"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth Conquers Death"
+                },
+                {
+                    "count": 2,
+                    "name": "Sublime Epiphany"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset of the Ancient Way"
+                },
+                {
+                    "count": 1,
+                    "name": "Wilt"
+                }
+            ],
+            "notes": "The deck focuses on ramping up mana quickly using cards like Cultivate, Lotus Cobra, and Uro, Titan of Nature's Wrath to reach powerful late-game cards like Ugin, the Spirit Dragon and Genesis Ultimatum. It also includes control elements such as Shark Typhoon and Mythos of Illuna to deal with opponent threats. Omnath, Locus of Creation serves as a versatile centerpiece that can generate value and finish games quickly. The deck aims to set up a strong board presence while controlling the game, allowing it to dominate the late game with powerful spells and threats."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Tomohiro Tsuda",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417574&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 3,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 2,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Felidar Retreat"
+                },
+                {
+                    "count": 4,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape to the Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Cultivate"
+                },
+                {
+                    "count": 2,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 3,
+                    "name": "Ilysian Caryatid"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenrith, the Returned King"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 4,
+                    "name": "Confounding Conundrum"
+                },
+                {
+                    "count": 3,
+                    "name": "Elder Gargaroth"
+                }
+            ],
+            "notes": "The key concept of this deck is to use ramp cards like Lotus Cobra and Uro, Titan of Nature's Wrath to quickly generate mana, allowing for the early casting of powerful spells like Felidar Retreat and Genesis Ultimatum. The deck aims to control the board with removal spells like Spikefield Hazard while ramping up mana to play threats like Omnath, Locus of Creation and Kenrith, the Returned King. By efficiently ramping up mana and controlling the board, this deck can overpower opponents with its powerful late-game threats."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Zachary Okorn",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417573&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 3,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape to the Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 3,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 3,
+                    "name": "Terror of the Peaks"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenrith, the Returned King"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Confounding Conundrum"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Storm's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                }
+            ],
+            "notes": "The deck focuses on using ramp cards like Lotus Cobra and Uro, Titan of Nature's Wrath to quickly generate mana and play powerful spells like Genesis Ultimatum and Omnath, Locus of Creation. By controlling the board with removal spells like Spikefield Hazard and Shatterskull Smashing, the deck aims to overpower opponents with big creatures like Terror of the Peaks and Ugin, the Spirit Dragon. The inclusion of cards like Escape to the Wilds and Kenrith, the Returned King provide additional utility and card advantage to ensure a dominant late-game presence."
+        },
+        {
+            "date": "2020-09-21",
+            "player": "Ryosuke Nishiura",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=27412&d=417579&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 3,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Felidar Retreat"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape to the Wilds"
+                },
+                {
+                    "count": 3,
+                    "name": "Genesis Ultimatum"
+                },
+                {
+                    "count": 2,
+                    "name": "Cultivate"
+                },
+                {
+                    "count": 2,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Cobra"
+                },
+                {
+                    "count": 4,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 3,
+                    "name": "Ilysian Caryatid"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenrith, the Returned King"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Confounding Conundrum"
+                },
+                {
+                    "count": 4,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 3,
+                    "name": "Elder Gargaroth"
+                }
+            ],
+            "notes": "The main idea of this deck is to control the game by ramping up mana quickly with cards like Lotus Cobra and Uro, Titan of Nature's Wrath, while also utilizing cards like Felidar Retreat and Omnath, Locus of Creation to create a variety of threats on the board. The deck also includes powerful spells like Genesis Ultimatum and Escape to the Wilds to generate card advantage and overwhelm the opponent with a high mana curve. Additionally, having Kenrith, the Returned King provides versatility and flexibility in different game situations. Overall, the deck aims to outvalue and outpace the opponent to secure victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

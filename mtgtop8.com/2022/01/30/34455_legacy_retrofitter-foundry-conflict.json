@@ -1,0 +1,954 @@
+{
+    "tournament": {
+        "date": "2022-01-30",
+        "name": "Retrofitter Foundry Conflict",
+        "url": "https://mtgtop8.com/event?e=34455",
+        "format": "Legacy",
+        "players": 28
+    },
+    "decks": [
+        {
+            "date": "2022-01-30",
+            "player": "Hata Kazuhei",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461499&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blighted Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Glistener Elf"
+                },
+                {
+                    "count": 1,
+                    "name": "Become Immense"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Berserk"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Invigorate"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Scale Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                }
+            ],
+            "notes": "This deck focuses on using cheap, efficient creatures like Glistener Elf and Blighted Agent to deal damage with infect counters. It also incorporates pump spells like Invigorate and Berserk to quickly increase the infect damage dealt. The deck includes disruption cards like Force of Will and Daze to protect its combo pieces, as well as card draw and selection spells like Brainstorm and Ponder to ensure consistency. The mana base is designed to support the deck's strategy, with dual lands and fetch lands to provide the necessary colors of mana."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Hayashi Tatsuya",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461500&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 1,
+                    "name": "Retrofitter Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Scryb Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Reliquary"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Sejiri Steppe"
+                },
+                {
+                    "count": 2,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 2,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 3,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfur Elemental"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                }
+            ],
+            "notes": "The deck focuses on using the combo of Dark Depths and Thespian's Stage to create a 20/20 Marit Lage token. The deck includes cards like Crop Rotation and Green Sun's Zenith to find the combo pieces quickly, along with interaction cards like Swords to Plowshares and Prismatic Ending to control the opponent's board. The deck also utilizes lands like Maze of Ith and Karakas for protection and utility, making it a versatile and deadly combo deck in the Legacy 1 vs 1 format."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Takiguchi Yuta",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461501&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, the Immortal"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroid Krasis"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 3,
+                    "name": "Misthollow Griffin"
+                },
+                {
+                    "count": 3,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 4,
+                    "name": "Watcher for Tomorrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Food Chain"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Waterlogged Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Venser, Shaper Savant"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Meddling Mage"
+                }
+            ],
+            "notes": "The deck focuses on assembling the Food Chain combo to generate infinite mana and cast creatures from exile for a powerful board presence. It also includes disruptive elements like Force of Will and Teferi, Time Raveler to protect the combo and control the game. The deck includes a mix of utility creatures, card draw, and removal spells to support the combo and adapt to different situations. It aims to efficiently combo off while disrupting opponents and maintaining a strong board presence to secure victory in Legacy 1 vs 1 matches."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Tsurumi Daiki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461504&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 3,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                }
+            ],
+            "notes": "The focus of the deck is to control the game through a combination of counterspells, removal spells, and powerful planeswalkers. Utilizing cards like Force of Will, Swords to Plowshares, and Jace, the Mind Sculptor, the deck aims to disrupt the opponent's strategy while generating card advantage with cards like Sylvan Library and Ponder. Additionally, Life from the Loam and Wasteland provide a means of resource denial against the opponent, while Uro, Titan of Nature's Wrath offers a powerful threat and card advantage engine. The deck aims to outvalue and outmaneuver the opponent in a grindy game."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Shinohara Gen",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461505&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Retrofitter Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Hullbreacher"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize artifacts and card advantage to quickly overwhelm the opponent with a swarm of token creatures and disruptive abilities. By utilizing powerful artifacts such as Retrofitter Foundry and Mox Opal, alongside card draw engines like Urza's Bauble and Thoughtcast, the deck aims to establish a dominant board presence and control the game through disruption like Chalice of the Void and Force of Will. The synergy between cards like Emry, Lurker of the Loch and Sai, Master Thopterist further enhances the deck's ability to generate value and pressure the opponent."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Shimizu Hiroaki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461502&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Svyelun of Sea and Sky"
+                },
+                {
+                    "count": 1,
+                    "name": "Hullbreacher"
+                },
+                {
+                    "count": 1,
+                    "name": "Harbinger of the Tides"
+                },
+                {
+                    "count": 3,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Tide Shaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Silvergill Adept"
+                },
+                {
+                    "count": 4,
+                    "name": "Lord of Atlantis"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of the Pearl Trident"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Tides"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistcaller"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Grip of Phyresis"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with a fast and aggressive Merfolk tribal strategy. With cards like True-Name Nemesis, Lord of Atlantis, and Master of the Pearl Trident, the deck aims to pump up its Merfolk creatures and deal damage quickly. Chalice of the Void and Force of Will are included to disrupt the opponent's game plan, while Aether Vial helps to quickly deploy creatures onto the battlefield. Wasteland is included for additional disruption, and Cavern of Souls ensures that the Merfolk spells can't be countered."
+        },
+        {
+            "date": "2022-01-30",
+            "player": "Yamaguchi Minami",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=34455&d=461503&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "Forked Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Maddening Hex"
+                },
+                {
+                    "count": 1,
+                    "name": "Izzet Staticaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly apply pressure on the opponent through aggressive creature attacks while disrupting their game plan with countermagic and removal spells. By utilizing efficient threats like Delver of Secrets, True-Name Nemesis, Murktide Regent, and Dragon's Rage Channeler, the deck aims to control the pace of the game and close out the match before the opponent can stabilize. The deck also includes card selection and advantage through spells like Brainstorm, Ponder, and Expressive Iteration to ensure consistency in drawing important cards. Additionally, the deck features a mana denial package with Wasteland, alongside a mix of burn spells for added reach and removal options."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

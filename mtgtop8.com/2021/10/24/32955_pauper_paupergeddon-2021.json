@@ -1,0 +1,933 @@
+{
+    "tournament": {
+        "date": "2021-10-24",
+        "name": "PauperGeddon 2021",
+        "url": "https://mtgtop8.com/event?e=32955",
+        "format": "Pauper",
+        "players": 186
+    },
+    "decks": [
+        {
+            "date": "2021-10-24",
+            "player": "Matteo Moure",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452265&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 3,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Lose Focus"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game through countering and removing opponent's threats while utilizing cheap and efficient card draw and filtering spells. The deck aims to disrupt the opponent's game plan and maintain card advantage through cards like Brainstorm and Preordain. It also includes creatures with evasion and card advantage abilities, such as Ninja of the Deep Hours and Spellstutter Sprite, to generate further card advantage. The deck focuses on maintaining board presence and establishing control over the game through its spells and creatures."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Mirco Ciavatta",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452266&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Lose Focus"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul of Migration"
+                },
+                {
+                    "count": 2,
+                    "name": "Crimson Fleet Commodore"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 2,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Faultgrinder"
+                },
+                {
+                    "count": 1,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game using a combination of removal spells, counterspells, and creatures with enter-the-battlefield effects. Ephemerate is a key card that can be used to protect creatures, reuse their abilities, or reset them to avoid removal. The deck focuses on card advantage through cantrips like Preordain and card draw creatures like Mulldrifter. It also has some land destruction to disrupt opponents' mana bases. Overall, the deck aims to outvalue and outlast opponents through efficient control and versatile creatures."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Francesco Il Grande",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452267&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 3,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Disciple of the Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly flood the board with cheap artifacts such as Gearseeker Serpent, Myr Enforcer, and Atog, while also benefiting from their additional effects. The deck aims to generate card advantage through efficient card draw spells like Thoughtcast and Ichor Wellspring, while utilizing cards like Galvanic Blast and Fling as finishers to deal damage to the opponent. Additionally, cards like Disciple of the Vault and Deadly Dispute provide additional ways to leverage artifacts for maximum value. This deck relies on a fast and aggressive playstyle to overwhelm the opponent."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Paolo Donfrancesco",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452268&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 3,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Ivy Lane Denizen"
+                },
+                {
+                    "count": 4,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 13,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Spidersilk Armor"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 1,
+                    "name": "Harsh Sustenance"
+                },
+                {
+                    "count": 1,
+                    "name": "Nomadic Elf"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly swarm the board with low-cost Elf creatures and generate a large amount of mana with cards like Birchlore Rangers, Priest of Titania, and other mana-producing Elves. This allows the player to utilize powerful Elf-specific spells like Timberwatch Elf and Lys Alana Huntmaster to boost the power and toughness of their creatures. The player can also draw a significant amount of cards with Distant Melody and Lead the Stampede to keep their hand full and maintain pressure on the opponent. The deck also includes a few control elements with Negate and Viridian Longbow to handle threats from the opponent."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Francesco Ianniello",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452269&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Disciple of the Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 2,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Darksteel Citadel"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Reaping the Graves"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly flood the board with artifact creatures and use them in combination with various artifact cards to deal damage to the opponent. By maximizing the efficiency of artifacts like Ichor Wellspring and Prophetic Prism, the deck aims to amass a threatening board presence while also generating card advantage. Cards like Atog and Fling can be used as finishers to close out the game swiftly. Additionally, the inclusion of cards like Galvanic Blast and Makeshift Munitions provide the deck with additional reach and removal options."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Victor Diman",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452271&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Rally the Peasants"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 2,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 2,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Lumithread Field"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 1,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 1,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                }
+            ],
+            "notes": "The main concept of this Boros Aggro deck is to quickly establish a board presence with efficient creatures like Seeker of the Way, Thraben Inspector, and Squadron Hawk, while using burn spells like Galvanic Blast and Abrade to control the board. The deck also includes cards like Rally the Peasants and Battle Screech to go wide and overwhelm the opponent. Prismatic Strands provides protection against opposing removal spells, while cards like Cleansing Wildfire and Palace Sentinels help with card advantage and disruption. The deck aims to apply consistent pressure and finish the game quickly."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Luca Bonuglia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452270&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thermo-Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Needle Drop"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Curse of the Bloody Tome"
+                },
+                {
+                    "count": 15,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Forgotten Cave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Keldon Marauders"
+                },
+                {
+                    "count": 3,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 3,
+                    "name": "Molten Rain"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly deal damage and drain the opponent's life total using cheap and efficient burn spells and creatures. Thermo-Alchemist and Ghitu Lavarunner provide consistent damage output, while cards like Lightning Bolt, Lava Spike, Rift Bolt, and Chain Lightning efficiently burn the opponent. Searing Blaze deals damage to creatures and the opponent, while Needle Drop allows the player to draw cards while dealing damage. Fireblast adds a powerful burst of damage when needed. Curse of the Bloody Tome helps to mill the opponent's deck, and Forgotten Cave provides additional card draw."
+        },
+        {
+            "date": "2021-10-24",
+            "player": "Valerio Ferretti",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=32955&d=452272&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Nest Invader"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 2,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 1,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunger of the Howlpack"
+                },
+                {
+                    "count": 4,
+                    "name": "Savage Swipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 3,
+                    "name": "Elephant Guide"
+                },
+                {
+                    "count": 17,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 3,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrap in Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                }
+            ],
+            "notes": "The main focus of this Mono Green Aggro deck is to quickly deploy low-cost creatures and pump them up with various combat tricks like Hunger of the Howlpack, Savage Swipe, and Rancor. The deck aims to overwhelm opponents by amassing a strong board presence early on and attacking relentlessly. Cards like Nest Invader and Burning-Tree Emissary help accelerate the deck's game plan, while creatures like Skarrgan Pit-Skulk and Silhana Ledgewalker offer evasion and resilience. Overall, the deck aims to be fast, aggressive, and efficient in pressuring opponents."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

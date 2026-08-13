@@ -1,0 +1,961 @@
+{
+    "tournament": {
+        "date": "2021-11-17",
+        "name": "Fuguete League 5.06",
+        "url": "https://mtgtop8.com/event?e=33361",
+        "format": "Pauper",
+        "players": 36
+    },
+    "decks": [
+        {
+            "date": "2021-11-17",
+            "player": "Andrebonotto",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454539&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 3,
+                    "name": "Savage Swipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 3,
+                    "name": "Boreal Centaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Nacatl"
+                },
+                {
+                    "count": 4,
+                    "name": "Kird Ape"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Arctic Treeline"
+                },
+                {
+                    "count": 1,
+                    "name": "Gruul Turf"
+                },
+                {
+                    "count": 4,
+                    "name": "Highland Forest"
+                },
+                {
+                    "count": 6,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 6,
+                    "name": "Snow-Covered Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquility"
+                },
+                {
+                    "count": 3,
+                    "name": "Masked Vandal"
+                }
+            ],
+            "notes": "The main concept of this deck is to use aggressive creatures and efficient burn spells to overwhelm the opponent quickly. The deck includes creatures with low mana costs and strong power/toughness ratios, such as Wild Mongrel and Kird Ape. It also includes spells like Lightning Bolt and Fiery Temper to remove opposing threats and chip away at the opponent's life total. The inclusion of cards like Faithless Looting allows for card draw and filtering, ensuring the deck maintains a steady stream of threats and answers. The mana base includes a mix of Snow-Covered Mountains and Forests to maximize the effectiveness of Wild Nacatl and Boreal Centaur."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Kidsliver",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454540&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Disciple of the Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 2,
+                    "name": "Terrarion"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                }
+            ],
+            "notes": "The deck focuses on quickly overwhelming the opponent with cheap artifact creatures and utilizing sacrifice effects to deal damage directly to the opponent. By flooding the board with artifacts and utilizing cards like Disciple of the Vault and Fling, the deck aims to deal damage quickly and efficiently. Additionally, the deck includes draw spells like Thoughtcast to maintain card advantage. Overall, the deck aims to apply constant pressure and deal damage through aggressive creature plays and sacrifice effects."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Mrspoock",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454542&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Crimson Fleet Commodore"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 1,
+                    "name": "Disrupt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 11,
+                    "name": "Snow-Covered Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 2,
+                    "name": "Curfew"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The deck focuses on using a combination of counterspells, removal spells, and card draw to control the game and prevent opponents from developing their board. By using efficient threats like Ninja of the Deep Hours and Spellstutter Sprite, along with burn spells like Skred and Lightning Bolt, the deck aims to disrupt the opponent's game plan while maintaining card advantage through cantrips like Brainstorm and Preordain. The deck also utilizes Snow-Covered lands to enable Skred as a powerful removal spell."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Wisanto",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454541&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 1,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 2,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Unwind"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Rain of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 3,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Rolling Thunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Cave of Temptation"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Campus"
+                },
+                {
+                    "count": 1,
+                    "name": "Quandrix Campus"
+                },
+                {
+                    "count": 3,
+                    "name": "Thriving Isle"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 1,
+                    "name": "Dinrova Horror"
+                },
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 1,
+                    "name": "Sprout Swarm"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "The deck aims to control the game by utilizing lands that generate large amounts of mana (Urzatron lands) to cast powerful spells and creatures. It focuses on card advantage, disruption, and efficient removal to outlast opponents. The deck includes a mix of cards for card draw, mana fixing, removal, and recursion, allowing for flexibility in different matchups. By assembling the Urzatron lands and efficiently using its spells, the deck can overpower opponents and grind out victories through attrition and resource management."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Samaggy",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454543&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 2,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaervek's Torch"
+                },
+                {
+                    "count": 4,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Wrap in Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Magnify"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm your opponent with a fast and aggressive strategy utilizing Elf creatures. By ramping up your mana with elves like Elvish Mystic and Priest of Titania, you can quickly play powerful cards like Ulamog's Crusher. Cards like Timberwatch Elf and Elvish Vanguard can buff up your Elves for massive damage. Lead the Stampede and Distant Melody help refill your hand with creatures to keep the pressure on. Overall, this deck aims to flood the board with Elves and quickly finish off your opponent."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Arturcosta",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454544&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 1,
+                    "name": "Ivy Lane Denizen"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 3,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 12,
+                    "name": "Snow-Covered Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrap in Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly build a strong board presence with elf creatures and generate card advantage with spells like Distant Melody and Lead the Stampede. The key strategy is to ramp up mana with mana-producing elves like Priest of Titania and Birchlore Rangers, while also gaining life with Wellwisher. Once a critical mass of elves is on the board, the deck aims to overwhelm the opponent with powerful synergy between cards like Ivy Lane Denizen, Lys Alana Huntmaster, and Timberwatch Elf to push for a quick victory."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Pirula42",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454546&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Kiln Fiend"
+                },
+                {
+                    "count": 4,
+                    "name": "Immolating Souleater"
+                },
+                {
+                    "count": 4,
+                    "name": "Festival Crasher"
+                },
+                {
+                    "count": 2,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Apostle's Blessing"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Assault Strobe"
+                },
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Crash Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 4,
+                    "name": "Rite of Flame"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 2,
+                    "name": "Underworld Rage-Hound"
+                },
+                {
+                    "count": 2,
+                    "name": "Maximize Velocity"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 3,
+                    "name": "Raze the Effigy"
+                }
+            ],
+            "notes": "The main focus of this Pauper Aggro deck is to quickly and aggressively deal damage to the opponent using creatures like Kiln Fiend and Immolating Souleater, accompanied by pump spells like Temur Battle Rage, Mutagenic Growth, and Apostle's Blessing. Festival Crasher provides additional fast damage, while cards like Lightning Bolt and Fireblast can finish off the opponent. Rite of Flame helps ramp up mana for big plays, while Crash Through and Assault Strobe help to push through damage. Faithless Looting provides card selection and Ancestral Anger can help to close out games."
+        },
+        {
+            "date": "2021-11-17",
+            "player": "Thierestms",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=33361&d=454545&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 4,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 3,
+                    "name": "Pristine Talisman"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Divest"
+                },
+                {
+                    "count": 3,
+                    "name": "Night's Whisper"
+                },
+                {
+                    "count": 4,
+                    "name": "Castigate"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Dead Weight"
+                },
+                {
+                    "count": 4,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Kabira Crossroads"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverquill Campus"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 4,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                }
+            ],
+            "notes": "The main strategy of this deck is to control the board using removal spells like Cast Down and Chainer's Edict, while utilizing cards like Guardian of the Guildpact and Thorn of the Black Rose to establish a strong board presence. The key card in this deck is Pestilence, which can be used to clear the board of smaller creatures while keeping your own creatures alive. Pristine Talisman and other mana ramp cards help you reach the mana necessary to cast Pestilence multiple times in a turn, allowing you to maintain control of the game."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,933 @@
+{
+    "tournament": {
+        "date": "2021-05-09",
+        "name": "Italian Open",
+        "url": "https://mtgtop8.com/event?e=30600",
+        "format": "Pauper",
+        "players": 36
+    },
+    "decks": [
+        {
+            "date": "2021-05-09",
+            "player": "Bl1nd",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438619&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 1,
+                    "name": "Azure Fleet Admiral"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 3,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 3,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                }
+            ],
+            "notes": "The deck focuses on strong control elements, utilizing a mix of removal spells, counterspells, and card draw to handle threats and control the game. It also includes creatures that can provide value or disrupt the opponent's plans, such as Spellstutter Sprite and Ninja of the Deep Hours. The deck aims to maintain control of the game through disruption and card advantage, eventually winning through efficient threats like Gurmag Angler. The mana base includes snow-covered lands for potential synergies with other cards in the deck."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Mirco Ciavatta",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438620&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 4,
+                    "name": "Chittering Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Boarding Party"
+                },
+                {
+                    "count": 3,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 1,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Night's Whisper"
+                },
+                {
+                    "count": 4,
+                    "name": "Pillage"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 3,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodfell Caves"
+                },
+                {
+                    "count": 5,
+                    "name": "Snow-Covered Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Choking Sands"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the board with efficient removal spells like Cast Down and Lightning Bolt, while disrupting the opponent's hand with cards like Chittering Rats and Thorn of the Black Rose. The deck includes a mix of card draw and mana ramp with Bonder's Ornament and Pillage respectively. The win conditions include board wipes like Pestilence and removal spells, as well as incremental damage from creatures like Boarding Party. Overall, the deck aims to grind out the opponent's resources and win through attrition."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Gian Paolo M",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438621&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 4,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 1,
+                    "name": "Witching Well"
+                },
+                {
+                    "count": 1,
+                    "name": "Terrarion"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 1,
+                    "name": "Muddle the Mixture"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying artifact creatures and utilizing synergies with cards like Atog and Fling to deal massive damage to the opponent. By using cards that generate additional resources like Chromatic Star and Prophetic Prism, the deck can maintain a high level of aggression while also having some card filtering. The combination of cheap artifacts and powerful threats like Myr Enforcer and Gearseeker Serpent allows the deck to swarm the board and overwhelm the opponent before they have a chance to stabilize."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Federico Iaccarino",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438622&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Young Wolf"
+                },
+                {
+                    "count": 4,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 4,
+                    "name": "Bayou Groff"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Nest Invader"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunger of the Howlpack"
+                },
+                {
+                    "count": 4,
+                    "name": "Savage Swipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 16,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 3,
+                    "name": "Epic Confrontation"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Sabotage"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying low-cost aggressive creatures like Young Wolf and Skarrgan Pit-Skulk to apply pressure and overwhelm the opponent. The inclusion of cards like Quirion Ranger and Nettle Sentinel enables the player to efficiently use their mana and maintain a fast pace throughout the game. The deck also features combat tricks like Savage Swipe and Vines of Vastwood to enhance the creature's power and toughness for favorable trades. Overall, the Mono Green Aggro deck aims to consistently deal damage and secure a quick victory against its opponent in a Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Dmitry Beznogov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438626&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Farseek"
+                },
+                {
+                    "count": 2,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 3,
+                    "name": "Temporal Spring"
+                },
+                {
+                    "count": 3,
+                    "name": "Memory Lapse"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Into the North"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarulf's Packmate"
+                },
+                {
+                    "count": 4,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 1,
+                    "name": "Alpine Meadow"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 3,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Rimewood Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 1,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                }
+            ],
+            "notes": "This deck focuses on controlling the opponent's board and resources by utilizing cards like Ephemerate, Memory Lapse, and Archaeomancer to repeatedly bounce, counter, and retrieve spells. It also includes removal spells like Skred and Abrade to deal with threats. The deck aims to stall the game until it can establish a strong board presence with creatures like Sarulf's Packmate and Augur of Bolas, while also taking advantage of ramp spells like Farseek and Into the North. The inclusion of Bonder's Ornament helps to ensure consistent card draw in order to maintain control over the game."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Matteo Lugli",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438623&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 1,
+                    "name": "Muddle the Mixture"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly flood the board with low-cost artifact creatures and use cards like Atog and Fling to quickly deal damage to the opponent. The deck takes advantage of cards like Prophetic Prism and Chromatic Star to fix mana and draw cards, while also using Galvanic Blast for removal and finishing off the opponent. The deck aims to overwhelm the opponent with its aggressive creatures and efficient spells, ultimately winning the game through a combination of aggression and resource management."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Giulia Zanoli",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438625&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Disciple of the Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Witching Well"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Perilous Research"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "The main concept of this Aggro-Affinity deck is to flood the board with cheap artifacts like Frogmite, Myr Enforcer, and Atog, which can be quickly sacrificed for value with cards like Disciple of the Vault and Fling. The deck aims to quickly overwhelm the opponent with early aggression and card advantage through Thoughtcast and Ichor Wellspring. Cards like Galvanic Blast and Temur Battle Rage provide additional reach and finisher potential. The deck also includes some control elements like Dispel and Makeshift Munitions to disrupt the opponent's game plan and protect its own threats."
+        },
+        {
+            "date": "2021-05-09",
+            "player": "Gabriele Nardella",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=30600&d=438624&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Mwonvuli Acid-Moss"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Boarding Party"
+                },
+                {
+                    "count": 4,
+                    "name": "Annoyed Altisaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarulf's Packmate"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Gruul Turf"
+                },
+                {
+                    "count": 4,
+                    "name": "Highland Forest"
+                },
+                {
+                    "count": 15,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquility"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly ramp up mana using cards like Arbor Elf and Utopia Sprawl, while also disrupting the opponent's lands with cards like Thermokarst and Mwonvuli Acid-Moss. Once the mana base is solid, the deck looks to play aggressive creatures like Annoyed Altisaur and Sarulf's Packmate to quickly close out the game. The inclusion of Lightning Bolt provides additional reach to finish off opponents or deal with any threats they may have. This deck aims to overwhelm the opponent with fast mana and powerful creatures."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

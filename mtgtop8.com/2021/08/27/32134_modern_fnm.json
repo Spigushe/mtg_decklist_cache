@@ -1,0 +1,573 @@
+{
+    "tournament": {
+        "date": "2021-08-27",
+        "name": "FNM",
+        "url": "https://mtgtop8.com/event?e=32134",
+        "format": "Modern",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2021-08-27",
+            "player": "Christian Gohlke",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=32134&d=447649&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 3,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Curator of Mysteries"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Living End"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 4,
+                    "name": "Striped Riverwinder"
+                },
+                {
+                    "count": 3,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Waker of Waves"
+                },
+                {
+                    "count": 3,
+                    "name": "Windcaller Aven"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundation Breaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Inevitable Betrayal"
+                },
+                {
+                    "count": 2,
+                    "name": "Ingot Chewer"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystical Dispute"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the Living End combo to quickly cycle through your deck and put powerful creatures onto the battlefield. By cycling cards like Street Wraith and Violent Outburst, you can empty your hand and trigger Living End, bringing back a swarm of creatures from your graveyard. Cards like Curator of Mysteries and Waker of Waves help you filter your draws and maintain hand advantage. With the right setup, you can overwhelm your opponent with a board full of creatures and clinch victory in a single turn."
+        },
+        {
+            "date": "2021-08-27",
+            "player": "Manuel Müller",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=32134&d=447650&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 2,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaya, Orzhov Usurper"
+                },
+                {
+                    "count": 2,
+                    "name": "Garruk Wildspeaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Grist, the Hunger Tide"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 4,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Nissa"
+                },
+                {
+                    "count": 4,
+                    "name": "Carth the Lion"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Nurturing Peatland"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 2,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Break the Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Crime/Punishment"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Lingering Souls"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                }
+            ],
+            "notes": "This deck focuses on using various planeswalkers, removal spells, and mana ramp to control the game and out-value the opponent. The key strategy involves utilizing Liliana of the Veil, Grist, the Hunger Tide, and other planeswalkers to generate card advantage while using removal spells like Fatal Push and Assassin's Trophy to control the board. Utopia Sprawl and Arbor Elf provide ramp to accelerate mana production, allowing for faster deployment of threats. Overall, the deck aims to disrupt the opponent's game plan while steadily building up its own board presence and resources."
+        },
+        {
+            "date": "2021-08-27",
+            "player": "Cedric Lehr",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=32134&d=447651&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Cryptic Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 3,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 3,
+                    "name": "Spreading Seas"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 3,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Archmage's Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Reflecting Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Vantress"
+                },
+                {
+                    "count": 1,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 2,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 2,
+                    "name": "Test of Talents"
+                },
+                {
+                    "count": 1,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Void Mirror"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                }
+            ],
+            "notes": "The main idea of this Jeskai Control deck is to disrupt and control the opponent's game plan while generating card advantage through powerful spells like Cryptic Command, Teferi, Time Raveler, and Archmage's Charm. The deck aims to maintain control of the board with cards like Supreme Verdict and Prismatic Ending, while also utilizing counterspells and removal to answer threats. The inclusion of cards like Shark Typhoon and Fact or Fiction provide additional win conditions and card advantage, allowing the deck to outvalue and outlast opponents in a longer game."
+        },
+        {
+            "date": "2021-08-27",
+            "player": "Julian Mockenhaupt",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=32134&d=447652&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Thragtusk"
+                },
+                {
+                    "count": 3,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek, Butcher of Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn Liberated"
+                },
+                {
+                    "count": 2,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 3,
+                    "name": "Warping Wail"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Scrying"
+                },
+                {
+                    "count": 2,
+                    "name": "All Is Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Stone"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Stone"
+                },
+                {
+                    "count": 1,
+                    "name": "Sundering Titan"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Wilt"
+                },
+                {
+                    "count": 1,
+                    "name": "Elixir of Immortality"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                }
+            ],
+            "notes": "This deck aims to control the game through powerful threats and disruption spells while assembling the UrzaTron lands (Urza's Mine, Power Plant, Tower) to generate a large amount of mana. The key concept revolves around using these lands to cast large threats such as Karn, the Great Creator and Eldrazi creatures like Ulamog, the Ceaseless Hunger. These threats provide a clock for the opponent to deal with while the deck uses cards like Warping Wail and All Is Dust to answer opposing threats and maintain control of the game."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

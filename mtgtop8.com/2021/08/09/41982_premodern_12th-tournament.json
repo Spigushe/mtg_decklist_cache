@@ -1,0 +1,945 @@
+{
+    "tournament": {
+        "date": "2021-08-09",
+        "name": "12th Tournament",
+        "url": "https://mtgtop8.com/event?e=41982",
+        "format": "Premodern",
+        "players": 20
+    },
+    "decks": [
+        {
+            "date": "2021-08-09",
+            "player": "Ariston Go",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511458&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Weaver"
+                },
+                {
+                    "count": 1,
+                    "name": "Morphling"
+                },
+                {
+                    "count": 1,
+                    "name": "Scroll Rack"
+                },
+                {
+                    "count": 2,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 4,
+                    "name": "Horn of Greed"
+                },
+                {
+                    "count": 1,
+                    "name": "Capsize"
+                },
+                {
+                    "count": 1,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 1,
+                    "name": "Forbid"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Gush"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 3,
+                    "name": "Time Warp"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 3,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 1,
+                    "name": "Crater Hellion"
+                },
+                {
+                    "count": 1,
+                    "name": "Propaganda"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Interdict"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the board through Oath of Druids, enabling you to cheat out powerful creatures like Ravenous Baloth and Morphling. The deck also includes various counterspells and removal options, along with card draw engines like Horn of Greed and Scroll Rack to maintain card advantage. With additional ramp from Exploration and mana fixing from lands like City of Brass, the deck aims to set up a lock on the game while maintaining a strong board presence."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Dennis Quilates",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511459&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 3,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 2,
+                    "name": "Hearth Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The primary focus of this deck is to overwhelm the opponent with a fast and aggressive tribe of Goblins. The deck includes a variety of Goblin creatures with abilities that strengthen each other, such as Goblin King and Goblin Warchief. Cards like Goblin Lackey and Goblin Matron help to quickly search out key Goblins to put into play. With support from burn spells like Gempalm Incinerator and Mogg Fanatic, this deck aims to hit hard and fast, pressuring the opponent to quickly defeat them before they can build up their forces."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Mark Guevara",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511461&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 1,
+                    "name": "Merfolk Looter"
+                },
+                {
+                    "count": 2,
+                    "name": "Waterfront Bouncer"
+                },
+                {
+                    "count": 2,
+                    "name": "Aquamoeba"
+                },
+                {
+                    "count": 3,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 3,
+                    "name": "Arrogant Wurm"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 2,
+                    "name": "Roar of the Wurm"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Careful Study"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Divert"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Ground Seal"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize the Madness and Threshold mechanics to quickly fill the graveyard with cards. By discarding cards with Madness abilities and activating Threshold effects, the deck aims to overwhelm the opponent with aggressive creatures such as Gilded Drake and Arrogant Wurm. Cards like Circular Logic and Daze also provide disruption for the opponent, while Deep Analysis helps with card draw. The mana base is optimized for a balance between green and blue sources to support the deck's strategy effectively."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Jf Aquino",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511460&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Daru Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Deftblade Elite"
+                },
+                {
+                    "count": 4,
+                    "name": "Soltari Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Whipcorder"
+                },
+                {
+                    "count": 4,
+                    "name": "Longbow Archer"
+                },
+                {
+                    "count": 4,
+                    "name": "Catapult Squad"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant's Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramosian Rally"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 1,
+                    "name": "Mobilization"
+                },
+                {
+                    "count": 4,
+                    "name": "Shared Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Kjeldoran Outpost"
+                },
+                {
+                    "count": 3,
+                    "name": "Daru Encampment"
+                },
+                {
+                    "count": 16,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Rune of Protection: Black"
+                },
+                {
+                    "count": 1,
+                    "name": "Rune of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Rune of Protection: Artifacts"
+                },
+                {
+                    "count": 1,
+                    "name": "Absolute Law"
+                },
+                {
+                    "count": 1,
+                    "name": "Pariah"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
+                },
+                {
+                    "count": 1,
+                    "name": "Field of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Catapult Master"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Holy Day"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "This deck focuses on swarming the board with small, efficient creatures and using cards like Swords to Plowshares and Catapult Squad to control the opponent's board. Utilizing support cards like Mother of Runes and Shared Triumph to pump up all of the White Weenies on the field, this deck aims to overwhelm the opponent with a steady stream of attackers. The inclusion of Armageddon and Mobilization provides additional ways to secure a victory when the opponent is on the ropes."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Quinn Arreza",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511462&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Burst"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 3,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 3,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 4,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Envelop"
+                },
+                {
+                    "count": 2,
+                    "name": "Propaganda"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly establish a board presence with efficient creatures like Wild Mongrel and Ravenous Baloth, supported by cards like Wall of Roots and Wall of Blossoms to provide defense. The deck aims to maintain card advantage through cards like Deep Analysis and Genesis, while also having disruptive elements like Aether Burst and Rushing River. With a mix of aggressive creatures and controlling elements, the deck can apply pressure while also having answers to threats from the opponent. The mana base is designed to provide consistent access to both green and blue mana sources."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Phil Taylor",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511463&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 3,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 3,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Fling"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 3,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Overload"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrostatic Pillar"
+                },
+                {
+                    "count": 2,
+                    "name": "Slice and Dice"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": "The deck focuses on using the combo of Phyrexian Dreadnought and Stifle to quickly get a 12/12 creature on the board for a low cost. It also utilizes various cheap spells and card draw to dig through the deck, control the board with counterspells, and deal direct damage to the opponent. The strategy is to stall the game early on while assembling the combo pieces, and then overwhelm the opponent with a huge threat that can quickly end the game."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Harold Mariano",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511465&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 2,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 2,
+                    "name": "Roar of the Wurm"
+                },
+                {
+                    "count": 3,
+                    "name": "Careful Study"
+                },
+                {
+                    "count": 3,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 3,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 1,
+                    "name": "Waterfront Bouncer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 4,
+                    "name": "Aquamoeba"
+                },
+                {
+                    "count": 4,
+                    "name": "Arrogant Wurm"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensnare"
+                },
+                {
+                    "count": 1,
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Divert"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                }
+            ],
+            "notes": "This deck focuses on playing aggressively, using cards with the Madness and Threshold mechanics to quickly overwhelm the opponent. By utilizing cards like Wild Mongrel and Aquamoeba to discard cards with madness and hit the threshold, the deck can play powerful creatures like Arrogant Wurm and Roar of the Wurm for a discounted cost. Additionally, disruption cards like Daze and Mana Leak help to control the game tempo and ensure that the aggressive strategy can push through to victory."
+        },
+        {
+            "date": "2021-08-09",
+            "player": "Nicholus Llanos",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41982&d=511464&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 2,
+                    "name": "Forbid"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Nevinyrral's Disk"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 4,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 4,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Crosis's Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Slice and Dice"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Shattering Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroclasm"
+                }
+            ],
+            "notes": "The deck focuses on disrupting the opponent's strategy with a combination of counter spells like Prohibit, Forbid, and Mana Leak, along with board control tools like Nevinyrral's Disk and Powder Keg. Standstill and Fact or Fiction help with card advantage, while Faerie Conclave and Mishra's Factory provide a win condition. The deck aims to control the game tempo, efficiently managing resources with cards like Chain of Vapor and Fire/Ice. The land base is optimized for consistent mana production, with utility lands like Wasteland to disrupt the opponent's mana base."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

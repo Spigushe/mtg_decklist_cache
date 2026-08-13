@@ -1,0 +1,549 @@
+{
+    "tournament": {
+        "date": "2023-02-25",
+        "name": "Proxys Event",
+        "url": "https://mtgtop8.com/event?e=41711",
+        "format": "Legacy",
+        "players": 17
+    },
+    "decks": [
+        {
+            "date": "2023-02-25",
+            "player": "Ferdinand Frey",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=41711&d=509762&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 1,
+                    "name": "Serra's Emissary"
+                },
+                {
+                    "count": 3,
+                    "name": "Grief"
+                },
+                {
+                    "count": 4,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 3,
+                    "name": "Serenity"
+                },
+                {
+                    "count": 1,
+                    "name": "Iona, Shield of Emeria"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly fill the graveyard with powerful creatures such as Archon of Cruelty and Griselbrand, then bring them back into play using cards like Reanimate and Animate Dead. This combo-oriented strategy aims to cheat big threats into play early in the game, overwhelming the opponent with powerful creatures that can swing the game in your favor. The deck also includes disruptive elements like Grief and Unmask to disrupt the opponent's game plan and protect your own. By efficiently utilizing graveyard resources, this deck seeks to dominate the board and win quickly."
+        },
+        {
+            "date": "2023-02-25",
+            "player": "Matthias Fichtl",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=41711&d=509763&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 3,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Changeling Outcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Ingenious Infiltrator"
+                },
+                {
+                    "count": 3,
+                    "name": "Yuriko, the Tiger's Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Murderous Cut"
+                },
+                {
+                    "count": 3,
+                    "name": "Retrofitter Foundry"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 1,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                }
+            ],
+            "notes": "The main concept of this deck is to aggressively attack the opponent using ninja creatures like Changeling Outcast and Ingenious Infiltrator, while also leveraging the abilities of Yuriko, the Tiger's Shadow to deal damage with each card drawn. The deck also includes disruptive spells like Force of Will and Daze to control the board and protect its creatures. Additionally, Retrofitter Foundry can create artifact tokens to provide additional threats on the battlefield. Overall, the deck aims to quickly overwhelm the opponent with aggressive ninja creatures and disruptive spells."
+        },
+        {
+            "date": "2023-02-25",
+            "player": "Florian Schumacher",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41711&d=509765&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 3,
+                    "name": "Kappa Cannoneer"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 1,
+                    "name": "Unctus, Grand Metatect"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 3,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 3,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The deck focuses on quickly generating card advantage and mana with artifacts to overwhelm the opponent with powerful synergies and threats. It aims to deploy powerful artifacts like Urza's Saga and Chalice of the Void early on, while utilizing cards like Emry, Lurker of the Loch and Sai, Master Thopterist to generate value and create a board presence. The deck also includes disruptive elements like Force of Will and Force of Negation to protect its game plan and disrupt the opponent's strategy. Overall, the deck aims to be a fast and aggressive artifact-based strategy in the Legacy format."
+        },
+        {
+            "date": "2023-02-25",
+            "player": "Siegfried Spirek",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41711&d=509764&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 4,
+                    "name": "Cephalid Illusionist"
+                },
+                {
+                    "count": 1,
+                    "name": "Grand Abolisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 4,
+                    "name": "Nomads en-Kor"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Eladamri's Call"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Memory's Journey"
+                },
+                {
+                    "count": 3,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 3,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Shuko"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Saga"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Triumph of Saint Katherine"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                }
+            ],
+            "notes": "This deck aims to assemble the Cephalid Breakfast combo by utilizing cards like Cephalid Illusionist, Nomads en-Kor, and Thassa's Oracle to self-mill and win the game in a single turn. It also includes disruptive elements like Force of Will and Cabal Therapy to protect the combo and disrupt opponents. Aether Vial and Urza's Saga provide additional utility and consistency to the deck. The deck is designed to quickly and efficiently assemble its combo pieces while disrupting the opponent's game plan, ultimately leading to a decisive victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

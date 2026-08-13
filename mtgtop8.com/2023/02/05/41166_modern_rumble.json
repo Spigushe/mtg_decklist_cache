@@ -1,0 +1,942 @@
+{
+    "tournament": {
+        "date": "2023-02-05",
+        "name": "Rumble",
+        "url": "https://mtgtop8.com/event?e=41166",
+        "format": "Modern",
+        "players": 25
+    },
+    "decks": [
+        {
+            "date": "2023-02-05",
+            "player": "Tsukada Suguru",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505912&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Kroxa, Titan of Death's Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Death's Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Drown in the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 4,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 1,
+                    "name": "Tourach, Dread Cantor"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                }
+            ],
+            "notes": "The deck is focused on quickly deploying threats like Death's Shadow, Kroxa, and Ragavan while disrupting the opponent's game plan with discard spells like Thoughtseize and counterspells like Spell Snare. The deck plays a minimal number of lands to maximize the chances of drawing gas, with efficient removal like Unholy Heat and Drown in the Loch to deal with opposing threats. Jegantha, the Wellspring provides additional value as a companion, enhancing the deck's aggressive strategy and increasing its consistency. This deck aims to close out games swiftly through a combination of pressure and disruption."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Tanno Seita",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505913&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 3,
+                    "name": "Scion of Draco"
+                },
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 3,
+                    "name": "Dead/Gone"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Crashing Footfalls"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Xander's Lounge"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 3,
+                    "name": "Inevitable Betrayal"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                }
+            ],
+            "notes": "The deck focuses on quickly casting powerful spells using Cascade mechanics to overwhelm the opponent. By chaining spells with Cascade, the deck aims to flood the board with powerful creatures and disruptive spells, putting pressure on the opponent early in the game. The inclusion of cards like Omnath, Locus of Creation and Crashing Footfalls allows the deck to go wide and deal massive damage in a short amount of time, making it a formidable Aggro deck in the Modern format."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Kasagawa Yosuke",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505914&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ruin Crab"
+                },
+                {
+                    "count": 4,
+                    "name": "Hedron Crab"
+                },
+                {
+                    "count": 2,
+                    "name": "Trapmaker's Snare"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Archive Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Visions of Beyond"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Fractured Sanity"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Jace, the Perfected Mind"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Oboro, Palace in the Clouds"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Tasha's Hideous Laughter"
+                }
+            ],
+            "notes": "The main concept of this deck revolves around utilizing mill cards and creatures to rapidly deplete the opponent's library. The deck includes cards like Ruin Crab and Hedron Crab to mill cards from the opponent's library, while also including cards like Archive Trap and Fractured Sanity to mill large quantities of cards at once. In addition, the deck also includes control elements like Mana Leak and Spell Pierce to disrupt the opponent's game plan. The inclusion of Jace, the Perfected Mind and Dress Down provide additional utility and card advantage. The land base is optimized for fetching and disruption."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Machida Junya",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505916&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Sword of Fire and Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Nahiri, the Unforgiving"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Rabbit Battery"
+                },
+                {
+                    "count": 2,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 3,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 3,
+                    "name": "Fervent Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Ranger-Captain of Eos"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunbaked Canyon"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 3,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Moonlight"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Charmaw"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on aggressive plays using efficient creatures like Ragavan, Fervent Champion, and Stoneforge Mystic to put pressure on the opponent early in the game. The deck also includes powerful equipment like Sword of Fire and Ice and Batterskull to enhance your creatures' abilities. Additionally, cards like Blood Moon and Ranger-Captain of Eos provide disruption and control elements to deal with opposing strategies. The deck aims to establish a strong board presence quickly and overwhelm the opponent before they can stabilize."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Honda Hiromi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505917&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Transmogrify"
+                },
+                {
+                    "count": 2,
+                    "name": "Persist"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Indomitable Creativity"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Xander's Lounge"
+                },
+                {
+                    "count": 1,
+                    "name": "Jetmir's Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Dwarven Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Portal to Phyrexia"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Nature's Claim"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": "This deck focuses on utilizing powerful cards like Indomitable Creativity and Leyline Binding to quickly assemble and execute a game-winning combo. By using a combination of removal spells, counterspells, and card draw, the deck aims to control the board while setting up its win condition. Atraxa, Grand Unifier serves as a versatile threat, providing additional value and support for the combo pieces. The mana base is optimized for consistency and speed, allowing the deck to efficiently cast its spells and overwhelm opponents with its creative and intricate strategies."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Kosugi Satsuki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505918&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 2,
+                    "name": "Cityscape Leveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Oblivion Stone"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 2,
+                    "name": "Warping Wail"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Scrying"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn Liberated"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cityscape Leveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Warping Wail"
+                },
+                {
+                    "count": 1,
+                    "name": "The Stone Brain"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 3,
+                    "name": "Haywire Mite"
+                }
+            ],
+            "notes": "The key concept of this deck is to assemble the UrzaTron (Urza's Mine, Power Plant, and Tower) to generate a large amount of mana quickly. This mana is used to cast powerful threat cards such as Wurmcoil Engine, Ulamog, the Ceaseless Hunger, and Cityscape Leveler. In addition, the deck utilizes a variety of control elements like Karn Liberated, Oblivion Stone, and Ugin, the Spirit Dragon to disrupt the opponent's strategy and protect its own threats. Urza's Saga provides additional value by tutoring for key artifacts and ramping up the deck's power level."
+        },
+        {
+            "date": "2023-02-05",
+            "player": "Narushima Akira",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=41166&d=505915&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fury"
+                },
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 4,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Persist"
+                },
+                {
+                    "count": 4,
+                    "name": "Bitter Reunion"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Ziatora's Proving Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Crumbling Vestige"
+                },
+                {
+                    "count": 1,
+                    "name": "Dwarven Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Valakut, the Molten Pinnacle"
+                },
+                {
+                    "count": 3,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 3,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                }
+            ],
+            "notes": "This deck aims to quickly assemble the combo of Valakut, the Molten Pinnacle with Dryad of the Ilysian Grove and Primeval Titan to deal lethal damage to the opponent. It uses cards like Fable of the Mirror-Breaker and Bitter Reunion to help find and protect the combo pieces, while also having removal spells like Terminate and Lightning Bolt to deal with threats. The deck is built around efficiently ramping into its combo pieces and disrupting the opponent's game plan, leading to a swift victory once the combo is online."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

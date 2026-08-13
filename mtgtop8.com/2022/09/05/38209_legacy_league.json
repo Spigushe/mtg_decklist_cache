@@ -1,0 +1,593 @@
+{
+    "tournament": {
+        "date": "2022-09-05",
+        "name": "League",
+        "url": "https://mtgtop8.com/event?e=38209",
+        "format": "Legacy",
+        "players": 14
+    },
+    "decks": [
+        {
+            "date": "2022-09-05",
+            "player": "Wayne Wyatt",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=38209&d=485676&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Balustrade Spy"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Agadeem's Awakening"
+                },
+                {
+                    "count": 4,
+                    "name": "Turntimber Symbiosis"
+                },
+                {
+                    "count": 1,
+                    "name": "Wild Cantor"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Undercity Informer"
+                },
+                {
+                    "count": 4,
+                    "name": "Pact of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Summoner's Pact"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Memory's Journey"
+                },
+                {
+                    "count": 1,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Bridge from Below"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 4,
+                    "name": "Xantid Swarm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Foundation Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of Sanctity"
+                }
+            ],
+            "notes": "The deck aims to combo off as quickly as possible by using cards like Balustrade Spy and Undercity Informer to mill the entire library, then win the game with Thassa's Oracle's \"win the game\" ability triggered by the lack of cards in the library. The deck plays a high number of fast mana cards like Dark Ritual and Simian Spirit Guide to power out its combo pieces quickly, with protection in the form of Pact of Negation. The deck has little interaction with the opponent and relies heavily on executing its combo efficiently."
+        },
+        {
+            "date": "2022-09-05",
+            "player": "Charlie Hearne",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=38209&d=485677&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 1,
+                    "name": "Ramunap Excavator"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Reliquary"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 2,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 2,
+                    "name": "Sejiri Steppe"
+                },
+                {
+                    "count": 2,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 3,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tower of the Magistrate"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Outland Liberator"
+                },
+                {
+                    "count": 1,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                }
+            ],
+            "notes": "The deck revolves around assembling the Dark Depths combo to create a 20/20 Marit Lage token. It uses cards like Crop Rotation, Elvish Reclaimer, and Knight of the Reliquary to tutor for Dark Depths and Thespian's Stage, which can copy Dark Depths. The deck also includes cards like Mox Diamond and Green Sun's Zenith for acceleration and consistency. Additionally, cards like Endurance and Sylvan Library help with card advantage and protection. The strategy is to quickly assemble the combo and overwhelm the opponent with a powerful flying, indestructible creature."
+        },
+        {
+            "date": "2022-09-05",
+            "player": "Zachary Mcmicheaux",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=38209&d=485678&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 1,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapcaster Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Angel's Grace"
+                },
+                {
+                    "count": 2,
+                    "name": "Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Maddening Hex"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The main idea of this Control - Stoneblade deck is to use efficient removal spells like Swords to Plowshares and Prismatic Ending, along with counter spells like Force of Will to control the game. Stoneforge Mystic is used to tutor up powerful equipment like Umezawa's Jitte and Batterskull, while Ice-Fang Coatl provides card draw and board presence. The inclusion of planeswalkers like Teferi, Time Raveler and Narset, Parter of Veils adds further disruption to the opponent's game plan. The deck aims to outvalue and outmaneuver the opponent with its versatile threats and answers."
+        },
+        {
+            "date": "2022-09-05",
+            "player": "Daniel Combs",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=38209&d=485679&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 2,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum Prelate"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 5,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 2,
+                    "name": "Cathar Commando"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 1,
+                    "name": "Timeless Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 15,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirit of the Labyrinth"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 4,
+                    "name": "Karakas"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Peacekeeper"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Kataki, War's Wage"
+                },
+                {
+                    "count": 1,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                }
+            ],
+            "notes": "The focus of this deck is to disrupt the opponent's strategy while quickly applying pressure through efficient creatures. By utilizing disruptive elements such as Thalia, Guardian of Thraben and Sanctum Prelate, combined with powerful equipment like Umezawa's Jitte and Batterskull, the deck aims to control the board while dealing consistent damage. The inclusion of Aether Vial allows for flexibility in deploying creatures at instant speed, further enhancing the deck's aggressive capabilities. With a strong mix of disruption, efficient threats, and powerful equipment, this Death &amp; Taxes deck is designed to outpace and outmaneuver opponents in Legacy 1 vs 1 matches."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

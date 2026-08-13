@@ -1,0 +1,553 @@
+{
+    "tournament": {
+        "date": "2022-03-25",
+        "name": "FNM",
+        "url": "https://mtgtop8.com/event?e=35421",
+        "format": "Modern",
+        "players": 18
+    },
+    "decks": [
+        {
+            "date": "2022-03-25",
+            "player": "Stefan Radisavljevic",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=35421&d=467548&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Consider"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 3,
+                    "name": "Archmage's Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 4,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek, Butcher of Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Calm"
+                },
+                {
+                    "count": 2,
+                    "name": "Alpine Moon"
+                }
+            ],
+            "notes": "The main concept of this Jeskai Aggro deck is to control the board and disrupt the opponent while utilizing efficient and aggressive creatures like Ragavan, Nimble Pilferer and Murktide Regent to apply pressure. The deck also includes a variety of spells like Consider, Lightning Bolt, and Prismatic Ending for removal and disruption, as well as card draw and selection engines like Thought Scour and Expressive Iteration. Counterspell and Archmage's Charm provide additional control elements, making the deck versatile and adaptable to different matchups in the Modern format."
+        },
+        {
+            "date": "2022-03-25",
+            "player": "Dusan Jovanovic",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=35421&d=467549&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Collected Company"
+                },
+                {
+                    "count": 1,
+                    "name": "Pashalik Mons"
+                },
+                {
+                    "count": 1,
+                    "name": "Murderous Redcap"
+                },
+                {
+                    "count": 2,
+                    "name": "Sling-Gang Lieutenant"
+                },
+                {
+                    "count": 3,
+                    "name": "Putrid Goblin"
+                },
+                {
+                    "count": 3,
+                    "name": "Mogg War Marshal"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Anarchomancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Munitions Expert"
+                },
+                {
+                    "count": 3,
+                    "name": "Ignoble Hierarch"
+                },
+                {
+                    "count": 4,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 4,
+                    "name": "Grumgully, the Generous"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Conspicuous Snoop"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 3,
+                    "name": "Secluded Courtyard"
+                },
+                {
+                    "count": 3,
+                    "name": "Unclaimed Territory"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Trashmaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 2,
+                    "name": "Infernal Grasp"
+                },
+                {
+                    "count": 1,
+                    "name": "Grist, the Hunger Tide"
+                },
+                {
+                    "count": 2,
+                    "name": "Kiki-Jiki, Mirror Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Boggart Harbinger"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                }
+            ],
+            "notes": "This Modern aggro Goblin deck focuses on quickly generating a wide board presence with low-cost Goblin creatures and leveraging synergies with cards like Conspicuous Snoop, putting pressure on the opponent early in the game. The deck also utilizes Collected Company to dig for key pieces and refill the board with more Goblins. With the ability to sacrifice Goblins for various effects and deal direct damage, this deck aims to overwhelm and outpace the opponent before they can stabilize or mount a significant defense."
+        },
+        {
+            "date": "2022-03-25",
+            "player": "Nemanja Dimitric",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=35421&d=467550&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Dwarven Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Serra's Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 3,
+                    "name": "Hard Evidence"
+                },
+                {
+                    "count": 4,
+                    "name": "Indomitable Creativity"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 2,
+                    "name": "Remand"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 1,
+                    "name": "Nahiri, the Harbinger"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn and Six"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Blossoming Calm"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Helix"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wear/Tear"
+                }
+            ],
+            "notes": "The deck focuses on using Indomitable Creativity to cheat out powerful creatures like Emrakul, the Aeons Torn and Serra's Emissary. It also uses cards like Hard Evidence to create tokens and control spells like Prismatic Ending to deal with threats. The deck also includes planeswalkers like Jace, the Mind Sculptor and Teferi, Time Raveler for additional control and card advantage. The mana base includes fetch lands and triomes for consistency in casting spells of different colors. The deck aims to disrupt the opponent while setting up its own win condition through creativity and combo interactions."
+        },
+        {
+            "date": "2022-03-25",
+            "player": "Neven Pavlovic",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=35421&d=467551&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Serum Visions"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 4,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Sprite Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Shattering Spree"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Dragon's Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "The Royal Scions"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": "Fast-paced aggression fueled by cheap spells and efficient creatures. The deck aims to control the board with counterspells and removal while applying pressure with evasive threats like Murktide Regent, Sprite Dragon, and Dragon's Rage Channeler. Blood Moon serves as disruptive element to slow down opponents, while cantrips like Serum Visions and Consider ensure consistent card draw and selection. The mana base is optimized for casting spells early and consistently, allowing for a proactive game plan focused on quickly closing out games."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

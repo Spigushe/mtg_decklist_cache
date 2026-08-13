@@ -1,0 +1,809 @@
+{
+    "tournament": {
+        "date": "2022-09-04",
+        "name": "Sunday Hapon Gaming",
+        "url": "https://mtgtop8.com/event?e=38238",
+        "format": "Pauper",
+        "players": 20
+    },
+    "decks": [
+        {
+            "date": "2022-09-04",
+            "player": "Alfius Parayno",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485880&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Simic Growth Chamber"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 3,
+                    "name": "Thriving Isle"
+                },
+                {
+                    "count": 2,
+                    "name": "Thriving Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Desert"
+                },
+                {
+                    "count": 3,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Inventory"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Stream of Thought"
+                },
+                {
+                    "count": 3,
+                    "name": "Growth Spiral"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Pieces of the Puzzle"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 2,
+                    "name": "Fog"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace's Erasure"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 3,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Reclaim"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                }
+            ],
+            "notes": "The deck focuses on using card draw spells and cantrips to quickly assemble its combo pieces, allowing the player to continuously cast Fog effects to prevent the opponent from dealing any damage. Additionally, the deck includes counterspells and recursion cards to protect its game plan and ensure it can consistently stall out the game until it can win with cards like Jace's Erasure or through mill with Stream of Thought. The key strategy is to outlast the opponent's resources while drawing into the necessary combo pieces to secure victory."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Jojo Francisco",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485881&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 2,
+                    "name": "Magma Jet"
+                },
+                {
+                    "count": 3,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Inventory"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermo-Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Maestros Theater"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Wildfire Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively deal damage to the opponent using a combination of burn spells and efficient creatures. By maintaining a low mana curve and including countermagic to protect key threats, the deck aims to pressure the opponent early and maintain control of the board throughout the game. The inclusion of card draw and evasion abilities on creatures allows for card advantage and the ability to close out games quickly."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Timothy Agustin",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485882&f=PAU",
+            "mainboard": [
+                {
+                    "count": 17,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 2,
+                    "name": "Spire Golem"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Flood"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Azure Fleet Admiral"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Curfew"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly build a board presence of efficient and evasive creatures, while also disrupting the opponent's game plan with counterspells and disruptive creatures. By leveraging the card advantage from creatures like Faerie Miscreant and Spellstutter Sprite, along with the ability to draw cards with Ninja of the Deep Hours and Of One Mind, the deck aims to maintain pressure on the opponent while keeping their resources in check. The inclusion of cheap counterspells like Force Spike and Counterspell further aims to protect the deck's game plan and prevent the opponent from stabilizing."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Elijah Guevara",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485883&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Bind the Monster"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly establish board presence and disrupt the opponent's strategy through counterspells and creature bounce effects. By utilizing cheap evasive creatures like Delver of Secrets and Ninja of the Deep Hours, along with efficient spells like Spellstutter Sprite and Counterspell, this deck aims to maintain control of the game while pressuring the opponent's life total. The inclusion of Moon-Circuit Hacker provides additional card advantage and consistency to the deck, allowing it to maintain its aggressive tempo throughout the match."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Arman Almocera",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485884&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 4,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul of Migration"
+                },
+                {
+                    "count": 2,
+                    "name": "Walker of the Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Aethersnipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Smokebraider"
+                },
+                {
+                    "count": 1,
+                    "name": "Tanglepool Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 4,
+                    "name": "Faultgrinder"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Disdainful Stroke"
+                }
+            ],
+            "notes": "The deck utilizes Ephemerate to repeatedly flicker creatures and generate card advantage, while also utilizing control elements like Lightning Bolt and Galvanic Blast to control the board. Faithless Looting helps with card selection and filtering, while cards like The Modern Age and Late to Dinner provide additional value. The mana base is focused on color fixing to ensure the deck can consistently cast its spells. Overall, the deck aims to control the game, generate value through flickering creatures, and eventually overwhelm the opponent with card advantage."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Jann Fontanilla",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485885&f=PAU",
+            "mainboard": [
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Abundant Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Mask"
+                },
+                {
+                    "count": 4,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 3,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 3,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 3,
+                    "name": "Commune with Spirits"
+                },
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
+                },
+                {
+                    "count": 4,
+                    "name": "Gladecover Scout"
+                },
+                {
+                    "count": 3,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 2,
+                    "name": "Spirited Companion"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 3,
+                    "name": "Freewind Falcon"
+                },
+                {
+                    "count": 3,
+                    "name": "Lifelink"
+                },
+                {
+                    "count": 2,
+                    "name": "Fog"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                }
+            ],
+            "notes": "This deck focuses on overwhelming the opponent with aggressive creatures enchanted with powerful auras. By quickly ramping up mana with cards like Abundant Growth and Utopia Sprawl, the player can play out their threats early on and make them even more potent with Ethereal Armor and Ancestral Mask. The inclusion of Armadillo Cloak and Rancor allows for lifegain and trample, making it difficult for the opponent to stabilize. The deck also includes protection in the form of Silhana Ledgewalker and Spirited Companion, ensuring that the creatures stay on the battlefield."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Jeremiah Achay",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485886&f=PAU",
+            "mainboard": [
+                {
+                    "count": 17,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spire Golem"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 2,
+                    "name": "Withdraw"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Curfew"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                }
+            ],
+            "notes": "This deck focuses on using low-cost creatures such as Faerie Seer, Faerie Miscreant, and Spellstutter Sprite to swarm the opponent quickly. Moon-Circuit Hacker and Ninja of the Deep Hours provide card advantage and tempo advantage. Counterspells like Counterspell and Spell Pierce help control the opponent's plays, while cards like Ponder and Of One Mind keep the deck running smoothly. Spire Golem provides a solid body to finish off the opponent. Snap and Withdraw offer additional control options to disrupt the opponent's strategies."
+        },
+        {
+            "date": "2022-09-04",
+            "player": "Lydon Alviar",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=38238&d=485887&f=PAU",
+            "mainboard": [
+                {
+                    "count": 17,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermo-Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Needle Drop"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Martyr of Ashes"
+                },
+                {
+                    "count": 3,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Curse of the Pierced Heart"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with aggressive creatures and burn spells. By quickly playing low-cost creatures like Monastery Swiftspear and Ghitu Lavarunner, the deck aims to deal damage early on. The burn spells like Lightning Bolt, Lava Spike, and Chain Lightning help finish off the opponent while cards like Thermo-Alchemist and Fireblast provide additional damage. With a total of 17 Mountains in the deck, the goal is to constantly apply pressure and quickly deplete the opponent's life total."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

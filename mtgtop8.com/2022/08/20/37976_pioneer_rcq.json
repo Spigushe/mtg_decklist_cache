@@ -1,0 +1,981 @@
+{
+    "tournament": {
+        "date": "2022-08-20",
+        "name": "RCQ",
+        "url": "https://mtgtop8.com/event?e=37976",
+        "format": "Pioneer",
+        "players": 32
+    },
+    "decks": [
+        {
+            "date": "2022-08-20",
+            "player": "Kurt Spies",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484090&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Tenacious Underdog"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Graveyard Trespasser"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Cut/Ribbons"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Ridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 2,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 3,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Grasp"
+                },
+                {
+                    "count": 2,
+                    "name": "Epic Downfall"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Disintegration"
+                },
+                {
+                    "count": 2,
+                    "name": "Path of Peril"
+                },
+                {
+                    "count": 1,
+                    "name": "Extinction Event"
+                }
+            ],
+            "notes": "This Rakdos Aggro deck focuses on quick and aggressive creature plays backed up by removal spells and disruption like Thoughtseize. The deck aims to overwhelm the opponent with a mix of powerful creatures like Bonecrusher Giant and Kalitas, Traitor of Ghet, along with burn spells like Cut / Ribbons and Chandra, Torch of Defiance's abilities. The mana base supports a consistent curve with a mix of dual lands and utility lands to ensure a smooth game plan. The deck's versatility and aggressive strategy make it a formidable opponent in Pioneer 1 vs 1 matches."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Matt Titus",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484091&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 1,
+                    "name": "Sejiri Shelter"
+                },
+                {
+                    "count": 2,
+                    "name": "Invigorated Rampage"
+                },
+                {
+                    "count": 4,
+                    "name": "Defiant Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Homestead Courage"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Gods Willing"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 2,
+                    "name": "Lagonna-Band Trailblazer"
+                },
+                {
+                    "count": 4,
+                    "name": "Tenth District Legionnaire"
+                },
+                {
+                    "count": 4,
+                    "name": "Illuminator Virtuoso"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Favored Hoplite"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 4,
+                    "name": "Needleverge Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Adanto Vanguard"
+                },
+                {
+                    "count": 3,
+                    "name": "Showdown of the Skalds"
+                },
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 3,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Fight as One"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on playing low-cost, efficient creatures like Monastery Swiftspear and Tenth District Legionnaire to quickly apply pressure on the opponent. It also includes combat tricks like Reckless Rage and Defiant Strike to remove blockers and pump up creatures for extra damage. The inclusion of Jegantha, the Wellspring as a companion adds extra consistency to the deck. With a mix of low-cost creatures, combat tricks, and a powerful companion, this deck aims to overwhelm the opponent with fast and aggressive plays."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Alex Majlaton",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484093&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Play with Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Dressed to Kill"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 1,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 12,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Burning Hands"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Torch of Defiance"
+                }
+            ],
+            "notes": "The main concept of this deck is to be aggressive and fast, aiming to quickly deal damage to the opponent. By utilizing low-cost creatures like Monastery Swiftspear and Soul-Scar Mage, along with burn spells like Play with Fire and Skewer the Critics, the deck seeks to put pressure on the opponent early on. Cards like Kumano Faces Kakkazan and Chandra, Dressed to Kill provide additional damage while controlling the board. The deck also includes cards like Eidolon of the Great Revel and Ramunap Ruins to punish opponents for playing non-creature spells."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Zachary Lyons",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484092&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Alseid of Life's Bounty"
+                },
+                {
+                    "count": 4,
+                    "name": "Brightclimb Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 4,
+                    "name": "Hateful Eidolon"
+                },
+                {
+                    "count": 4,
+                    "name": "Selfless Savior"
+                },
+                {
+                    "count": 4,
+                    "name": "Light-Paws, Emperor's Voice"
+                },
+                {
+                    "count": 4,
+                    "name": "Sram, Senior Edificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 2,
+                    "name": "Gryff's Boon"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaya's Ghostform"
+                },
+                {
+                    "count": 1,
+                    "name": "Raffine's Guidance"
+                },
+                {
+                    "count": 3,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Rune of Sustenance"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Shattered Sanctum"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Kunoros, Hound of Athreos"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Karametra's Blessing"
+                },
+                {
+                    "count": 2,
+                    "name": "Apostle of Purifying Light"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushbringer"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiendslayer Paladin"
+                }
+            ],
+            "notes": "The deck focuses on quickly dropping creatures and then loading them up with powerful auras to enhance their abilities and create powerful threats on the board. With a mix of cards that protect your creatures, increase their power, and disrupt your opponent's strategy, the goal is to overwhelm your opponent with aggressive creatures buffed by auras. The combination of creatures like Sram and Light-Paws with auras like Ethereal Armor and All That Glitters creates a strong aggressive strategy that can quickly close out games."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Jack Hash",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484094&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 2,
+                    "name": "Galvanic Iteration"
+                },
+                {
+                    "count": 3,
+                    "name": "Strategic Planning"
+                },
+                {
+                    "count": 3,
+                    "name": "Pieces of the Puzzle"
+                },
+                {
+                    "count": 3,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 2,
+                    "name": "Temporal Trespass"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Stormcarved Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Thing in the Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Tablet of the Guilds"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Awakened Inferno"
+                }
+            ],
+            "notes": "The main concept of this deck is to use Arclight Phoenix alongside efficient spells like Fiery Impulse, Lightning Axe, and other card draw spells to quickly fill up your graveyard and bring back the Phoenix for repeated attacks. The deck also includes counterspells like Spell Pierce to protect your threats and tempo spells like Galvanic Iteration to further accelerate your game plan. The addition of powerful finishers like Treasure Cruise and Temporal Trespass help you maintain card advantage and close out games quickly. The deck aims to be aggressive and proactive, putting pressure on the opponent early on."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Donovan Sellman",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484095&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 2,
+                    "name": "Torbran, Thane of Red Fell"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Play with Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 2,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 11,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Roiling Vortex"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 3,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret the Fervent"
+                }
+            ],
+            "notes": "The main concept of this Red Deck Wins aggro deck is to overwhelm the opponent with fast and efficient creatures and burn spells. Cards like Bonecrusher Giant, Monastery Swiftspear, and Soul-Scar Mage put pressure on the opponent early, while Eidolon of the Great Revel punishes them for casting spells. Torbran, Thane of Red Fell boosts the damage output of all red sources, making burn spells like Lightning Strike and Play with Fire even more potent. The deck aims to be aggressive and close out the game quickly before the opponent can stabilize."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Javier Ramos",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484096&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Play with Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 1,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Dressed to Kill"
+                },
+                {
+                    "count": 4,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 12,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Roiling Vortex"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Burning Hands"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 4,
+                    "name": "Rending Volley"
+                }
+            ],
+            "notes": "The main focus of this Aggro Red Deck Wins Pioneer 1 vs 1 deck is to quickly overwhelm the opponent with fast creatures and direct damage spells. By leveraging cards like Monastery Swiftspear, Soul-Scar Mage, and Eidolon of the Great Revel, along with powerful burn spells like Kumano Faces Kakkazan, Skewer the Critics, and Play with Fire, this deck aims to deal damage quickly and efficiently. With a balance of creatures and spells, this deck prioritizes aggression and tempo to close out games before the opponent can stabilize."
+        },
+        {
+            "date": "2022-08-20",
+            "player": "Dillan Read",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=37976&d=484097&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Tenacious Underdog"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 4,
+                    "name": "Graveyard Trespasser"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 1,
+                    "name": "Kroxa, Titan of Death's Hunger"
+                },
+                {
+                    "count": 1,
+                    "name": "Strangle"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Ridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 3,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 2,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 1,
+                    "name": "Kolaghan's Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Rending Volley"
+                }
+            ],
+            "notes": "This deck aims to overwhelm the opponent with aggressive creatures and disruption spells, focusing on a combination of direct damage and hand disruption to control the battlefield. It utilizes powerful creatures like Chandra, Torch of Defiance and Kalitas, Traitor of Ghet alongside removal spells like Fatal Push and Dreadbore to keep the opponent on the back foot. With a mix of creatures, spells, and lands that support its aggressive strategy, this Rakdos Aggro deck is designed to quickly close out games and outpace the opponent."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

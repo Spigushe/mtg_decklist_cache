@@ -21,3 +21,20 @@ it does not carry over history from the earlier `mtg_scraper` /
 least one known schema change: `Deck.result` is now `str | None` to
 preserve MTGTop8 tie-bracket ranges like `"5-8"`, which the old scraper
 truncated to an integer).
+
+## Manual archive update
+
+Use the helper script to stage all changes, create a timestamped archive
+commit, and push it to `origin`.
+
+PowerShell:
+
+```powershell
+.\archive_manual.ps1
+```
+
+Git Bash / bash:
+
+```bash
+./archive_manual.sh
+```

@@ -1,0 +1,965 @@
+{
+    "tournament": {
+        "date": "2022-09-24",
+        "name": "Autumn Willow 2022",
+        "url": "https://mtgtop8.com/event?e=42571",
+        "format": "Premodern",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2022-09-24",
+            "player": "Nikita Gavrilov",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514844&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Howling Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Feldon's Cane"
+                },
+                {
+                    "count": 1,
+                    "name": "Morphling"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Chill"
+                }
+            ],
+            "notes": "The deck aims to slow down the opponent's ability to play cards by utilizing cards like Stasis and Forsaken City. By forcing the opponent to skip their untap step, the deck can control the pace of the game and eventually lock them out of playing cards entirely. Using cards like Howling Mine and Black Vise, the deck can also generate card advantage and deal incremental damage to the opponent. The combination of control elements and card advantage allows the deck to establish a dominant board state and win the game through attrition."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Marat Asanov",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514845&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Turnabout"
+                },
+                {
+                    "count": 1,
+                    "name": "Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 3,
+                    "name": "Words of Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Meditate"
+                },
+                {
+                    "count": 4,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Sapphire Medallion"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Helm of Awakening"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Capsize"
+                },
+                {
+                    "count": 1,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                }
+            ],
+            "notes": "The main idea of the deck is to generate a storm count and then use cards like Brain Freeze and Cunning Wish to win the game in one big combo turn. The deck focuses on drawing cards, reducing costs with spells like Sapphire Medallion and Helm of Awakening, and eventually casting a large Brain Freeze to mill the opponent's entire library. The deck also has interaction with bounce spells like Chain of Vapor and can access different combo pieces with Cunning Wish. It aims to win quickly and efficiently through executing its combo."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Denis Golomazov",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514847&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Shadowmage Infiltrator"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Spitter"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Perish"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by utilizing a combination of removal spells, counterspells, and disruptive creatures to disrupt the opponent's strategy. Additionally, the deck includes card draw and selection tools to ensure that the player has access to the appropriate answers at the right time. The mana base is designed to support the deck's color requirements and optimize its efficiency. Overall, the deck aims to establish dominance through a combination of card advantage, disruption, and efficient threats."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Roman Masaladzhiu",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514846&f=PREM",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Cadets"
+                },
+                {
+                    "count": 4,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Firebolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                }
+            ],
+            "notes": "This deck focuses on deploying low-cost, aggressive creatures like Goblin Cadets, Mogg Fanatic, and Jackal Pup to deal quick and consistent damage to the opponent. With burn spells like Lightning Bolt, Incinerate, and Fireblast, the deck has the ability to finish off the opponent swiftly if needed. Sulfuric Vortex provides continuous damage and pressure, and cards like Grim Lavamancer enhance the deck?s overall efficiency. The deck aims to overwhelm the opponent with its fast pace and efficient use of resources to secure a win."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Ivan Vorontsov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514850&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Plow Under"
+                },
+                {
+                    "count": 4,
+                    "name": "Fires of Yavimaya"
+                },
+                {
+                    "count": 4,
+                    "name": "Saproling Burst"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Stone Rain"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 3,
+                    "name": "Shivan Wurm"
+                },
+                {
+                    "count": 3,
+                    "name": "Flametongue Kavu"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 9,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Hull Breach"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Simoon"
+                },
+                {
+                    "count": 2,
+                    "name": "Phantom Centaur"
+                }
+            ],
+            "notes": "The primary focus of this deck is to aggressively ramp up mana to cast powerful creatures and spells quickly while disrupting the opponent's mana base with land destruction spells. Additionally, the deck aims to maintain a steady stream of threats by utilizing tokens and efficient creatures with haste. The Fires of Yavimaya enchantment serves as a key engine in the deck, granting creatures haste and providing a consistent source of damage. Overall, the strategy revolves around overwhelming the opponent with efficient beatdowns and disruption."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Dmitry Smirnov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514849&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Spectral Lynx"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Gerrard's Verdict"
+                },
+                {
+                    "count": 4,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 3,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 3,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 3,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Choke"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through removal spells and hand disruption, while generating value with powerful creatures like Exalted Angel and Ravenous Baloth. The deck aims to slowly grind out its opponent by dealing with threats efficiently and overwhelming them with its own threats. The mana base is designed to provide a balance between different colors, allowing for optimal casting of spells. Overall, the key strategy is to outlast and outvalue the opponent through a combination of control elements and efficient creature threats."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Grigory Kievsky",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514851&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 1,
+                    "name": "Man-o'-War"
+                },
+                {
+                    "count": 1,
+                    "name": "Monk Realist"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Weaver"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant's Dragoons"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger"
+                },
+                {
+                    "count": 1,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Tradewind Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 3,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Spore Frog"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant's Dragoons"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                }
+            ],
+            "notes": "The main focus of this deck is to effectively control the game through the use of Survival of the Fittest to tutor for specific creatures as needed. This allows the player to have a toolbox of creatures to handle various situations and disrupt the opponent's game plan. The deck also includes a mix of creatures with strong abilities and utility spells to maintain board presence and outvalue the opponent in the long run. The mana base is designed to consistently cast creatures and spells while also providing access to different colors of mana."
+        },
+        {
+            "date": "2022-09-24",
+            "player": "Stepan Eliseev",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42571&d=514848&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Galina's Knight"
+                },
+                {
+                    "count": 3,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 3,
+                    "name": "Ramosian Sergeant"
+                },
+                {
+                    "count": 4,
+                    "name": "Whipcorder"
+                },
+                {
+                    "count": 4,
+                    "name": "Silver Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Savannah Lions"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Crusade"
+                },
+                {
+                    "count": 1,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 13,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Galina's Knight"
+                },
+                {
+                    "count": 1,
+                    "name": "Ramosian Sergeant"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
+                },
+                {
+                    "count": 1,
+                    "name": "Serenity"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Abolish"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Honorable Passage"
+                }
+            ],
+            "notes": "This Aggro - White Weenie deck focuses on quickly overwhelming the opponent with small, efficient creatures like Savannah Lions and Silver Knight, supported by disruptive cards like Meddling Mage and Whipcorder. Mother of Runes protects key threats, while Enlightened Tutor and Seal of Cleansing provide additional utility. The deck also includes some powerful finishers like Exalted Angel and Masticore, alongside Cursed Scroll for direct damage. The inclusion of Crusade boosts the power of the deck's creatures, allowing for fast and aggressive gameplay to dominate the opponent."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

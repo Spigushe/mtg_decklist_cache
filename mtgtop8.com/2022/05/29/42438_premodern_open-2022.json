@@ -1,0 +1,913 @@
+{
+    "tournament": {
+        "date": "2022-05-29",
+        "name": "Open 2022",
+        "url": "https://mtgtop8.com/event?e=42438",
+        "format": "Premodern",
+        "players": 22
+    },
+    "decks": [
+        {
+            "date": "2022-05-29",
+            "player": "Vladimir Kremenchugskiy",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514133&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 3,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Grand Coliseum"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Reflecting Pool"
+                },
+                {
+                    "count": 2,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by countering threats, removing problematic permanents, and drawing cards to maintain a full hand. The deck utilizes a mix of blue and white spells, with some red for additional removal and threats. Creatures like Meddling Mage and Lightning Angel provide a clock for the opponent while disrupting their game plan. The deck has a strong mana base with a mix of lands to support the color requirements of the spells. Overall, this deck aims to outlast the opponent and secure victory through careful planning and resource management."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Oleg Evseev",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514134&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                }
+            ],
+            "notes": "This goblin deck focuses on overwhelming the opponent with a fast and aggressive strategy. The key concept is to flood the board with low-cost goblin creatures and use them to quickly deal damage to the opponent. The deck also includes cards that provide additional utility, such as removal and card draw, to maintain pressure on the opponent. With efficient resource management and careful timing of threats, this deck aims to build a strong board presence and win the game before the opponent can stabilize."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Viktor Nikolaev",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514136&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Scroll Rack"
+                },
+                {
+                    "count": 1,
+                    "name": "Erratic Explosion"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Insidious Dreams"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 1,
+                    "name": "Draco"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Specter"
+                },
+                {
+                    "count": 2,
+                    "name": "Skittering Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 4,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 2,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 3,
+                    "name": "Tainted Peak"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Overload"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Negator"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly set up a combo with cards like Erratic Explosion and Draco, while utilizing disruptive cards like Duress and Mesmeric Fiend to control the opponent's hand. The goal is to create a explosive finish with Draco or other creatures while maintaining card advantage with Phyrexian Arena and Scroll Rack. The deck aims to efficiently remove threats with Lightning Bolt and Grim Lavamancer while utilizing mana acceleration from Dark Ritual. The mana base is designed to support both black and red spells for flexibility in casting key cards."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Marat Asanov",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514135&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Turnabout"
+                },
+                {
+                    "count": 1,
+                    "name": "Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 3,
+                    "name": "Words of Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Meditate"
+                },
+                {
+                    "count": 4,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Sapphire Medallion"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Helm of Awakening"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Capsize"
+                },
+                {
+                    "count": 1,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                }
+            ],
+            "notes": "The main focus of this deck is to assemble a powerful storm combo using cards like Brain Freeze, Frantic Search, and Meditate to generate a high storm count and then use cards like Cunning Wish to find key combo pieces like Turnabout. The deck aims to generate a high amount of mana using cards like Sapphire Medallion and Helm of Awakening to cast multiple spells in one turn, eventually leading to a lethal Brain Freeze to mill the opponent's entire library. It heavily relies on card draw effects and mana acceleration to fuel its powerful combo."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Stepan Eliseev",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514137&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarcomancy"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Wax/Wane"
+                },
+                {
+                    "count": 1,
+                    "name": "Thornscape Apprentice"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyshroud Elite"
+                },
+                {
+                    "count": 4,
+                    "name": "Carnophage"
+                },
+                {
+                    "count": 4,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 4,
+                    "name": "Savannah Lions"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Rith's Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Darigaaz's Caldera"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Koilos"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Tempting Wurm"
+                },
+                {
+                    "count": 3,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "This deck focuses on quickly playing creatures and spells to overwhelm the opponent with aggressive threats. The deck includes efficient creatures like Savannah Lions and Carnophage, along with powerful spells like Rancor and Swords to Plowshares. The mana base is designed to support a fast and consistent curve, while cards like Duress and Cursed Scroll disrupt the opponent's strategy. Overall, the deck aims to apply early pressure and maintain tempo to secure a quick victory."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Maxim Zrelov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514139&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Scroll Rack"
+                },
+                {
+                    "count": 1,
+                    "name": "Erratic Explosion"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 3,
+                    "name": "Terminate"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Insidious Dreams"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Draco"
+                },
+                {
+                    "count": 2,
+                    "name": "Blazing Specter"
+                },
+                {
+                    "count": 3,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                },
+                {
+                    "count": 4,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 2,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tainted Peak"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                }
+            ],
+            "notes": "The primary focus of this deck is to quickly assemble and execute the Draco Explosion combo, utilizing cards like Dark Ritual and Insidious Dreams to power out the necessary pieces. The deck aims to disrupt the opponent's hand with Duress and control the board with removal spells like Terminate and Lightning Bolt. Phyrexian Arena provides additional card advantage, while cards like Mesmeric Fiend and Hypnotic Specter provide further disruption and pressure. Mishra's Factory offers a creature land option, while the mana base is built to support the deck's mana requirements efficiently."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Alexey Samoylov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514140&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Energy Field"
+                },
+                {
+                    "count": 3,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 3,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 9,
+                    "name": "Plains"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 2,
+                    "name": "Lilting Refrain"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 1,
+                    "name": "Ivory Mask"
+                },
+                {
+                    "count": 1,
+                    "name": "Misdirection"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                }
+            ],
+            "notes": "The deck focuses on using enchantments like Energy Field and Parallax Wave to stall the opponent while setting up the combo with Opalescence and Replenish to overwhelm the opponent's board with a huge army of enchantments. It also includes control elements like Counterspell and Daze to protect the combo pieces and disrupt the opponent's game plan. The deck aims to build a powerful board state that is difficult for the opponent to deal with, ultimately leading to victory through a combination of card advantage and overwhelming combat presence."
+        },
+        {
+            "date": "2022-05-29",
+            "player": "Dmitriy Sverchinskiy",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=42438&d=514138&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Howling Mine"
+                },
+                {
+                    "count": 3,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 3,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 1,
+                    "name": "Propaganda"
+                },
+                {
+                    "count": 1,
+                    "name": "Feldon's Cane"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensnare"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                }
+            ],
+            "notes": "The deck focuses on establishing control by utilizing stasis to lock down the opponent's resources and subsequently disrupting their ability to play spells. It aims to slow down the game by utilizing cards like Howling Mine and Black Vise to pressure the opponent while retaining card advantage through counterspells and card draw. The deck also includes bounce spells like Chain of Vapor to handle threats and protect its lock. By maintaining a grip on the game with the stasis lock, it looks to eventually win through incremental damage or a combo finish."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

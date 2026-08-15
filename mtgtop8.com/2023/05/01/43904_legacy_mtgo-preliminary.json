@@ -1,0 +1,922 @@
+{
+    "tournament": {
+        "date": "2023-05-01",
+        "name": "MTGO Preliminary",
+        "url": "https://mtgtop8.com/event?e=43904",
+        "format": "Legacy",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2023-05-01",
+            "player": "Erik_SZ",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524013&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Cephalid Illusionist"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Shuko"
+                },
+                {
+                    "count": 1,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Nomads en-Kor"
+                },
+                {
+                    "count": 3,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 1,
+                    "name": "Retrofitter Foundry"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Step Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Staff of the Storyteller"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Memory's Journey"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 1,
+                    "name": "Jack-o'-Lantern"
+                }
+            ],
+            "notes": "The key idea of this deck is to assemble the combo of Cephalid Illusionist, Nomads en-Kor, and one of the flashback spells (Dread Return or Cabal Therapy) to quickly mill your library and win with Thassa's Oracle. Using cards like Brainstorm, Ponder, and Urza's Saga to find your pieces, along with protection from Force of Will and disruption with Cabal Therapy, this deck aims to set up and execute its game-winning combo as efficiently as possible. With the ability to combo off quickly, this deck can be a powerful force in the Legacy format."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "HanktheObese",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524014&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Crashing Footfalls"
+                },
+                {
+                    "count": 4,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 2,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Inevitable Betrayal"
+                },
+                {
+                    "count": 3,
+                    "name": "Fury"
+                }
+            ],
+            "notes": "The main concept of this deck revolves around utilizing the cascade mechanic to quickly put pressure on the opponent through early game aggression. By cascading into powerful spells like Crashing Footfalls and Sea Gate Restoration, the deck aims to overwhelm the opponent with a steady stream of threats. The inclusion of cards like Simian Spirit Guide and Elvish Spirit Guide allows for explosive plays and a fast tempo. In addition, the deck also features disruptive elements like Force of Will and Endurance to counter the opponent's strategies and protect its own game plan."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "JuanmaAT",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524015&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Touch the Spirit Realm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 4,
+                    "name": "Elite Spellbinder"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Seasoned Dungeoneer"
+                },
+                {
+                    "count": 4,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Loran of the Third Path"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly establish board presence and control the game by utilizing disruptive creatures and spells. By utilizing cards like Chalice of the Void, Chrome Mox, and Elite Spellbinder, the deck aims to disrupt the opponent's game plan while deploying threats like Archon of Emeria and Solitude to apply pressure. The deck also utilizes mana acceleration from cards like Lotus Petal and Simian Spirit Guide to power out its threats early in the game. Overall, the deck aims to be proactive and aggressive in order to maintain control of the game."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "satu2112",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524016&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 3,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 2,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Serenity"
+                },
+                {
+                    "count": 1,
+                    "name": "Iona, Shield of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Dauthi Voidwalker"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly fill up your graveyard with powerful creatures using cards like Faithless Looting, Entomb, and Grief, and then bring them back into play with spells like Reanimate and Animate Dead. This combo-oriented strategy allows you to deploy game-changing threats like Griselbrand, Archon of Cruelty, and Atraxa, Grand Unifier very early in the game, overpowering your opponent before they have a chance to react. The mix of reanimation spells, discard spells, and fast mana acceleration provides a consistent and explosive game plan that can lead to swift victories."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "XxShuicunexX",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524019&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Serenity"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Chancellor of the Annex"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Serra's Emissary"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly fill the graveyard with powerful creatures like Griselbrand and Archon of Cruelty using cards like Faithless Looting and Entomb, then bring them back into play with spells like Reanimate and Animate Dead. The deck also utilizes disruptive cards such as Unmask and Thoughtseize to disrupt the opponent's strategy and protect its own combo pieces. The inclusion of cards like Grief and Atraxa, Grand Unifier adds additional disruption and synergy to the deck's overall game plan."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "mephidro",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524017&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 2,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 12,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 1,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirit of the Labyrinth"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 1,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Timeless Dragon"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Touch the Spirit Realm"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Trailblazer's Torch"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran of the Third Path"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Kataki, War's Wage"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                }
+            ],
+            "notes": "The main idea behind this deck is to disrupt your opponent's game plan while quickly applying pressure with aggressive creatures like Spirit of the Labyrinth and Thalia, Guardian of Thraben. The deck also utilizes powerful equipment like Umezawa's Jitte and Kaldra Compleat to enhance your threats. With cards like Mother of Runes and Skyclave Apparition providing protection and removal, this deck aims to control the board and overwhelm the opponent with efficient creatures and disruptive elements. The inclusion of Yorion, Sky Nomad as a companion allows for additional value and flexibility in longer games."
+        },
+        {
+            "date": "2023-05-01",
+            "player": "yanmaster",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=43904&d=524018&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Death's Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 1,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 3,
+                    "name": "Hymn to Tourach"
+                },
+                {
+                    "count": 2,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Scourge of the Skyclaves"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 4,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Ankh of Mishra"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tourach, Dread Cantor"
+                }
+            ],
+            "notes": "This deck focuses on quickly reducing your own life total to generate powerful threats. It utilizes cards like Snuff Out and Death's Shadow to both control the opponent's board and create a large threat of its own. Lightning Bolt and Dragon's Rage Channeler provide additional removal and damage potential. The deck also includes cards like Thoughtseize and Hymn to Tourach for disruption and hand control. Reanimate and Grief allow for additional creature recursion and disruption. The land base includes both fetch lands and shock lands to efficiently manage mana and life total."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

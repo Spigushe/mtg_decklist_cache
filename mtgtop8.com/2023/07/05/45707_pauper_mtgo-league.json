@@ -1,0 +1,941 @@
+{
+    "tournament": {
+        "date": "2023-07-05",
+        "name": "MTGO League",
+        "url": "https://mtgtop8.com/event?e=45707",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2023-07-05",
+            "player": "uspdudes",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537729&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 2,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 16,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Innocent Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Decay"
+                }
+            ],
+            "notes": "The deck focuses on gaining card advantage through sacrificing creatures and artifacts, along with removal spells to control the board. It also includes a small life gain element with Lembas and Cauldron Familiar. The main win condition is to overwhelm the opponent with value creatures like Avenging Hunter and Thorn of the Black Rose, while utilizing Crypt Rats as a board wipe if needed. The land base includes Khalni Garden to provide additional creature tokens for sacrifice. Overall, the deck aims to outvalue and outlast opponents in a grindy control matchup."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "RubensNetto",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537730&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 8,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 4,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 3,
+                    "name": "Meeting of Minds"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 2,
+                    "name": "Turn Aside"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Sage's Row Denizen"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize Ephemerate to generate repeated value from creatures with powerful enters-the-battlefield effects, such as Mulldrifter and Sea Gate Oracle. By blinking these creatures, the deck can draw extra cards, gain life, and control the board. In addition, the deck includes various control elements like Counterspell and Prismatic Strands to disrupt the opponent's game plan. The deck aims to outvalue the opponent with efficient card draw and recursion while maintaining control of the game through a combination of removal and countermagic."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "trM",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537731&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Spire Golem"
+                },
+                {
+                    "count": 1,
+                    "name": "Piracy Charm"
+                },
+                {
+                    "count": 17,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Inventory"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 1,
+                    "name": "Saiba Cryptomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Exclude"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "Azure Fleet Admiral"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with low-cost, efficient creatures and disruptive spells. It aims to control the game by countering threats and bouncing key permanents while maintaining card advantage through card draw spells like Brainstorm and Frantic Inventory. The deck also includes creatures with powerful abilities like Augur of Bolas to help dig for useful cards. Overall, the strategy revolves around putting pressure on the opponent while maintaining control of the game through counterspells and tempo plays."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "Ciri80",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537732&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Smash to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Ardent Elementalist"
+                },
+                {
+                    "count": 2,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirited Companion"
+                },
+                {
+                    "count": 3,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goliath Paladin"
+                },
+                {
+                    "count": 1,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Smash to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                }
+            ],
+            "notes": "The deck focuses on using control elements such as Counterspell and Lightning Bolt to disrupt opponent's strategies while maintaining board presence with creatures like Palace Sentinels and Goliath Paladin. Ephemerate is used to protect key creatures and provide additional value. The deck also includes removal spells like Journey to Nowhere and Cleansing Wildfire to deal with threats. Prismatic Strands provides protection against combat damage. The overall strategy revolves around controlling the game tempo and outvaluing the opponent through efficient removal and resilient creatures."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "Boquinha",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537733&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Somber Hoverguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 2,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 1,
+                    "name": "Gearseeker Serpent"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenku Artificer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying artifact creatures and using artifacts to generate card advantage and removal. It aims to overwhelm the opponent with aggressive creatures like Myr Enforcer and Frogmite while using cards like Ichor Wellspring and Thoughtcast to draw extra cards and maintain pressure. The deck also utilizes spells like Galvanic Blast and Chainer's Edict for removal and disruption. Additionally, the deck includes various artifact lands and bridges to enable the affinity mechanic and generate additional resources."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "eTrxD",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537734&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ramosian Rally"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 1,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Cliffgate"
+                },
+                {
+                    "count": 1,
+                    "name": "Heap Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ramosian Rally"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Flame Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game using a combination of removal spells like Journey to Nowhere and Flame Slash, protection spells like Prismatic Strands, and creatures like Guardian of the Guildpact and Squadron Hawk. The deck also aims to generate value through cards like Battle Screech and Faithless Looting. The Gates lands provide additional mana fixing and ramp for the deck, while cards like Sacred Cat and Lunarch Veteran provide early game defense and lifegain. The deck's main strategy is to stay alive and outvalue the opponent until it can take control of the game."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "all4non",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537735&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 2,
+                    "name": "Disrupt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 3,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 2,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 11,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Shrivel"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                }
+            ],
+            "notes": "The core strategy of this Dimir Control deck is to disrupt and counter the opponent's spells while utilizing card draw and graveyard manipulation to maintain card advantage. Removal spells like Cast Down are used to deal with threats on the board, while powerful finishers like Gurmag Angler are deployed to close out the game. The deck focuses on controlling the pace of the game through counterspells and removal, aiming to outvalue the opponent through efficient card selection and resource management."
+        },
+        {
+            "date": "2023-07-05",
+            "player": "Captain_Tsubasa",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45707&d=537736&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ghastly Demise"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 1,
+                    "name": "Consider"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Rotten Reunion"
+                }
+            ],
+            "notes": "The main idea of this Dimir Control deck is to disrupt the opponent's game plan by countering and removing threats while efficiently drawing cards and deploying threats of its own. The deck utilizes inexpensive countermagic, removal spells, and card draw to control the tempo of the game. The win condition is to deploy powerful threats like Gurmag Angler and Fallaji Archaeologist while maintaining control over the game with cards like Brainstorm and Thought Scour. The deck also incorporates a combination of bounce lands and dual lands to ensure consistent mana availability."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

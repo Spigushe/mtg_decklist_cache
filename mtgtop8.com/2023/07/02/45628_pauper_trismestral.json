@@ -1,0 +1,909 @@
+{
+    "tournament": {
+        "date": "2023-07-02",
+        "name": "Trismestral",
+        "url": "https://mtgtop8.com/event?e=45628",
+        "format": "Pauper",
+        "players": 31
+    },
+    "decks": [
+        {
+            "date": "2023-07-02",
+            "player": "Maicon Teotonio",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537104&f=PAU",
+            "mainboard": [
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinder Wall"
+                },
+                {
+                    "count": 1,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Secret Door"
+                },
+                {
+                    "count": 1,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 2,
+                    "name": "Crashing Drawbridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien's Grizzly"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 4,
+                    "name": "Shield-Wall Sentinel"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 4,
+                    "name": "Healer of the Glade"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Spore Frog"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                }
+            ],
+            "notes": "The main idea of this deck is to assemble a combination of \"walls\" creatures that tap for mana (such as Overgrown Battlement and Axebane Guardian) along with cards like Freed from the Real and Galvanic Alchemist to generate infinite mana. This mana can then be used to win the game with cards like Valakut Invoker or Reaping the Graves. The deck also utilizes card draw and creature search effects to find the combo pieces quickly and efficiently. It focuses on creating a strong defense with walls while setting up a powerful combo finish."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Lucas Gomes",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537105&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 3,
+                    "name": "Goliath Paladin"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 3,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 3,
+                    "name": "Pegasus Guardian"
+                },
+                {
+                    "count": 8,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Riveteers Overlook"
+                },
+                {
+                    "count": 4,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirited Companion"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmake"
+                },
+                {
+                    "count": 3,
+                    "name": "Vampire Sovereign"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 2,
+                    "name": "Debt to the Kami"
+                },
+                {
+                    "count": 3,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Revoke Existence"
+                }
+            ],
+            "notes": "This deck focuses on aggressive creatures to put pressure on the opponent, while also utilizing removal spells to clear the way for attacks. The combination of flying creatures like Spirited Companion and Dawnbringer Cleric, along with anthems like Inspiring Overseer, helps to quickly reduce the opponent's life total. The deck also includes disruption in the form of Chainer's Edict and Unmake to deal with threatening creatures. Overall, the Orzhov Aggro deck aims to overwhelm the opponent with a fast and efficient creature-based strategy."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Martin Schafstein",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537106&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 10,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Crystal Grotto"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gladecover Scout"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
+                },
+                {
+                    "count": 2,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Abundant Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Unbridled Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Seed of Hope"
+                },
+                {
+                    "count": 4,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Mask"
+                },
+                {
+                    "count": 4,
+                    "name": "Armadillo Cloak"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Spirit Link"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifelink"
+                },
+                {
+                    "count": 1,
+                    "name": "Fling"
+                },
+                {
+                    "count": 2,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 2,
+                    "name": "Freewind Falcon"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "This deck focuses on quickly building up creatures with powerful aura enchantments to overwhelm the opponent with a combination of evasion, buffing, and lifegain. The key strategy is to efficiently apply auras to low-cost, hexproof creatures to create a fast, hard-hitting aggro deck that can outpace opponents and maintain board presence. By utilizing mana-efficient ramp spells and a mix of protective and offensive auras, the deck aims to consistently apply pressure and force opponents to quickly find answers or risk being overwhelmed by a flurry of powerful enchanted creatures."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Thiago Oliveira",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537107&f=PAU",
+            "mainboard": [
+                {
+                    "count": 11,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                }
+            ],
+            "notes": "The focus of this deck revolves around disrupting your opponent's game plan through card draw, counterspells, and removal while also developing your own board presence with efficient threats like Gurmag Angler and Fallaji Archaeologist. The goal is to control the pace of the game, using cards like Thought Scour and Deep Analysis to dig for key pieces of your strategy, ultimately overwhelming your opponent with card advantage and powerful creatures. The inclusion of Lórien Revealed adds another layer of control by potentially denying your opponent crucial resources."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Jean Ferreira",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537109&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly establish board presence and maintain aggression through efficient creatures and direct damage spells. By utilizing cards that provide value, such as Thraben Inspector and Glint Hawk, and efficient removal like Lightning Bolt and Journey to Nowhere, this Boros Aggro deck aims to overwhelm opponents with a combination of creature damage and burn spells. The deck also includes synergistic cards like Lembas and Foundry Helix to support the aggressive strategy and maintain pressure on the opponent."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Rodrigo Ongaro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537110&f=PAU",
+            "mainboard": [
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Needle Drop"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Flame Rift"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermo-Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Martyr of Ashes"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Keldon Marauders"
+                }
+            ],
+            "notes": "The deck focuses on aggressively burning the opponent with direct damage spells and low cost creatures to win the game quickly. By efficiently utilizing cards like Lightning Bolt, Chain Lightning, and Fireblast alongside creatures such as Monastery Swiftspear and Thermo-Alchemist, the deck can consistently deal damage to the opponent's life total. The goal is to maintain pressure on the opponent while burning them out with direct damage spells to secure a victory before they can stabilize."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Bruno Andrioli",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537108&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 2,
+                    "name": "Lose Focus"
+                },
+                {
+                    "count": 3,
+                    "name": "Meeting of Minds"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Cove"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 3,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game by utilizing cards like Counterspell, Prohibit, and Ephemerate to disrupt the opponent's plans. It relies on recurring value through cards like Archaeomancer and Sunscape Familiar, while also generating card advantage with Mulldrifter and Sea Gate Oracle. The deck's win condition involves outlasting the opponent with incremental advantage and overwhelming them with efficient threats. The mana base is designed to support the deck's control elements and ensure consistent access to its key cards."
+        },
+        {
+            "date": "2023-07-02",
+            "player": "Tiago Oliveira",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45628&d=537111&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 1,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 16,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul Warden"
+                },
+                {
+                    "count": 2,
+                    "name": "Benevolent Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 3,
+                    "name": "Lumithread Field"
+                },
+                {
+                    "count": 3,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirited Companion"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 3,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 3,
+                    "name": "Celestial Unicorn"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 2,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                }
+            ],
+            "notes": "The main concept of this deck is to flood the board with small, low-cost creatures known as \"weenies\" in order to overwhelm the opponent quickly. The deck focuses on aggressive plays and utilizing cards like Thraben Inspector, Kor Skyfisher, and Lunarch Veteran to create a wide board presence. Soul Warden helps gain life when creatures enter the battlefield, while cards like Guardians' Pledge and Battle Screech provide ways to buff the team and deal damage efficiently. This deck aims to win the game fast through consistent attacks and strong synergy between its cards."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

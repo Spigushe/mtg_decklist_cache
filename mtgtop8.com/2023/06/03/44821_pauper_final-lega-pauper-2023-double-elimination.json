@@ -1,0 +1,985 @@
+{
+    "tournament": {
+        "date": "2023-06-03",
+        "name": "Final - Lega Pauper 2023 - Double Elimination",
+        "url": "https://mtgtop8.com/event?e=44821",
+        "format": "Pauper",
+        "players": 8
+    },
+    "decks": [
+        {
+            "date": "2023-06-03",
+            "player": "Giulio Zorzi",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530504&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ardent Elementalist"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Skred"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Behold the Multiverse"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 9,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Goliath Paladin"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by countering opponent's spells, removing threats, and drawing cards efficiently. The deck utilizes a mix of removal spells like Lightning Bolt and Skred, along with counterspells like Counterspell to disrupt the opponent's game plan. It also has card advantage engines like Mulldrifter and Augur of Bolas, along with recursion with Archaeomancer. The mana base includes important lands like Silverbluff Bridge and Rustvale Bridge to support the control game plan."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Marco Casotto",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530505&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Kabira Crossroads"
+                },
+                {
+                    "count": 1,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorehold Campus"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on utilizing cheap and efficient creatures and burn spells to quickly deal damage to the opponent. It includes cards like Kor Skyfisher and Glint Hawk to maintain board presence and Experimental Synthesizer to draw cards. The deck also includes removal spells like Lightning Bolt and Journey to Nowhere to control the opponent's board. With a mix of aggression, card advantage, and removal, this deck aims to overwhelm the opponent before they can develop their own game plan."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Pietro Laudati",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530507&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Guildsworn Prowler"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampire Sovereign"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 1,
+                    "name": "Witherbloom Campus"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Feign Death"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Shrivel"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by utilizing Golgari Garden and a variety of removal spells. The key concept revolves around creating a defensive board state with cards like Guildsworn Prowler and Avenging Hunter, while also disrupting opponents' strategies with Cast Down and Chainer's Edict. Crypt Rats can act as a board wipe, while Llanowar Visionary and Ichor Wellspring provide card draw and mana ramp. The deck also includes a small life gain subtheme with cards like Blood Fountain and Unexpected Fangs. Overall, the deck aims to outlast opponents and win through attrition."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Nahuel Coliva",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530506&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 3,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly play low-cost creatures and spells to deal damage to the opponent as fast as possible. By utilizing cards like Monastery Swiftspear and Goblin Blast-Runner, as well as burn spells like Lightning Bolt and Chain Lightning, the goal is to overwhelm the opponent with a flurry of aggressive attacks. The deck also includes ways to generate mana efficiently, such as Chromatic Star and Great Furnace, to ensure that the aggressive strategy can be maintained consistently throughout the game."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Riccardo Baldo",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530511&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 4,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Vanguard"
+                },
+                {
+                    "count": 3,
+                    "name": "Wellwisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 2,
+                    "name": "Lys Alana Huntmaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Ivy Lane Denizen"
+                },
+                {
+                    "count": 2,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 2,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 3,
+                    "name": "Distant Melody"
+                },
+                {
+                    "count": 13,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Spidersilk Armor"
+                },
+                {
+                    "count": 1,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 1,
+                    "name": "Harsh Sustenance"
+                }
+            ],
+            "notes": "The main idea of this deck is to overwhelm the opponent with a quick and efficient Elf tribal aggro strategy. By using cards like Quirion Ranger, Priest of Titania, and Timberwatch Elf to generate mana and pump up the team, along with cards like Elvish Vanguard and Lys Alana Huntmaster to keep the pressure on, the deck aims to outpace the opponent and secure victory. Additional support from cards like Lead the Stampede and Distant Melody help to refill the hand and keep the momentum going. Overall, this deck is all about fast, relentless aggression with the Elves tribe."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Matteo Costanzi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530508&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Guildsworn Prowler"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampire Sovereign"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 1,
+                    "name": "Witherbloom Campus"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using removal spells and board wipes, while also generating value through card draw and graveyard recursion. The deck aims to outvalue the opponent by utilizing the Golgari colors to efficiently trade resources and grind out incremental advantages. Additionally, the deck includes some life gain and creature recursion to help stabilize against aggressive strategies. Overall, the key concept of this deck is to disrupt the opponent's game plan while generating card advantage and closing out the game with efficient threats."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Daniele Baratella",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530509&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Guildsworn Prowler"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampire Sovereign"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 1,
+                    "name": "Witherbloom Campus"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Fungal Infection"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Nausea"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game using removal spells and creatures like Crypt Rats and Avenging Hunter. It also generates card advantage through cards like Ichor Wellspring and Thorn of the Black Rose. The deck has a strong mana base with Golgari Rot Farm and Khalni Garden to ensure consistent access to all colors of mana. The key strategy is to disrupt the opponent's game plan while establishing a board presence with efficient threats, ultimately leading to victory through attrition and outvaluing the opponent."
+        },
+        {
+            "date": "2023-06-03",
+            "player": "Giacomo Stefanello",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44821&d=530510&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 3,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien's Grizzly"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 1,
+                    "name": "Vent Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 13,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Holdout Settlement"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 3,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodrite Invoker"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrap in Vigor"
+                }
+            ],
+            "notes": "The main idea of this deck is to generate a large amount of mana using defender creatures like Overgrown Battlement and Axebane Guardian, while also utilizing cards like Quirion Ranger and Jaspera Sentinel to untap them. This allows for the combo to work by casting Freed from the Real on a creature like Axebane Guardian to create infinite mana. This deck also features ways to dig through the deck quickly with cards like Lead the Stampede and Winding Way to find the combo pieces needed for the win condition."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

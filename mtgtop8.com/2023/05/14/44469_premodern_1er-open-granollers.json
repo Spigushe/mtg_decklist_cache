@@ -1,0 +1,993 @@
+{
+    "tournament": {
+        "date": "2023-05-14",
+        "name": "1er Open Granollers",
+        "url": "https://mtgtop8.com/event?e=44469",
+        "format": "Premodern",
+        "players": 20
+    },
+    "decks": [
+        {
+            "date": "2023-05-14",
+            "player": "Eloy Navarro",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528010&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 16,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Alexi's Cloak"
+                }
+            ],
+            "notes": "The main concept of this deck is to use the card Phyrexian Dreadnought as a key piece in a combo. By combining it with Stifle, the player can prevent the drawback of the Dreadnought's ability and have a powerful creature with a low cost. The deck focuses on drawing and searching for the necessary combo pieces through cards like Impulse, Gush, and Portent. Counterspells like Annul and Counterspell help protect the combo, while bounce spells like Boomerang provide additional control. Overall, this deck aims to quickly assemble the combo and overwhelm the opponent with a powerful threat."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Gines Fernandez",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528011&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                }
+            ],
+            "notes": "The main concept of this aggro Goblin deck is to flood the board with low-cost Goblin creatures, rapidly overwhelming the opponent with sheer numbers and aggression. By utilizing cards like Goblin Lackey to cheat out powerful Goblin creatures early in the game, and cards like Siege-Gang Commander and Goblin Ringleader to provide additional value and card advantage, this deck aims to quickly establish dominance on the battlefield and pressure the opponent into submission. With a focus on speed, efficiency, and synergy among its Goblin tribe members, this deck is a relentless force to be reckoned with in premodern 1 vs 1 matches."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Victor Gomez",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528012&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                }
+            ],
+            "notes": "This deck focuses on quickly building a board presence of aggressive goblin creatures to overwhelm the opponent. With cards like Goblin Lackey and Skirk Prospector, the deck aims to bring out powerful goblin cards like Goblin Warchief and Siege-Gang Commander early in the game. Cards like Gempalm Incinerator and Goblin Sharpshooter help to control the board while dealing damage to the opponent's creatures. The deck also includes some card draw and removal options to maintain momentum and pressure throughout the game. A mix of creatures and spells helps to create a well-rounded aggressive strategy."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Telm Fabregas",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528013&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                }
+            ],
+            "notes": "This deck focuses on quickly building up a board of aggressive Goblin creatures to overwhelm the opponent. By utilizing cards like Goblin Lackey and Goblin Matron to tutor for key creatures, the deck is able to maintain a consistent stream of threats. Key cards like Siege-Gang Commander and Goblin Piledriver provide additional firepower, while Gempalm Incinerator helps clear the opponent's creatures. With a focus on speed and aggression, this deck aims to put pressure on the opponent early and keep the pressure on until victory is achieved."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Tekomo",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528016&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 4,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 3,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                }
+            ],
+            "notes": "The main aim of this deck is to overwhelm the opponent with an aggressive Goblin tribal strategy. By playing low-cost Goblin creatures that benefit from Goblin lords like Goblin Warchief, the deck aims to quickly build a wide board presence and deal significant damage to the opponent. Cards like Goblin Lackey and Goblin Matron help to tutor for key creatures, while cards like Goblin Sharpshooter and Siege-Gang Commander provide additional removal and reach. The deck also includes some disruption with cards like Rishadan Port and Wasteland to slow down the opponent's game plan."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Marcial Ruiz Escribano",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528015&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Future Sight"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 3,
+                    "name": "Silver Knight"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Angel"
+                },
+                {
+                    "count": 2,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Reflecting Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dwarven Blastminer"
+                },
+                {
+                    "count": 2,
+                    "name": "Dwarven Miner"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura Fracture"
+                },
+                {
+                    "count": 1,
+                    "name": "Reprisal"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                }
+            ],
+            "notes": "The deck focuses on controlling the opponent's actions through a variety of removal spells and disrupting their game plan with cards like Meddling Mage. It also seeks to protect itself with cards like Mother of Runes and Silver Knight. The key strategy is to establish board control while generating card advantage through cards like Fact or Fiction and Future Sight. The deck aims to stabilize the board and eventually win the game with powerful threats like Exalted Angel and Lightning Angel. The mana base is carefully constructed to support the deck's color requirements and ensure consistent access to all necessary resources."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Jordi Paez",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528014&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Spiritmonger"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Rager"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Krosan Tusker"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 2,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Haunting Echoes"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 3,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by disrupting the opponent's strategy with a combination of hand disruption and removal spells. It then utilizes powerful creatures like Ravenous Baloth and Spiritmonger to maintain board presence and apply pressure. The deck also features a strong synergy with Pernicious Deed, allowing for mass removal of threats on the board. The inclusion of Recurring Nightmare and Volrath's Stronghold offers additional recursion and value throughout the game. Overall, this deck aims to outvalue and outlast the opponent in a slower, grindy matchup."
+        },
+        {
+            "date": "2023-05-14",
+            "player": "Jose Nuñez",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=44469&d=528017&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spiritmonger"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 2,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 2,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 3,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Living Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 2,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Bone Shredder"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Spitter"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game through a combination of removal spells, hand disruption, and creature threats. It aims to disrupt the opponent's game plan with cards like Cabal Therapy and Duress, while also deploying powerful threats like Ravenous Baloth and Spiritmonger. The deck utilizes cards that provide value over time, such as Recurring Nightmare and Pernicious Deed, to generate advantage and outvalue the opponent. Additionally, the deck has a toolbox aspect with Living Wish to access specific silver bullet creatures like Yavimaya Elder or Deranged Hermit to handle various situations."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

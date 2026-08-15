@@ -1,0 +1,965 @@
+{
+    "tournament": {
+        "date": "2023-06-10",
+        "name": "Liga Premodern Alicante 12ª Jornada",
+        "url": "https://mtgtop8.com/event?e=45175",
+        "format": "Premodern",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2023-06-10",
+            "player": "Farmer",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533503&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Shadowmage Infiltrator"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 2,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Akroma's Vengeance"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the opponent's actions and resources through various means such as counterspells, hand disruption, and removal spells. It aims to dictate the pace of the game and eliminate threats using cards like Mana Leak, Duress, and Vindicate. The deck also includes creatures with protection and evasive abilities like Exalted Angel and Shadowmage Infiltrator to apply pressure and draw cards. It combines different types of lands to ensure a smooth mana base and to potentially disrupt the opponent's land base with cards like Wasteland."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Jorge Piledrivver",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533504&f=PREM",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 3,
+                    "name": "Careful Study"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Coastal Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Skycloud Expanse"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Chill"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 1,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 1,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                }
+            ],
+            "notes": "The deck focuses on quickly filling the graveyard with enchantments, then using Replenish to bring them back onto the battlefield for a powerful combo. Cards like Attunement and Careful Study help to fill the graveyard, while Opalescence turns enchantments into creatures for added aggression. Parallax Tide and Wave provide control and removal options, with Arcane Denial for counter spells. The mana base is designed for consistency and speed, with City of Traitors and Ancient Tomb for early ramp. The goal is to overwhelm the opponent with a board full of powerful enchantments."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Miky Feliu",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533506&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrostatic Pillar"
+                },
+                {
+                    "count": 3,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Flame Rift"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Viashino Sandstalker"
+                },
+                {
+                    "count": 2,
+                    "name": "Mogg Maniac"
+                },
+                {
+                    "count": 4,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 1,
+                    "name": "Overload"
+                },
+                {
+                    "count": 3,
+                    "name": "Sirocco"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                }
+            ],
+            "notes": "This aggressive deck focuses on dealing damage quickly and efficiently to the opponent using low-cost burn spells and creatures. It aims to flood the board with creatures like Ball Lightning and Mogg Fanatic, while also utilizing direct damage spells such as Lightning Bolt and Flame Rift to finish off the opponent. The inclusion of cards like Sulfuric Vortex and Pyrostatic Pillar ensures that the opponent will constantly be taking damage even if they try to stabilize. The deck is designed to overwhelm the opponent with a relentless assault of damage and pressure."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Pere Lloret",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533505&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 3,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 2,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 3,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                }
+            ],
+            "notes": "The focus of this deck is to quickly assemble the combo pieces needed to execute a powerful Replenish strategy. By utilizing cards like Attunement and Frantic Search to set up the graveyard, followed by casting Replenish to bring back key enchantments like Parallax Wave and Opalescence, the deck aims to overwhelm the opponent with a fast and powerful board presence. With disruption from cards like Stifle and Seal of Cleansing, as well as the ability to search for key cards with Intuition and Enlightened Tutor, this deck is designed for explosive combo plays."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Marcos González",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533508&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Kaervek's Spite"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 2,
+                    "name": "Bad Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Strength"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarcomancy"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 2,
+                    "name": "Skittering Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauthi Slayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauthi Horror"
+                },
+                {
+                    "count": 4,
+                    "name": "Carnophage"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 16,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 2,
+                    "name": "Contagion"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 3,
+                    "name": "Planar Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Negator"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent by playing efficient and aggressive creatures like Dauthi Slayer, Dauthi Horror, and Carnophage, while disrupting their game plan with cards like Duress, Cabal Therapy, and Unmask. The deck also utilizes cards like Dark Ritual and Sarcomancy to quickly build a board presence and apply pressure. Additionally, the inclusion of disruptive elements like Cursed Scroll and Wasteland helps control the board and prevent the opponent from stabilizing."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Jesús Laguardia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533510&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 3,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Words of War"
+                },
+                {
+                    "count": 1,
+                    "name": "Words of Wind"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 4,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Land Tax"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Undiscovered Paradise"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Planar Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly assemble the Enchantress engine by playing multiple enchantresses like Argothian Enchantress and Enchantress's Presence. Once the engine is online, the player can draw and play a large number of cards by casting enchantments. Additionally, the deck features combo pieces like Solitary Confinement and Parallax Wave to control the board and protect the player's life total. The win condition is typically achieved through a large Words of War or Words of Wind activation, or by replenishing the deck with Replenish to continue the enchantress engine."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Virgilio Domínguez",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533509&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Trade Routes"
+                },
+                {
+                    "count": 1,
+                    "name": "Words of Wind"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Horn of Greed"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 1,
+                    "name": "Glowrider"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, Silver Golem"
+                },
+                {
+                    "count": 1,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 2,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 3,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 3,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                }
+            ],
+            "notes": "This deck is focused on establishing control and slowing down the opponent's game plan. The key concept revolves around utilizing cards like Tangle Wire, Sphere of Resistance, and Swords to Plowshares to disrupt the opponent's strategy and limit their options. The deck also aims to generate card advantage through cards like Horn of Greed and Exploration, while also applying pressure with cards like Black Vise and Treetop Village. Additionally, the deck includes land destruction elements with Wasteland and Dust Bowl to further hinder the opponent's resources."
+        },
+        {
+            "date": "2023-06-10",
+            "player": "Frank",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=45175&d=533507&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 2,
+                    "name": "Living Wish"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 3,
+                    "name": "Krosan Tusker"
+                },
+                {
+                    "count": 3,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 8,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Spiritmonger"
+                },
+                {
+                    "count": 1,
+                    "name": "Bone Shredder"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Spitter"
+                }
+            ],
+            "notes": "The strategy of this deck is to control the game through a combination of removal spells like Smother and Pernicious Deed, along with hand disruption spells like Duress and Cabal Therapy. The deck also utilizes creature recursion with cards like Recurring Nightmare and Volrath's Stronghold to generate value and outlast the opponent. The deck has a long-game plan with powerful threats like Ravenous Baloth and Blastoderm, while also utilizing mana acceleration with cards like Wall of Roots and Krosan Tusker. The Rock archetype focuses on attrition and resource denial to grind out victories."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

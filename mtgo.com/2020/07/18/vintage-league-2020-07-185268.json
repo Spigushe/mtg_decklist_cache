@@ -9,6 +9,121 @@
     "decks": [
         {
             "date": "2020-07-17",
+            "player": "PRGJJAR",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-07-185268#deck_PRGJJAR",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Grave-Troll"
+                },
+                {
+                    "count": 3,
+                    "name": "Golgari Thug"
+                },
+                {
+                    "count": 1,
+                    "name": "Hogaak, Arisen Necropolis"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichorid"
+                },
+                {
+                    "count": 4,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 4,
+                    "name": "Prized Amalgam"
+                },
+                {
+                    "count": 4,
+                    "name": "Shambling Shell"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Bridge from Below"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Creeping Chill"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Contagion"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-07-17",
             "player": "Earlder1",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-07-185268#deck_Earlder1",
@@ -224,13 +339,21 @@
         },
         {
             "date": "2020-07-17",
-            "player": "PRGJJAR",
+            "player": "furyure",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-07-185268#deck_PRGJJAR",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-07-185268#deck_furyure",
             "mainboard": [
                 {
                     "count": 4,
                     "name": "Serum Powder"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashen Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Flayer of the Hatebound"
                 },
                 {
                     "count": 1,
@@ -239,10 +362,6 @@
                 {
                     "count": 3,
                     "name": "Golgari Thug"
-                },
-                {
-                    "count": 1,
-                    "name": "Hogaak, Arisen Necropolis"
                 },
                 {
                     "count": 4,
@@ -273,7 +392,7 @@
                     "name": "Bridge from Below"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Force of Negation"
                 },
                 {
@@ -289,10 +408,6 @@
                     "name": "Mental Misstep"
                 },
                 {
-                    "count": 2,
-                    "name": "Mindbreak Trap"
-                },
-                {
                     "count": 4,
                     "name": "Bazaar of Baghdad"
                 },
@@ -303,11 +418,15 @@
                 {
                     "count": 4,
                     "name": "Creeping Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Dread Return"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Contagion"
                 },
                 {
@@ -316,10 +435,6 @@
                 },
                 {
                     "count": 3,
-                    "name": "Leyline of Sanctity"
-                },
-                {
-                    "count": 2,
                     "name": "Mindbreak Trap"
                 },
                 {
@@ -327,8 +442,12 @@
                     "name": "Strip Mine"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmask"
                 },
                 {
                     "count": 2,
@@ -528,125 +647,6 @@
                 {
                     "count": 4,
                     "name": "Sprite Dragon"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-07-17",
-            "player": "furyure",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-07-185268#deck_furyure",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Serum Powder"
-                },
-                {
-                    "count": 1,
-                    "name": "Ashen Rider"
-                },
-                {
-                    "count": 1,
-                    "name": "Flayer of the Hatebound"
-                },
-                {
-                    "count": 1,
-                    "name": "Golgari Grave-Troll"
-                },
-                {
-                    "count": 3,
-                    "name": "Golgari Thug"
-                },
-                {
-                    "count": 4,
-                    "name": "Hollow One"
-                },
-                {
-                    "count": 4,
-                    "name": "Ichorid"
-                },
-                {
-                    "count": 4,
-                    "name": "Narcomoeba"
-                },
-                {
-                    "count": 4,
-                    "name": "Prized Amalgam"
-                },
-                {
-                    "count": 4,
-                    "name": "Shambling Shell"
-                },
-                {
-                    "count": 4,
-                    "name": "Stinkweed Imp"
-                },
-                {
-                    "count": 4,
-                    "name": "Bridge from Below"
-                },
-                {
-                    "count": 1,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 4,
-                    "name": "Bazaar of Baghdad"
-                },
-                {
-                    "count": 4,
-                    "name": "Cabal Therapy"
-                },
-                {
-                    "count": 4,
-                    "name": "Creeping Chill"
-                },
-                {
-                    "count": 2,
-                    "name": "Dread Return"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Contagion"
-                },
-                {
-                    "count": 2,
-                    "name": "Force of Vigor"
-                },
-                {
-                    "count": 3,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 3,
-                    "name": "Surgical Extraction"
-                },
-                {
-                    "count": 2,
-                    "name": "Unmask"
-                },
-                {
-                    "count": 2,
-                    "name": "Wasteland"
                 }
             ],
             "notes": null

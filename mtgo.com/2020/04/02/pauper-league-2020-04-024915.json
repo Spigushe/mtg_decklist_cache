@@ -9,6 +9,137 @@
     "decks": [
         {
             "date": "2020-04-01",
+            "player": "mgoblin",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_mgoblin",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 2,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 4,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 2,
+                    "name": "Rally the Peasants"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 3,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Firebolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Flame Slash"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 3,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-04-01",
             "player": "Heisen01",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_Heisen01",
@@ -160,589 +291,6 @@
         },
         {
             "date": "2020-04-01",
-            "player": "tarte",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_tarte",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Augur of Bolas"
-                },
-                {
-                    "count": 4,
-                    "name": "Gurmag Angler"
-                },
-                {
-                    "count": 3,
-                    "name": "Mulldrifter"
-                },
-                {
-                    "count": 1,
-                    "name": "Agony Warp"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 4,
-                    "name": "Disfigure"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Doom Blade"
-                },
-                {
-                    "count": 2,
-                    "name": "Echoing Decay"
-                },
-                {
-                    "count": 3,
-                    "name": "Forbidden Alchemy"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul Manipulation"
-                },
-                {
-                    "count": 2,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 3,
-                    "name": "Dimir Aqueduct"
-                },
-                {
-                    "count": 4,
-                    "name": "Dismal Backwater"
-                },
-                {
-                    "count": 7,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Radiant Fountain"
-                },
-                {
-                    "count": 5,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 3,
-                    "name": "Chainer's Edict"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                },
-                {
-                    "count": 2,
-                    "name": "Probe"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Cartouche of Ambition"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 3,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 2,
-                    "name": "Nihil Spellbomb"
-                },
-                {
-                    "count": 2,
-                    "name": "Shrivel"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul Manipulation"
-                },
-                {
-                    "count": 2,
-                    "name": "Stormbound Geist"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-04-01",
-            "player": "Hadessniper",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_Hadessniper",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Alchemist's Vial"
-                },
-                {
-                    "count": 2,
-                    "name": "Golden Egg"
-                },
-                {
-                    "count": 4,
-                    "name": "Prophetic Prism"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 3,
-                    "name": "Glint Hawk"
-                },
-                {
-                    "count": 4,
-                    "name": "Kor Skyfisher"
-                },
-                {
-                    "count": 2,
-                    "name": "Okiba-Gang Shinobi"
-                },
-                {
-                    "count": 2,
-                    "name": "Palace Sentinels"
-                },
-                {
-                    "count": 3,
-                    "name": "Thraben Inspector"
-                },
-                {
-                    "count": 3,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 1,
-                    "name": "Oblivion Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 1,
-                    "name": "Reaping the Graves"
-                },
-                {
-                    "count": 3,
-                    "name": "Ancient Den"
-                },
-                {
-                    "count": 2,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 3,
-                    "name": "Boros Garrison"
-                },
-                {
-                    "count": 1,
-                    "name": "Forgotten Cave"
-                },
-                {
-                    "count": 3,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 2,
-                    "name": "Radiant Fountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Secluded Steppe"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Mountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Wind-Scarred Crag"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Circle of Protection: Green"
-                },
-                {
-                    "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 2,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 1,
-                    "name": "Leave No Trace"
-                },
-                {
-                    "count": 2,
-                    "name": "Lone Missionary"
-                },
-                {
-                    "count": 1,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Shenanigans"
-                },
-                {
-                    "count": 2,
-                    "name": "Standard Bearer"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-04-01",
-            "player": "heliogil",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_heliogil",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Nest Invader"
-                },
-                {
-                    "count": 4,
-                    "name": "Nettle Sentinel"
-                },
-                {
-                    "count": 3,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 3,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 2,
-                    "name": "Silhana Ledgewalker"
-                },
-                {
-                    "count": 3,
-                    "name": "Skarrgan Pit-Skulk"
-                },
-                {
-                    "count": 3,
-                    "name": "Vault Skirge"
-                },
-                {
-                    "count": 3,
-                    "name": "Elephant Guide"
-                },
-                {
-                    "count": 4,
-                    "name": "Rancor"
-                },
-                {
-                    "count": 4,
-                    "name": "Hunger of the Howlpack"
-                },
-                {
-                    "count": 3,
-                    "name": "Vines of Vastwood"
-                },
-                {
-                    "count": 17,
-                    "name": "Forest"
-                },
-                {
-                    "count": 3,
-                    "name": "Savage Swipe"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Epic Confrontation"
-                },
-                {
-                    "count": 3,
-                    "name": "Gleeful Sabotage"
-                },
-                {
-                    "count": 2,
-                    "name": "Gut Shot"
-                },
-                {
-                    "count": 1,
-                    "name": "Hidden Spider"
-                },
-                {
-                    "count": 3,
-                    "name": "Life Goes On"
-                },
-                {
-                    "count": 1,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Serene Heart"
-                },
-                {
-                    "count": 3,
-                    "name": "Viridian Longbow"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-04-01",
-            "player": "SacredDevil",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_SacredDevil",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Nest Invader"
-                },
-                {
-                    "count": 4,
-                    "name": "Nettle Sentinel"
-                },
-                {
-                    "count": 3,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 2,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 2,
-                    "name": "Silhana Ledgewalker"
-                },
-                {
-                    "count": 3,
-                    "name": "Skarrgan Pit-Skulk"
-                },
-                {
-                    "count": 3,
-                    "name": "Vault Skirge"
-                },
-                {
-                    "count": 3,
-                    "name": "Elephant Guide"
-                },
-                {
-                    "count": 4,
-                    "name": "Rancor"
-                },
-                {
-                    "count": 4,
-                    "name": "Hunger of the Howlpack"
-                },
-                {
-                    "count": 3,
-                    "name": "Vines of Vastwood"
-                },
-                {
-                    "count": 17,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Savage Swipe"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Epic Confrontation"
-                },
-                {
-                    "count": 4,
-                    "name": "Gleeful Sabotage"
-                },
-                {
-                    "count": 3,
-                    "name": "Gut Shot"
-                },
-                {
-                    "count": 1,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 3,
-                    "name": "Viridian Longbow"
-                },
-                {
-                    "count": 3,
-                    "name": "Weather the Storm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-04-01",
-            "player": "Jayrod_Silva",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_Jayrod_Silva",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Chromatic Star"
-                },
-                {
-                    "count": 3,
-                    "name": "Prophetic Prism"
-                },
-                {
-                    "count": 3,
-                    "name": "Springleaf Drum"
-                },
-                {
-                    "count": 1,
-                    "name": "Witching Well"
-                },
-                {
-                    "count": 4,
-                    "name": "Atog"
-                },
-                {
-                    "count": 4,
-                    "name": "Carapace Forger"
-                },
-                {
-                    "count": 4,
-                    "name": "Disciple of the Vault"
-                },
-                {
-                    "count": 4,
-                    "name": "Frogmite"
-                },
-                {
-                    "count": 2,
-                    "name": "Krark-Clan Shaman"
-                },
-                {
-                    "count": 4,
-                    "name": "Myr Enforcer"
-                },
-                {
-                    "count": 1,
-                    "name": "Fling"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Temur Battle Rage"
-                },
-                {
-                    "count": 1,
-                    "name": "Darksteel Citadel"
-                },
-                {
-                    "count": 4,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 4,
-                    "name": "Seat of the Synod"
-                },
-                {
-                    "count": 4,
-                    "name": "Tree of Tales"
-                },
-                {
-                    "count": 4,
-                    "name": "Vault of Whispers"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtcast"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 1,
-                    "name": "Krark-Clan Shaman"
-                },
-                {
-                    "count": 1,
-                    "name": "Reaping the Graves"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Welding Jar"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-04-01",
             "player": "viashinoperuano",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_viashinoperuano",
@@ -874,103 +422,99 @@
         },
         {
             "date": "2020-04-01",
-            "player": "micky5992",
+            "player": "dich4690",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_micky5992",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_dich4690",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Chittering Rats"
+                    "name": "Burning-Tree Emissary"
                 },
                 {
                     "count": 4,
-                    "name": "Gurmag Angler"
-                },
-                {
-                    "count": 2,
-                    "name": "Thorn of the Black Rose"
-                },
-                {
-                    "count": 2,
-                    "name": "Pestilence"
+                    "name": "Nest Invader"
                 },
                 {
                     "count": 4,
-                    "name": "Dark Ritual"
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "River Boa"
                 },
                 {
                     "count": 1,
-                    "name": "Barren Moor"
+                    "name": "Silhana Ledgewalker"
                 },
                 {
-                    "count": 4,
-                    "name": "Peat Bog"
+                    "count": 3,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault Skirge"
                 },
                 {
                     "count": 1,
-                    "name": "Radiant Fountain"
+                    "name": "Wild Mongrel"
                 },
                 {
-                    "count": 14,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Befoul"
+                    "count": 3,
+                    "name": "Elephant Guide"
                 },
                 {
                     "count": 4,
-                    "name": "Chainer's Edict"
+                    "name": "Rancor"
                 },
                 {
                     "count": 4,
-                    "name": "Choking Sands"
+                    "name": "Hunger of the Howlpack"
                 },
                 {
                     "count": 4,
-                    "name": "Icequake"
+                    "name": "Vines of Vastwood"
                 },
                 {
-                    "count": 2,
-                    "name": "Night's Whisper"
-                },
-                {
-                    "count": 4,
-                    "name": "Rancid Earth"
+                    "count": 16,
+                    "name": "Forest"
                 },
                 {
                     "count": 4,
-                    "name": "Sign in Blood"
+                    "name": "Savage Swipe"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Cartouche of Ambition"
+                    "count": 1,
+                    "name": "Epic Confrontation"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Sabotage"
                 },
                 {
                     "count": 3,
-                    "name": "Crypt Rats"
-                },
-                {
-                    "count": 2,
-                    "name": "Defile"
+                    "name": "Gut Shot"
                 },
                 {
                     "count": 1,
-                    "name": "Diabolic Edict"
+                    "name": "Life Goes On"
                 },
                 {
-                    "count": 2,
-                    "name": "Doom Blade"
-                },
-                {
-                    "count": 2,
-                    "name": "Nausea"
+                    "count": 1,
+                    "name": "River Boa"
                 },
                 {
                     "count": 3,
-                    "name": "Tendrils of Corruption"
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
                 }
             ],
             "notes": null
@@ -1130,6 +674,157 @@
                 {
                     "count": 1,
                     "name": "Shenanigans"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-04-01",
+            "player": "Hadessniper",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_Hadessniper",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Alchemist's Vial"
+                },
+                {
+                    "count": 2,
+                    "name": "Golden Egg"
+                },
+                {
+                    "count": 4,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 2,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 2,
+                    "name": "Palace Sentinels"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Green"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
                 }
             ],
             "notes": null
@@ -1442,115 +1137,206 @@
         },
         {
             "date": "2020-04-01",
-            "player": "mgoblin",
+            "player": "heliogil",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_mgoblin",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_heliogil",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Guardian of the Guildpact"
-                },
-                {
-                    "count": 2,
-                    "name": "Palace Sentinels"
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
                 },
                 {
                     "count": 4,
-                    "name": "Seeker of the Way"
+                    "name": "Nest Invader"
                 },
                 {
                     "count": 4,
-                    "name": "Squadron Hawk"
-                },
-                {
-                    "count": 4,
-                    "name": "Thraben Inspector"
-                },
-                {
-                    "count": 2,
-                    "name": "Journey to Nowhere"
-                },
-                {
-                    "count": 1,
-                    "name": "Oblivion Ring"
-                },
-                {
-                    "count": 2,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Bolt"
+                    "name": "Nettle Sentinel"
                 },
                 {
                     "count": 3,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 2,
-                    "name": "Rally the Peasants"
-                },
-                {
-                    "count": 1,
-                    "name": "Ash Barrens"
-                },
-                {
-                    "count": 1,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 4,
-                    "name": "Boros Garrison"
-                },
-                {
-                    "count": 5,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 5,
-                    "name": "Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Radiant Fountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Wind-Scarred Crag"
-                },
-                {
-                    "count": 4,
-                    "name": "Battle Screech"
+                    "name": "Quirion Ranger"
                 },
                 {
                     "count": 3,
-                    "name": "Faithless Looting"
-                },
-                {
-                    "count": 1,
-                    "name": "Firebolt"
+                    "name": "River Boa"
                 },
                 {
                     "count": 2,
-                    "name": "Flame Slash"
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 3,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Elephant Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunger of the Howlpack"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 17,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Savage Swipe"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 2,
-                    "name": "Leave No Trace"
+                    "name": "Epic Confrontation"
                 },
                 {
                     "count": 3,
-                    "name": "Lone Missionary"
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Gut Shot"
                 },
                 {
                     "count": 1,
-                    "name": "Pyroblast"
+                    "name": "Hidden Spider"
+                },
+                {
+                    "count": 3,
+                    "name": "Life Goes On"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 3,
+                    "name": "Viridian Longbow"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-04-01",
+            "player": "Jayrod_Silva",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_Jayrod_Silva",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 3,
+                    "name": "Prophetic Prism"
+                },
+                {
+                    "count": 3,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 1,
+                    "name": "Witching Well"
+                },
+                {
+                    "count": 4,
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Carapace Forger"
+                },
+                {
+                    "count": 4,
+                    "name": "Disciple of the Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 1,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Temur Battle Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
                 },
                 {
                     "count": 3,
@@ -1561,21 +1347,243 @@
                     "name": "Relic of Progenitus"
                 },
                 {
-                    "count": 2,
-                    "name": "Shenanigans"
-                },
-                {
                     "count": 1,
-                    "name": "Standard Bearer"
+                    "name": "Welding Jar"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-04-01",
-            "player": "dich4690",
+            "player": "tarte",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_dich4690",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_tarte",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 3,
+                    "name": "Forbidden Alchemy"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul Manipulation"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Dimir Aqueduct"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismal Backwater"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Probe"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cartouche of Ambition"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Shrivel"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul Manipulation"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-04-01",
+            "player": "micky5992",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_micky5992",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Chittering Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 4,
+                    "name": "Peat Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 14,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Befoul"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Choking Sands"
+                },
+                {
+                    "count": 4,
+                    "name": "Icequake"
+                },
+                {
+                    "count": 2,
+                    "name": "Night's Whisper"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancid Earth"
+                },
+                {
+                    "count": 4,
+                    "name": "Sign in Blood"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cartouche of Ambition"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Defile"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Doom Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Nausea"
+                },
+                {
+                    "count": 3,
+                    "name": "Tendrils of Corruption"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-04-01",
+            "player": "SacredDevil",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-04-024915#deck_SacredDevil",
             "mainboard": [
                 {
                     "count": 4,
@@ -1598,7 +1606,7 @@
                     "name": "River Boa"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Silhana Ledgewalker"
                 },
                 {
@@ -1608,10 +1616,6 @@
                 {
                     "count": 3,
                     "name": "Vault Skirge"
-                },
-                {
-                    "count": 1,
-                    "name": "Wild Mongrel"
                 },
                 {
                     "count": 3,
@@ -1626,11 +1630,11 @@
                     "name": "Hunger of the Howlpack"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Vines of Vastwood"
                 },
                 {
-                    "count": 16,
+                    "count": 17,
                     "name": "Forest"
                 },
                 {
@@ -1653,10 +1657,6 @@
                 },
                 {
                     "count": 1,
-                    "name": "Life Goes On"
-                },
-                {
-                    "count": 1,
                     "name": "River Boa"
                 },
                 {
@@ -1664,7 +1664,7 @@
                     "name": "Viridian Longbow"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Weather the Storm"
                 }
             ],

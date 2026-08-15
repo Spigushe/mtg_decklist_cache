@@ -7,6 +7,57 @@
         "players": 0
     },
     "decks": [],
-    "rounds": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "SacredDevil",
+                    "player_2": "Janh",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "WhiTe TsaR",
+                    "player_2": "Killerp0p0",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "billster47",
+                    "player_2": "JoshicallsmeFabo",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Clockwork Dean",
+                    "player_2": "Alleyezonme",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "SacredDevil",
+                    "player_2": "WhiTe TsaR",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "billster47",
+                    "player_2": "Clockwork Dean",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "SacredDevil",
+                    "player_2": "billster47",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
     "standings": []
 }

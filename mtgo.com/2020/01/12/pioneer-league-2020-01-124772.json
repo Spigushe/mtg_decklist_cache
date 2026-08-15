@@ -9,24 +9,524 @@
     "decks": [
         {
             "date": "2020-01-11",
-            "player": "TheTunnelingCat",
+            "player": "MarcoHektor",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_TheTunnelingCat",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_MarcoHektor",
             "mainboard": [
                 {
+                    "count": 1,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
                     "count": 2,
-                    "name": "Cast Out"
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Torbran, Thane of Red Fell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 17,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 3,
+                    "name": "Scab-Clan Berserker"
+                },
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "Shadaro",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Shadaro",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arboreal Grazer"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavalier of Thorns"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Rejuvenator"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Oblivion Sower"
+                },
+                {
+                    "count": 2,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulvenwald Hydra"
+                },
+                {
+                    "count": 2,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 3,
+                    "name": "World Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Arch of Orazca"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 4,
+                    "name": "Castle Garenbrig"
+                },
+                {
+                    "count": 11,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Radiant Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Sanctum of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Shrine of the Forsaken Gods"
+                },
+                {
+                    "count": 4,
+                    "name": "Ugin, the Spirit Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Nissa's Pilgrimage"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Courser of Kruphix"
+                },
+                {
+                    "count": 2,
+                    "name": "Perilous Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Spatial Contortion"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "AOBA",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_AOBA",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Gilded Goose"
+                },
+                {
+                    "count": 4,
+                    "name": "Niv-Mizzet Reborn"
+                },
+                {
+                    "count": 3,
+                    "name": "Rogue Refiner"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Caryatid"
+                },
+                {
+                    "count": 2,
+                    "name": "The Scarab God"
+                },
+                {
+                    "count": 2,
+                    "name": "Whirler Virtuoso"
                 },
                 {
                     "count": 1,
                     "name": "Detention Sphere"
                 },
                 {
-                    "count": 1,
-                    "name": "Search for Azcanta"
+                    "count": 4,
+                    "name": "Fires of Invention"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
                 },
                 {
                     "count": 3,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 3,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorin, Vengeful Bloodlord"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "The Royal Scions"
+                },
+                {
+                    "count": 2,
+                    "name": "Attune with Aether"
+                },
+                {
+                    "count": 1,
+                    "name": "Bring to Light"
+                },
+                {
+                    "count": 1,
+                    "name": "Deafening Clarion"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadbore"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Erasure"
+                },
+                {
+                    "count": 1,
+                    "name": "Unmoored Ego"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Angrath, the Flame-Chained"
+                },
+                {
+                    "count": 1,
+                    "name": "Deafening Clarion"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Kambal, Consul of Allocation"
+                },
+                {
+                    "count": 1,
+                    "name": "Keranos, God of Storms"
+                },
+                {
+                    "count": 2,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Oath of Kaya"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolsimir, Friend to Wolves"
+                },
+                {
+                    "count": 1,
+                    "name": "Unmoored Ego"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "m-boy",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_m-boy",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Empyrean Eagle"
+                },
+                {
+                    "count": 4,
+                    "name": "Mausoleum Wanderer"
+                },
+                {
+                    "count": 3,
+                    "name": "Nebelgast Herald"
+                },
+                {
+                    "count": 4,
+                    "name": "Rattlechains"
+                },
+                {
+                    "count": 3,
+                    "name": "Selfless Spirit"
+                },
+                {
+                    "count": 4,
+                    "name": "Spectral Sailor"
+                },
+                {
+                    "count": 4,
+                    "name": "Spell Queller"
+                },
+                {
+                    "count": 4,
+                    "name": "Supreme Phantom"
+                },
+                {
+                    "count": 2,
+                    "name": "Tithe Taker"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Glacial Fortress"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Port Town"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 3,
+                    "name": "Devout Decree"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Settle the Wreckage"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "taruto1212",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_taruto1212",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Torrential Gearhulk"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal Away"
+                },
+                {
+                    "count": 4,
                     "name": "Absorb"
                 },
                 {
@@ -34,16 +534,12 @@
                     "name": "Azorius Charm"
                 },
                 {
-                    "count": 1,
+                    "count": 4,
                     "name": "Censor"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Dig Through Time"
-                },
-                {
-                    "count": 1,
-                    "name": "Disallow"
                 },
                 {
                     "count": 1,
@@ -58,24 +554,16 @@
                     "name": "Sphinx's Revelation"
                 },
                 {
-                    "count": 1,
-                    "name": "Syncopate"
-                },
-                {
                     "count": 2,
                     "name": "Castle Ardenvale"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Castle Vantress"
                 },
                 {
                     "count": 2,
                     "name": "Field of Ruin"
-                },
-                {
-                    "count": 1,
-                    "name": "Geier Reach Sanitarium"
                 },
                 {
                     "count": 4,
@@ -86,20 +574,16 @@
                     "name": "Hallowed Fountain"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Irrigated Farmland"
                 },
                 {
-                    "count": 6,
+                    "count": 5,
                     "name": "Island"
                 },
                 {
                     "count": 4,
                     "name": "Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Elspeth, Sun's Champion"
                 },
                 {
                     "count": 1,
@@ -114,16 +598,12 @@
                     "name": "Teferi, Hero of Dominaria"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Teferi, Time Raveler"
                 },
                 {
                     "count": 4,
                     "name": "Supreme Verdict"
-                },
-                {
-                    "count": 1,
-                    "name": "Commit/Memory"
                 }
             ],
             "sideboard": [
@@ -137,6 +617,10 @@
                 },
                 {
                     "count": 2,
+                    "name": "Isolate"
+                },
+                {
+                    "count": 1,
                     "name": "Lyra Dawnbringer"
                 },
                 {
@@ -144,8 +628,8 @@
                     "name": "Monastery Mentor"
                 },
                 {
-                    "count": 2,
-                    "name": "Mystical Dispute"
+                    "count": 1,
+                    "name": "Pithing Needle"
                 },
                 {
                     "count": 2,
@@ -158,6 +642,406 @@
                 {
                     "count": 2,
                     "name": "Summary Dismissal"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "Magnificent_Magikarp",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Magnificent_Magikarp",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Chainwhirler"
+                },
+                {
+                    "count": 4,
+                    "name": "Rekindling Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragonskull Summit"
+                },
+                {
+                    "count": 4,
+                    "name": "Foreboding Ruins"
+                },
+                {
+                    "count": 11,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra, Torch of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chandra, Awakened Inferno"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Epic Downfall"
+                },
+                {
+                    "count": 1,
+                    "name": "Fight with Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Scab-Clan Berserker"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "OceanMan94",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_OceanMan94",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "The Great Henge"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Growth-Chamber Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Leaf Champion"
+                },
+                {
+                    "count": 3,
+                    "name": "Surrak, the Hunt Caller"
+                },
+                {
+                    "count": 2,
+                    "name": "Yorvo, Lord of Garenbrig"
+                },
+                {
+                    "count": 3,
+                    "name": "Aspect of Hydra"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Garenbrig"
+                },
+                {
+                    "count": 14,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 2,
+                    "name": "Nykthos, Shrine to Nyx"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blossoming Defense"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Clan"
+                },
+                {
+                    "count": 3,
+                    "name": "Hunt the Hunter"
+                },
+                {
+                    "count": 2,
+                    "name": "Loaming Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Reclamation Sage"
+                },
+                {
+                    "count": 3,
+                    "name": "Shapers' Sanctuary"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "Bosley",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Bosley",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Courser of Kruphix"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Gilded Goose"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Excavator"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Advocate"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Wayward Swordtooth"
+                },
+                {
+                    "count": 4,
+                    "name": "Collected Company"
+                },
+                {
+                    "count": 1,
+                    "name": "Cryptic Caves"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 11,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
+                    "name": "Nissa, Who Shakes the World"
+                },
+                {
+                    "count": 3,
+                    "name": "Vivien, Arkbow Ranger"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "End-Raze Forerunners"
+                },
+                {
+                    "count": 2,
+                    "name": "Forced Landing"
+                },
+                {
+                    "count": 4,
+                    "name": "Heroic Intervention"
+                },
+                {
+                    "count": 2,
+                    "name": "Reclamation Sage"
+                },
+                {
+                    "count": 3,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Shapers' Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "oniiman",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_oniiman",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Leaf Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Surrak, the Hunt Caller"
+                },
+                {
+                    "count": 3,
+                    "name": "Syr Faren, the Hengehammer"
+                },
+                {
+                    "count": 3,
+                    "name": "Yorvo, Lord of Garenbrig"
+                },
+                {
+                    "count": 4,
+                    "name": "Aspect of Hydra"
+                },
+                {
+                    "count": 14,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 3,
+                    "name": "Nykthos, Shrine to Nyx"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 2,
+                    "name": "Forced Landing"
+                },
+                {
+                    "count": 2,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Prey Upon"
+                },
+                {
+                    "count": 4,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Shapers' Sanctuary"
                 }
             ],
             "notes": null
@@ -371,125 +1255,6 @@
         },
         {
             "date": "2020-01-11",
-            "player": "La_Biscia",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_La_Biscia",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 4,
-                    "name": "Lotleth Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 1,
-                    "name": "Nullhide Ferox"
-                },
-                {
-                    "count": 4,
-                    "name": "Questing Beast"
-                },
-                {
-                    "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 1,
-                    "name": "Samut, Voice of Dissent"
-                },
-                {
-                    "count": 4,
-                    "name": "Soulflayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Caryatid"
-                },
-                {
-                    "count": 4,
-                    "name": "Zetalpa, Primal Dawn"
-                },
-                {
-                    "count": 4,
-                    "name": "Grisly Salvage"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 4,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Llanowar Wastes"
-                },
-                {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 3,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 3,
-                    "name": "Woodland Cemetery"
-                },
-                {
-                    "count": 2,
-                    "name": "Collective Brutality"
-                },
-                {
-                    "count": 4,
-                    "name": "Gather the Pack"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Cry of the Carnarium"
-                },
-                {
-                    "count": 3,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 3,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 1,
-                    "name": "Liliana, the Last Hope"
-                },
-                {
-                    "count": 2,
-                    "name": "Reclamation Sage"
-                },
-                {
-                    "count": 1,
-                    "name": "Scavenging Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
             "player": "Bertram",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Bertram",
@@ -535,11 +1300,11 @@
                     "name": "Shrapnel Blast"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Stubborn Denial"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Wild Slash"
                 },
                 {
@@ -609,339 +1374,152 @@
         },
         {
             "date": "2020-01-11",
-            "player": "Marxelo",
+            "player": "ilidioTheBrabo157SL",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Marxelo",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_ilidioTheBrabo157SL",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
-                },
-                {
                     "count": 4,
-                    "name": "Ghostfire Blade"
-                },
-                {
-                    "count": 4,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 4,
-                    "name": "Gingerbrute"
+                    "name": "Bloodsoaked Champion"
                 },
                 {
                     "count": 1,
-                    "name": "Hangarback Walker"
+                    "name": "Dread Wanderer"
+                },
+                {
+                    "count": 4,
+                    "name": "Gutterbones"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Ebon Legion"
+                },
+                {
+                    "count": 4,
+                    "name": "Murderous Rider"
+                },
+                {
+                    "count": 3,
+                    "name": "Rankle, Master of Pranks"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
                 },
                 {
                     "count": 2,
-                    "name": "Hope of Ghirapur"
+                    "name": "Spawn of Mayhem"
                 },
                 {
                     "count": 4,
-                    "name": "Skilled Animator"
-                },
-                {
-                    "count": 4,
-                    "name": "Stonecoil Serpent"
+                    "name": "Fatal Push"
                 },
                 {
                     "count": 1,
-                    "name": "Whirler Rogue"
-                },
-                {
-                    "count": 4,
-                    "name": "Ensoul Artifact"
-                },
-                {
-                    "count": 4,
-                    "name": "Shrapnel Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Stubborn Denial"
-                },
-                {
-                    "count": 2,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 4,
-                    "name": "Darksteel Citadel"
+                    "name": "Grasp of Darkness"
                 },
                 {
                     "count": 1,
-                    "name": "Island"
+                    "name": "Ultimate Price"
                 },
                 {
-                    "count": 1,
-                    "name": "Mountain"
+                    "count": 4,
+                    "name": "Castle Locthwain"
                 },
                 {
                     "count": 4,
                     "name": "Mutavault"
                 },
                 {
+                    "count": 15,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
                     "count": 4,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 2,
-                    "name": "Spire of Industry"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 2,
-                    "name": "Steam Vents"
+                    "name": "Thoughtseize"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 2,
-                    "name": "Aether Gust"
-                },
-                {
-                    "count": 1,
                     "name": "Aethersphere Harvester"
                 },
                 {
-                    "count": 1,
-                    "name": "Blazing Volley"
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Kalitas, Traitor of Ghet"
                 },
                 {
                     "count": 1,
+                    "name": "Legion's End"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Noxious Grasp"
+                },
+                {
+                    "count": 1,
+                    "name": "Ultimate Price"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "SgtNolan",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_SgtNolan",
+            "mainboard": [
+                {
+                    "count": 3,
                     "name": "Brazen Borrower"
                 },
                 {
-                    "count": 1,
-                    "name": "Disdainful Stroke"
-                },
-                {
-                    "count": 1,
-                    "name": "Emry, Lurker of the Loch"
-                },
-                {
-                    "count": 1,
-                    "name": "Hazoret the Fervent"
-                },
-                {
-                    "count": 1,
-                    "name": "Lava Coil"
-                },
-                {
-                    "count": 1,
-                    "name": "Metallic Rebuke"
-                },
-                {
-                    "count": 1,
-                    "name": "Pia and Kiran Nalaar"
-                },
-                {
-                    "count": 1,
-                    "name": "Roast"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "learntolove6",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_learntolove6",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
+                    "count": 4,
+                    "name": "Empyrean Eagle"
                 },
                 {
                     "count": 4,
-                    "name": "Ghostfire Blade"
+                    "name": "Mausoleum Wanderer"
                 },
                 {
                     "count": 4,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 2,
-                    "name": "Emry, Lurker of the Loch"
+                    "name": "Nebelgast Herald"
                 },
                 {
                     "count": 4,
-                    "name": "Gingerbrute"
-                },
-                {
-                    "count": 2,
-                    "name": "Hope of Ghirapur"
-                },
-                {
-                    "count": 4,
-                    "name": "Skilled Animator"
-                },
-                {
-                    "count": 4,
-                    "name": "Stonecoil Serpent"
-                },
-                {
-                    "count": 4,
-                    "name": "Ensoul Artifact"
-                },
-                {
-                    "count": 4,
-                    "name": "Shrapnel Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Stubborn Denial"
-                },
-                {
-                    "count": 2,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 4,
-                    "name": "Darksteel Citadel"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
+                    "name": "Rattlechains"
                 },
                 {
                     "count": 3,
-                    "name": "Mutavault"
+                    "name": "Selfless Spirit"
                 },
                 {
                     "count": 4,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 3,
-                    "name": "Spire of Industry"
+                    "name": "Spectral Sailor"
                 },
                 {
                     "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
-                    "count": 2,
-                    "name": "Steam Vents"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 2,
-                    "name": "Hangarback Walker"
-                },
-                {
-                    "count": 2,
-                    "name": "Lava Coil"
-                },
-                {
-                    "count": 2,
-                    "name": "Metallic Rebuke"
-                },
-                {
-                    "count": 1,
-                    "name": "Stubborn Denial"
-                },
-                {
-                    "count": 1,
-                    "name": "The Royal Scions"
-                },
-                {
-                    "count": 2,
-                    "name": "Tormod's Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Whirler Rogue"
-                },
-                {
-                    "count": 2,
-                    "name": "Wild Slash"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "taruto1212",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_taruto1212",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Torrential Gearhulk"
-                },
-                {
-                    "count": 2,
-                    "name": "Cast Out"
-                },
-                {
-                    "count": 1,
-                    "name": "Seal Away"
+                    "name": "Spell Queller"
                 },
                 {
                     "count": 4,
-                    "name": "Absorb"
+                    "name": "Supreme Phantom"
                 },
                 {
                     "count": 4,
-                    "name": "Azorius Charm"
-                },
-                {
-                    "count": 4,
-                    "name": "Censor"
-                },
-                {
-                    "count": 2,
-                    "name": "Dig Through Time"
-                },
-                {
-                    "count": 1,
-                    "name": "Dovin's Veto"
-                },
-                {
-                    "count": 4,
-                    "name": "Opt"
-                },
-                {
-                    "count": 1,
-                    "name": "Sphinx's Revelation"
-                },
-                {
-                    "count": 2,
-                    "name": "Castle Ardenvale"
-                },
-                {
-                    "count": 2,
-                    "name": "Castle Vantress"
-                },
-                {
-                    "count": 2,
-                    "name": "Field of Ruin"
-                },
-                {
-                    "count": 4,
-                    "name": "Glacial Fortress"
+                    "name": "Curious Obsession"
                 },
                 {
                     "count": 4,
@@ -952,329 +1530,456 @@
                     "name": "Irrigated Farmland"
                 },
                 {
-                    "count": 5,
+                    "count": 7,
                     "name": "Island"
                 },
                 {
-                    "count": 4,
-                    "name": "Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Jace, Architect of Thought"
-                },
-                {
                     "count": 2,
-                    "name": "Narset, Parter of Veils"
-                },
-                {
-                    "count": 2,
-                    "name": "Teferi, Hero of Dominaria"
-                },
-                {
-                    "count": 2,
-                    "name": "Teferi, Time Raveler"
-                },
-                {
-                    "count": 4,
-                    "name": "Supreme Verdict"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aether Gust"
-                },
-                {
-                    "count": 2,
-                    "name": "Dovin's Veto"
-                },
-                {
-                    "count": 2,
-                    "name": "Isolate"
-                },
-                {
-                    "count": 1,
-                    "name": "Lyra Dawnbringer"
-                },
-                {
-                    "count": 2,
-                    "name": "Monastery Mentor"
-                },
-                {
-                    "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 2,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 1,
-                    "name": "Settle the Wreckage"
-                },
-                {
-                    "count": 2,
-                    "name": "Summary Dismissal"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "CyrusCG",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_CyrusCG",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Ghostfire Blade"
-                },
-                {
-                    "count": 4,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 1,
-                    "name": "Emry, Lurker of the Loch"
-                },
-                {
-                    "count": 4,
-                    "name": "Gingerbrute"
-                },
-                {
-                    "count": 2,
-                    "name": "Hope of Ghirapur"
-                },
-                {
-                    "count": 4,
-                    "name": "Skilled Animator"
-                },
-                {
-                    "count": 4,
-                    "name": "Stonecoil Serpent"
-                },
-                {
-                    "count": 4,
-                    "name": "Ensoul Artifact"
-                },
-                {
-                    "count": 4,
-                    "name": "Shrapnel Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Stubborn Denial"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 4,
-                    "name": "Darksteel Citadel"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
                     "name": "Mutavault"
                 },
                 {
-                    "count": 4,
-                    "name": "Shivan Reef"
-                },
-                {
-                    "count": 2,
-                    "name": "Spire of Industry"
-                },
-                {
-                    "count": 4,
-                    "name": "Spirebluff Canal"
-                },
-                {
                     "count": 3,
-                    "name": "Steam Vents"
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Port Town"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Aether Gust"
+                    "count": 4,
+                    "name": "Declaration in Stone"
                 },
                 {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
+                    "count": 4,
+                    "name": "Disdainful Stroke"
                 },
                 {
-                    "count": 2,
-                    "name": "Bonecrusher Giant"
+                    "count": 3,
+                    "name": "Mystical Dispute"
                 },
                 {
-                    "count": 2,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 1,
-                    "name": "Emry, Lurker of the Loch"
-                },
-                {
-                    "count": 2,
-                    "name": "Hangarback Walker"
-                },
-                {
-                    "count": 2,
-                    "name": "Lava Coil"
-                },
-                {
-                    "count": 2,
-                    "name": "Metallic Rebuke"
+                    "count": 4,
+                    "name": "Surge of Righteousness"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-01-11",
-            "player": "ack_s",
+            "player": "BradPitKeeper",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_ack_s",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_BradPitKeeper",
             "mainboard": [
                 {
-                    "count": 1,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 4,
-                    "name": "Lotleth Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
+                    "count": 2,
+                    "name": "Crucible of Worlds"
                 },
                 {
                     "count": 1,
-                    "name": "Nullhide Ferox"
+                    "name": "Cavalier of Thorns"
                 },
                 {
                     "count": 4,
-                    "name": "Questing Beast"
+                    "name": "Courser of Kruphix"
                 },
                 {
                     "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 1,
-                    "name": "Samut, Voice of Dissent"
-                },
-                {
-                    "count": 1,
-                    "name": "Satyr Wayfinder"
-                },
-                {
-                    "count": 4,
-                    "name": "Soulflayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Caryatid"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampire of the Dire Moon"
-                },
-                {
-                    "count": 4,
-                    "name": "Zetalpa, Primal Dawn"
-                },
-                {
-                    "count": 4,
-                    "name": "Grisly Salvage"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
+                    "name": "Llanowar Scout"
                 },
                 {
                     "count": 2,
+                    "name": "Ramunap Excavator"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Advocate"
+                },
+                {
+                    "count": 3,
+                    "name": "The Gitrog Monster"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Wayward Swordtooth"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Arch of Orazca"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Garenbrig"
+                },
+                {
+                    "count": 1,
+                    "name": "Drownyard Temple"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 8,
                     "name": "Forest"
                 },
                 {
-                    "count": 2,
-                    "name": "Llanowar Wastes"
+                    "count": 1,
+                    "name": "Hissing Quagmire"
                 },
                 {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Swamp"
+                    "count": 3,
+                    "name": "Mutavault"
                 },
                 {
                     "count": 1,
-                    "name": "Temple of Malady"
+                    "name": "Nykthos, Shrine to Nyx"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
                 },
                 {
                     "count": 1,
                     "name": "Urborg, Tomb of Yawgmoth"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Woodland Cemetery"
                 },
                 {
                     "count": 1,
-                    "name": "Commune with the Gods"
+                    "name": "Nissa, Who Shakes the World"
                 },
                 {
-                    "count": 4,
-                    "name": "Gather the Pack"
+                    "count": 1,
+                    "name": "Thoughtseize"
                 }
             ],
             "sideboard": [
                 {
                     "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 2,
                     "name": "Assassin's Trophy"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Damping Sphere"
                 },
                 {
-                    "count": 2,
-                    "name": "Fatal Push"
+                    "count": 1,
+                    "name": "Emrakul, the Promised End"
                 },
                 {
-                    "count": 2,
-                    "name": "Lost Legacy"
+                    "count": 1,
+                    "name": "Golgari Charm"
                 },
                 {
-                    "count": 2,
-                    "name": "Reclamation Sage"
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
                 },
                 {
                     "count": 2,
                     "name": "Scavenging Ooze"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-01-11",
-            "player": "Jenara19",
+            "player": "RemiFortier",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Jenara19",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_RemiFortier",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Heart of Kiran"
+                },
+                {
+                    "count": 3,
+                    "name": "The Great Henge"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 1,
+                    "name": "Jadelight Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Leaf Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Surrak, the Hunt Caller"
+                },
+                {
+                    "count": 1,
+                    "name": "Syr Faren, the Hengehammer"
+                },
+                {
+                    "count": 3,
+                    "name": "Aspect of Hydra"
+                },
+                {
+                    "count": 14,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 4,
+                    "name": "Nykthos, Shrine to Nyx"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cartouche of Strength"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Heroic Intervention"
+                },
+                {
+                    "count": 2,
+                    "name": "Hunt the Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 3,
+                    "name": "Shapers' Sanctuary"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "SwarmOfBloodflies",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_SwarmOfBloodflies",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Courser of Kruphix"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Promised End"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Flayer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ishkanah, Grafwidow"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 1,
+                    "name": "Murderous Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Siege Rhino"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Abzan Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Shambling Vent"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Woodland Cemetery"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis Reignited"
+                },
+                {
+                    "count": 1,
+                    "name": "Vraska, Golgari Queen"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Traverse the Ulvenwald"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Kalitas, Traitor of Ghet"
+                },
+                {
+                    "count": 2,
+                    "name": "Kambal, Consul of Allocation"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Vital Force"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Tireless Tracker"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "triosk",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_triosk",
             "mainboard": [
                 {
                     "count": 1,
@@ -1483,849 +2188,68 @@
         },
         {
             "date": "2020-01-11",
-            "player": "_Batutinha_",
+            "player": "astarisk",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck__Batutinha_",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 4,
-                    "name": "Lotleth Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 1,
-                    "name": "Nullhide Ferox"
-                },
-                {
-                    "count": 4,
-                    "name": "Questing Beast"
-                },
-                {
-                    "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 1,
-                    "name": "Samut, Voice of Dissent"
-                },
-                {
-                    "count": 4,
-                    "name": "Soulflayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Caryatid"
-                },
-                {
-                    "count": 4,
-                    "name": "Zetalpa, Primal Dawn"
-                },
-                {
-                    "count": 4,
-                    "name": "Grisly Salvage"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 3,
-                    "name": "Forest"
-                },
-                {
-                    "count": 2,
-                    "name": "Llanowar Wastes"
-                },
-                {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 2,
-                    "name": "Woodland Cemetery"
-                },
-                {
-                    "count": 2,
-                    "name": "Collective Brutality"
-                },
-                {
-                    "count": 4,
-                    "name": "Gather the Pack"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Assassin's Trophy"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Lost Legacy"
-                },
-                {
-                    "count": 2,
-                    "name": "Reclamation Sage"
-                },
-                {
-                    "count": 2,
-                    "name": "Scavenging Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "adamwasmo",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_adamwasmo",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 4,
-                    "name": "Lotleth Troll"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 1,
-                    "name": "Nullhide Ferox"
-                },
-                {
-                    "count": 4,
-                    "name": "Questing Beast"
-                },
-                {
-                    "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 1,
-                    "name": "Samut, Voice of Dissent"
-                },
-                {
-                    "count": 1,
-                    "name": "Satyr Wayfinder"
-                },
-                {
-                    "count": 4,
-                    "name": "Soulflayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Caryatid"
-                },
-                {
-                    "count": 1,
-                    "name": "Vampire of the Dire Moon"
-                },
-                {
-                    "count": 4,
-                    "name": "Zetalpa, Primal Dawn"
-                },
-                {
-                    "count": 4,
-                    "name": "Grisly Salvage"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 2,
-                    "name": "Forest"
-                },
-                {
-                    "count": 2,
-                    "name": "Llanowar Wastes"
-                },
-                {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Temple of Malady"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 2,
-                    "name": "Woodland Cemetery"
-                },
-                {
-                    "count": 1,
-                    "name": "Commune with the Gods"
-                },
-                {
-                    "count": 4,
-                    "name": "Gather the Pack"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Assassin's Trophy"
-                },
-                {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Lost Legacy"
-                },
-                {
-                    "count": 2,
-                    "name": "Reclamation Sage"
-                },
-                {
-                    "count": 2,
-                    "name": "Scavenging Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "O551",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_O551",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_astarisk",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Bloodsoaked Champion"
+                    "name": "Arclight Phoenix"
                 },
                 {
                     "count": 2,
-                    "name": "Dread Wanderer"
-                },
-                {
-                    "count": 4,
-                    "name": "Gutterbones"
-                },
-                {
-                    "count": 4,
-                    "name": "Knight of the Ebon Legion"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 4,
-                    "name": "Rankle, Master of Pranks"
-                },
-                {
-                    "count": 4,
-                    "name": "Scrapheap Scrounger"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 2,
-                    "name": "Grasp of Darkness"
-                },
-                {
-                    "count": 4,
-                    "name": "Castle Locthwain"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 15,
-                    "name": "Swamp"
+                    "name": "Brazen Borrower"
                 },
                 {
                     "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
-                },
-                {
-                    "count": 2,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 2,
-                    "name": "Noxious Grasp"
-                },
-                {
-                    "count": 1,
-                    "name": "Ultimate Price"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "Otmos",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Otmos",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Embercleave"
-                },
-                {
-                    "count": 4,
-                    "name": "Bonecrusher Giant"
-                },
-                {
-                    "count": 3,
                     "name": "Glorybringer"
                 },
                 {
                     "count": 4,
-                    "name": "Goblin Chainwhirler"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Rabblemaster"
-                },
-                {
-                    "count": 2,
-                    "name": "Kari Zev, Skyship Raider"
-                },
-                {
-                    "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 2,
-                    "name": "Torbran, Thane of Red Fell"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Strike"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 2,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 15,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 3,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 4,
-                    "name": "Ramunap Ruins"
-                },
-                {
-                    "count": 3,
-                    "name": "Chandra, Torch of Defiance"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 3,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 2,
-                    "name": "Fry"
-                },
-                {
-                    "count": 4,
-                    "name": "Scab-Clan Berserker"
-                },
-                {
-                    "count": 4,
-                    "name": "Tormod's Crypt"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "OceanMan94",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_OceanMan94",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "The Great Henge"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Elvish Mystic"
-                },
-                {
-                    "count": 3,
-                    "name": "Ghalta, Primal Hunger"
-                },
-                {
-                    "count": 4,
-                    "name": "Growth-Chamber Guardian"
-                },
-                {
-                    "count": 4,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 4,
-                    "name": "Lovestruck Beast"
-                },
-                {
-                    "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 4,
-                    "name": "Steel Leaf Champion"
-                },
-                {
-                    "count": 3,
-                    "name": "Surrak, the Hunt Caller"
-                },
-                {
-                    "count": 2,
-                    "name": "Yorvo, Lord of Garenbrig"
-                },
-                {
-                    "count": 3,
-                    "name": "Aspect of Hydra"
+                    "name": "Young Pyromancer"
                 },
                 {
                     "count": 1,
-                    "name": "Castle Garenbrig"
+                    "name": "Dig Through Time"
                 },
                 {
-                    "count": 14,
-                    "name": "Forest"
+                    "count": 1,
+                    "name": "Fiery Temper"
                 },
                 {
                     "count": 4,
-                    "name": "Hashep Oasis"
+                    "name": "Izzet Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
                 },
                 {
                     "count": 2,
-                    "name": "Nykthos, Shrine to Nyx"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Blossoming Defense"
-                },
-                {
-                    "count": 2,
-                    "name": "Feed the Clan"
-                },
-                {
-                    "count": 3,
-                    "name": "Hunt the Hunter"
-                },
-                {
-                    "count": 2,
-                    "name": "Loaming Shaman"
-                },
-                {
-                    "count": 2,
-                    "name": "Reclamation Sage"
-                },
-                {
-                    "count": 3,
-                    "name": "Shapers' Sanctuary"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "Sloxy",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Sloxy",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 3,
-                    "name": "Haunted Dead"
-                },
-                {
-                    "count": 1,
-                    "name": "Hazoret the Fervent"
+                    "name": "Magma Spray"
                 },
                 {
                     "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 1,
-                    "name": "Questing Beast"
-                },
-                {
-                    "count": 1,
-                    "name": "Rankle, Master of Pranks"
-                },
-                {
-                    "count": 1,
-                    "name": "Samut, Voice of Dissent"
-                },
-                {
-                    "count": 4,
-                    "name": "Soulflayer"
-                },
-                {
-                    "count": 4,
-                    "name": "Stitcher's Supplier"
-                },
-                {
-                    "count": 4,
-                    "name": "Sylvan Caryatid"
-                },
-                {
-                    "count": 3,
-                    "name": "Zetalpa, Primal Dawn"
-                },
-                {
-                    "count": 2,
-                    "name": "Grapple with the Past"
-                },
-                {
-                    "count": 4,
-                    "name": "Grisly Salvage"
-                },
-                {
-                    "count": 2,
-                    "name": "Blood Crypt"
-                },
-                {
-                    "count": 2,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Mana Confluence"
-                },
-                {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 3,
-                    "name": "Stomping Ground"
-                },
-                {
-                    "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 3,
-                    "name": "Woodland Cemetery"
-                },
-                {
-                    "count": 4,
-                    "name": "Gather the Pack"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Blightbeetle"
-                },
-                {
-                    "count": 3,
-                    "name": "Caustic Caterpillar"
-                },
-                {
-                    "count": 2,
-                    "name": "Gifted Aetherborn"
-                },
-                {
-                    "count": 1,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 2,
-                    "name": "Slaughter Games"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                },
-                {
-                    "count": 1,
-                    "name": "Vine Mare"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "ilidioTheBrabo157SL",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_ilidioTheBrabo157SL",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Bloodsoaked Champion"
-                },
-                {
-                    "count": 1,
-                    "name": "Dread Wanderer"
-                },
-                {
-                    "count": 4,
-                    "name": "Gutterbones"
-                },
-                {
-                    "count": 4,
-                    "name": "Knight of the Ebon Legion"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 3,
-                    "name": "Rankle, Master of Pranks"
-                },
-                {
-                    "count": 4,
-                    "name": "Scrapheap Scrounger"
-                },
-                {
-                    "count": 2,
-                    "name": "Spawn of Mayhem"
-                },
-                {
-                    "count": 4,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 1,
-                    "name": "Grasp of Darkness"
-                },
-                {
-                    "count": 1,
-                    "name": "Ultimate Price"
-                },
-                {
-                    "count": 4,
-                    "name": "Castle Locthwain"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 15,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Urborg, Tomb of Yawgmoth"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtseize"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Aethersphere Harvester"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Kalitas, Traitor of Ghet"
-                },
-                {
-                    "count": 1,
-                    "name": "Legion's End"
-                },
-                {
-                    "count": 3,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 2,
-                    "name": "Noxious Grasp"
-                },
-                {
-                    "count": 1,
-                    "name": "Ultimate Price"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "naka_mura",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_naka_mura",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Ghostfire Blade"
-                },
-                {
-                    "count": 4,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 3,
-                    "name": "Emry, Lurker of the Loch"
-                },
-                {
-                    "count": 4,
-                    "name": "Gingerbrute"
-                },
-                {
-                    "count": 1,
-                    "name": "Hope of Ghirapur"
-                },
-                {
-                    "count": 2,
-                    "name": "Phyrexian Revoker"
-                },
-                {
-                    "count": 4,
-                    "name": "Skilled Animator"
-                },
-                {
-                    "count": 4,
-                    "name": "Stonecoil Serpent"
-                },
-                {
-                    "count": 4,
-                    "name": "Ensoul Artifact"
-                },
-                {
-                    "count": 4,
-                    "name": "Shrapnel Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Stubborn Denial"
+                    "name": "Opt"
                 },
                 {
                     "count": 2,
                     "name": "Wild Slash"
                 },
                 {
-                    "count": 4,
-                    "name": "Darksteel Citadel"
-                },
-                {
-                    "count": 2,
+                    "count": 3,
                     "name": "Island"
                 },
                 {
-                    "count": 1,
-                    "name": "Mountain"
-                },
-                {
                     "count": 3,
-                    "name": "Mutavault"
+                    "name": "Mountain"
                 },
                 {
                     "count": 3,
                     "name": "Shivan Reef"
                 },
                 {
-                    "count": 2,
-                    "name": "Spire of Industry"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "Spirebluff Canal"
                 },
                 {
@@ -2333,111 +2257,20 @@
                     "name": "Steam Vents"
                 },
                 {
-                    "count": 2,
-                    "name": "The Royal Scions"
-                }
-            ],
-            "sideboard": [
+                    "count": 3,
+                    "name": "Sulfur Falls"
+                },
                 {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
+                    "count": 4,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 4,
+                    "name": "Strategic Planning"
                 },
                 {
                     "count": 3,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 2,
-                    "name": "Karn, Scion of Urza"
-                },
-                {
-                    "count": 2,
-                    "name": "Metallic Rebuke"
-                },
-                {
-                    "count": 2,
-                    "name": "Mystical Dispute"
-                },
-                {
-                    "count": 2,
-                    "name": "Stubborn Denial"
-                },
-                {
-                    "count": 1,
-                    "name": "Tibalt, Rakish Instigator"
-                },
-                {
-                    "count": 1,
-                    "name": "Wild Slash"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "santgr11",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_santgr11",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Embercleave"
-                },
-                {
-                    "count": 4,
-                    "name": "Bonecrusher Giant"
-                },
-                {
-                    "count": 3,
-                    "name": "Glorybringer"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Chainwhirler"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Rabblemaster"
-                },
-                {
-                    "count": 2,
-                    "name": "Kari Zev, Skyship Raider"
-                },
-                {
-                    "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 2,
-                    "name": "Torbran, Thane of Red Fell"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Strike"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 2,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 17,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 4,
-                    "name": "Ramunap Ruins"
-                },
-                {
-                    "count": 3,
-                    "name": "Chandra, Torch of Defiance"
+                    "name": "Treasure Cruise"
                 }
             ],
             "sideboard": [
@@ -2447,84 +2280,88 @@
                 },
                 {
                     "count": 1,
-                    "name": "Damping Sphere"
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Beacon Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Disdainful Stroke"
                 },
                 {
                     "count": 2,
                     "name": "Fry"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "Hour of Devastation"
+                },
+                {
+                    "count": 1,
                     "name": "Lava Coil"
                 },
                 {
                     "count": 3,
-                    "name": "Scab-Clan Berserker"
+                    "name": "Negate"
                 },
                 {
-                    "count": 4,
-                    "name": "Tormod's Crypt"
+                    "count": 1,
+                    "name": "Ral, Izzet Viceroy"
+                },
+                {
+                    "count": 1,
+                    "name": "Saheeli, Sublime Artificer"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-01-11",
-            "player": "zkiihne",
+            "player": "Syuseki",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_zkiihne",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Syuseki",
             "mainboard": [
                 {
                     "count": 4,
                     "name": "Brazen Borrower"
                 },
                 {
-                    "count": 3,
-                    "name": "Dragonlord Ojutai"
+                    "count": 4,
+                    "name": "Empyrean Eagle"
+                },
+                {
+                    "count": 4,
+                    "name": "Mausoleum Wanderer"
                 },
                 {
                     "count": 3,
-                    "name": "Monastery Mentor"
+                    "name": "Nebelgast Herald"
+                },
+                {
+                    "count": 4,
+                    "name": "Rattlechains"
+                },
+                {
+                    "count": 3,
+                    "name": "Selfless Spirit"
+                },
+                {
+                    "count": 4,
+                    "name": "Spectral Sailor"
                 },
                 {
                     "count": 4,
                     "name": "Spell Queller"
                 },
                 {
-                    "count": 2,
-                    "name": "Cast Out"
-                },
-                {
                     "count": 4,
-                    "name": "Azorius Charm"
+                    "name": "Supreme Phantom"
                 },
                 {
-                    "count": 2,
-                    "name": "Brave the Elements"
-                },
-                {
-                    "count": 4,
-                    "name": "Censor"
-                },
-                {
-                    "count": 4,
-                    "name": "Dig Through Time"
-                },
-                {
-                    "count": 1,
-                    "name": "Opt"
-                },
-                {
-                    "count": 1,
-                    "name": "Castle Ardenvale"
-                },
-                {
-                    "count": 1,
-                    "name": "Castle Vantress"
-                },
-                {
-                    "count": 4,
-                    "name": "Fabled Passage"
+                    "count": 3,
+                    "name": "Curious Obsession"
                 },
                 {
                     "count": 4,
@@ -2539,155 +2376,159 @@
                     "name": "Island"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 3,
                     "name": "Plains"
                 },
                 {
-                    "count": 4,
-                    "name": "Teferi, Time Raveler"
+                    "count": 2,
+                    "name": "Port Town"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Aether Gust"
+                    "count": 3,
+                    "name": "Devout Decree"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Disdainful Stroke"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Dovin's Veto"
                 },
                 {
                     "count": 2,
-                    "name": "Gideon, Ally of Zendikar"
+                    "name": "Isolate"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Mystical Dispute"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Rest in Peace"
                 },
                 {
-                    "count": 3,
-                    "name": "Supreme Verdict"
+                    "count": 2,
+                    "name": "Settle the Wreckage"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-01-11",
-            "player": "wakasama",
+            "player": "EmErgy",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_wakasama",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_EmErgy",
             "mainboard": [
                 {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Ghalta, Primal Hunger"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Rhonas the Indomitable"
+                },
+                {
+                    "count": 4,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Leaf Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Surrak, the Hunt Caller"
+                },
+                {
+                    "count": 2,
+                    "name": "Syr Faren, the Hengehammer"
+                },
+                {
                     "count": 1,
-                    "name": "Embercleave"
-                },
-                {
-                    "count": 4,
-                    "name": "Bonecrusher Giant"
-                },
-                {
-                    "count": 4,
-                    "name": "Glorybringer"
-                },
-                {
-                    "count": 4,
-                    "name": "Goblin Rabblemaster"
+                    "name": "Vine Mare"
                 },
                 {
                     "count": 2,
-                    "name": "Kari Zev, Skyship Raider"
-                },
-                {
-                    "count": 2,
-                    "name": "Legion Warboss"
+                    "name": "Yorvo, Lord of Garenbrig"
                 },
                 {
                     "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 2,
-                    "name": "Torbran, Thane of Red Fell"
+                    "name": "Aspect of Hydra"
                 },
                 {
                     "count": 4,
-                    "name": "Lightning Strike"
+                    "name": "Blooming Marsh"
                 },
                 {
-                    "count": 4,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 2,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 16,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Mutavault"
-                },
-                {
-                    "count": 4,
-                    "name": "Ramunap Ruins"
+                    "count": 8,
+                    "name": "Forest"
                 },
                 {
                     "count": 3,
-                    "name": "Chandra, Torch of Defiance"
+                    "name": "Hashep Oasis"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Woodland Cemetery"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 1,
-                    "name": "Banefire"
+                    "count": 3,
+                    "name": "Abrupt Decay"
                 },
                 {
                     "count": 3,
-                    "name": "Eidolon of the Great Revel"
+                    "name": "Damping Sphere"
                 },
                 {
-                    "count": 1,
-                    "name": "Embercleave"
+                    "count": 3,
+                    "name": "Fatal Push"
                 },
                 {
-                    "count": 2,
-                    "name": "Fry"
+                    "count": 3,
+                    "name": "Hunt the Hunter"
                 },
                 {
-                    "count": 2,
-                    "name": "Roast"
-                },
-                {
-                    "count": 4,
-                    "name": "Tormod's Crypt"
+                    "count": 3,
+                    "name": "Vine Mare"
                 }
             ],
             "notes": null
         },
         {
             "date": "2020-01-11",
-            "player": "Galaxios",
+            "player": "Pistrullo",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Galaxios",
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Pistrullo",
             "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
-                },
                 {
                     "count": 4,
                     "name": "Ghostfire Blade"
@@ -2697,15 +2538,15 @@
                     "name": "Bomat Courier"
                 },
                 {
-                    "count": 2,
-                    "name": "Emry, Lurker of the Loch"
-                },
-                {
                     "count": 4,
                     "name": "Gingerbrute"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Hangarback Walker"
+                },
+                {
+                    "count": 1,
                     "name": "Hope of Ghirapur"
                 },
                 {
@@ -2717,8 +2558,16 @@
                     "name": "Stonecoil Serpent"
                 },
                 {
+                    "count": 1,
+                    "name": "Whirler Rogue"
+                },
+                {
                     "count": 4,
                     "name": "Ensoul Artifact"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
                 },
                 {
                     "count": 4,
@@ -2737,7 +2586,15 @@
                     "name": "Darksteel Citadel"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
                     "name": "Mutavault"
                 },
                 {
@@ -2745,7 +2602,7 @@
                     "name": "Shivan Reef"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Spire of Industry"
                 },
                 {
@@ -2753,240 +2610,62 @@
                     "name": "Spirebluff Canal"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "The Royal Scions"
                 }
             ],
             "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
                 {
                     "count": 2,
                     "name": "Aether Gust"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Aethersphere Harvester"
                 },
                 {
-                    "count": 2,
-                    "name": "Bonecrusher Giant"
+                    "count": 1,
+                    "name": "Anger of the Gods"
                 },
                 {
-                    "count": 2,
-                    "name": "Hangarback Walker"
+                    "count": 1,
+                    "name": "Brazen Borrower"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
                     "name": "Lava Coil"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
                     "name": "Metallic Rebuke"
                 },
                 {
                     "count": 1,
-                    "name": "Pia and Kiran Nalaar"
-                },
-                {
-                    "count": 3,
-                    "name": "Tormod's Crypt"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "Olivetti",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Olivetti",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "The Great Henge"
-                },
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Elvish Mystic"
-                },
-                {
-                    "count": 2,
-                    "name": "Ghalta, Primal Hunger"
-                },
-                {
-                    "count": 4,
-                    "name": "Growth-Chamber Guardian"
-                },
-                {
-                    "count": 4,
-                    "name": "Llanowar Elves"
-                },
-                {
-                    "count": 4,
-                    "name": "Lovestruck Beast"
-                },
-                {
-                    "count": 2,
-                    "name": "Rhonas the Indomitable"
-                },
-                {
-                    "count": 1,
-                    "name": "Scavenging Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Steel Leaf Champion"
-                },
-                {
-                    "count": 3,
-                    "name": "Surrak, the Hunt Caller"
-                },
-                {
-                    "count": 2,
-                    "name": "Yorvo, Lord of Garenbrig"
-                },
-                {
-                    "count": 2,
-                    "name": "Aspect of Hydra"
-                },
-                {
-                    "count": 14,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Hashep Oasis"
-                },
-                {
-                    "count": 3,
-                    "name": "Nykthos, Shrine to Nyx"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aethersphere Harvester"
-                },
-                {
-                    "count": 3,
-                    "name": "Nature's Way"
-                },
-                {
-                    "count": 2,
-                    "name": "Reclamation Sage"
-                },
-                {
-                    "count": 2,
-                    "name": "Scavenging Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Shapers' Sanctuary"
-                },
-                {
-                    "count": 2,
-                    "name": "Shifting Ceratops"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-11",
-            "player": "Toastxp",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_Toastxp",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Bomat Courier"
-                },
-                {
-                    "count": 4,
-                    "name": "Ghitu Lavarunner"
-                },
-                {
-                    "count": 4,
-                    "name": "Monastery Swiftspear"
-                },
-                {
-                    "count": 4,
-                    "name": "Soul-Scar Mage"
-                },
-                {
-                    "count": 4,
-                    "name": "Atarka's Command"
-                },
-                {
-                    "count": 4,
-                    "name": "Lightning Strike"
-                },
-                {
-                    "count": 4,
-                    "name": "Shock"
-                },
-                {
-                    "count": 4,
-                    "name": "Wild Slash"
-                },
-                {
-                    "count": 4,
-                    "name": "Wizard's Lightning"
-                },
-                {
-                    "count": 10,
-                    "name": "Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Ramunap Ruins"
-                },
-                {
-                    "count": 4,
-                    "name": "Rootbound Crag"
-                },
-                {
-                    "count": 4,
-                    "name": "Stomping Ground"
-                },
-                {
-                    "count": 4,
-                    "name": "Light Up the Stage"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 2,
-                    "name": "Chandra, Torch of Defiance"
-                },
-                {
-                    "count": 1,
-                    "name": "Chandra's Defeat"
-                },
-                {
-                    "count": 2,
-                    "name": "Destructive Revelry"
-                },
-                {
-                    "count": 3,
-                    "name": "Goblin Chainwhirler"
-                },
-                {
-                    "count": 2,
-                    "name": "Hazoret the Fervent"
-                },
-                {
-                    "count": 2,
-                    "name": "Lava Coil"
-                },
-                {
-                    "count": 2,
                     "name": "Roast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
@@ -3110,6 +2789,315 @@
                 {
                     "count": 2,
                     "name": "Roast"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "griffy161",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_griffy161",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Glorybringer"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 2,
+                    "name": "Kari Zev, Skyship Raider"
+                },
+                {
+                    "count": 3,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul-Scar Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Torbran, Thane of Red Fell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Strike"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra, Torch of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 2,
+                    "name": "Fry"
+                },
+                {
+                    "count": 2,
+                    "name": "Mizzium Mortars"
+                },
+                {
+                    "count": 4,
+                    "name": "Scab-Clan Berserker"
+                },
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "ExclusiveB",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_ExclusiveB",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 4,
+                    "name": "Thing in the Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Izzet Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Quicken"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Slash"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Sulfur Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 4,
+                    "name": "Strategic Planning"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Anger of the Gods"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Torch of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Fry"
+                },
+                {
+                    "count": 1,
+                    "name": "Magma Spray"
+                },
+                {
+                    "count": 1,
+                    "name": "Mizzium Mortars"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-11",
+            "player": "biped",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pioneer-league-2020-01-124772#deck_biped",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bloodsoaked Champion"
+                },
+                {
+                    "count": 4,
+                    "name": "Dread Wanderer"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight of the Ebon Legion"
+                },
+                {
+                    "count": 4,
+                    "name": "Murderous Rider"
+                },
+                {
+                    "count": 3,
+                    "name": "Rankle, Master of Pranks"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapheap Scrounger"
+                },
+                {
+                    "count": 2,
+                    "name": "Spawn of Mayhem"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 1,
+                    "name": "Ultimate Price"
+                },
+                {
+                    "count": 4,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 15,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Aethersphere Harvester"
+                },
+                {
+                    "count": 3,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Grasp of Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Grasp"
+                },
+                {
+                    "count": 1,
+                    "name": "Ultimate Price"
                 }
             ],
             "notes": null

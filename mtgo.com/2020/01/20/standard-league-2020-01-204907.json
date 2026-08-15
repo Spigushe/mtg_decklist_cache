@@ -14,24 +14,16 @@
             "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-01-204907#deck_Kevslinger",
             "mainboard": [
                 {
-                    "count": 2,
-                    "name": "Glass Casket"
-                },
-                {
                     "count": 3,
                     "name": "Bonecrusher Giant"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Cavalier of Flame"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Cavalier of Gales"
-                },
-                {
-                    "count": 2,
-                    "name": "Dream Trawler"
                 },
                 {
                     "count": 2,
@@ -44,6 +36,10 @@
                 {
                     "count": 4,
                     "name": "Fires of Invention"
+                },
+                {
+                    "count": 2,
+                    "name": "Justice Strike"
                 },
                 {
                     "count": 3,
@@ -112,107 +108,20 @@
                     "name": "Disenchant"
                 },
                 {
+                    "count": 2,
+                    "name": "Dream Trawler"
+                },
+                {
                     "count": 4,
                     "name": "Mystical Dispute"
                 },
                 {
-                    "count": 2,
-                    "name": "Shatter the Sky"
+                    "count": 1,
+                    "name": "Time Wipe"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Tithe Taker"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-01-19",
-            "player": "joker10289",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-01-204907#deck_joker10289",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Bolas's Citadel"
-                },
-                {
-                    "count": 3,
-                    "name": "Ayara, First of Locthwain"
-                },
-                {
-                    "count": 4,
-                    "name": "Dread Presence"
-                },
-                {
-                    "count": 4,
-                    "name": "Gray Merchant of Asphodel"
-                },
-                {
-                    "count": 4,
-                    "name": "Gutterbones"
-                },
-                {
-                    "count": 4,
-                    "name": "Murderous Rider"
-                },
-                {
-                    "count": 4,
-                    "name": "Nightmare Shepherd"
-                },
-                {
-                    "count": 2,
-                    "name": "Tymaret, Chosen from Death"
-                },
-                {
-                    "count": 2,
-                    "name": "Woe Strider"
-                },
-                {
-                    "count": 4,
-                    "name": "Yarok's Fenlurker"
-                },
-                {
-                    "count": 3,
-                    "name": "Drag to the Underworld"
-                },
-                {
-                    "count": 4,
-                    "name": "Castle Locthwain"
-                },
-                {
-                    "count": 21,
-                    "name": "Swamp"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Bolas's Citadel"
-                },
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Erebos's Intervention"
-                },
-                {
-                    "count": 1,
-                    "name": "Liliana, Dreadhorde General"
-                },
-                {
-                    "count": 3,
-                    "name": "Noxious Grasp"
-                },
-                {
-                    "count": 4,
-                    "name": "Specter's Shriek"
-                },
-                {
-                    "count": 1,
-                    "name": "Tymaret, Chosen from Death"
                 }
             ],
             "notes": null
@@ -336,6 +245,97 @@
                 {
                     "count": 3,
                     "name": "Whirlwind Denial"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-01-19",
+            "player": "joker10289",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-01-204907#deck_joker10289",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 3,
+                    "name": "Ayara, First of Locthwain"
+                },
+                {
+                    "count": 4,
+                    "name": "Dread Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Gray Merchant of Asphodel"
+                },
+                {
+                    "count": 4,
+                    "name": "Gutterbones"
+                },
+                {
+                    "count": 4,
+                    "name": "Murderous Rider"
+                },
+                {
+                    "count": 4,
+                    "name": "Nightmare Shepherd"
+                },
+                {
+                    "count": 2,
+                    "name": "Tymaret, Chosen from Death"
+                },
+                {
+                    "count": 2,
+                    "name": "Woe Strider"
+                },
+                {
+                    "count": 4,
+                    "name": "Yarok's Fenlurker"
+                },
+                {
+                    "count": 3,
+                    "name": "Drag to the Underworld"
+                },
+                {
+                    "count": 4,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 21,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Erebos's Intervention"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, Dreadhorde General"
+                },
+                {
+                    "count": 3,
+                    "name": "Noxious Grasp"
+                },
+                {
+                    "count": 4,
+                    "name": "Specter's Shriek"
+                },
+                {
+                    "count": 1,
+                    "name": "Tymaret, Chosen from Death"
                 }
             ],
             "notes": null

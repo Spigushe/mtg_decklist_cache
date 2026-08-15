@@ -1,0 +1,4925 @@
+{
+    "tournament": {
+        "date": "2020-11-06",
+        "name": "Legacy Challenge",
+        "url": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883",
+        "format": "Legacy",
+        "players": 62
+    },
+    "decks": [
+        {
+            "date": "2020-11-06",
+            "player": "kohei1202",
+            "result": "1",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_kohei1202",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 2,
+                    "name": "Rough/Tumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Andre4Marini",
+            "result": "2",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Andre4Marini",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Cindervines"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Do0mSwitch",
+            "result": "3",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Do0mSwitch",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 1,
+                    "name": "Leovold, Emissary of Trest"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Dead of Winter"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "GabrielGruberVaz",
+            "result": "4",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_GabrielGruberVaz",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Allosaurus Shepherd"
+                },
+                {
+                    "count": 1,
+                    "name": "Archon of Valor's Reach"
+                },
+                {
+                    "count": 3,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 1,
+                    "name": "Craterhoof Behemoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 3,
+                    "name": "Heritage Druid"
+                },
+                {
+                    "count": 2,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 1,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 2,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 3,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimpse of Nature"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Natural Order"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "excel0679",
+            "result": "5",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_excel0679",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Ethereal Forager"
+                },
+                {
+                    "count": 2,
+                    "name": "Sprite Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Rough/Tumble"
+                },
+                {
+                    "count": 3,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "twin_mtg",
+            "result": "6",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_twin_mtg",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Allosaurus Shepherd"
+                },
+                {
+                    "count": 2,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 1,
+                    "name": "Craterhoof Behemoth"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Heritage Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Regal Force"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 2,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 2,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimpse of Nature"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Natural Order"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Andreas_Mueller",
+            "result": "7",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Andreas_Mueller",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 3,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Torpor Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "munnannex",
+            "result": "8",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_munnannex",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 2,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 3,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Feast and Famine"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Fire and Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wilt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "subesube0417",
+            "result": "9",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_subesube0417",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Azerate218",
+            "result": "10",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Azerate218",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Usama96",
+            "result": "11",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Usama96",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 4,
+                    "name": "Sprite Dragon"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 4,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "FrancoBolli",
+            "result": "12",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_FrancoBolli",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 1,
+                    "name": "Barrin, Tolarian Archmage"
+                },
+                {
+                    "count": 2,
+                    "name": "Charming Prince"
+                },
+                {
+                    "count": 1,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Palace Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Peacekeeper"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 2,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulherder"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 3,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Remorseful Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Sevinne's Reclamation"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "markpenaflorida",
+            "result": "13",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_markpenaflorida",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Rough/Tumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "umeck",
+            "result": "14",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_umeck",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonecoil Serpent"
+                },
+                {
+                    "count": 1,
+                    "name": "The Abyss"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 2,
+                    "name": "Eliminate"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana's Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Nightmare Muse"
+                },
+                {
+                    "count": 2,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 2,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 1,
+                    "name": "Liliana, the Last Hope"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Dystopia"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 1,
+                    "name": "To the Slaughter"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "suyasome",
+            "result": "15",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_suyasome",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 4,
+                    "name": "Omniscience"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Shelters All"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Pieces of the Puzzle"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Firemind's Foresight"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Shared Summons"
+                },
+                {
+                    "count": 1,
+                    "name": "Sublime Epiphany"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Trickbind"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "TrincoTeq",
+            "result": "16",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_TrincoTeq",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Allosaurus Shepherd"
+                },
+                {
+                    "count": 1,
+                    "name": "Birchlore Rangers"
+                },
+                {
+                    "count": 2,
+                    "name": "Craterhoof Behemoth"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Visionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Heritage Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Shaman of the Pack"
+                },
+                {
+                    "count": 4,
+                    "name": "Wirewood Symbiote"
+                },
+                {
+                    "count": 2,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 2,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
+                    "name": "Nurturing Peatland"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimpse of Nature"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Natural Order"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Assassin's Trophy"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Garruk, Cursed Huntsman"
+                },
+                {
+                    "count": 1,
+                    "name": "Hexdrinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Sorcerous Spyglass"
+                },
+                {
+                    "count": 3,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "bluehope",
+            "result": "17",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_bluehope",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blighted Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Glistener Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Noble Hierarch"
+                },
+                {
+                    "count": 1,
+                    "name": "Become Immense"
+                },
+                {
+                    "count": 3,
+                    "name": "Berserk"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Invigorate"
+                },
+                {
+                    "count": 2,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 4,
+                    "name": "Inkmoth Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Scale Up"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Spellskite"
+                },
+                {
+                    "count": 1,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "mei0024",
+            "result": "18",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_mei0024",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Endless One"
+                },
+                {
+                    "count": 4,
+                    "name": "Matter Reshaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Reality Smasher"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 3,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 2,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 3,
+                    "name": "Stonecoil Serpent"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "popposennsei",
+            "result": "19",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_popposennsei",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 3,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wilt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "kanican",
+            "result": "20",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_kanican",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Azorius Signet"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Lion's Eye Diamond"
+                },
+                {
+                    "count": 3,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Auriok Salvagers"
+                },
+                {
+                    "count": 2,
+                    "name": "Ranger of Eos"
+                },
+                {
+                    "count": 4,
+                    "name": "Stonecoil Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza, Lord High Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 2,
+                    "name": "Spatial Contortion"
+                },
+                {
+                    "count": 1,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 2,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Gyruda, Doom of Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion's Eye Diamond"
+                },
+                {
+                    "count": 3,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Spatial Contortion"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "sakuragi21722749",
+            "result": "21",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_sakuragi21722749",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Hooting Mandrills"
+                },
+                {
+                    "count": 1,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Run Afoul"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "ayukawa",
+            "result": "22",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_ayukawa",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Mentor"
+                },
+                {
+                    "count": 1,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterbalance"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Predict"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 1,
+                    "name": "Ethersworn Canonist"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Terminus"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Mzfroste",
+            "result": "23",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Mzfroste",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wilt"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "toondoslav",
+            "result": "24",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_toondoslav",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Fire and Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 4,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 2,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctum Prelate"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirit of the Labyrinth"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 3,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 11,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cataclysm"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 1,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Feast and Famine"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Didackith",
+            "result": "25",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Didackith",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 3,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 2,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Excavator"
+                },
+                {
+                    "count": 1,
+                    "name": "Tireless Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Dryad Arbor"
+                },
+                {
+                    "count": 3,
+                    "name": "Flagstones of Trokair"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Sejiri Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 2,
+                    "name": "Valakut, the Molten Pinnacle"
+                },
+                {
+                    "count": 1,
+                    "name": "Vesuva"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 2,
+                    "name": "Oblivion Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "SB7448",
+            "result": "26",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_SB7448",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Death's Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 4,
+                    "name": "Berserk"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lim-Dûl's Vault"
+                },
+                {
+                    "count": 4,
+                    "name": "Stubborn Denial"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Tarnished Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Blazing Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Ingot Chewer"
+                },
+                {
+                    "count": 2,
+                    "name": "Massacre"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Wurst_",
+            "result": "27",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Wurst_",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 3,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Jace, the Mind Sculptor"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Dead of Winter"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Ground Seal"
+                },
+                {
+                    "count": 1,
+                    "name": "Leovold, Emissary of Trest"
+                },
+                {
+                    "count": 2,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "hakuren876p",
+            "result": "28",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_hakuren876p",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ashen Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Grand Cenobite"
+                },
+                {
+                    "count": 4,
+                    "name": "Grave Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 1,
+                    "name": "Iona, Shield of Emeria"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Lake of the Dead"
+                },
+                {
+                    "count": 17,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 2,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 2,
+                    "name": "Grim Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hymn to Tourach"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 2,
+                    "name": "Massacre"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Pack Rat"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Ratchet Bomb"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "dirklance",
+            "result": "29",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_dirklance",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 2,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 3,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Omniscience"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Eureka"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Shelters All"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Shared Summons"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "maian",
+            "result": "30",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_maian",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 1,
+                    "name": "Shuko"
+                },
+                {
+                    "count": 1,
+                    "name": "Umezawa's Jitte"
+                },
+                {
+                    "count": 3,
+                    "name": "Cephalid Illusionist"
+                },
+                {
+                    "count": 3,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 3,
+                    "name": "Nomads en-Kor"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 1,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Living Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cephalid Illusionist"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Nomads en-Kor"
+                },
+                {
+                    "count": 1,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Palace Jailer"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Uro, Titan of Nature's Wrath"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "Dein_Freund_der_Baum",
+            "result": "31",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_Dein_Freund_der_Baum",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire Hexmage"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 3,
+                    "name": "Not of This World"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 1,
+                    "name": "Sejiri Steppe"
+                },
+                {
+                    "count": 4,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 4,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Inquisition of Kozilek"
+                },
+                {
+                    "count": 4,
+                    "name": "Sylvan Scrying"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Safekeeper"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-11-06",
+            "player": "musasabi",
+            "result": "32",
+            "anchor_uri": "https://www.mtgo.com/decklist/legacy-challenge-2020-11-0712225883#deck_musasabi",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Arcum's Astrolabe"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 3,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 1,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 2,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Omniscience"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 3,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 1,
+                    "name": "Return to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Shared Summons"
+                },
+                {
+                    "count": 1,
+                    "name": "Sublime Epiphany"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Wilt"
+                }
+            ],
+            "notes": null
+        }
+    ],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "kohei1202",
+                    "player_2": "excel0679",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "Do0mSwitch",
+                    "player_2": "Andreas_Mueller",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "Andre4Marini",
+                    "player_2": "munnannex",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "GabrielGruberVaz",
+                    "player_2": "twin_mtg",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "kohei1202",
+                    "player_2": "Do0mSwitch",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Andre4Marini",
+                    "player_2": "GabrielGruberVaz",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "kohei1202",
+                    "player_2": "Andre4Marini",
+                    "result": "2-0"
+                }
+            ]
+        }
+    ],
+    "standings": [
+        {
+            "rank": 1,
+            "player": "Andre4Marini",
+            "points": 18,
+            "wins": 6,
+            "losses": 0,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.008571,
+            "ogwp": 0.005542
+        },
+        {
+            "rank": 2,
+            "player": "excel0679",
+            "points": 15,
+            "wins": 5,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.006389000000000001,
+            "gwp": 0.007143,
+            "ogwp": 0.005753
+        },
+        {
+            "rank": 3,
+            "player": "Do0mSwitch",
+            "points": 15,
+            "wins": 5,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.006222,
+            "gwp": 0.008333,
+            "ogwp": 0.005705
+        },
+        {
+            "rank": 4,
+            "player": "twin_mtg",
+            "points": 15,
+            "wins": 5,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.006111,
+            "ogwp": 0.005489000000000001
+        },
+        {
+            "rank": 5,
+            "player": "GabrielGruberVaz",
+            "points": 15,
+            "wins": 5,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.005667,
+            "gwp": 0.007332999999999999,
+            "ogwp": 0.005448
+        },
+        {
+            "rank": 6,
+            "player": "Andreas_Mueller",
+            "points": 15,
+            "wins": 5,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.007143,
+            "ogwp": 0.005294
+        },
+        {
+            "rank": 7,
+            "player": "kohei1202",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.006389000000000001,
+            "gwp": 0.006666999999999999,
+            "ogwp": 0.005694
+        },
+        {
+            "rank": 8,
+            "player": "munnannex",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.006389000000000001,
+            "gwp": 0.005881999999999999,
+            "ogwp": 0.005639999999999999
+        },
+        {
+            "rank": 9,
+            "player": "subesube0417",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.00625,
+            "ogwp": 0.005576
+        },
+        {
+            "rank": 10,
+            "player": "Azerate218",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.006,
+            "ogwp": 0.00499
+        },
+        {
+            "rank": 11,
+            "player": "Usama96",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.005294,
+            "ogwp": 0.005637
+        },
+        {
+            "rank": 12,
+            "player": "FrancoBolli",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005556,
+            "gwp": 0.006429000000000001,
+            "ogwp": 0.005247000000000001
+        },
+        {
+            "rank": 13,
+            "player": "markpenaflorida",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.006666999999999999,
+            "ogwp": 0.004849
+        },
+        {
+            "rank": 14,
+            "player": "umeck",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.006154,
+            "ogwp": 0.004628
+        },
+        {
+            "rank": 15,
+            "player": "suyasome",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.006,
+            "ogwp": 0.005084999999999999
+        },
+        {
+            "rank": 16,
+            "player": "TrincoTeq",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005111,
+            "gwp": 0.006666999999999999,
+            "ogwp": 0.004817
+        },
+        {
+            "rank": 17,
+            "player": "bluehope",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005,
+            "gwp": 0.005625,
+            "ogwp": 0.004755
+        },
+        {
+            "rank": 18,
+            "player": "mei0024",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005,
+            "gwp": 0.005333,
+            "ogwp": 0.004908
+        },
+        {
+            "rank": 19,
+            "player": "popposennsei",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0048330000000000005,
+            "gwp": 0.006666999999999999,
+            "ogwp": 0.004654
+        },
+        {
+            "rank": 20,
+            "player": "kanican",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0048330000000000005,
+            "gwp": 0.006,
+            "ogwp": 0.004917
+        },
+        {
+            "rank": 21,
+            "player": "sakuragi21722749",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0047220000000000005,
+            "gwp": 0.005625,
+            "ogwp": 0.004817
+        },
+        {
+            "rank": 22,
+            "player": "ayukawa",
+            "points": 12,
+            "wins": 4,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.004556,
+            "gwp": 0.005881999999999999,
+            "ogwp": 0.0047610000000000005
+        },
+        {
+            "rank": 23,
+            "player": "Mzfroste",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0069440000000000005,
+            "gwp": 0.004667,
+            "ogwp": 0.006193
+        },
+        {
+            "rank": 24,
+            "player": "toondoslav",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.005333,
+            "ogwp": 0.005153
+        },
+        {
+            "rank": 25,
+            "player": "Didackith",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.005,
+            "ogwp": 0.005639
+        },
+        {
+            "rank": 26,
+            "player": "SB7448",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.005,
+            "ogwp": 0.005424
+        },
+        {
+            "rank": 27,
+            "player": "Wurst_",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.004667,
+            "ogwp": 0.006086
+        },
+        {
+            "rank": 28,
+            "player": "hakuren876p",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.004615,
+            "ogwp": 0.0057150000000000005
+        },
+        {
+            "rank": 29,
+            "player": "dirklance",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0058330000000000005,
+            "gwp": 0.004286,
+            "ogwp": 0.005659
+        },
+        {
+            "rank": 30,
+            "player": "maian",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.005385,
+            "ogwp": 0.0050019999999999995
+        },
+        {
+            "rank": 31,
+            "player": "Dein_Freund_der_Baum",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005278000000000001,
+            "gwp": 0.005333,
+            "ogwp": 0.0051990000000000005
+        },
+        {
+            "rank": 32,
+            "player": "musasabi",
+            "points": 9,
+            "wins": 3,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005,
+            "gwp": 0.005,
+            "ogwp": 0.004931
+        }
+    ]
+}

@@ -9,107 +9,83 @@
     "decks": [
         {
             "date": "2020-04-06",
-            "player": "Chayajom",
+            "player": "Rhodanthe",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-04-074907#deck_Chayajom",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-04-074907#deck_Rhodanthe",
             "mainboard": [
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Embercleave"
                 },
                 {
                     "count": 4,
+                    "name": "Anax, Hardened in the Forge"
+                },
+                {
+                    "count": 3,
                     "name": "Bonecrusher Giant"
                 },
                 {
                     "count": 4,
-                    "name": "Edgewall Innkeeper"
-                },
-                {
-                    "count": 2,
-                    "name": "Gruul Spellbreaker"
-                },
-                {
-                    "count": 1,
-                    "name": "Klothys, God of Destiny"
-                },
-                {
-                    "count": 4,
-                    "name": "Lovestruck Beast"
+                    "name": "Fervent Champion"
                 },
                 {
                     "count": 3,
-                    "name": "Paradise Druid"
-                },
-                {
-                    "count": 4,
-                    "name": "Questing Beast"
-                },
-                {
-                    "count": 4,
                     "name": "Rimrock Knight"
                 },
                 {
-                    "count": 2,
-                    "name": "The First Iroan Games"
-                },
-                {
-                    "count": 1,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 2,
-                    "name": "Fabled Passage"
-                },
-                {
-                    "count": 8,
-                    "name": "Forest"
-                },
-                {
-                    "count": 6,
-                    "name": "Mountain"
+                    "count": 4,
+                    "name": "Robber of the Rich"
                 },
                 {
                     "count": 4,
-                    "name": "Stomping Ground"
+                    "name": "Runaway Steam-Kin"
+                },
+                {
+                    "count": 4,
+                    "name": "Scorch Spitter"
                 },
                 {
                     "count": 3,
-                    "name": "Temple of Abandon"
+                    "name": "Torbran, Thane of Red Fell"
                 },
                 {
                     "count": 4,
-                    "name": "Domri's Ambush"
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tibalt, Rakish Instigator"
+                },
+                {
+                    "count": 4,
+                    "name": "Light Up the Stage"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 2,
-                    "name": "Cosmotronic Wave"
-                },
-                {
-                    "count": 2,
+                    "count": 3,
                     "name": "Embereth Shieldbreaker"
                 },
                 {
-                    "count": 1,
-                    "name": "Klothys, God of Destiny"
-                },
-                {
-                    "count": 4,
+                    "count": 3,
                     "name": "Lava Coil"
                 },
                 {
-                    "count": 2,
-                    "name": "Phoenix of Ash"
+                    "count": 3,
+                    "name": "Redcap Melee"
                 },
                 {
                     "count": 2,
-                    "name": "Shifting Ceratops"
+                    "name": "Scorching Dragonfire"
                 },
                 {
-                    "count": 2,
-                    "name": "Thrashing Brontodon"
+                    "count": 4,
+                    "name": "Unchained Berserker"
                 }
             ],
             "notes": null
@@ -219,83 +195,107 @@
         },
         {
             "date": "2020-04-06",
-            "player": "Rhodanthe",
+            "player": "Chayajom",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-04-074907#deck_Rhodanthe",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2020-04-074907#deck_Chayajom",
             "mainboard": [
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Embercleave"
                 },
                 {
                     "count": 4,
-                    "name": "Anax, Hardened in the Forge"
-                },
-                {
-                    "count": 3,
                     "name": "Bonecrusher Giant"
                 },
                 {
                     "count": 4,
-                    "name": "Fervent Champion"
-                },
-                {
-                    "count": 3,
-                    "name": "Rimrock Knight"
-                },
-                {
-                    "count": 4,
-                    "name": "Robber of the Rich"
-                },
-                {
-                    "count": 4,
-                    "name": "Runaway Steam-Kin"
-                },
-                {
-                    "count": 4,
-                    "name": "Scorch Spitter"
-                },
-                {
-                    "count": 3,
-                    "name": "Torbran, Thane of Red Fell"
-                },
-                {
-                    "count": 4,
-                    "name": "Castle Embereth"
-                },
-                {
-                    "count": 18,
-                    "name": "Mountain"
+                    "name": "Edgewall Innkeeper"
                 },
                 {
                     "count": 2,
-                    "name": "Tibalt, Rakish Instigator"
+                    "name": "Gruul Spellbreaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
                 },
                 {
                     "count": 4,
-                    "name": "Light Up the Stage"
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 3,
+                    "name": "Paradise Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Rimrock Knight"
+                },
+                {
+                    "count": 2,
+                    "name": "The First Iroan Games"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Embereth"
+                },
+                {
+                    "count": 2,
+                    "name": "Fabled Passage"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 3,
+                    "name": "Temple of Abandon"
+                },
+                {
+                    "count": 4,
+                    "name": "Domri's Ambush"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Embereth Shieldbreaker"
-                },
-                {
-                    "count": 3,
-                    "name": "Lava Coil"
-                },
-                {
-                    "count": 3,
-                    "name": "Redcap Melee"
+                    "count": 2,
+                    "name": "Cosmotronic Wave"
                 },
                 {
                     "count": 2,
-                    "name": "Scorching Dragonfire"
+                    "name": "Embereth Shieldbreaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
                 },
                 {
                     "count": 4,
-                    "name": "Unchained Berserker"
+                    "name": "Lava Coil"
+                },
+                {
+                    "count": 2,
+                    "name": "Phoenix of Ash"
+                },
+                {
+                    "count": 2,
+                    "name": "Shifting Ceratops"
+                },
+                {
+                    "count": 2,
+                    "name": "Thrashing Brontodon"
                 }
             ],
             "notes": null

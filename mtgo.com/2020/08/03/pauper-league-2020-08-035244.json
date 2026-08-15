@@ -9,95 +9,119 @@
     "decks": [
         {
             "date": "2020-08-02",
-            "player": "-capivara-",
+            "player": "SweetSteve",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_-capivara-",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_SweetSteve",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Burning-Tree Emissary"
+                    "name": "Chromatic Star"
                 },
                 {
                     "count": 4,
-                    "name": "Nest Invader"
+                    "name": "Prophetic Prism"
                 },
                 {
-                    "count": 4,
-                    "name": "Nettle Sentinel"
+                    "count": 1,
+                    "name": "Springleaf Drum"
                 },
                 {
                     "count": 3,
-                    "name": "Quirion Ranger"
+                    "name": "Atog"
+                },
+                {
+                    "count": 4,
+                    "name": "Auriok Sunchaser"
                 },
                 {
                     "count": 2,
-                    "name": "River Boa"
+                    "name": "Frogmite"
                 },
                 {
                     "count": 2,
-                    "name": "Silhana Ledgewalker"
-                },
-                {
-                    "count": 3,
-                    "name": "Skarrgan Pit-Skulk"
-                },
-                {
-                    "count": 3,
-                    "name": "Vault Skirge"
-                },
-                {
-                    "count": 3,
-                    "name": "Elephant Guide"
+                    "name": "Kor Skyfisher"
                 },
                 {
                     "count": 4,
-                    "name": "Rancor"
+                    "name": "Myr Enforcer"
                 },
                 {
                     "count": 4,
-                    "name": "Hunger of the Howlpack"
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Fling"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
                 },
                 {
                     "count": 3,
-                    "name": "Vines of Vastwood"
-                },
-                {
-                    "count": 17,
-                    "name": "Forest"
+                    "name": "Of One Mind"
                 },
                 {
                     "count": 4,
-                    "name": "Savage Swipe"
+                    "name": "Thoughtcast"
                 }
             ],
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Epic Confrontation"
-                },
-                {
-                    "count": 4,
-                    "name": "Gleeful Sabotage"
+                    "name": "Ancient Grudge"
                 },
                 {
                     "count": 3,
-                    "name": "Gut Shot"
+                    "name": "Blue Elemental Blast"
                 },
                 {
                     "count": 1,
-                    "name": "Ram Through"
+                    "name": "Electrickery"
                 },
                 {
                     "count": 1,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 3,
-                    "name": "Viridian Longbow"
+                    "name": "Gorilla Shaman"
                 },
                 {
                     "count": 2,
-                    "name": "Weather the Storm"
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Leave No Trace"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
                 }
             ],
             "notes": null
@@ -185,6 +209,565 @@
                 {
                     "count": 3,
                     "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "abijhavs",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_abijhavs",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Nest Invader"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 2,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 3,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Elephant Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunger of the Howlpack"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 17,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Savage Swipe"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Epic Confrontation"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 3,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "Kampo",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Kampo",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 2,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Izzet Boilerworks"
+                },
+                {
+                    "count": 9,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "Toggen",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Toggen",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 1,
+                    "name": "Moonblade Shinobi"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Inventory"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 2,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 11,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Terramorphic Expanse"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Curfew"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Swirling Sandstorm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "jherzha3078",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_jherzha3078",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 3,
+                    "name": "Fathom Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 3,
+                    "name": "Spire Golem"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 1,
+                    "name": "Oona's Grace"
+                },
+                {
+                    "count": 3,
+                    "name": "Piracy Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Snap"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Aura Flux"
+                },
+                {
+                    "count": 2,
+                    "name": "Coral Net"
+                },
+                {
+                    "count": 2,
+                    "name": "Curse of Chains"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 1,
+                    "name": "Viridian Longbow"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "Lososso",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Lososso",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 1,
+                    "name": "Exclude"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 2,
+                    "name": "Dimir Aqueduct"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Terramorphic Expanse"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Curse of the Bloody Tome"
+                },
+                {
+                    "count": 3,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
                 }
             ],
             "notes": null
@@ -294,9 +877,9 @@
         },
         {
             "date": "2020-08-02",
-            "player": "abijhavs",
+            "player": "-capivara-",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_abijhavs",
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_-capivara-",
             "mainboard": [
                 {
                     "count": 4,
@@ -370,6 +953,10 @@
                 },
                 {
                     "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 1,
                     "name": "River Boa"
                 },
                 {
@@ -377,8 +964,226 @@
                     "name": "Viridian Longbow"
                 },
                 {
-                    "count": 3,
+                    "count": 2,
                     "name": "Weather the Storm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "edubalf",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_edubalf",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Nest Invader"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettle Sentinel"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 2,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 3,
+                    "name": "Skarrgan Pit-Skulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Elephant Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hunger of the Howlpack"
+                },
+                {
+                    "count": 3,
+                    "name": "Vines of Vastwood"
+                },
+                {
+                    "count": 17,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Savage Swipe"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Gleeful Sabotage"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Natural State"
+                },
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "River Boa"
+                },
+                {
+                    "count": 2,
+                    "name": "Viridian Longbow"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2020-08-02",
+            "player": "Raptor56",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Raptor56",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Exclude"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul Manipulation"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Evolving Wilds"
+                },
+                {
+                    "count": 11,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Green"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Swirling Sandstorm"
                 }
             ],
             "notes": null
@@ -544,228 +1349,6 @@
         },
         {
             "date": "2020-08-02",
-            "player": "Lososso",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Lososso",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Augur of Bolas"
-                },
-                {
-                    "count": 4,
-                    "name": "Delver of Secrets"
-                },
-                {
-                    "count": 4,
-                    "name": "Gurmag Angler"
-                },
-                {
-                    "count": 2,
-                    "name": "Thorn of the Black Rose"
-                },
-                {
-                    "count": 3,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Deprive"
-                },
-                {
-                    "count": 1,
-                    "name": "Exclude"
-                },
-                {
-                    "count": 3,
-                    "name": "Snuff Out"
-                },
-                {
-                    "count": 3,
-                    "name": "Thought Scour"
-                },
-                {
-                    "count": 3,
-                    "name": "Ash Barrens"
-                },
-                {
-                    "count": 2,
-                    "name": "Dimir Aqueduct"
-                },
-                {
-                    "count": 10,
-                    "name": "Snow-Covered Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Snow-Covered Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Terramorphic Expanse"
-                },
-                {
-                    "count": 2,
-                    "name": "Chainer's Edict"
-                },
-                {
-                    "count": 3,
-                    "name": "Ponder"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Annul"
-                },
-                {
-                    "count": 1,
-                    "name": "Chainer's Edict"
-                },
-                {
-                    "count": 1,
-                    "name": "Curse of the Bloody Tome"
-                },
-                {
-                    "count": 3,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 1,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Okiba-Gang Shinobi"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Stormbound Geist"
-                },
-                {
-                    "count": 2,
-                    "name": "Suffocating Fumes"
-                },
-                {
-                    "count": 1,
-                    "name": "Unexpected Fangs"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "edubalf",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_edubalf",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Burning-Tree Emissary"
-                },
-                {
-                    "count": 4,
-                    "name": "Nest Invader"
-                },
-                {
-                    "count": 4,
-                    "name": "Nettle Sentinel"
-                },
-                {
-                    "count": 3,
-                    "name": "Quirion Ranger"
-                },
-                {
-                    "count": 2,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 2,
-                    "name": "Silhana Ledgewalker"
-                },
-                {
-                    "count": 3,
-                    "name": "Skarrgan Pit-Skulk"
-                },
-                {
-                    "count": 3,
-                    "name": "Vault Skirge"
-                },
-                {
-                    "count": 3,
-                    "name": "Elephant Guide"
-                },
-                {
-                    "count": 4,
-                    "name": "Rancor"
-                },
-                {
-                    "count": 4,
-                    "name": "Hunger of the Howlpack"
-                },
-                {
-                    "count": 3,
-                    "name": "Vines of Vastwood"
-                },
-                {
-                    "count": 17,
-                    "name": "Forest"
-                },
-                {
-                    "count": 4,
-                    "name": "Savage Swipe"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Gleeful Sabotage"
-                },
-                {
-                    "count": 3,
-                    "name": "Gut Shot"
-                },
-                {
-                    "count": 2,
-                    "name": "Natural State"
-                },
-                {
-                    "count": 1,
-                    "name": "Ram Through"
-                },
-                {
-                    "count": 1,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "River Boa"
-                },
-                {
-                    "count": 2,
-                    "name": "Viridian Longbow"
-                },
-                {
-                    "count": 2,
-                    "name": "Weather the Storm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
             "player": "Parallax",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Parallax",
@@ -923,589 +1506,6 @@
                 {
                     "count": 1,
                     "name": "Stonehorn Dignitary"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "Toggen",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Toggen",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Augur of Bolas"
-                },
-                {
-                    "count": 4,
-                    "name": "Faerie Seer"
-                },
-                {
-                    "count": 1,
-                    "name": "Moonblade Shinobi"
-                },
-                {
-                    "count": 4,
-                    "name": "Ninja of the Deep Hours"
-                },
-                {
-                    "count": 4,
-                    "name": "Spellstutter Sprite"
-                },
-                {
-                    "count": 1,
-                    "name": "Abrade"
-                },
-                {
-                    "count": 3,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 1,
-                    "name": "Echoing Truth"
-                },
-                {
-                    "count": 4,
-                    "name": "Frantic Inventory"
-                },
-                {
-                    "count": 2,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 4,
-                    "name": "Skred"
-                },
-                {
-                    "count": 2,
-                    "name": "Ash Barrens"
-                },
-                {
-                    "count": 11,
-                    "name": "Snow-Covered Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Snow-Covered Mountain"
-                },
-                {
-                    "count": 4,
-                    "name": "Terramorphic Expanse"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Curfew"
-                },
-                {
-                    "count": 2,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 2,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 3,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 1,
-                    "name": "Swirling Sandstorm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "Kampo",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Kampo",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "Bonder's Ornament"
-                },
-                {
-                    "count": 3,
-                    "name": "Archaeomancer"
-                },
-                {
-                    "count": 2,
-                    "name": "Augur of Bolas"
-                },
-                {
-                    "count": 4,
-                    "name": "Mulldrifter"
-                },
-                {
-                    "count": 2,
-                    "name": "Stonehorn Dignitary"
-                },
-                {
-                    "count": 3,
-                    "name": "Thraben Inspector"
-                },
-                {
-                    "count": 1,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 3,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 1,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 2,
-                    "name": "Prismatic Strands"
-                },
-                {
-                    "count": 4,
-                    "name": "Skred"
-                },
-                {
-                    "count": 2,
-                    "name": "Ash Barrens"
-                },
-                {
-                    "count": 1,
-                    "name": "Azorius Chancery"
-                },
-                {
-                    "count": 4,
-                    "name": "Evolving Wilds"
-                },
-                {
-                    "count": 1,
-                    "name": "Izzet Boilerworks"
-                },
-                {
-                    "count": 9,
-                    "name": "Snow-Covered Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Snow-Covered Mountain"
-                },
-                {
-                    "count": 2,
-                    "name": "Snow-Covered Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Ancient Grudge"
-                },
-                {
-                    "count": 3,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 1,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 1,
-                    "name": "Guardian of the Guildpact"
-                },
-                {
-                    "count": 2,
-                    "name": "Lone Missionary"
-                },
-                {
-                    "count": 4,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Stonehorn Dignitary"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "Raptor56",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_Raptor56",
-            "mainboard": [
-                {
-                    "count": 3,
-                    "name": "Bonder's Ornament"
-                },
-                {
-                    "count": 3,
-                    "name": "Archaeomancer"
-                },
-                {
-                    "count": 4,
-                    "name": "Augur of Bolas"
-                },
-                {
-                    "count": 4,
-                    "name": "Mulldrifter"
-                },
-                {
-                    "count": 3,
-                    "name": "Brainstorm"
-                },
-                {
-                    "count": 3,
-                    "name": "Cast Down"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Ephemerate"
-                },
-                {
-                    "count": 1,
-                    "name": "Exclude"
-                },
-                {
-                    "count": 2,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 4,
-                    "name": "Skred"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul Manipulation"
-                },
-                {
-                    "count": 3,
-                    "name": "Ash Barrens"
-                },
-                {
-                    "count": 4,
-                    "name": "Evolving Wilds"
-                },
-                {
-                    "count": 11,
-                    "name": "Snow-Covered Island"
-                },
-                {
-                    "count": 2,
-                    "name": "Snow-Covered Mountain"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Plains"
-                },
-                {
-                    "count": 1,
-                    "name": "Snow-Covered Swamp"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Ancient Grudge"
-                },
-                {
-                    "count": 2,
-                    "name": "Circle of Protection: Green"
-                },
-                {
-                    "count": 2,
-                    "name": "Circle of Protection: Red"
-                },
-                {
-                    "count": 1,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 3,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 3,
-                    "name": "Pyroblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Swirling Sandstorm"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "SweetSteve",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_SweetSteve",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Chromatic Star"
-                },
-                {
-                    "count": 4,
-                    "name": "Prophetic Prism"
-                },
-                {
-                    "count": 1,
-                    "name": "Springleaf Drum"
-                },
-                {
-                    "count": 3,
-                    "name": "Atog"
-                },
-                {
-                    "count": 4,
-                    "name": "Auriok Sunchaser"
-                },
-                {
-                    "count": 2,
-                    "name": "Frogmite"
-                },
-                {
-                    "count": 2,
-                    "name": "Kor Skyfisher"
-                },
-                {
-                    "count": 4,
-                    "name": "Myr Enforcer"
-                },
-                {
-                    "count": 4,
-                    "name": "Thraben Inspector"
-                },
-                {
-                    "count": 2,
-                    "name": "Dispel"
-                },
-                {
-                    "count": 2,
-                    "name": "Fling"
-                },
-                {
-                    "count": 4,
-                    "name": "Galvanic Blast"
-                },
-                {
-                    "count": 4,
-                    "name": "Ancient Den"
-                },
-                {
-                    "count": 4,
-                    "name": "Darksteel Citadel"
-                },
-                {
-                    "count": 4,
-                    "name": "Great Furnace"
-                },
-                {
-                    "count": 1,
-                    "name": "Plains"
-                },
-                {
-                    "count": 4,
-                    "name": "Seat of the Synod"
-                },
-                {
-                    "count": 3,
-                    "name": "Of One Mind"
-                },
-                {
-                    "count": 4,
-                    "name": "Thoughtcast"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Ancient Grudge"
-                },
-                {
-                    "count": 3,
-                    "name": "Blue Elemental Blast"
-                },
-                {
-                    "count": 1,
-                    "name": "Electrickery"
-                },
-                {
-                    "count": 1,
-                    "name": "Gorilla Shaman"
-                },
-                {
-                    "count": 2,
-                    "name": "Krark-Clan Shaman"
-                },
-                {
-                    "count": 1,
-                    "name": "Leave No Trace"
-                },
-                {
-                    "count": 4,
-                    "name": "Red Elemental Blast"
-                },
-                {
-                    "count": 2,
-                    "name": "Relic of Progenitus"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2020-08-02",
-            "player": "jherzha3078",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/pauper-league-2020-08-035244#deck_jherzha3078",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Delver of Secrets"
-                },
-                {
-                    "count": 4,
-                    "name": "Faerie Miscreant"
-                },
-                {
-                    "count": 3,
-                    "name": "Fathom Seer"
-                },
-                {
-                    "count": 4,
-                    "name": "Ninja of the Deep Hours"
-                },
-                {
-                    "count": 4,
-                    "name": "Spellstutter Sprite"
-                },
-                {
-                    "count": 3,
-                    "name": "Spire Golem"
-                },
-                {
-                    "count": 4,
-                    "name": "Counterspell"
-                },
-                {
-                    "count": 2,
-                    "name": "Deprive"
-                },
-                {
-                    "count": 1,
-                    "name": "Oona's Grace"
-                },
-                {
-                    "count": 3,
-                    "name": "Piracy Charm"
-                },
-                {
-                    "count": 3,
-                    "name": "Snap"
-                },
-                {
-                    "count": 18,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 4,
-                    "name": "Preordain"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Aura Flux"
-                },
-                {
-                    "count": 2,
-                    "name": "Coral Net"
-                },
-                {
-                    "count": 2,
-                    "name": "Curse of Chains"
-                },
-                {
-                    "count": 2,
-                    "name": "Echoing Truth"
-                },
-                {
-                    "count": 4,
-                    "name": "Hydroblast"
-                },
-                {
-                    "count": 1,
-                    "name": "Relic of Progenitus"
-                },
-                {
-                    "count": 2,
-                    "name": "Stormbound Geist"
-                },
-                {
-                    "count": 1,
-                    "name": "Viridian Longbow"
                 }
             ],
             "notes": null

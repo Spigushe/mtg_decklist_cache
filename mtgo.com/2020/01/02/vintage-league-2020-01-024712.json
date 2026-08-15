@@ -9,13 +9,37 @@
     "decks": [
         {
             "date": "2020-01-01",
-            "player": "Peppe",
+            "player": "lampalot",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-01-024712#deck_Peppe",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-01-024712#deck_lampalot",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
                 },
                 {
                     "count": 1,
@@ -26,20 +50,20 @@
                     "name": "Mox Sapphire"
                 },
                 {
-                    "count": 4,
-                    "name": "Delver of Secrets"
+                    "count": 2,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Monastery Mentor"
                 },
                 {
                     "count": 2,
-                    "name": "Dreadhorde Arcanist"
-                },
-                {
-                    "count": 2,
-                    "name": "True-Name Nemesis"
-                },
-                {
-                    "count": 2,
-                    "name": "Young Pyromancer"
+                    "name": "Snapcaster Mage"
                 },
                 {
                     "count": 1,
@@ -50,64 +74,72 @@
                     "name": "Brainstorm"
                 },
                 {
-                    "count": 4,
-                    "name": "Daze"
-                },
-                {
                     "count": 1,
                     "name": "Dig Through Time"
-                },
-                {
-                    "count": 1,
-                    "name": "Flusterstorm"
                 },
                 {
                     "count": 4,
                     "name": "Force of Will"
                 },
                 {
-                    "count": 4,
-                    "name": "Lightning Bolt"
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
                 },
                 {
                     "count": 1,
                     "name": "Mental Misstep"
                 },
                 {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
                     "count": 2,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 2,
-                    "name": "Spell Pierce"
+                    "count": 1,
+                    "name": "Repeal"
                 },
                 {
                     "count": 2,
                     "name": "Flooded Strand"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
                     "name": "Scalding Tarn"
                 },
                 {
                     "count": 1,
-                    "name": "Snow-Covered Island"
+                    "name": "Tolarian Academy"
                 },
                 {
                     "count": 1,
-                    "name": "Strip Mine"
+                    "name": "Tundra"
                 },
                 {
-                    "count": 4,
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
                     "name": "Volcanic Island"
                 },
                 {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
                     "count": 1,
-                    "name": "Dack Fayden"
+                    "name": "Karn, the Great Creator"
                 },
                 {
                     "count": 1,
@@ -115,14 +147,26 @@
                 },
                 {
                     "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
                     "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 3,
+                    "name": "Night's Whisper"
                 },
                 {
                     "count": 1,
                     "name": "Ponder"
                 },
                 {
-                    "count": 4,
+                    "count": 3,
                     "name": "Preordain"
                 },
                 {
@@ -137,35 +181,39 @@
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "By Force"
+                    "name": "Balance"
                 },
                 {
-                    "count": 1,
-                    "name": "Damping Sphere"
-                },
-                {
-                    "count": 1,
-                    "name": "Flusterstorm"
-                },
-                {
-                    "count": 4,
+                    "count": 2,
                     "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 2,
-                    "name": "Pithing Needle"
+                    "count": 3,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
                 },
                 {
                     "count": 2,
+                    "name": "Kambal, Consul of Allocation"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 2,
-                    "name": "Shattering Spree"
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
                 },
                 {
                     "count": 2,
-                    "name": "Surgical Extraction"
+                    "name": "Tormod's Crypt"
                 }
             ],
             "notes": null
@@ -466,37 +514,13 @@
         },
         {
             "date": "2020-01-01",
-            "player": "lampalot",
+            "player": "Peppe",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-01-024712#deck_lampalot",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2020-01-024712#deck_Peppe",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Vault"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 3,
-                    "name": "Mox Opal"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
                 },
                 {
                     "count": 1,
@@ -507,20 +531,20 @@
                     "name": "Mox Sapphire"
                 },
                 {
-                    "count": 2,
-                    "name": "Sensei's Divining Top"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Monastery Mentor"
+                    "count": 4,
+                    "name": "Delver of Secrets"
                 },
                 {
                     "count": 2,
-                    "name": "Snapcaster Mage"
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 2,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Young Pyromancer"
                 },
                 {
                     "count": 1,
@@ -531,72 +555,64 @@
                     "name": "Brainstorm"
                 },
                 {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
                     "count": 1,
                     "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
                 },
                 {
                     "count": 4,
                     "name": "Force of Will"
                 },
                 {
-                    "count": 1,
-                    "name": "Hurkyl's Recall"
+                    "count": 4,
+                    "name": "Lightning Bolt"
                 },
                 {
                     "count": 1,
                     "name": "Mental Misstep"
                 },
                 {
-                    "count": 4,
-                    "name": "Paradoxical Outcome"
-                },
-                {
                     "count": 2,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 1,
-                    "name": "Repeal"
+                    "count": 2,
+                    "name": "Spell Pierce"
                 },
                 {
                     "count": 2,
                     "name": "Flooded Strand"
                 },
                 {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 1,
-                    "name": "Misty Rainforest"
-                },
-                {
-                    "count": 1,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "Scalding Tarn"
                 },
                 {
                     "count": 1,
-                    "name": "Tolarian Academy"
+                    "name": "Snow-Covered Island"
                 },
                 {
                     "count": 1,
-                    "name": "Tundra"
+                    "name": "Strip Mine"
                 },
                 {
-                    "count": 2,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 2,
+                    "count": 4,
                     "name": "Volcanic Island"
                 },
                 {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
                     "count": 1,
-                    "name": "Karn, the Great Creator"
+                    "name": "Dack Fayden"
                 },
                 {
                     "count": 1,
@@ -604,26 +620,14 @@
                 },
                 {
                     "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 1,
                     "name": "Gitaxian Probe"
-                },
-                {
-                    "count": 1,
-                    "name": "Merchant Scroll"
-                },
-                {
-                    "count": 3,
-                    "name": "Night's Whisper"
                 },
                 {
                     "count": 1,
                     "name": "Ponder"
                 },
                 {
-                    "count": 3,
+                    "count": 4,
                     "name": "Preordain"
                 },
                 {
@@ -638,39 +642,35 @@
             "sideboard": [
                 {
                     "count": 1,
-                    "name": "Balance"
+                    "name": "By Force"
                 },
                 {
-                    "count": 2,
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 4,
                     "name": "Grafdigger's Cage"
                 },
                 {
-                    "count": 3,
-                    "name": "Hurkyl's Recall"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
+                    "count": 2,
+                    "name": "Pithing Needle"
                 },
                 {
                     "count": 2,
-                    "name": "Kambal, Consul of Allocation"
-                },
-                {
-                    "count": 2,
-                    "name": "Lightning Bolt"
-                },
-                {
-                    "count": 1,
                     "name": "Pyroblast"
                 },
                 {
-                    "count": 1,
-                    "name": "The Tabernacle at Pendrell Vale"
+                    "count": 2,
+                    "name": "Shattering Spree"
                 },
                 {
                     "count": 2,
-                    "name": "Tormod's Crypt"
+                    "name": "Surgical Extraction"
                 }
             ],
             "notes": null

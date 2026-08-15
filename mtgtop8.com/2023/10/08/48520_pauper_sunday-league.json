@@ -1,0 +1,901 @@
+{
+    "tournament": {
+        "date": "2023-10-08",
+        "name": "Sunday League",
+        "url": "https://mtgtop8.com/event?e=48520",
+        "format": "Pauper",
+        "players": 24
+    },
+    "decks": [
+        {
+            "date": "2023-10-08",
+            "player": "Alexander Uy",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557463&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ancestral Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 2,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorehold Campus"
+                },
+                {
+                    "count": 1,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                }
+            ],
+            "notes": "The key concept of this deck is to apply constant pressure on the opponent through aggressive creature strategies and efficient removal spells. It utilizes a combination of low-cost creatures like Glint Hawk, Kor Skyfisher, and Thraben Inspector to maintain board presence and generate card advantage through cards like Ichor Wellspring and Lembas. The deck also includes artifact synergies with cards like Experimental Synthesizer and Foundry Helix to deal additional damage. Overall, the deck aims to quickly and efficiently deal damage to the opponent while maintaining card advantage and board control."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Elmer John Aldea",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557464&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Wedding Invitation"
+                },
+                {
+                    "count": 2,
+                    "name": "Recommission"
+                },
+                {
+                    "count": 3,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Ward"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 3,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 4,
+                    "name": "Breathless Knight"
+                },
+                {
+                    "count": 1,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Obscura Storefront"
+                },
+                {
+                    "count": 1,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Orzhov Guildgate"
+                },
+                {
+                    "count": 3,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 3,
+                    "name": "Black Dragon Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Unmake"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game through the use of Gates, alongside a variety of spells and creatures. The deck focuses on utilizing cards like Wedding Invitation and Recommission to disrupt the opponent's strategy, while also providing additional benefits such as life gain from cards like Lembas and Prismatic Ward. The deck also includes creatures like Cauldron Familiar and Sacred Cat to provide additional defensive options. The inclusion of Gate cards, such as Citadel Gate and Black Dragon Gate, allows for efficient mana generation and synergy with other cards in the deck."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Morz Caraig",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557466&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Rowan's Grim Search"
+                },
+                {
+                    "count": 2,
+                    "name": "Recommission"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Gatecreeper Vine"
+                },
+                {
+                    "count": 3,
+                    "name": "Sweettooth Witch"
+                },
+                {
+                    "count": 3,
+                    "name": "Eastfarthing Farmer"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 1,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Manor Gate"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Dragon Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Troublemaker Ouphe"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game using Gates, a land type that provides various utility effects. The deck focuses on using cards like Makeshift Munitions, Deadly Dispute, and Recommission to gain value from sacrificing artifacts and creatures. It also includes removal spells like Journey to Nowhere and the lifegain from Lembas and Sacred Cat for survivability. The creatures in the deck, such as Sweettooth Witch and Gingerbrute, help to maintain control and apply pressure on the opponent's life total. Overall, the deck aims to outlast and outvalue the opponent using the Gates strategy."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Psalm Aguilar",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557465&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "\"Name Sticker\" Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "The Autonomous Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 3,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 12,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly and aggressively attack the opponent using low-cost creatures like Goblin and Monastery Swiftspear, supported by burn spells like Lightning Bolt and Chain Lightning for additional damage. The deck takes advantage of artifacts like Great Furnace and Experimental Synthesizer for additional mana generation, enabling powerful spells like Reckless Impulse and Wrenn's Resolve to maintain a fast pace. The goal is to overwhelm the opponent with a combination of creatures, burn spells, and efficient card draw to secure a quick victory."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Martin Reyes",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557470&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Rite of Flame"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 4,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The main concept of this deck is to rapidly deal damage to the opponent using aggressive creatures and burn spells. The deck focuses on quickly reducing the opponent's life total by utilizing low-cost burn spells like Chain Lightning, Lava Dart, Lava Spike, and Lightning Bolt. Additionally, the deck features creatures like Monastery Swiftspear, Kessig Flamebreather, and Guttersnipe to further increase the damage output. The deck also includes cards like Reckless Impulse and Faithless Looting for card draw and to maintain a high tempo. Overall, the deck aims to overwhelm the opponent with fast and efficient damage-dealing spells and creatures."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Red Gumangan",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557469&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ransack the Lab"
+                },
+                {
+                    "count": 2,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Recommission"
+                },
+                {
+                    "count": 2,
+                    "name": "Airlift Chaplain"
+                },
+                {
+                    "count": 2,
+                    "name": "Seekers' Squire"
+                },
+                {
+                    "count": 3,
+                    "name": "Scrapwork Mutt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Breathless Knight"
+                },
+                {
+                    "count": 1,
+                    "name": "Cliffgate"
+                },
+                {
+                    "count": 2,
+                    "name": "Orzhov Guildgate"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Dragon Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game by utilizing a combination of removal spells and defensive creatures. It also utilizes a Gates mana base to ensure consistent mana sources for all its spells. The deck aims to disrupt the opponent's strategy while building up its own board presence gradually, using recursion and card advantage to outvalue the opponent in the long game. By utilizing a mix of control elements and Gates synergy, the deck seeks to outlast and outmaneuver opponents in a resource-efficient manner."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Jonathan Dolor",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557467&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Blacksmith's Skill"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Revoke Existence"
+                }
+            ],
+            "notes": "The main idea of this deck is to efficiently swarm the board with cheap artifact creatures and then buff them with cards like \"All That Glitters\" to deal a large amount of damage quickly. Cards like \"Of One Mind\" and \"Thoughtcast\" help to draw into more creatures and spells, while cards like \"Metallic Rebuke\" provide some control to protect your creatures. The mana base is primarily made up of artifact lands to help with artifact synergy and mana fixing. Overall, the deck aims to overwhelm the opponent with fast, aggressive plays."
+        },
+        {
+            "date": "2023-10-08",
+            "player": "Zed Banlaoi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48520&d=557468&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Burning-Tree Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Raze"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with low-cost aggressive creatures and burn spells. By utilizing cards like Burning-Tree Emissary and Monastery Swiftspear, along with efficient removal like Galvanic Blast and Lightning Bolt, the deck aims to deal consistent damage early in the game, while also creating a wide board presence with cards like Kuldotha Rebirth and Goblin Bushwhacker. The mana base consists of mostly Mountains and Great Furnace to ensure a fast and smooth mana curve."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

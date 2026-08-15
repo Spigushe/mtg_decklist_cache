@@ -1,0 +1,3081 @@
+{
+    "tournament": {
+        "date": "2023-09-30",
+        "name": "Open 1",
+        "url": "https://mtgtop8.com/event?e=48227",
+        "format": "Vintage",
+        "players": 48
+    },
+    "decks": [
+        {
+            "date": "2023-09-30",
+            "player": "Ryan Chimzar",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555107&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Necropotence"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tendrils of Agony"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Timetwister"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Beseech the Mirror"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Opposition Agent"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Portal to Phyrexia"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Virtue's Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The key concept of this deck is to create a powerful combo that allows the player to generate a large amount of mana and cards, while also disrupting the opponent's game plan. This is achieved through the use of cards like Tinker, Yawgmoth's Will, and Necropotence to search for and play key pieces of the combo, such as The One Ring and Time Vault. The deck also includes a mix of powerful mana acceleration cards, counterspells, and tutors to ensure consistency and protect the combo."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Stevenm2",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555108&f=VI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Golos, Tireless Pilgrim"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Revoker"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 4,
+                    "name": "Foundry Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Stonecoil Serpent"
+                },
+                {
+                    "count": 1,
+                    "name": "Lodestone Golem"
+                },
+                {
+                    "count": 1,
+                    "name": "Canoptek Scarab Swarm"
+                },
+                {
+                    "count": 4,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Nettlecyst"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Canoptek Scarab Swarm"
+                },
+                {
+                    "count": 2,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 3,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                }
+            ],
+            "notes": "This deck aims to win quickly by overwhelming the opponent with a combination of aggressive creatures and disruptive artifacts. It focuses on playing low-cost artifacts like Golos, Tireless Pilgrim, Phyrexian Revoker, and Patchwork Automaton to apply early pressure, while also using Null Rod, Sphere of Resistance, and Nettlecyst to slow down the opponent's game plan. The deck further utilizes powerful artifacts like Moxes, Sol Ring, Chalice of the Void, and Trinisphere to generate mana advantage and lock the opponent out of certain strategies. Additionally, the deck includes land destruction elements with Wasteland and Strip Mine to disrupt the opponent's mana base."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Sgiambi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555110&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Necropotence"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tendrils of Agony"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Timetwister"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Beseech the Mirror"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Opposition Agent"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Portal to Phyrexia"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Virtue's Ruin"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The key concept of the deck is to efficiently and quickly assemble the pieces necessary for a powerful combo win. The deck includes a variety of powerful artifacts and spells that enable the player to generate mana, draw cards, and search for specific cards. The goal is to find and play cards like Time Vault, The One Ring, or Bolas's Citadel, which can generate continual advantage or allow for a game-ending combo. The deck also includes disruptive elements like Force of Will to protect the combo and disrupt the opponent's plans."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Justin Gennari",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555109&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Serra's Emissary"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by utilizing the card Oath of Druids. The goal is to play powerful creatures like Atraxa, Grand Unifier and Oko, Thief of Crowns through the effect of Oath of Druids, which allows players to put a creature from their deck into play. The deck includes a variety of powerful artifacts like the Moxes and Black Lotus, as well as efficient counterspells like Force of Will. The deck also includes card draw and card selection spells to maintain a strong hand. Overall, the key concept is to control the game and cheat powerful creatures into play with Oath of Druids."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Crouchsnap",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555114&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 4,
+                    "name": "Vengevine"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Hollow One"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazing Rootwalla"
+                },
+                {
+                    "count": 1,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of Death"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Serum Powder"
+                },
+                {
+                    "count": 1,
+                    "name": "Snapback"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Noxious Revival"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Bazaar of Baghdad"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Quarter"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Petrified Field"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly and aggressively swarm the opponent with creatures and overwhelm them. It utilizes cards like Squee, Goblin Nabob, Vengevine, Basking Rootwalla, and Hollow One to quickly fill up the board. It also relies on cards such as Blazing Rootwalla and Fury to deal damage and control the board. The deck includes disruptive elements like Chalice of the Void, Mindbreak Trap, and Mental Misstep to interrupt the opponent's strategy. Strip Mine and Wasteland are included to disrupt the opponent's mana base. The powerful lands Bazaar of Baghdad and Force of Will provide additional advantages."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Matt Hazard",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555112&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Tendrils of Agony"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 4,
+                    "name": "Beseech the Mirror"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Unknown Card"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 1,
+                    "name": "Stern Scolding"
+                },
+                {
+                    "count": 1,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 1,
+                    "name": "Dress Down"
+                }
+            ],
+            "notes": "The key concept of this deck is to assemble a powerful combo that allows the player to win the game quickly. The deck includes various powerful cards like Ancestral Recall, Time Walk, and Tendrils of Agony. It also includes essential artifacts like Time Vault and The One Ring, along with mana acceleration cards such as Mox Sapphire and Sol Ring. The deck utilizes tutors like Demonic Tutor and Vampiric Tutor to search for the necessary combo pieces, and it includes control elements like Force of Will to protect the combo and disrupt the opponent's strategy."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Robert Hayes",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555111&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Repeal"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul Rend"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game by utilizing a combination of counterspells, removal spells, and card advantage. The deck aims to disrupt opponents' strategies while slowly building up its own resources. It uses cards like Force of Will, Flusterstorm, and Spell Pierce to counter key plays, while cards like Fatal Push and Repeal provide removal options. The deck also includes card draw spells like Brainstorm and Dig Through Time to ensure consistent access to resources. Overall, the deck focuses on denying opponents' opportunities and maintaining control of the game."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Joe Brennan",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555113&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Confidant"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Skullclamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Repeal"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Yixlid Jailer"
+                },
+                {
+                    "count": 2,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Virtue's Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                }
+            ],
+            "notes": "This deck focuses on controlling the opponent's actions through a combination of counterspells and disruption. It aims to maintain card advantage with cards like Dark Confidant and Orcish Bowmasters while also utilizing powerful artifact spells like Skullclamp and Sensei's Divining Top. The inclusion of Lurrus of the Dream-Den as a companion adds another layer of resilience and value to the deck. The deck's mana base is composed of powerful restricted cards like Black Lotus and Moxen, allowing for efficient and explosive plays. Ultimately, this deck seeks to establish control early on and maintain it throughout the game."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Awepp",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555119&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 2,
+                    "name": "The Mightstone and Weakstone"
+                },
+                {
+                    "count": 2,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Coveted Jewel"
+                },
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Hullbreacher"
+                },
+                {
+                    "count": 3,
+                    "name": "Argentum Masticore"
+                },
+                {
+                    "count": 2,
+                    "name": "Wurmcoil Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "The One Ring"
+                }
+            ],
+            "notes": "The deck focuses on assembling the Coveted Jewel combo as quickly as possible using mana acceleration cards such as Moxen and Sol Ring. By utilizing cards like Tinker, Paradoxical Outcome, and Karn, the Great Creator, the deck aims to generate significant advantage and win conditions through the use of powerful artifacts like Time Vault and The One Ring. With strong counterspells like Force of Will to protect its combo pieces, the deck aims to disrupt the opponent while advancing its own game plan efficiently."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Stephen Seliskar",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555122&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Yawgmoth's Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 2,
+                    "name": "Hullbreacher"
+                },
+                {
+                    "count": 2,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Yixlid Jailer"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Virtue's Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Balance"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": "The deck revolves around a strong control strategy, utilizing powerful counterspells and card draw to maintain control of the game. It also includes key combo pieces like Time Vault and Teferi, Time Raveler to lock the opponent out of the game. The deck takes advantage of powerful Vintage staples like Ancestral Recall, Demonic Tutor, and Moxen to quickly establish board presence and disrupt the opponent's strategy. With strong creatures like Sphinx of the Steel Wind and disruptive cards like Hullbreacher and Lavinia, Azorius Renegade, the deck aims to shut down the opponent's game plan while building its own advantage."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Edward Bonar Ii",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555115&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Turn the Earth"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 3,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 4,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Deathmark"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Serra's Emissary"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game while utilizing the Oath of Druids card to cheat powerful creatures into play. By playing cards like Show and Tell, Demonic Tutor, and Vampiric Tutor, the player can set up their strategy and quickly bring out powerful creatures like Atraxa, Grand Unifier. The deck also includes a variety of counterspells and disruption spells to control the opponent's plays. Additionally, cards like Oko, Thief of Crowns and Narset, Parter of Veils further disrupt the opponent's strategy while helping the player to maintain control of the game."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Lance Tinsman",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555117&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                }
+            ],
+            "notes": "This Vintage 1 vs 1 Control-Oath of Druids deck aims to quickly ramp into playing powerful threats such as Atraxa, Grand Unifier or Narset, Parter of Veils using Oath of Druids' ability. It also utilizes powerful cards like Show and Tell, Tinker, and Demonic Tutor to search for key pieces and disrupt the opponent's game plan with counterspells like Force of Will and Flusterstorm. The deck focuses on setting up a dominant board state while controlling the opponent's actions and limiting their options."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Gribdogs",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555120&f=VI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 2,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 3,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 4,
+                    "name": "Tropical Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game and setting up the win condition of Oath of Druids to bring out powerful creatures like Atraxa, Grand Unifier. It includes various counterspells and removal spells to disrupt the opponent's strategies while using cards like Urza's Saga and Crop Rotation to search for key pieces. The deck also includes support cards like Time Vault and Crucible of Worlds to generate advantage and maintain board presence. It aims to outvalue and outmaneuver the opponent through resource management and strategic decision-making."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Joe Dyer",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555121&f=VI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Bolas's Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampiric Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Oko, Thief of Crowns"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Forbidden Orchard"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Portal to Phyrexia"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphinx of the Steel Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game through various counterspells and disruptive spells while utilizing the Oath of Druids to cheat out powerful creatures like Atraxa, Grand Unifier. The deck also includes key cards like Show and Tell, Tinker, and Bolas's Citadel to create advantageous board states. The inclusion of planeswalkers like Narset and Oko further adds to the control aspect of the deck. With a combination of efficient mana rocks and powerful spells, this archetype aims to disrupt the opponent's game plan while establishing a dominant position on the battlefield."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Shadowuni",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555116&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 2,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Paradox Engine"
+                },
+                {
+                    "count": 2,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Voltaic Key"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 4,
+                    "name": "Paradoxical Outcome"
+                },
+                {
+                    "count": 1,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Argentum Masticore"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                }
+            ],
+            "notes": "This deck focuses on utilizing artifacts and powerful mana sources to generate infinite loops of card draw and mana production, allowing for explosive plays and the ability to win the game quickly. By using cards like Paradoxical Outcome and Voltaic Key in combination with artifacts like Mox Opal and Grim Monolith, the deck can create overwhelming advantages and pull off game-winning combos. The deck also includes disruption elements like Force of Will and Trinisphere to protect its game plan and stall opponents. It aims to overwhelm the opponent with its powerful synergies and efficient mana generation."
+        },
+        {
+            "date": "2023-09-30",
+            "player": "Lee Webb",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=48227&d=555118&f=VI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sensei's Divining Top"
+                },
+                {
+                    "count": 1,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Mental Misstep"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Dig Through Time"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 2,
+                    "name": "Cathar Commando"
+                },
+                {
+                    "count": 3,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Tundra"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Balance"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Cathar Commando"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by utilizing powerful counterspells and removal cards to disrupt the opponent's strategy. The deck aims to maintain board control through cards like Swords to Plowshares and Force of Will, while generating card advantage with draw spells like Dig Through Time and Ancestral Recall. Additionally, the inclusion of Lurrus of the Dream-Den as a companion provides additional value by allowing the player to cast lower-costed spells from the graveyard. The deck also features mana acceleration with powerful artifacts like Black Lotus and Moxen to quickly cast its powerful spells."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

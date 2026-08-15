@@ -1,0 +1,921 @@
+{
+    "tournament": {
+        "date": "2023-11-05",
+        "name": "PR Pass League",
+        "url": "https://mtgtop8.com/event?e=49367",
+        "format": "Pauper",
+        "players": 23
+    },
+    "decks": [
+        {
+            "date": "2023-11-05",
+            "player": "Gino Gacula",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564148&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ancestral Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorehold Campus"
+                },
+                {
+                    "count": 1,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                }
+            ],
+            "notes": "The key concept of this Boros Aggro deck is to quickly and efficiently apply pressure on the opponent's life total using cheap and aggressive creatures. Additionally, the deck utilizes a mix of burn spells and artifact synergy to deal direct damage and maintain card advantage. By combining the powerful removal options of Galvanic Blast and Lightning Bolt with the card draw provided by Ichor Wellspring and Thraben Inspector, the deck aims to overwhelm the opponent through a combination of early aggression and sustained card advantage."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Daniel Lancion",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564149&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                }
+            ],
+            "notes": "The deck focuses on aggressive plays, aiming to quickly establish a board presence and deal damage to the opponent efficiently. It utilizes a mix of cheap creatures and burn spells to control the board and pressure the opponent. The deck also includes some recurring creatures to generate value and maintain momentum. Additionally, it features some artifact synergies and land recursion to further support its aggressive game plan. The overall goal is to overwhelm the opponent with a fast and relentless assault, while maintaining some resilience through card advantage and flexibility in card choices."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Melvin Brito",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564150&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 3,
+                    "name": "Welding Jar"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 2,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Heliod's Pilgrim"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 4,
+                    "name": "Blacksmith's Skill"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Sea's Claim"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with a fast and aggressive strategy centered around the Affinity mechanic. By using artifacts with low mana costs and cards like All That Glitters and Moon-Circuit Hacker to pump up your creatures, you aim to quickly build a wide and powerful board presence. This deck is focused on creating a strong offensive pressure early in the game and maintaining that pressure to win before the opponent can stabilize or mount a defense."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Morz Caraig",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564151&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Disfigure"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Drinker"
+                },
+                {
+                    "count": 4,
+                    "name": "Gatecreeper Vine"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 1,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Dragon Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Manor Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Fangren Marauder"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game by eliminating threats and slowing down the opponent's strategy through removal spells and defensive creatures. The Gates package provides mana fixing and card advantage, allowing the player to consistently cast their spells and outvalue their opponent. The win condition revolves around incremental damage from creatures like Gingerbrute and Ichor Drinker, while also utilizing Cauldron Familiar and Deadly Dispute for additional value. Overall, the deck aims to outlast the opponent through attrition and resource management."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Ryan John Tabuso",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564152&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Union of the Third Path"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 3,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 7,
+                    "name": "Snow-Covered Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The main concept of this deck is to create value and control the board through the use of flickering effects. The deck includes cards like Ephemerate and Archaeomancer to repeatedly flicker creatures and spells, allowing for additional card draw, removal, and countering abilities. The deck also incorporates snow-covered lands to take advantage of snow-related synergies. Overall, the deck aims to establish board control and generate card advantage through flickering effects, while also utilizing counterspells and removal to disrupt the opponent's strategy."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Jhon Tabora",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564153&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Aqueous Form"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Turn Aside"
+                }
+            ],
+            "notes": "The deck focuses on quickly casting a large number of artifact creatures and equipping them with powerful boosts such as All That Glitters. By utilizing cheap artifact creatures and mana-producing artifacts, the deck aims to overwhelm opponents with a fast and aggressive strategy. The inclusion of cards like Metallic Rebuke and Of One Mind allows for disruption and card advantage, while Aqueous Form helps to ensure unblockable attacks. The goal is to capitalize on the synergy between artifacts and creatures to create a formidable and relentless offensive force."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Elgene David",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564154&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Aqueous Form"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying low-cost artifact creatures and utilizing artifacts to pump them up, creating a powerful aggressive strategy. Cards like Frogmite, Myr Enforcer, and Ornithopter are utilized to overwhelm the opponent, while spells like All That Glitters and Aqueous Form further enhance the creature's abilities. The deck aims to quickly build a board presence and apply pressure on the opponent to prevent them from mounting a defense. With an affinity for artifacts, the deck is able to take advantage of their synergies to create a strong, fast-paced strategy."
+        },
+        {
+            "date": "2023-11-05",
+            "player": "Angelo Marcelo",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49367&d=564155&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Dwarven Forge-Chanter"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Raze"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with aggressive creatures and burn spells, utilizing cheap and efficient cards to deal direct damage and maintain pressure. With a low mana curve and a strong emphasis on dealing damage early in the game, this deck aims to win by outpacing the opponent and finishing them off before they have a chance to stabilize. The combination of creatures like Goblin Bushwhacker and Monastery Swiftspear, along with burn spells like Lightning Bolt and Galvanic Blast, creates a fast and relentless aggro strategy."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

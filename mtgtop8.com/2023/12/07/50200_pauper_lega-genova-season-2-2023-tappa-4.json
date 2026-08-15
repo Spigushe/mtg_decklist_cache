@@ -1,0 +1,925 @@
+{
+    "tournament": {
+        "date": "2023-12-07",
+        "name": "Lega Genova - Season 2 2023 - Tappa 4",
+        "url": "https://mtgtop8.com/event?e=50200",
+        "format": "Pauper",
+        "players": 20
+    },
+    "decks": [
+        {
+            "date": "2023-12-07",
+            "player": "Nicolò Grasso",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571440&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 1,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 3,
+                    "name": "Meeting of Minds"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Merchant Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 3,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 1,
+                    "name": "Nature's Chant"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                }
+            ],
+            "notes": "The deck focuses on utilizing flickering effects to generate value and create powerful combos. It includes creatures like Archaeomancer, Mulldrifter, and Sunscape Familiar to maximize the effectiveness of flicker spells like Ghostly Flicker and Ephemerate. These flicker effects allow you to repeatedly trigger enter-the-battlefield abilities, such as those on God-Pharaoh's Faithful and Sea Gate Oracle, to gain advantages and generate card advantage. The deck also includes control elements like Prohibit and Essence Scatter to disrupt and slow down opponents. The goal is to overwhelm opponents with card advantage and generate powerful combos through flickering effects."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Silvia Piras",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571441&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 1,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 1,
+                    "name": "Silverbluff Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 4,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "This deck revolves around the concept of maximizing synergy and cheap creatures to quickly overwhelm the opponent. The key idea is to utilize the affinity mechanic to reduce the cost of powerful artifacts, allowing for explosive starts and efficient use of resources. The deck includes a variety of low-cost creatures such as Frogmite, Gingerbrute, and Ornithopter, as well as support cards like Glint Hawk and Thraben Inspector. Additionally, the deck features various artifact lands to further enhance the affinity strategy and enable explosive plays."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Lorenzo Canazza",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571443&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Myr Kinsmith"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Retriever"
+                },
+                {
+                    "count": 4,
+                    "name": "Ashnod's Altar"
+                },
+                {
+                    "count": 2,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Golem Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Wizard's Rockets"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Rowan's Grim Search"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 2,
+                    "name": "Crystal Grotto"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Fengraf"
+                },
+                {
+                    "count": 1,
+                    "name": "Hidden Nursery"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game using the Urzatron lands to generate large amounts of mana, while using cards like Myr Retriever and Ashnod's Altar to generate additional resources. The deck aims to create a board presence with Golem Foundry and Myr Kinsmith, while also using Candy Trail and Wizard's Rockets to disrupt and remove opponent's threats. Weather the Storm provides protection and lifegain, while cards like Ancient Stirrings and Expedition Map aid in finding and assembling the Urzatron lands. The deck also includes various utility lands to support the strategy."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Luca Michenzi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571442&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Avacyn's Pilgrim"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Secret Door"
+                },
+                {
+                    "count": 4,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien's Grizzly"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Bloodrite Invoker"
+                },
+                {
+                    "count": 3,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian Naga"
+                },
+                {
+                    "count": 1,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 3,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "This deck utilizes a combo strategy with walls as the centerpiece. The key concept is to generate mana by tapping walls with Axebane Guardian and Overgrown Battlement while also using cards like Avacyn's Pilgrim and Generous Ent to ramp up. The combo is completed by using cards like Secret Door and Freed from the Real to untap creatures and generate infinite mana, allowing for big plays like casting Valakut Invoker for massive damage. The deck also includes card draw and graveyard recursion to ensure consistency and resilience."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Paolo Ansaldo",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571446&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 1,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 4,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The key concept of this deck is to build an aggressive Boros archetype focused on efficiently dealing damage to the opponent. It utilizes low-cost creatures like Gingerbrute and Glint Hawk, as well as burn spells like Galvanic Blast and Lightning Bolt, to quickly eliminate the opponent's life total. The deck also includes cards like Experimental Synthesizer and Ichor Wellspring to maintain card advantage and provide additional resources. Additionally, the inclusion of All That Glitters enhances the power of artifact creatures, creating stronger threats on the board. The deck's mana base is focused on enabling quick and efficient plays."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Giovanni Favetta",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571445&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 12,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game through removal spells and sacrificing creatures for value. It aims to disrupt the opponent's strategy while generating card advantage and board presence. Utilizing cheap removal spells and sacrificing creatures to trigger beneficial effects allows the deck to maintain control of the game and outvalue the opponent. The deck also includes some creatures with powerful abilities and a land package that helps generate additional creatures for sacrifice. Overall, the deck aims to grind out value and outlast the opponent to secure victory."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Joel Cathcart",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571447&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Angelsong"
+                },
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Smash to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 6,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Volatile Fjord"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                }
+            ],
+            "notes": "This Pauper 1 vs 1 deck revolves around the combo and flicker mechanics. The deck focuses on flickering creatures like Archaeomancer, Augur of Bolas, Mulldrifter, and Murmuring Mystic to generate card advantage and value. It also includes spells like Ephemerate and Lórien Revealed to further enable flicker effects. The deck includes a mix of removal spells like Lightning Bolt, Skred, and Cleansing Wildfire to control the board. Counterspells provide protection and disruption. The mana base includes various dual lands and snow-covered lands for consistency. The overall strategy is to create a strong board presence and maintain resource advantage through flickering and combo plays."
+        },
+        {
+            "date": "2023-12-07",
+            "player": "Diego Barbagelata",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=50200&d=571444&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Dwarven Forge-Chanter"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 2,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": "The main goal of this deck is to overwhelm the opponent with fast, aggressive creatures and burn spells in order to deal as much damage as quickly as possible. By exploiting cards that create multiple creatures at once, along with efficient burn spells, the deck aims to quickly deplete the opponent's life total before they have a chance to stabilize. The focus on low-cost, high-impact cards allows for a fast and relentless assault on the opponent, making it difficult for them to recover and turn the game around."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

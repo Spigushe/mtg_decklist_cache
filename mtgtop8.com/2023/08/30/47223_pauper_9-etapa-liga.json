@@ -1,0 +1,949 @@
+{
+    "tournament": {
+        "date": "2023-08-30",
+        "name": "9ª Etapa Liga",
+        "url": "https://mtgtop8.com/event?e=47223",
+        "format": "Pauper",
+        "players": 18
+    },
+    "decks": [
+        {
+            "date": "2023-08-30",
+            "player": "Punisherbr",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548943&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 4,
+                    "name": "Behold the Multiverse"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Eureka Moment"
+                },
+                {
+                    "count": 4,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Pieces of the Puzzle"
+                },
+                {
+                    "count": 2,
+                    "name": "Stream of Thought"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Quandrix Campus"
+                },
+                {
+                    "count": 4,
+                    "name": "Simic Growth Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Thornwood Falls"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Stream of Thought"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Serene Heart"
+                },
+                {
+                    "count": 3,
+                    "name": "Murmuring Mystic"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize a combination of cards to create a \"Turbo Fog\" strategy. The deck focuses on stalling the opponent's attacks by using cards like Moment's Peace and Tangle, while also drawing and filtering through the deck with cards like Behold the Multiverse and Brainstorm. The combo aspect comes into play with cards like Eureka Moment and Lórien Revealed, which allow the player to generate additional resources or gain advantage. The mana base consists of a mix of lands that provide multiple colors and resources to support the deck's strategy."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Mateus Camargo",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548944&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Dark-Dweller Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Putrid Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "First Day of Class"
+                },
+                {
+                    "count": 1,
+                    "name": "Shred Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 1,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Geothermal Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Introduction to Prophecy"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main concept of this deck is to take advantage of the \"Combo-Goblins\" archetype in a Pauper 1 vs 1 format. The deck features cards that allow you to quickly generate and sacrifice goblin creatures for value, while also utilizing cards like Exhume and Unearth to bring back key creatures from the graveyard. By combining these elements with card draw and disruption spells, the deck aims to create explosive and synergistic plays that overwhelm the opponent and secure victory."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Renny_hunter",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548945&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Village Rites"
+                },
+                {
+                    "count": 1,
+                    "name": "Fruit of Tizerus"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul Reap"
+                },
+                {
+                    "count": 3,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Sovereign's Bite"
+                },
+                {
+                    "count": 4,
+                    "name": "Tyrant's Choice"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Sign in Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "Bump in the Night"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Okiba Reckoner Raid"
+                },
+                {
+                    "count": 2,
+                    "name": "Night Market Lookout"
+                },
+                {
+                    "count": 4,
+                    "name": "Serrated Scorpion"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 11,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Choking Sands"
+                },
+                {
+                    "count": 3,
+                    "name": "Geth's Verdict"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "This Mono Black Aggro deck focuses on quickly draining the opponent's life total with low-cost, impactful spells and creatures. The key strategy revolves around dealing direct damage and gaining card advantage through sacrificing creatures or paying life. By maintaining a steady stream of pressure and disruption, this deck aims to overwhelm the opponent before they can establish a solid defense. The inclusion of cards like Vampire's Kiss and Sovereign's Bite allows for consistent damage output, while cards like Village Rites and Deadly Dispute provide card advantage to keep the aggression going."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Nelsonoliveir4",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548946&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Fleshbag Marauder"
+                },
+                {
+                    "count": 3,
+                    "name": "Goliath Paladin"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirited Companion"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Vampire Sovereign"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Unmake"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 1,
+                    "name": "Castigate"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Kabira Crossroads"
+                },
+                {
+                    "count": 3,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Silverquill Campus"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Arashin Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 1,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The main idea of this Orzhov Aggro deck is to overwhelm the opponent with a combination of efficient creatures like Goliath Paladin and Spirited Companion, along with disruptive spells like Cast Down and Chainer's Edict to control the board. The deck also aims to generate card advantage with cards like Thraben Inspector and Thorn of the Black Rose, while utilizing Ephemerate for value. This deck has a strong focus on exploiting the synergies between its creatures and spells to maintain pressure and disrupt the opponent's game plan."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Murilo Leite",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548950&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Reverse Engineer"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Turn Aside"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Remove Enchantments"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                }
+            ],
+            "notes": "The main idea of this Pauper 1 vs 1 Aggro - Affinity deck is to quickly swarm the battlefield with cheap artifact creatures like Ornithopter, Gingerbrute, and Frogmite while pumping them up with cards like All That Glitters. By utilizing mana acceleration with Springleaf Drum and Chromatic Star, the deck aims to overwhelm opponents early on and maintain a steady flow of threats. Cards like Thoughtcast and Reverse Engineer provide card draw to keep the momentum going, while Metallic Rebuke offers some disruption against opposing strategies. The deck's lands include artifact lands like Seat of the Synod and Ancient Den for added synergy."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Reisbernardo",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548948&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Guildsworn Prowler"
+                },
+                {
+                    "count": 2,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Fungal Infection"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 1,
+                    "name": "Crystal Grotto"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 1,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 1,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 1,
+                    "name": "Final Flourish"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                }
+            ],
+            "notes": "The deck focuses on controlling the board through removal spells and utilizing creatures that provide value upon entering the battlefield. It aims to disrupt the opponent's strategy while generating card advantage through cards like Avenging Hunter and Ichor Wellspring. The deck also includes cards that can provide life gain and recursion, allowing it to outlast aggressive opponents. With a mix of creature removal, creature threats, and card advantage engines, the deck aims to grind out victories through attrition and efficient resource management."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Diogo Finardi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548949&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Benevolent Blessing"
+                },
+                {
+                    "count": 3,
+                    "name": "Emerge Unscathed"
+                },
+                {
+                    "count": 3,
+                    "name": "Apostle's Blessing"
+                },
+                {
+                    "count": 3,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 4,
+                    "name": "Hyena Umbra"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 2,
+                    "name": "Benevolent Bodyguard"
+                },
+                {
+                    "count": 3,
+                    "name": "Akroan Skyguard"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Lagonna-Band Trailblazer"
+                },
+                {
+                    "count": 4,
+                    "name": "Deftblade Elite"
+                },
+                {
+                    "count": 2,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 11,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Celestial Flare"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirit Link"
+                },
+                {
+                    "count": 4,
+                    "name": "Beckon Apparition"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly build up a powerful threat by attaching auras to small creatures like Sacred Cat and Lagonna-Band Trailblazer. The auras in the deck provide additional benefits like protection and evasion, while cards like Ethereal Armor and All That Glitters take advantage of the numerous enchantments on the battlefield. The deck aims to overwhelm the opponent with a creature that is both difficult to remove and capable of dealing large amounts of damage in a short amount of time."
+        },
+        {
+            "date": "2023-08-30",
+            "player": "Pincinato171",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47223&d=548947&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Angelsong"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Skred"
+                },
+                {
+                    "count": 1,
+                    "name": "Union of the Third Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 3,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 7,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Volatile Fjord"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The deck focuses on controlling the opponent's moves using a combination of counter spells, removal spells, and card advantage from cards like Mulldrifter and Augur of Bolas. It also includes some creatures like Archaeomancer and Murmuring Mystic to help maintain board presence. The deck aims to disrupt the opponent's strategy while gradually building up its own resources, ultimately outlasting the opponent and winning through attrition. The mana base includes a mix of snow-covered lands and dual lands to ensure consistency in casting spells across all three colors."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

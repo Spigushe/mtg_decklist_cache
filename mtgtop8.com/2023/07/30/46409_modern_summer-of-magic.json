@@ -1,0 +1,1021 @@
+{
+    "tournament": {
+        "date": "2023-07-30",
+        "name": "Summer of Magic",
+        "url": "https://mtgtop8.com/event?e=46409",
+        "format": "Modern",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2023-07-30",
+            "player": "Pasquale Sirignano",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543094&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 2,
+                    "name": "Striped Riverwinder"
+                },
+                {
+                    "count": 3,
+                    "name": "Waker of Waves"
+                },
+                {
+                    "count": 4,
+                    "name": "Curator of Mysteries"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 2,
+                    "name": "Oliphaunt"
+                },
+                {
+                    "count": 4,
+                    "name": "Architects of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Living End"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunken Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Foundation Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Vigor"
+                }
+            ],
+            "notes": "The deck focuses on using Cascade spells to cast Living End from the graveyard, allowing the player to bring back powerful creatures from the graveyard and potentially wipe the opponent's board. By cycling creatures like Street Wraith and Architects of Will, the deck can quickly fill the graveyard with creatures to be brought back with Living End. The key strategy is to set up a large board state that the opponent struggles to answer, overwhelming them with powerful creatures. The deck also includes disruption in the form of Grief and Force of Negation to control the game while setting up the combo."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Lorenzo Panzeri",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543095&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 2,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 1,
+                    "name": "Become Immense"
+                },
+                {
+                    "count": 4,
+                    "name": "Dead/Gone"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Crashing Footfalls"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Waterlogged Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Moon"
+                }
+            ],
+            "notes": "The deck focuses on using Cascade mechanics to quickly and efficiently cast powerful spells without paying their mana cost, overwhelming opponents with an aggressive strategy. By utilizing cards like Shardless Agent and Violent Outburst to cascade into high-impact spells like Crashing Footfalls, the deck aims to quickly build a board presence and put pressure on the opponent. With a mix of bounce spells and counter magic for disruption, the deck aims to maintain control of the game while continuously applying pressure to secure a swift victory."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Matteo Ciapponi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543097&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 4,
+                    "name": "Omnath, Locus of Creation"
+                },
+                {
+                    "count": 4,
+                    "name": "Delighted Halfling"
+                },
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 3,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Indatha Triome"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Moonlight"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Crumble to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek, Butcher of Truth"
+                }
+            ],
+            "notes": "This deck focuses on controlling the game through a combination of removal spells, powerful planeswalkers, and versatile creatures. The key strategy involves using cards like Solitude and Prismatic Ending to deal with threats, while generating value from cards like Omnath and Wrenn and Six. Leyline Binding helps to lock down opposing threats, while Delighted Halfling and The One Ring provide additional ways to control the board. The inclusion of Fable of the Mirror-Breaker and Boseiju, Who Endures offer additional ways to outvalue opponents and protect key spells. The mana base is built to support a variety of colors for maximum flexibility."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Francesco Paolo Gatta",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543096&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Roiling Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Demolition"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckless Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Memnite"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunbaked Canyon"
+                },
+                {
+                    "count": 4,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyrite Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Boil"
+                },
+                {
+                    "count": 2,
+                    "name": "Void Mirror"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The key concept of this Aggro - Red Deck Wins is to quickly and aggressively deal damage to the opponent before they have a chance to stabilize. It utilizes low-cost and efficient creatures like Memnite, Voldaren Epicure, and Goblin Bushwhacker to flood the board and overwhelm the opponent. The deck also includes various burn spells like Lightning Bolt and Roiling Vortex to keep the pressure up and prevent the opponent from gaining life or stabilizing. Additionally, it has disruptive elements like Blood Moon and Tormod's Crypt to hinder the opponent's strategies and slow them down. The deck aims to end the game as quickly as possible through high-speed aggression."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Agostino Carugno",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543099&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spreading Seas"
+                },
+                {
+                    "count": 2,
+                    "name": "Waterlogged Grove"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Lord of Atlantis"
+                },
+                {
+                    "count": 4,
+                    "name": "Master of the Pearl Trident"
+                },
+                {
+                    "count": 4,
+                    "name": "Merfolk Trickster"
+                },
+                {
+                    "count": 3,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 3,
+                    "name": "Silvergill Adept"
+                },
+                {
+                    "count": 4,
+                    "name": "Svyelun of Sea and Sky"
+                },
+                {
+                    "count": 4,
+                    "name": "Tide Shaper"
+                },
+                {
+                    "count": 4,
+                    "name": "Vodalian Hexcatcher"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Spreading Seas"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 6,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Tides"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistcaller"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                }
+            ],
+            "notes": "This deck seeks to quickly flood the board with powerful Merfolk creatures and disrupt the opponent's game plan using cards like Merfolk Trickster and Tide Shaper. By leveraging the tribal synergy of Lord of Atlantis and Master of the Pearl Trident, the deck aims to overwhelm the opponent with a combination of aggression and clever spells like Subtlety and Spell Pierce. The use of Aether Vial allows for efficient creature deployment, while cards like Spreading Seas and Vodalian Hexcatcher provide additional ways to disrupt the opponent's resources."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Massimo Berio",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543098&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Roiling Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunbaked Canyon"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 2,
+                    "name": "Sacred Foundry"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Deflecting Palm"
+                },
+                {
+                    "count": 1,
+                    "name": "Leyline of Sanctity"
+                },
+                {
+                    "count": 2,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Path to Exile"
+                },
+                {
+                    "count": 2,
+                    "name": "Wear/Tear"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek, Butcher of Truth"
+                }
+            ],
+            "notes": "This deck relies on fast, aggressive creatures and burn spells to quickly deal damage to the opponent and win the game as soon as possible. With creatures like Goblin Guide and Monastery Swiftspear, along with powerful burn spells like Lightning Bolt and Lava Spike, the deck aims to apply constant pressure and finish off the opponent before they have a chance to stabilize. Cards like Searing Blaze and Skullcrack help deal with opposing threats and prevent the opponent from gaining life, while Roiling Vortex disrupts their game plan and speeds up the clock."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Jurgen Curaj",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543101&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Deflecting Palm"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunbaked Canyon"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Boros Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Skullcrack"
+                },
+                {
+                    "count": 4,
+                    "name": "Roiling Vortex"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Deflecting Palm"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Exquisite Firecraft"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Kor Firewalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Eidolon of the Great Revel"
+                },
+                {
+                    "count": 4,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deal damage to the opponent by consistently playing aggressive creatures and burn spells. By utilizing low-cost cards such as Goblin Guide, Monastery Swiftspear, and a variety of burn spells like Lightning Bolt and Lava Spike, the deck aims to overwhelm the opponent before they can set up any defenses. The inclusion of cards like Deflecting Palm, Boros Charm, and Skullcrack also helps to disrupt the opponent's strategy and protect against potential threats. Overall, this deck is designed to apply continuous pressure and finish off the opponent swiftly."
+        },
+        {
+            "date": "2023-07-30",
+            "player": "Elia Mazzucchi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=46409&d=543100&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Sauron's Ransom"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Vantress"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Stone of Erech"
+                },
+                {
+                    "count": 2,
+                    "name": "Damnation"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Collective Brutality"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmoored Ego"
+                }
+            ],
+            "notes": "This deck focuses on utilizing powerful control elements and disruption spells to protect and enable the key card, The One Ring, which acts as a win condition. The deck aims to maintain board control and outvalue the opponent with efficient removal and countermagic, while also utilizing the card advantage provided by The One Ring to overpower the opponent in the late game. The inclusion of powerful creatures like Sheoldred, the Apocalypse and Murktide Regent serves as additional threats to pressure the opponent and provide alternate win conditions if needed."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

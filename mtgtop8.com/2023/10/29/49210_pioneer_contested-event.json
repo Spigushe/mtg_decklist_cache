@@ -1,0 +1,966 @@
+{
+    "tournament": {
+        "date": "2023-10-29",
+        "name": "Contested Event",
+        "url": "https://mtgtop8.com/event?e=49210",
+        "format": "Pioneer",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2023-10-29",
+            "player": "Yamashita Kenta",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562854&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 3,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Izzet Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 1,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 1,
+                    "name": "Otherworldly Gaze"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Iteration"
+                },
+                {
+                    "count": 1,
+                    "name": "Temporal Trespass"
+                },
+                {
+                    "count": 3,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 1,
+                    "name": "Strangle"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Botanical Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Saheeli, Sublime Artificer"
+                },
+                {
+                    "count": 2,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Brotherhood's End"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly and aggressively utilize Arclight Phoenix as a win condition. The deck includes several low-cost cards such as Ledger Shredder, Picklock Prankster, and Questing Druid to help generate spells and fill the graveyard for Phoenix's revival ability. The deck also includes a variety of instant and sorcery spells like Opt, Lightning Axe, and Treasure Cruise to control the board and maintain momentum. The mana base consists mostly of lands that produce both blue and red mana, allowing for flexibility in casting spells."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Kinoshita Taichi",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562855&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "The Akroan War"
+                },
+                {
+                    "count": 4,
+                    "name": "Esika's Chariot"
+                },
+                {
+                    "count": 4,
+                    "name": "The Huntsman's Redemption"
+                },
+                {
+                    "count": 1,
+                    "name": "Halana and Alena, Partners"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Cankerbloom"
+                },
+                {
+                    "count": 2,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Stormseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 2,
+                    "name": "Lair of the Hydra"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Rockfall Vale"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Klothys, God of Destiny"
+                },
+                {
+                    "count": 2,
+                    "name": "Cindervines"
+                },
+                {
+                    "count": 3,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "The Akroan War"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                }
+            ],
+            "notes": "This Gruul Aggro deck focuses on utilizing powerful creatures like Bonecrusher Giant and Lovestruck Beast, along with efficient ramp creatures like Llanowar Elves and Elvish Mystic, to quickly overwhelm the opponent with aggressive threats. The deck also utilizes cards like The Akroan War and Esika's Chariot to control the battlefield and provide additional value. With a focus on early aggression and efficient mana usage, this deck aims to maintain a strong board presence and apply pressure to the opponent to secure a quick victory."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Hannuki Yuuya",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562856&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 3,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Questing Beast"
+                },
+                {
+                    "count": 2,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Stormseeker"
+                },
+                {
+                    "count": 2,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 1,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 2,
+                    "name": "Embercleave"
+                },
+                {
+                    "count": 3,
+                    "name": "Esika's Chariot"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 3,
+                    "name": "The Akroan War"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 4,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Lair of the Hydra"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "The Akroan War"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Vivien, Champion of the Wilds"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Awakened Inferno"
+                },
+                {
+                    "count": 1,
+                    "name": "Fry"
+                },
+                {
+                    "count": 1,
+                    "name": "Ranger Class"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Thrun, Breaker of Silence"
+                }
+            ],
+            "notes": "The main focus of this Gruul Aggro deck is to overwhelm the opponent with fast and efficient creatures, backed up by powerful combat tricks and equipment. By utilizing mana dorks like Llanowar Elves and Elvish Mystic, the deck aims to accelerate into threats like Bonecrusher Giant, Lovestruck Beast, and Questing Beast. The inclusion of cards like Embercleave and The Akroan War provide additional damage and removal options, while Elder Gargaroth and Skysovereign, Consul Flagship offer strong late-game threats. The deck's mana base allows for consistent early plays and flexibility in casting its spells."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Shibuya Naoto",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562857&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Absorb"
+                },
+                {
+                    "count": 1,
+                    "name": "Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Fateful Absence"
+                },
+                {
+                    "count": 3,
+                    "name": "Memory Deluge"
+                },
+                {
+                    "count": 2,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 2,
+                    "name": "Make Disappear"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul Partition"
+                },
+                {
+                    "count": 1,
+                    "name": "Change the Equation"
+                },
+                {
+                    "count": 2,
+                    "name": "Quick Study"
+                },
+                {
+                    "count": 3,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Farewell"
+                },
+                {
+                    "count": 3,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 3,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 4,
+                    "name": "Irrigated Farmland"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Ardenvale"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Vantress"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 3,
+                    "name": "Deserted Beach"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Test of Talents"
+                },
+                {
+                    "count": 3,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner Bankbuster"
+                }
+            ],
+            "notes": "The deck focuses on disrupting the opponent's strategy through counterspells, removal, and card advantage, while also controlling the board with sweepers like Supreme Verdict. It aims to stabilize the game and gain control using powerful planeswalkers like Teferi, Hero of Dominaria and card draw spells like Memory Deluge. The deck also includes win conditions like Shark Typhoon and The Wandering Emperor to close out the game once it has taken control. The mana base is optimized for consistent access to both white and blue mana sources."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Saito Eiji",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562858&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Greasefang, Okiba Boss"
+                },
+                {
+                    "count": 3,
+                    "name": "Raffine, Scheming Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 3,
+                    "name": "Skrelv, Defector Mite"
+                },
+                {
+                    "count": 4,
+                    "name": "Rona, Herald of Invasion"
+                },
+                {
+                    "count": 2,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 4,
+                    "name": "Parhelion II"
+                },
+                {
+                    "count": 3,
+                    "name": "Esika's Chariot"
+                },
+                {
+                    "count": 4,
+                    "name": "Chart a Course"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Confluence"
+                },
+                {
+                    "count": 3,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 3,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Plaza of Heroes"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 2,
+                    "name": "Reidane, God of the Worthy"
+                },
+                {
+                    "count": 3,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 3,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Temporary Lockdown"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the Combo - Greasefang Parhelion archetype. The deck focuses on generating a powerful board presence by playing creatures like Greasefang, Okiba Boss and Raffine, Scheming Seer. It also includes support cards like Thalia, Guardian of Thraben and Sheoldred, the Apocalypse. The deck aims to control the game with cards like Thoughtseize and Chart a Course, while utilizing the Parhelion II and Skysovereign, Consul Flagship to deal damage. The mana base includes a mixture of lands that provide different colors of mana, allowing for flexibility in spell casting."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Kumashiro You",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562860&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Skysovereign, Consul Flagship"
+                },
+                {
+                    "count": 3,
+                    "name": "The Akroan War"
+                },
+                {
+                    "count": 4,
+                    "name": "The Huntsman's Redemption"
+                },
+                {
+                    "count": 4,
+                    "name": "Esika's Chariot"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 3,
+                    "name": "Lovestruck Beast"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Stormseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Bonecrusher Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Lair of the Hydra"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 3,
+                    "name": "Cragcrown Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Weathered Runestone"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Cindervines"
+                },
+                {
+                    "count": 1,
+                    "name": "Gruul Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Rending Volley"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "The Akroan War"
+                }
+            ],
+            "notes": "The deck focuses on playing aggressively with efficient creatures and high-powered spells to overwhelm the opponent quickly. It includes a companion card, Jegantha, the Wellspring, to provide additional flexibility and consistency. The deck also utilizes powerful cards like Skysovereign, Consul Flagship and The Akroan War to control the battlefield and maintain pressure. With a mix of creatures with haste, trample, and other relevant abilities, the Gruul Aggro deck aims to close out the game swiftly and decisively before the opponent can stabilize."
+        },
+        {
+            "date": "2023-10-29",
+            "player": "Kudou Yuuhi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49210&d=562859&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Izzet Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 2,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Make Disappear"
+                },
+                {
+                    "count": 1,
+                    "name": "Temporal Trespass"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Thing in the Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset's Reversal"
+                },
+                {
+                    "count": 3,
+                    "name": "Test of Talents"
+                },
+                {
+                    "count": 3,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 3,
+                    "name": "Lithomantic Barrage"
+                }
+            ],
+            "notes": "This deck is focused on an aggressive playstyle with the goal of quickly bringing out and utilizing Arclight Phoenix. The key concept revolves around using cards like Ledger Shredder, Picklock Prankster, and Fiery Impulse to generate value and deal damage while also filling the graveyard with spells. The deck includes a variety of card draw options like Opt, Consider, and Treasure Cruise to help dig for key pieces. It also features disruption with cards like Make Disappear and Lightning Axe. The mana base includes a mix of dual lands to ensure consistent access to both blue and red mana."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,985 @@
+{
+    "tournament": {
+        "date": "2023-10-01",
+        "name": "September League #2",
+        "url": "https://mtgtop8.com/event?e=48429",
+        "format": "Premodern",
+        "players": 52
+    },
+    "decks": [
+        {
+            "date": "2023-10-01",
+            "player": "Eindhoven",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556702&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Skycloud Expanse"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 3,
+                    "name": "Sindbad"
+                },
+                {
+                    "count": 3,
+                    "name": "Sphere of Law"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the \"Replenish\" card to combo off and overwhelm the opponent. By using cards like \"Frantic Search,\" \"Attunement,\" and \"Intuition,\" the player can quickly fill their graveyard with enchantments. Then, with \"Replenish,\" they can bring all these enchantments back onto the battlefield in one fell swoop. Additional cards like \"Opalescence,\" \"Parallax Tide,\" and \"Parallax Wave\" provide further options for control and disruption. The deck also includes a solid mix of removal spells and lands to support its combo strategy."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Modernmagicemporium",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556703&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 1,
+                    "name": "Claws of Gix"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 14,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Laboratory"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Blessing"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                }
+            ],
+            "notes": "This deck focuses on utilizing the combo between Stasis and various control spells. The goal is to establish Stasis on the board, which prevents opponents from untapping their permanents. To further disrupt their opponents, the deck includes cards like Black Vise, which deals damage based on opponent's hand size, and Claws of Gix, which can sacrifice artifacts. The deck also features a suite of counterspells and card draw spells to help maintain control and consistency. It includes a small white splash for cards like Swords to Plowshares and Enlightened Tutor."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Demian Vernieri",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556705&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Opposition"
+                },
+                {
+                    "count": 4,
+                    "name": "Natural Order"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 1,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Tradewind Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Force"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 3,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Monk Realist"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 2,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game and outlast the opponent using the Survival of the Fittest card to find the necessary creatures. The deck also utilizes Winter Orb and Opposition to create locks and disrupt the opponent's resources. The Caller of the Claw and Genesis provide recursion options while Gilded Drake and Phantom Nishoba offer powerful creatures to deal with threats. The deck aims to generate mana with cards like Birds of Paradise and Wall of Roots, and to create a strong board presence with creatures like Verdant Force and Deranged Hermit."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Carioca_falsi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556704&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Nimble Mongoose"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 4,
+                    "name": "Werebear"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 1,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 1,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                }
+            ],
+            "notes": "This deck focuses on quickly and aggressively building a strong board presence with creatures like Nimble Mongoose, Terravore, Weathered Wayfarer, and Werebear. It also includes cards like Mox Diamond and Sylvan Library to quickly ramp up mana and ensure consistent draws. The deck also has disruption elements with Swords to Plowshares and Naturalize to deal with opponent's threats. Additionally, it includes land destruction via Armageddon and utility lands like Wasteland and Tranquil Thicket. Overall, the key concept of this deck is to apply early pressure, disrupt opponents, and maintain a strong board presence."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Monstersystem",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556709&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Skycloud Expanse"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Short"
+                }
+            ],
+            "notes": "The deck focuses on quickly cycling through cards to find and set up a powerful combo involving Replenish and various enchantments that can either control the board or win the game outright. It aims to ramp up mana quickly using cards like Frantic Search and Attunement, while also disrupting the opponent's game plan with removal spells like Swords to Plowshares and Seal of Cleansing. Once the combo is assembled, it can create a powerful board presence or lock down the opponent's resources, ultimately leading to victory."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Davekaplan",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556708&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 3,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                }
+            ],
+            "notes": "The main concept of this deck is to combine the Meddling Mage and Phyrexian Dreadnought cards to create a powerful combo. The deck also focuses on disruption and control, using Counterspell, Foil, Stifle, and Gush to stop the opponent's plays. Vision Charm, Daze, Opt, and Impulse help with card draw and selection. Swords to Plowshares provides removal. Portent is used for card manipulation. The deck consists mainly of Islands, with a few Adarkar Wastes and Flooded Strands for mana fixing and Plains for additional resource."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Phil3579",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556706&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Rager"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 4,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 2,
+                    "name": "Infest"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                }
+            ],
+            "notes": "The key concept of this deck is to use control elements to disrupt the opponent's game plan while generating card advantage and incremental value. It aims to maintain board control through the use of removal spells like Chainer's Edict and Pernicious Deed, while also utilizing discard spells such as Duress and Cabal Therapy to disrupt the opponent's hand and graveyard. The deck also focuses on generating card advantage through cards like Phyrexian Arena and Recurring Nightmare. Additionally, it utilizes mana acceleration with Birds of Paradise and Yavimaya Elder to ramp into powerful threats like Deranged Hermit and Ravenous Baloth."
+        },
+        {
+            "date": "2023-10-01",
+            "player": "Umeboshi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48429&d=556707&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Welder"
+                },
+                {
+                    "count": 3,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 2,
+                    "name": "Basking Rootwalla"
+                },
+                {
+                    "count": 2,
+                    "name": "Shield Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Triskelion"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger"
+                },
+                {
+                    "count": 1,
+                    "name": "Bottle Gnomes"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Vigilante"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Colossus"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya Granger"
+                },
+                {
+                    "count": 4,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 3,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Cradle"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 4,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodfire Dwarf"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 1,
+                    "name": "Druid Lyrist"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": "The main concept of this deck is to use control and survival strategies to maintain board control and outlast the opponent. The deck features various creatures that can be sacrificed or retrieved from the graveyard to maintain advantage, such as Goblin Welder, Basking Rootwalla, and Triskelion. It also includes cards like Tangle Wire and Tsabo's Web to disrupt the opponent's board state. The deck aims to control the game through card advantage and efficient creature management, utilizing the powerful land Gaea's Cradle to ramp up resources."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

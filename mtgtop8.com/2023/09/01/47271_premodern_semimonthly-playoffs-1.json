@@ -1,0 +1,933 @@
+{
+    "tournament": {
+        "date": "2023-09-01",
+        "name": "Semimonthly Playoffs #1",
+        "url": "https://mtgtop8.com/event?e=47271",
+        "format": "Premodern",
+        "players": 16
+    },
+    "decks": [
+        {
+            "date": "2023-09-01",
+            "player": "Tom Metelsky",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549261&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 3,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 8,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mossfire Valley"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly overwhelm the opponent with a swarm of aggressive goblins. It focuses on utilizing efficient creatures such as Goblin Lackey, Goblin Matron, Goblin Piledriver, Goblin Ringleader, and Goblin Warchief to both deal damage and generate card advantage. Supporting cards like Mogg Fanatic and Siege-Gang Commander provide additional firepower and utility. The inclusion of Skirk Prospector allows for mana acceleration and Gempalm Incinerator offers a way to deal with opposing creatures. The deck also includes some disruption with Naturalize to handle opposing artifacts and enchantments. The land base is designed to provide a balanced mix of colored mana sources."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Lanny Huang",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549262&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 2,
+                    "name": "Careful Study"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 2,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Skycloud Expanse"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Abeyance"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Short"
+                }
+            ],
+            "notes": "The deck focuses on quickly filling up the graveyard with enchantments using cards like Frantic Search and Careful Study, and then using Replenish to bring them all back onto the battlefield at once. The key combo involves cards like Opalescence, Parallax Tide, and Parallax Wave to create a loop that either locks down the opponent's board or sets up a lethal attack. The deck aims to win the game through this powerful synergy and overwhelming advantage in board presence."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Ubichee",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549264&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarcomancy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Power Matrix"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 4,
+                    "name": "Drinker of Sorrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 4,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 18,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Plague Spitter"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively play low-cost creatures and spells to put pressure on the opponent and win the game swiftly. With cards like Dark Ritual to accelerate mana and creatures like Phyrexian Negator and Drinker of Sorrow to deal damage quickly, the Mono Black Aggro deck aims to overwhelm the opponent before they have a chance to stabilize. The inclusion of disruption spells like Duress and removal like Smother allows the deck to disrupt the opponent's game plan while continuing to apply pressure."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Thursdayisgod",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549263&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 1,
+                    "name": "Interdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 1,
+                    "name": "Propaganda"
+                },
+                {
+                    "count": 19,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Wall of Tears"
+                },
+                {
+                    "count": 3,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Upheaval"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Bribery"
+                },
+                {
+                    "count": 1,
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi's Response"
+                }
+            ],
+            "notes": "This deck focuses on creating a lockout situation for the opponent by utilizing the Stasis card along with various bounce and counter spells to keep the opponent from untapping their permanents. The goal is to stall the opponent's game plan while slowly chipping away at their life total with cards like Black Vise. By denying the opponent the ability to untap their resources, the deck aims to control the pace of the game and ultimately win through attrition."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Finiks",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549266&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Cunning Wish"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 2,
+                    "name": "Decree of Justice"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 3,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Standstill"
+                },
+                {
+                    "count": 1,
+                    "name": "Humility"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 1,
+                    "name": "Wrath of God"
+                },
+                {
+                    "count": 1,
+                    "name": "Humility"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                }
+            ],
+            "notes": "The main strategy of this deck is to control the game by using counterspells and removal spells to deal with opponent's threats. It also focuses on resource denial through cards like Wasteland and Dust Bowl to disrupt opponent's mana base. The deck aims to stall the game with cards like Standstill and Parallax Tide until it can establish a strong board presence with creatures like Mishra's Factory and win conditions like Decree of Justice or Humility. The deck also has versatile options with cards like Cunning Wish and Fact or Fiction for additional flexibility."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Steracodponorky",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549268&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                },
+                {
+                    "count": 2,
+                    "name": "Ivory Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 1,
+                    "name": "Foil"
+                },
+                {
+                    "count": 1,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 3,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 1,
+                    "name": "Propaganda"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The deck focuses on creating a lock by continuously tapping opponent's lands using Stasis and preventing them from untapping with Forsaken City. It aims to control the opponent's resources through countermagic and bounce spells while winning with damage from Black Vise or gaining life with Ivory Tower. The deck aims to stall the game until the opponent runs out of resources or life points, establishing a dominating board state and forcing the opponent into a difficult position."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Bobofraggles",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549265&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Nimble Mongoose"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 4,
+                    "name": "Werebear"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Safekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulch"
+                },
+                {
+                    "count": 3,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 3,
+                    "name": "Tranquil Thicket"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Kor Haven"
+                },
+                {
+                    "count": 1,
+                    "name": "Nantuko Monastery"
+                },
+                {
+                    "count": 1,
+                    "name": "Riftstone Portal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cataclysm"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 1,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Zuran Orb"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly establish a board presence through aggressive creatures like Nimble Mongoose and Werebear, while also utilizing land destruction with cards like Terravore and Armageddon. The deck aims to disrupt the opponent's mana base with Wasteland and Dust Bowl, while also generating value through cards like Weathered Wayfarer and Call of the Herd. The overall strategy is to apply pressure early in the game with an aggressive aggro strategy and disrupt the opponent's resources to secure a win."
+        },
+        {
+            "date": "2023-09-01",
+            "player": "Phil3579",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=47271&d=549267&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 3,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Rager"
+                },
+                {
+                    "count": 1,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Infest"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 2,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 2,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using a combination of efficient creatures like Deranged Hermit and Ravenous Baloth, along with disruption spells like Cabal Therapy and Duress. The deck also utilizes powerful removal in the form of Pernicious Deed and Chainer's Edict to keep the opponent's threats in check. The inclusion of Recurring Nightmare allows for recurring creature value. The mana base is designed to consistently hit the necessary colors while also providing utility lands like Treetop Village and Dust Bowl."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,962 @@
+{
+    "tournament": {
+        "date": "2023-10-07",
+        "name": "Magic 30th Aniversary Special Cup",
+        "url": "https://mtgtop8.com/event?e=48566",
+        "format": "Legacy",
+        "players": 32
+    },
+    "decks": [
+        {
+            "date": "2023-10-07",
+            "player": "Fujii Kento",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557776&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 3,
+                    "name": "Mogg War Marshal"
+                },
+                {
+                    "count": 1,
+                    "name": "Pashalik Mons"
+                },
+                {
+                    "count": 4,
+                    "name": "Muxus, Goblin Grandee"
+                },
+                {
+                    "count": 3,
+                    "name": "Battle Cry Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Frenzied Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 2,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Stingscourger"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Trashmaster"
+                }
+            ],
+            "notes": "The main concept of this deck is to overwhelm the opponent with a fast and aggressive Goblin tribe. The goal is to flood the board with low-cost Goblins and utilize cards like Goblin Lackey and Goblin Matron to quickly bring out high-impact creatures like Goblin Ringleader and Muxus, Goblin Grandee. Cards like Goblin Warchief and Battle Cry Goblin provide additional power and haste to the Goblins. The deck also includes acceleration with Simian Spirit Guide and Skirk Prospector. Additionally, Chrome Mox and Shatterskull Smashing provide additional mana sources and removal options."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Nagata Atsushi",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557777&f=LE",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Narcomoeba"
+                },
+                {
+                    "count": 3,
+                    "name": "Nomads en-Kor"
+                },
+                {
+                    "count": 4,
+                    "name": "Cephalid Illusionist"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 1,
+                    "name": "Shuko"
+                },
+                {
+                    "count": 1,
+                    "name": "Retrofitter Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Staff of the Storyteller"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 2,
+                    "name": "Step Through"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 2,
+                    "name": "Triumph of Saint Katherine"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran of the Third Path"
+                }
+            ],
+            "notes": "This Legacy 1 vs 1 deck utilizes the Cephalid Breakfast combo. The main objective is to quickly fill the graveyard with Narcomoebas, then use Nomads en-Kor and Cephalid Illusionist's abilities to mill the library and win the game with Thassa's Oracle or Dread Return. The deck also includes disruption elements like Force of Will and Cabal Therapy to control the game. It utilizes powerful cantrips like Brainstorm and Ponder to dig through the deck. The deck is supported by lands like Urza's Saga and Cavern of Souls to provide additional utility and protection."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Yazu Yoshiki",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557779&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 2,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 3,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 3,
+                    "name": "Kappa Cannoneer"
+                },
+                {
+                    "count": 3,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                }
+            ],
+            "notes": "The deck revolves around using artifacts and blue cards to quickly overwhelm the opponent with aggressive plays. By utilizing cards like Chalice of the Void and Force of Will to disrupt the opponent's strategy, as well as powerful artifact creatures like Emry, Lurker of the Loch and Sai, Master Thopterist to create a strong board presence. The mana base is optimized for quick deployment of threats, with Urza's Saga providing additional utility and synergy with artifact themes. The deck aims to control the game tempo and win through a combination of aggression and disruption."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Kato Naoya",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557781&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Cavern Harpy"
+                },
+                {
+                    "count": 3,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 2,
+                    "name": "Leovold, Emissary of Trest"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice-Fang Coatl"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Acererak the Archlich"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Channeler"
+                },
+                {
+                    "count": 3,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrupt Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 3,
+                    "name": "Aluren"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Bayou"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Energy Flux"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Seeds of Innocence"
+                },
+                {
+                    "count": 2,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the Aluren enchantment to cast creatures with a converted mana cost of 3 or less for free. This allows for a powerful combo where multiple creatures can be played in a single turn, generating card advantage and overwhelming the opponent. The deck includes various creatures with beneficial abilities such as Cavern Harpy, Baleful Strix, and Leovold, Emissary of Trest. Additionally, the deck includes some control elements with Force of Will and Brainstorm, as well as removal options like Abrupt Decay and Fatal Push."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Yoshimura Wataru",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557784&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 1,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Opposition Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
+                    "name": "Extraction Specialist"
+                },
+                {
+                    "count": 1,
+                    "name": "Serra Paragon"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran of the Third Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 1,
+                    "name": "Batterskull"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 6,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Serenity"
+                },
+                {
+                    "count": 1,
+                    "name": "Sword of Light and Shadow"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Council's Judgment"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Kataki, War's Wage"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 2,
+                    "name": "The Battle of Bywater"
+                }
+            ],
+            "notes": "The main concept of this Death &amp; Taxes deck is to create a disruptive and aggressive playstyle by utilizing cards that hinder the opponent's resources while efficiently deploying threats. By using cards like Thalia, Guardian of Thraben and Skyclave Apparition to disrupt the opponent's game plan, along with efficient creatures like Stoneforge Mystic and Solitude to apply pressure, this deck aims to control the game and outvalue the opponent. Additionally, the inclusion of Aether Vial allows for quick deployment of creatures, further increasing the deck's tempo and aggression."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Suezawa Takumi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557780&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 2,
+                    "name": "Legion Warboss"
+                },
+                {
+                    "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 4,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 3,
+                    "name": "Dead/Gone"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Confluence"
+                }
+            ],
+            "notes": "The key concept of this Legacy 1v1 Aggro - Dragon Stompy deck is to disrupt the opponent's mana base and slow down their game plan using cards like Magus of the Moon, Blood Moon, and Trinisphere. It aims to rapidly deploy threats through Goblin Rabblemaster, Legion Warboss, and Fury to close out the game quickly. The deck also utilizes acceleration with Simian Spirit Guide and Chrome Mox to quickly establish a dominant board presence. The deck is designed to take advantage of non-basic lands and punish opponents who rely on specific colors of mana."
+        },
+        {
+            "date": "2023-10-07",
+            "player": "Tuboi Toshiki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=48566&d=557787&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 2,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 4,
+                    "name": "Seasoned Dungeoneer"
+                },
+                {
+                    "count": 4,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 3,
+                    "name": "Forth Eorlingas!"
+                },
+                {
+                    "count": 2,
+                    "name": "Touch the Spirit Realm"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Kataki, War's Wage"
+                },
+                {
+                    "count": 3,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                }
+            ],
+            "notes": "This deck focuses on fast and aggressive gameplay, aiming to have the upper hand from the start. It relies on playing powerful creatures like Archon of Emeria and Solitude, while using cards like Simian Spirit Guide and Chrome Mox to generate mana quickly. Chalice of the Void helps disrupt opponents' strategies, while Anointed Peacekeeper provides additional defense. The deck also includes card draw with Seasoned Dungeoneer and Fable of the Mirror-Breaker. It uses a mix of lands, including Cavern of Souls and City of Traitors, to ensure efficient mana production. The overall strategy is to overwhelm opponents with an early advantage."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

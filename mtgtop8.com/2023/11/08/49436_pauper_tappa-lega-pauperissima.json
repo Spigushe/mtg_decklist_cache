@@ -1,0 +1,833 @@
+{
+    "tournament": {
+        "date": "2023-11-08",
+        "name": "Tappa Lega Pauperissima",
+        "url": "https://mtgtop8.com/event?e=49436",
+        "format": "Pauper",
+        "players": 26
+    },
+    "decks": [
+        {
+            "date": "2023-11-08",
+            "player": "Andrea Legnani",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564585&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Dwarven Forge-Chanter"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Shattering Blow"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively attack the opponent using low-cost creatures and burn spells. The deck utilizes cheap creatures like Monastery Swiftspear and Voldaren Epicure to deal early damage, while also using burn spells like Lightning Bolt and Galvanic Blast to deal direct damage to the opponent's life total. The deck also includes cards like Implement of Combustion and Dwarven Forge-Chanter to generate additional damage and value. Overall, the strategy revolves around being fast, impactful, and overwhelming to quickly defeat the opponent."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Zon",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564586&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Crawl from the Cellar"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 2,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 3,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by manipulating the opponent's spells and cards while slowly building card advantage. It utilizes cards like Counterspell, Spell Pierce, and Snuff Out to prevent the opponent from resolving key spells. Additionally, it has cards like Brainstorm, Thought Scour, and Deep Analysis to cycle through the deck and find the necessary answers. The deck also incorporates a small threat package with cards like Gurmag Angler and Murmuring Mystic to apply pressure on the opponent. The choice of lands, such as Ice Tunnel and Contaminated Aquifer, also support the control strategy."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Remo Briaschi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564587&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 3,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 3,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 3,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 3,
+                    "name": "Ghitu Lavarunner"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Fireblast"
+                }
+            ],
+            "notes": "The main focus of this deck is to rapidly deal damage to the opponent in order to win the game quickly. It relies on low-cost burn spells like Fireblast, Lava Spike, and Lightning Bolt to deal direct damage. It also includes creatures like Monastery Swiftspear, Kessig Flamebreather, and Ghitu Lavarunner that can attack and deal damage efficiently. The deck aims to maximize its damage output by including cards like Reckless Impulse and Rift Bolt. It utilizes Experimental Synthesizer to generate additional mana for casting burn spells and maintaining a constant offensive presence."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Cr3mosky",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564588&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Rift Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 16,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Forgotten Cave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Searing Blaze"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Rain"
+                },
+                {
+                    "count": 1,
+                    "name": "Keldon Marauders"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deal damage to the opponent using a combination of efficient creature attacks and burn spells. By aggressively attacking with creatures like Monastery Swiftspear and Voldaren Epicure, as well as consistently casting burn spells like Lightning Bolt and Lava Spike, the goal is to reduce the opponent's life total as quickly as possible. The deck has a low mana curve and prioritizes speed and direct damage over control or defense."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Giacomo Donati",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564591&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Blacksmith's Skill"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Turn Aside"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying cheap artifact creatures and boosting them with equipment and enchantments to overwhelm the opponent with a fast and aggressive strategy. The key is to have a high density of artifact creatures to take advantage of affinity effects and synergies with cards like Springleaf Drum and Blacksmith's Skill. By efficiently using resources and quickly building a threatening board presence, the deck aims to pressure the opponent and finish the game before they have a chance to stabilize."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Andrea Calvaresi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564592&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 2,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Improvised Club"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrenn's Resolve"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Spike"
+                },
+                {
+                    "count": 2,
+                    "name": "Rally at the Hornburg"
+                },
+                {
+                    "count": 4,
+                    "name": "Skewer the Critics"
+                },
+                {
+                    "count": 3,
+                    "name": "Curse of the Pierced Heart"
+                },
+                {
+                    "count": 18,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Raze"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Dust"
+                }
+            ],
+            "notes": "The main focus of this Pauper 1 vs 1 Aggro-Burn deck is to quickly deal damage to the opponent through aggressive creatures and direct burn spells. Cards like Monastery Swiftspear, Lightning Bolt, and Lava Spike are used to chip away at the opponent's life total, while Reckless Impulse and Rally at the Hornburg help to maintain card advantage. With a low mana curve and a variety of burn spells, this deck aims to overwhelm the opponent with fast and consistent damage in order to secure a quick victory."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Daniele Mariani",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564590&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 2,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 13,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 3,
+                    "name": "Deglamer"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game through removal spells and board wipes while generating card advantage through card draw and graveyard recursion. It aims to outvalue the opponent by consistently removing their threats and maintaining a higher card count. The deck utilizes Golgari colors to have access to strong removal spells like Snuff Out, Spinning Darkness, and Chainer's Edict. It also includes cards like Lembas and Deadly Dispute to generate additional card advantage. The deck incorporates a small graveyard theme with cards like Blood Fountain and Ichor Wellspring."
+        },
+        {
+            "date": "2023-11-08",
+            "player": "Lorenzo Bergamini",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=49436&d=564589&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tribe"
+                },
+                {
+                    "count": 4,
+                    "name": "Wedding Invitation"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Dizzy Spell"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Inside Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran's Escape"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadow Rift"
+                },
+                {
+                    "count": 2,
+                    "name": "Whiteout"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 8,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Terramorphic Expanse"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran's Escape"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gigadrowse"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                }
+            ],
+            "notes": "The key concept of this deck is to utilize the Tireless Tribe combo. By using cards like Inside Out and Lórien Revealed, you can pump up the Tireless Tribe's toughness to make it nearly invulnerable. Wedding Invitation helps create a constant stream of card draw, while Brainstorm, Circular Logic, and Dispel offer protection and control. With cards like Ponder and Preordain, you can ensure consistent card selection and flow. The deck also includes various spells like Dizzy Spell and Impulse for additional utility. The deck's mana base includes snow-covered lands and Ash Barrens for flexibility and consistency."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

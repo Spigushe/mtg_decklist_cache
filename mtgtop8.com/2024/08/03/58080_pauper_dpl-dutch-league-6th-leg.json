@@ -1,0 +1,845 @@
+{
+    "tournament": {
+        "date": "2024-08-03",
+        "name": "DPL - Dutch League - 6th Leg",
+        "url": "https://mtgtop8.com/event?e=58080",
+        "format": "Pauper",
+        "players": 35
+    },
+    "decks": [
+        {
+            "date": "2024-08-03",
+            "player": "Nicolas Komanski",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634075&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckless Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 4,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with aggressive creatures and burn spells. By utilizing cheap, efficient spells like Chain Lightning and Lightning Bolt, along with creatures like Goblin Bushwhacker and Goblin Blast-Runner, the deck aims to deal damage rapidly and efficiently. The inclusion of cards like Kuldotha Rebirth and Goblin Grenade allows for additional burst damage when needed. Overall, the strategy revolves around maintaining pressure on the opponent and finishing the game before they have a chance to stabilize."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Gianvito Taneburgo",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634076&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 4,
+                    "name": "Ashnod's Altar"
+                },
+                {
+                    "count": 4,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 4,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 3,
+                    "name": "Conduit Pylons"
+                },
+                {
+                    "count": 3,
+                    "name": "Energy Refractor"
+                },
+                {
+                    "count": 3,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Golem Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Molten Gatekeeper"
+                },
+                {
+                    "count": 2,
+                    "name": "Myr Kinsmith"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Retriever"
+                },
+                {
+                    "count": 1,
+                    "name": "Slippery Karst"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 2,
+                    "name": "Gigadrowse"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirrorshell Crab"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by assembling Urza Tron (Urza's Mine, Urza's Power Plant, Urza's Tower) to generate a large amount of mana. The deck utilizes various cards like Ancient Stirrings and Expedition Map to search for the Tron lands and Candy Trail to ramp up mana production. It also includes cards like Ashnod's Altar and Malevolent Rumble for board control and Myr creatures like Myr Retriever and Myr Kinsmith to support the strategy. Overall, the deck aims to overwhelm the opponent with powerful spells and creatures while maintaining control of the game."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Robbert",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634078&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Abundant Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Mask"
+                },
+                {
+                    "count": 4,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 1,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gladecover Scout"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 1,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheltering Landscape"
+                },
+                {
+                    "count": 4,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura Gnarlid"
+                },
+                {
+                    "count": 3,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifelink"
+                },
+                {
+                    "count": 3,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Tamiyo's Safekeeping"
+                },
+                {
+                    "count": 2,
+                    "name": "Thraben Charm"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with a strong board presence by suiting up small creatures with powerful Auras like Ancestral Mask, Armadillo Cloak, and Ethereal Armor. The strategy involves ramping up mana with cards like Utopia Sprawl and Abundant Growth to get the creatures out early and protect them with cards like Sheltering Landscape and Slippery Bogle. Malevolent Rumble also provides a way to deal with opposing creatures while Rancor and Sentinel's Eyes help maintain card advantage and resilience."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Floris Heins",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634077&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Avacyn's Pilgrim"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 2,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 3,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Secret Door"
+                },
+                {
+                    "count": 3,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Third Path Savant"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 1,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardian Naga"
+                },
+                {
+                    "count": 3,
+                    "name": "Mirrorshell Crab"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Tamiyo's Safekeeping"
+                }
+            ],
+            "notes": "This deck utilizes walls with defender abilities to generate mana and create a combo that allows for infinite mana. By using cards like Axebane Guardian and Overgrown Battlement to produce large amounts of mana, players can then use Freed from the Real or Galvanic Alchemist to untap their creatures and generate even more mana. The combo can be further supported with cards like Avacyn's Pilgrim and Fyndhorn Elves to accelerate the process. The ultimate goal is to overwhelm opponents with a massive Valakut Invoker or Reaping the Graves for a game-winning finish."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Max Roovers",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634079&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Greatsword of Tyr"
+                },
+                {
+                    "count": 2,
+                    "name": "Rally the Peasants"
+                },
+                {
+                    "count": 3,
+                    "name": "Thrilling Discovery"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 3,
+                    "name": "Perilous Landscape"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 8,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                }
+            ],
+            "notes": "The main focus of this Boros Aggro deck is to overwhelm the opponent with a combination of aggressive creatures and combat tricks. By quickly putting pressure on the opponent with efficient creatures like Thraben Inspector and Battle Screech, and utilizing burn spells like Lightning Bolt, the deck aims to control the board and reduce the opponent's life total as quickly as possible. The deck also includes cards like Prismatic Strands and Rally the Peasants to protect its creatures and further increase its damage output."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Mark Coehoorn",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634080&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Annoyed Altisaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Boarding Party"
+                },
+                {
+                    "count": 3,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 1,
+                    "name": "Highland Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 4,
+                    "name": "Mwonvuli Acid-Moss"
+                },
+                {
+                    "count": 16,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 3,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": "The deck revolves around quickly ramping up mana with cards like Arbor Elf, Utopia Sprawl, and Wild Growth to quickly cast efficient threats like Annoyed Altisaur and Avenging Hunter. It aims to overwhelm the opponent with aggressive creatures and disruptive spells like Mwonvuli Acid-Moss and Thermokarst to disrupt their mana base. The deck's strategy is to apply constant pressure and control the game through mana denial and efficient creature combat, ultimately leading to a fast and decisive victory."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Tim Bunnik",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634082&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 3,
+                    "name": "Demand Answers"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Highway Robbery"
+                },
+                {
+                    "count": 4,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Contaminated Ground"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Tectonic Hazard"
+                },
+                {
+                    "count": 2,
+                    "name": "Trespasser's Curse"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly and aggressively deal damage to the opponent using a combination of burn spells, aggressive creatures, and life-drain effects. By utilizing efficient removal spells like Lightning Bolt and Fiery Temper, along with creatures like Sneaky Snacker and Voldaren Epicure, the deck aims to apply continuous pressure to the opponent while also gaining life through cards like Alms of the Vein and Vampire's Kiss. The inclusion of Drossforge Bridge and Vault of Whispers helps to ensure consistent mana production and enable powerful synergies within the deck."
+        },
+        {
+            "date": "2024-08-03",
+            "player": "Raymond Anderson",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=58080&d=634081&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 3,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 17,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 1,
+                    "name": "Recommission"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 3,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with a swarm of low-cost, efficient creatures that can quickly build up a strong board presence. By utilizing cards that generate multiple creature tokens, such as Battle Screech and Guardians' Pledge, along with support cards like Idyllic Grange and Lunarch Veteran, this deck can quickly flood the battlefield and apply pressure to the opponent. Additionally, cards like Militia Bugler and Raffine's Informant provide card advantage and help maintain the deck's momentum, while removal spells like Prismatic Strands and Thraben Charm offer protection and disruption."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

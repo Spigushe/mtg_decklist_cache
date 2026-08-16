@@ -1,0 +1,805 @@
+{
+    "tournament": {
+        "date": "2024-10-02",
+        "name": "Fuguete League 193",
+        "url": "https://mtgtop8.com/event?e=60110",
+        "format": "Pauper",
+        "players": 43
+    },
+    "decks": [
+        {
+            "date": "2024-10-02",
+            "player": "Michelbiro",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650873&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 3,
+                    "name": "Snap"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 3,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 2,
+                    "name": "Perilous Landscape"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 2,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                }
+            ],
+            "notes": "The deck focuses on using flicker effects to abuse enter-the-battlefield triggers and generate value through card draw and life gain. By repeatedly blinking creatures like Mulldrifter and God-Pharaoh's Faithful with cards like Ephemerate and Ghostly Flicker, the deck aims to outvalue opponents and control the board. With a mix of creature recursion and countermagic, the deck can adapt to different matchups and grind out wins through incremental advantage. The deck also utilizes efficient mana ramp and fixing with cards like Sunscape Familiar and Azorius Chancery to ensure consistent performance."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Ravisor",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650874&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Benevolent Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 4,
+                    "name": "Deftblade Elite"
+                },
+                {
+                    "count": 4,
+                    "name": "Lagonna-Band Trailblazer"
+                },
+                {
+                    "count": 2,
+                    "name": "Akroan Skyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Besotted Knight"
+                },
+                {
+                    "count": 3,
+                    "name": "Stave Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Hyena Umbra"
+                },
+                {
+                    "count": 4,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 4,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 3,
+                    "name": "Benevolent Blessing"
+                },
+                {
+                    "count": 16,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Spirit Link"
+                },
+                {
+                    "count": 4,
+                    "name": "Fragmentize"
+                },
+                {
+                    "count": 3,
+                    "name": "Beckon Apparition"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                }
+            ],
+            "notes": "This deck focuses on fast, aggressive creatures with low casting costs, aiming to swarm the opponent with a barrage of small but powerful creatures. By buffing these creatures with various enchantments and protection spells, the deck aims to quickly overwhelm the opponent before they have a chance to establish their own board presence. The strategy relies on the synergy between low-cost creatures and enchantments to create a formidable force that can quickly take down the opponent's life total."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Davidbrito",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650876&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 2,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Raze"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The main idea of this deck is to overwhelm the opponent with a fast and aggressive strategy, using low-cost creatures to deal damage quickly. The deck focuses on utilizing goblins and burn spells like Galvanic Blast, Lightning Bolt, and Fireblast to control the board and finish off the opponent before they can stabilize. The inclusion of cards like Kuldotha Rebirth and Goblin Grenade allows for additional reach and reach, making it difficult for opponents to recover once the deck gains momentum. The goal is to maintain a high level of pressure and aggression throughout the game to secure a swift victory."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Guimamogi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650875&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Village Rites"
+                },
+                {
+                    "count": 3,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 3,
+                    "name": "Sovereign's Bite"
+                },
+                {
+                    "count": 3,
+                    "name": "Bump in the Night"
+                },
+                {
+                    "count": 4,
+                    "name": "Okiba Reckoner Raid"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Tyrant's Choice"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 4,
+                    "name": "Serrated Scorpion"
+                },
+                {
+                    "count": 2,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 11,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Geth's Verdict"
+                },
+                {
+                    "count": 3,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 4,
+                    "name": "Trespasser's Curse"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "This Mono Black Aggro deck is focused on dealing direct damage to the opponent while maintaining a strong board presence with cheap creatures and sacrificing outlets. The deck includes various cards that can drain the opponent's life total, along with creature removal options. The synergy between cards like Cauldron Familiar and Lembas allows for repeated damage to be dealt to the opponent. The deck aims to apply early pressure and close out the game quickly with a combination of direct damage and creature attacks."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Kakotibs_pato",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650877&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Raze"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The main focus of this deck is to consistently and aggressively deal damage to the opponent, using a combination of low-cost creatures and burn spells. By quickly overwhelming the opponent with creatures like Goblin Bushwhacker and Goblin Blast-Runner, while also having access to direct damage spells like Lightning Bolt and Galvanic Blast, the deck aims to win the game swiftly. The inclusion of cards like Kuldotha Rebirth and Implement of Combustion support this aggressive strategy by providing additional sources of damage. Overall, the deck is centered around fast-paced aggression and efficient damage dealing."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Mideagames",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650880&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Pestilence"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Retrofitted Transmogrant"
+                },
+                {
+                    "count": 2,
+                    "name": "Cauldron Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 15,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Moment of Craving"
+                },
+                {
+                    "count": 1,
+                    "name": "Corrupt"
+                },
+                {
+                    "count": 3,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Campfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the board through removal spells and creatures with abilities that can clear the opponent's board. It also includes cards that can generate card advantage and provide incremental life gain. The deck aims to outvalue the opponent by constantly generating card advantage and maintaining control of the battlefield while chipping away at the opponent's life total. The inclusion of cards like Nihil Spellbomb and Toxin Analysis shows a focus on disrupting the opponent's graveyard strategies, while cards like Crypt Rats and Pestilence provide repeatable board wipes."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Bolaxa",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650878&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 4,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 2,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 18,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "The main focus of this deck is to swarm the battlefield with low-cost, efficient white creatures in order to overwhelm the opponent quickly. The deck includes cards that generate additional tokens, buff creatures, and protect them from removal. By consistently putting pressure on the opponent and maintaining a board presence, the deck aims to win the game through a combination of aggression and resilience."
+        },
+        {
+            "date": "2024-10-02",
+            "player": "Cecilmonk",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60110&d=650879&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 2,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 18,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 3,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "The deck is focused on using low-cost creatures to overwhelm the opponent quickly. By playing a combination of efficient creatures like Novice Inspector and Thraben Inspector, alongside Anthem effects like Guardians' Pledge, the deck aims to flood the board with small creatures and then buff them to create a powerful offensive force. Prismatic Strands provides protection against removal spells, while cards like Militia Bugler help maintain card advantage. The goal is to apply early pressure and maintain a steady stream of threats to wear down the opponent's defenses."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

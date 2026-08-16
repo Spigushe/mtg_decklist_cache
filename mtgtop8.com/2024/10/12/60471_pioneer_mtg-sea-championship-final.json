@@ -1,0 +1,4529 @@
+{
+    "tournament": {
+        "date": "2024-10-12",
+        "name": "MTG SEA Championship Final",
+        "url": "https://mtgtop8.com/event?e=60471",
+        "format": "Pioneer",
+        "players": 116
+    },
+    "decks": [
+        {
+            "date": "2024-10-12",
+            "player": "Venom1",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654150&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 3,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 1,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 4,
+                    "name": "Titan's Strength"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 2,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 3,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Swarm"
+                }
+            ],
+            "notes": "This Rakdos Aggro deck focuses on aggressive creatures and burn spells to deal fast and consistent damage to the opponent. The key strategy is to quickly build a board presence with efficient creatures like Monastery Swiftspear and Heartfire Hero, while using spells like Titan's Strength and Monstrous Rage to pump up their damage output. With the help of Jegantha, the Wellspring as a companion, the deck aims to overwhelm the opponent before they have a chance to stabilize, often closing out games in the early turns."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Justin Chin",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654151&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 1,
+                    "name": "Heliod, the Radiant Dawn"
+                },
+                {
+                    "count": 1,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 1,
+                    "name": "Overlord of the Boilerbilges"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Titan of Industry"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctuary Warden"
+                },
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 1,
+                    "name": "Abhorrent Oculus"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 2,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Helix"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Enigmatic Incarnation"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Nylea's Presence"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace/Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 2,
+                    "name": "Chained to the Rocks"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 2,
+                    "name": "Jetmir's Garden"
+                },
+                {
+                    "count": 3,
+                    "name": "Ketria Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 2,
+                    "name": "Spara's Headquarters"
+                },
+                {
+                    "count": 4,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 2,
+                    "name": "Thornspire Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 1,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Awakened Inferno"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 3,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 1,
+                    "name": "Ruric Thar, the Unbowed"
+                },
+                {
+                    "count": 1,
+                    "name": "Krenko's Buzzcrusher"
+                },
+                {
+                    "count": 1,
+                    "name": "March of Otherworldly Light"
+                }
+            ],
+            "notes": "The deck focuses on utilizing Enigmatic Incarnation to constantly tutor for powerful creature threats and disruptive enchantments to control the board. By manipulating the creature enchantment ratio and utilizing powerful creatures like Atraxa, Grand Unifier and Elesh Norn, Mother of Machines, the deck aims to outvalue and outmaneuver opponents. The inclusion of Fable of the Mirror-Breaker offers additional versatility and card advantage. With a strong mana base and access to a diverse range of threats and answers, the deck aims to grind out victories through incremental advantage and selective disruption."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Danielelor",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654152&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 3,
+                    "name": "Saheeli, Sublime Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Untimely Malfunction"
+                },
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Test of Talents"
+                },
+                {
+                    "count": 1,
+                    "name": "Dig Through Time"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly fill up the graveyard with spells to bring back Arclight Phoenixes and enable Prowess triggers for powerful attacks. With an aggressive playstyle, the deck focuses on casting cheap spells to trigger Phoenix's ability while maintaining card advantage with draw spells like Opt and Treasure Cruise. Utilizing the instant and sorcery spells in the deck, the player can efficiently control the board and deal with threats while strategically bringing back Phoenixes for a strong offensive presence."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Tyng Wei Tan",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654153&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 3,
+                    "name": "Brutal Cathar"
+                },
+                {
+                    "count": 4,
+                    "name": "Hopeful Initiate"
+                },
+                {
+                    "count": 4,
+                    "name": "Dauntless Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Mockingbird"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Thalia's Lieutenant"
+                },
+                {
+                    "count": 4,
+                    "name": "Coppercoat Vanguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Adeline, Resplendent Cathar"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruitment Officer"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 3,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Declaration in Stone"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 3,
+                    "name": "Wedding Announcement"
+                },
+                {
+                    "count": 4,
+                    "name": "Portable Hole"
+                }
+            ],
+            "notes": "This Pioneer 1 vs 1 deck focuses on aggressively utilizing Human creatures to overwhelm the opponent. With cards like Thalia, Guardian of Thraben and Thalia's Lieutenant boosting the team, along with efficient attackers like Coppercoat Vanguard and Adeline, Resplendent Cathar, the deck aims to quickly build a threatening board presence. Additionally, cards like Get Lost and Brutal Cathar provide disruption and removal options. The mana base is designed to support the aggressive strategy, including utility lands like Cavern of Souls and Mutavault to further enhance the Human tribal theme."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Jason Loh",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654157&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 2,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 2,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly play and revive Arclight Phoenix while disrupting the opponent's strategies with disruptive spells like Fiery Impulse and Lightning Axe. The deck aims to draw cards efficiently with spells like Opt and Treasure Cruise, while also utilizing cards like Ledger Shredder and Picklock Prankster to manipulate the opponent's hand and graveyard. Additionally, the deck includes cards like Artist's Talent and Proft's Eidetic Memory to further disrupt the opponent's plans. The deck aims to be aggressive and put pressure on the opponent while maintaining control of the game."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Allan Fong",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654154&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Callous Bloodmage"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 1,
+                    "name": "Glarb, Calamity's Augur"
+                },
+                {
+                    "count": 1,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 1,
+                    "name": "Kroxa and Kunoros"
+                },
+                {
+                    "count": 1,
+                    "name": "Nimble Larcenist"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 3,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Caryatid"
+                },
+                {
+                    "count": 1,
+                    "name": "Titan of Industry"
+                },
+                {
+                    "count": 1,
+                    "name": "Zur, Eternal Schemer"
+                },
+                {
+                    "count": 1,
+                    "name": "Linvala, the Preserver"
+                },
+                {
+                    "count": 2,
+                    "name": "Overlord of the Floodpits"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Heartless Act"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 4,
+                    "name": "Enigmatic Incarnation"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 4,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 1,
+                    "name": "Nylea's Presence"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 3,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Spara's Headquarters"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 3,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 2,
+                    "name": "Zagoth Triome"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Nimble Larcenist"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 1,
+                    "name": "Agent of Treachery"
+                },
+                {
+                    "count": 1,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 2,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 1,
+                    "name": "Nezahal, Primal Tide"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Distortion"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                }
+            ],
+            "notes": "This deck focuses on using Enigmatic Incarnation to search for powerful creatures to control the board and outvalue the opponent. With a mix of versatile creatures like Atraxa, Grand Unifier and Elesh Norn, Mother of Machines, along with disruption like Noxious Gearhulk and Zur, Eternal Schemer, the deck can adapt to different matchups. The inclusion of Leyline Binding and Nowhere to Run helps to control the opponent's resources, while cards like Fatal Push and Heartless Act deal with threats efficiently. The deck's mana base allows for smooth fixing and consistent casting of powerful spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Danny Seet",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654155&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 1,
+                    "name": "Knight of Autumn"
+                },
+                {
+                    "count": 1,
+                    "name": "Kroxa and Kunoros"
+                },
+                {
+                    "count": 1,
+                    "name": "Noxious Gearhulk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ruric Thar, the Unbowed"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Floodpits"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctuary Warden"
+                },
+                {
+                    "count": 1,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 1,
+                    "name": "Titan of Industry"
+                },
+                {
+                    "count": 1,
+                    "name": "Zur, Eternal Schemer"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 1,
+                    "name": "Glarb, Calamity's Augur"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Vanishing Verse"
+                },
+                {
+                    "count": 4,
+                    "name": "Enigmatic Incarnation"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 4,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 4,
+                    "name": "Gloomlake Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 3,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Spara's Headquarters"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 3,
+                    "name": "Watery Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Zagoth Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Distortion"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 2,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 2,
+                    "name": "Glistening Deluge"
+                }
+            ],
+            "notes": "This deck utilizes Enigmatic Incarnation to continuously tutor for powerful creatures and answer threats, creating a strong board presence and disrupting opponents. The inclusion of Yorion as a companion adds consistency and value to the deck. The deck focuses on control elements such as removal spells like Fatal Push and Vanishing Verse, as well as disruptive creatures like Skyclave Apparition and Elesh Norn, Mother of Machines. The mana base is carefully designed to support the wide array of colors needed to cast the diverse creatures in the deck."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Rj Yu",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654156&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "March of Wretched Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Heartless Act"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner Bankbuster"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodletter of Aclazotz"
+                },
+                {
+                    "count": 4,
+                    "name": "Unstoppable Slasher"
+                },
+                {
+                    "count": 4,
+                    "name": "Archfiend of the Dross"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Withering Torment"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "The Meathook Massacre"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 2,
+                    "name": "Path of Peril"
+                }
+            ],
+            "notes": "This Mono Black Control deck focuses on disrupting the opponent's strategy with a combination of hand disruption spells like Thoughtseize and Duress, removal spells like Fatal Push and Heartless Act, and powerful finishers like Archfiend of the Dross and Sheoldred, the Apocalypse. The deck also utilizes cards like Unholy Annex / Ritual Chamber to generate extra value and keep the opponent on the back foot. With efficient removal and powerful threats, this deck aims to control the game until it can overwhelm the opponent with its powerful late-game threats."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Andrew Oh Chai Hock",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654162&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 1,
+                    "name": "Elder Gargaroth"
+                },
+                {
+                    "count": 1,
+                    "name": "Elesh Norn, Mother of Machines"
+                },
+                {
+                    "count": 1,
+                    "name": "Glasspool Mimic"
+                },
+                {
+                    "count": 1,
+                    "name": "Heliod, the Radiant Dawn"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenrith, the Returned King"
+                },
+                {
+                    "count": 1,
+                    "name": "Marina Vendrell"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Titan of Industry"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolsimir, Friend to Wolves"
+                },
+                {
+                    "count": 2,
+                    "name": "Overlord of the Boilerbilges"
+                },
+                {
+                    "count": 4,
+                    "name": "Enigmatic Incarnation"
+                },
+                {
+                    "count": 2,
+                    "name": "Fires of Invention"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 2,
+                    "name": "Roaring Furnace/Steaming Sauna"
+                },
+                {
+                    "count": 4,
+                    "name": "Temporary Lockdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Touch the Spirit Realm"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 3,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 3,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Indatha Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Thornspire Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Keruga, the Macrosage"
+                },
+                {
+                    "count": 4,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra, Awakened Inferno"
+                }
+            ],
+            "notes": "This deck focuses on using Enigmatic Incarnation to tutor for powerful creatures and control the board, utilizing cards like Fable of the Mirror-Breaker, Leyline Binding, and Temporary Lockdown to disrupt the opponent's strategy. The inclusion of comrade Keruga, the Macrosage as a companion adds consistency to the deck's strategy. By efficiently managing resources and using a mix of powerful creatures and versatile spells, this Control - Enigmatic Incarnation deck aims to outsmart and outmaneuver opponents in Pioneer 1 vs 1 matches."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Justin Teo",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654158&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "March of Wretched Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Heartless Act"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "The End"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner Bankbuster"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Graveyard Trespasser"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodletter of Aclazotz"
+                },
+                {
+                    "count": 4,
+                    "name": "Unstoppable Slasher"
+                },
+                {
+                    "count": 4,
+                    "name": "Archfiend of the Dross"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Darkbore Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 3,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "The Meathook Massacre"
+                },
+                {
+                    "count": 2,
+                    "name": "Path of Peril"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 1,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Withering Torment"
+                },
+                {
+                    "count": 2,
+                    "name": "Back to Nature"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                }
+            ],
+            "notes": "The deck focuses on controlling the opponent's resources and disrupting their game plan through hand disruption and removal spells. It aims to slowly grind out the opponent with creatures that have recurring abilities and powerful finishers like Archfiend of the Dross. The mana base is designed to support the control elements of the deck while also providing utility lands like Field of Ruin. The strategy is to outvalue the opponent with efficient removal and threats that can generate card advantage, ultimately leading to a win through attrition."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Jon Bustos",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654164&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Marvin, Murderous Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Perdition"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Agatha's Soul Cauldron"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 2,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 1,
+                    "name": "Path of Peril"
+                },
+                {
+                    "count": 2,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 1,
+                    "name": "Withering Torment"
+                }
+            ],
+            "notes": "This Rakdos Aggro deck focuses on quickly overwhelming the opponent with aggressive creatures and powerful spells. The deck utilizes cards like Bloodtithe Harvester, Voldaren Thrillseeker, and Tree of Perdition to apply pressure early on, while also providing disruption with cards like Thoughtseize and Fatal Push. The inclusion of Jegantha, the Wellspring as a companion adds an additional layer of versatility to the deck. Overall, the key concept of this deck is to maintain a fast-paced and relentless tempo to secure victory in Pioneer 1 vs 1 matches."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Rfanatic",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654165&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 3,
+                    "name": "Cacophony Scamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Turn Inside Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Titan's Strength"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 1,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                }
+            ],
+            "notes": "The main concept of this Rakdos Aggro deck is to overwhelm the opponent with a fast and aggressive strategy. By utilizing efficient creatures like Monastery Swiftspear and Kumano Faces Kakkazan, along with burn spells like Fatal Push and Monstrous Rage, the deck aims to constantly apply pressure and finish off the opponent quickly. The inclusion of Jegantha, the Wellspring as a companion provides additional flexibility and consistency to the deck. Overall, the key idea is to maintain a proactive game plan and push for a swift victory through aggressive creatures and burn spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Quintonlip",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654159&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodletter of Aclazotz"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 4,
+                    "name": "Archfiend of the Dross"
+                },
+                {
+                    "count": 4,
+                    "name": "Unstoppable Slasher"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 2,
+                    "name": "Blazemire Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Ridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 3,
+                    "name": "Invoke Despair"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                }
+            ],
+            "notes": "The deck is focused on disrupting your opponent's hand and board with a mix of discard spells and removal spells. By controlling the game early on, you aim to establish a strong presence on the battlefield with powerful creatures like Archfiend of the Dross and Bloodtithe Harvester. The goal is to overwhelm your opponent with threats while keeping their resources in check. The lands in the deck are optimized to support the control strategy while still providing enough black mana sources for your spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Johnnicolas",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654160&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Titan's Strength"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 2,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 1,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Redcap Melee"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                }
+            ],
+            "notes": "This deck focuses on quickly overwhelming the opponent with aggressive creatures and burn spells, aiming to deal damage quickly and efficiently. The deck is designed to maintain a fast pace and apply pressure early in the game, utilizing cards like Monastery Swiftspear and Emberheart Challenger to deal damage and finish off opponents. The inclusion of Jegantha, the Wellspring as a companion adds an extra layer of consistency and versatility to the deck. The mana base is carefully constructed to support the aggressive game plan with enough sources of black and red mana."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Eugene Wong",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654161&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Titan's Strength"
+                },
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 1,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 3,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "The deck focuses on aggressive creatures and burn spells to quickly deal damage to the opponent. The inclusion of Jegantha, the Wellspring as a companion allows for additional mana ramp and flexibility in casting spells. The deck aims to overwhelm the opponent with a combination of efficient creatures like Monastery Swiftspear and Emberheart Challenger, along with powerful burn spells like Monstrous Rage and Kumano Faces Kakkazan. The deck's mana base is designed to support its aggressive strategy with consistent access to both black and red mana sources."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Werick Pagtakhan",
+            "result": "9-16",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654163&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 3,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreadhorde Arcanist"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 3,
+                    "name": "Turn Inside Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Titan's Strength"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 2,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 1,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Ruins"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 2,
+                    "name": "Rampaging Ferocidon"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "The primary focus of this deck is to aggressively attack the opponent with a combination of creatures and instant spells to quickly deplete their life total. The deck utilizes cheap and efficient creatures like Monastery Swiftspear and Emberheart Challenger, along with spells like Monstrous Rage and Turn Inside Out to deal damage quickly. The inclusion of Jegantha as a companion provides additional support for the aggressive game plan. The mana base is optimized for a smooth curve and enables a consistent flow of spells to pressure the opponent."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Nattawin Supapipat",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654167&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 1,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 2,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                }
+            ],
+            "notes": "This deck focuses on quickly filling the graveyard with spells to bring back Arclight Phoenix multiple times in a single turn, overwhelming the opponent with aggressive plays. It utilizes cards like Opt, Consider, and Sleight of Hand to dig for more spells, while also running spells like Lightning Axe and Fiery Impulse for removal. Treasure Cruise helps refill the hand after expending resources, and Ledger Shredder and Picklock Prankster provide additional synergy with the graveyard strategy. The deck aims to close out games quickly with the flying threat of Arclight Phoenix and efficient spellcasting."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Ruizi",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654168&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 3,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 2,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Thing in the Ice"
+                }
+            ],
+            "notes": "The main concept of this deck is to efficiently cast spells and fill the graveyard to bring back Arclight Phoenix, using cards like Opt, Fiery Impulse, and Ledger Shredder. The deck also includes ways to control the opponent's plays with cards like Brazen Borrower and Spell Pierce. The deck aims to be fast and aggressive, overwhelming the opponent with a mix of powerful creatures and efficient spells while also maintaining card advantage with draw spells like Consider and Treasure Cruise. The mana base includes a mix of Islands and dual lands for consistency in casting spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Jesse Liew",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654171&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Iteration"
+                },
+                {
+                    "count": 1,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 3,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 1,
+                    "name": "Temporal Trespass"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 1,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra, Awakened Inferno"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger of the Gods"
+                }
+            ],
+            "notes": "The focus of this deck is to quickly fill the graveyard with spells in order to bring back Arclight Phoenix and control the game with aggressive plays. Ledger Shredder helps mill cards while Picklock Prankster can generate value by casting spells from the graveyard. Other key cards like Fiery Impulse and Lightning Axe help control the board while cards like Consider and Opt allow for card selection and graveyard filling. The deck aims to overwhelm the opponent with fast, efficient plays and maintain pressure with Arclight Phoenix and other threats."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Choobes",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654173&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 3,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 1,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                }
+            ],
+            "notes": "The main idea of this deck is to quickly and aggressively cast spells to bring back Arclight Phoenix from the graveyard multiple times. Utilizing cards like Picklock Prankster and Ledger Shredder to enable this strategy, while also running efficient spells like Lightning Axe and Fiery Impulse to control the board. The deck aims to refill the hand with Treasure Cruise and win through a combination of creature damage and spells. The inclusion of Brazen Borrower and Spell Pierce provides additional disruption for the opponent, while the land base ensures consistency in mana production."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Miguel De Leon",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654176&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 1,
+                    "name": "Spikefield Hazard"
+                },
+                {
+                    "count": 3,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 1,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Thing in the Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Young Pyromancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly fill the graveyard with spells and use them to bring back Arclight Phoenix from the graveyard to deal damage to the opponent. It also utilizes efficient card draw and burn spells to maintain tempo and pressure on the opponent, while having some disruptive elements like Spell Pierce to protect its game plan. The deck aims to be aggressive and proactive, overwhelming the opponent with quick threats and efficient removal spells to control the game's pace and come out on top."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Philip Christopher Rama",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654178&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Picklock Prankster"
+                },
+                {
+                    "count": 4,
+                    "name": "Ledger Shredder"
+                },
+                {
+                    "count": 4,
+                    "name": "Arclight Phoenix"
+                },
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Impulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Axe"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 4,
+                    "name": "Treasure Cruise"
+                },
+                {
+                    "count": 1,
+                    "name": "Artist's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Proft's Eidetic Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Stormcarved Coast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 4,
+                    "name": "Riverglide Pathway"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Steam Vents"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Crackling Drake"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                },
+                {
+                    "count": 2,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly cycle through cards in order to fill the graveyard with spells, allowing Arclight Phoenix to be easily returned to the battlefield. The deck focuses on using cheap instant spells and card draw effects to ensure a steady stream of spells to enable the recursion of Arclight Phoenix. The deck also includes disruptive spells like Spell Pierce and Fiery Impulse to control the opponent's game plan while setting up for a quick win with aggressive attacks from the Phoenix and other creatures."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Nonthakorn Kositaporn",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654166&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 2,
+                    "name": "Marvin, Murderous Mimic"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Tree of Perdition"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Agatha's Soul Cauldron"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Withering Torment"
+                },
+                {
+                    "count": 3,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                }
+            ],
+            "notes": "This deck focuses on overwhelming the opponent with aggressive creatures and utilizing various removal spells to maintain board control. It also employs companionship from Jegantha, the Wellspring to provide additional value. The deck includes a mix of efficient creatures like Bloodtithe Harvester and Voldaren Thrillseeker, along with disruption cards like Thoughtseize and Duress. The presence of cards like Tree of Perdition and Fable of the Mirror-Breaker adds versatility to the deck's game plan. Additionally, the inclusion of lands like Mutavault and Raucous Theater helps the deck ensure consistent land drops and mana fixing."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Craig Shaun Garces",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654169&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 3,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Turn Inside Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 1,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Claim the Firstborn"
+                },
+                {
+                    "count": 1,
+                    "name": "Heartless Act"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                }
+            ],
+            "notes": "This Rakdos Aggro deck focuses on fast and aggressive creature plays, utilizing cards like Heartfire Hero, Monastery Swiftspear, and Emberheart Challenger to deal damage quickly. The inclusion of Jegantha, the Wellspring as a companion provides additional value and versatility. The deck also features burn spells like Fatal Push and Reckless Rage to remove threats and clear the way for attacks. Thoughtseize helps disrupt opponent's strategies while Monstrous Rage and Ancestral Anger provide additional combat tricks. The mana base includes various dual lands and utility lands to support the deck's aggressive game plan."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Wei Siong Tan",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654181&f=PI",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Tree of Perdition"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Thrillseeker"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Missing Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodtithe Harvester"
+                },
+                {
+                    "count": 2,
+                    "name": "Inti, Seneschal of the Sun"
+                },
+                {
+                    "count": 4,
+                    "name": "Agatha's Soul Cauldron"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 1,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 1,
+                    "name": "Withering Torment"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 2,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 2,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                }
+            ],
+            "notes": "This Rakdos Aggro deck focuses on aggressive creatures and burn spells to quickly reduce your opponent's life total. The deck also includes disruptive spells like Duress and Thoughtseize to control your opponent's hand. The inclusion of Jegantha, the Wellspring as a companion adds versatility and extra mana ramp to the deck. The deck aims to apply constant pressure on the opponent while disrupting their game plan, ultimately aiming to win the game before the opponent can stabilize."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Saralyzed",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654170&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Callous Sell-Sword"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Kumano Faces Kakkazan"
+                },
+                {
+                    "count": 2,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Infuriate"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Anger"
+                },
+                {
+                    "count": 2,
+                    "name": "Claim/Fame"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 1,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ramunap Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckless Rage"
+                },
+                {
+                    "count": 2,
+                    "name": "Feed the Swarm"
+                },
+                {
+                    "count": 1,
+                    "name": "Hazoret the Fervent"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                }
+            ],
+            "notes": "The deck focuses on aggressive creatures that can deal damage quickly, while also using spells like Infuriate and Ancestral Anger to boost their power. The inclusion of Jegantha as a companion adds consistency to the deck. The mana base is built to support the aggressive strategy, with lands like Blackcleave Cliffs and Ramunap Ruins to ensure the deck can cast its spells efficiently. Overall, the deck aims to overwhelm the opponent with a fast-paced, creature-based assault."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Glenn Ang",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654175&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Cling to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Vanishing Verse"
+                },
+                {
+                    "count": 2,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 3,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Rite of the Moth"
+                },
+                {
+                    "count": 4,
+                    "name": "The Restoration of Eiganjo"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Valgavoth's Faithful"
+                },
+                {
+                    "count": 3,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 3,
+                    "name": "Valgavoth, Terror Eater"
+                },
+                {
+                    "count": 4,
+                    "name": "Cynical Loner"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Takenuma, Abandoned Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Shattered Sanctum"
+                },
+                {
+                    "count": 1,
+                    "name": "Restless Fortress"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 2,
+                    "name": "Hive of the Eye Tyrant"
+                },
+                {
+                    "count": 3,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 2,
+                    "name": "Temporary Lockdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner Bankbuster"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran of the Third Path"
+                },
+                {
+                    "count": 1,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 1,
+                    "name": "Fracture"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                }
+            ],
+            "notes": "Utilizing graveyard recursion and powerful creatures, this deck aims to quickly reanimate threats and overwhelm the opponent. The combination of reanimation spells, removal, and disruptive hand disruption makes it difficult for the opponent to build up a defense. The deck also includes a mix of planeswalkers and powerful creatures to further pressure the opponent and provide additional win conditions. The mana base is carefully crafted to support the deck's strategy and ensure consistency in casting spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Arwin Pratomo",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654179&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 2,
+                    "name": "Kellan, Daring Traveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Aven Interrupter"
+                },
+                {
+                    "count": 1,
+                    "name": "Voice of Resurgence"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Enduring Innocence"
+                },
+                {
+                    "count": 4,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 2,
+                    "name": "Werefox Bodyguard"
+                },
+                {
+                    "count": 4,
+                    "name": "Collected Company"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Shefet Dunes"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 2,
+                    "name": "Werefox Bodyguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 3,
+                    "name": "Brutal Cathar"
+                },
+                {
+                    "count": 2,
+                    "name": "Elite Spellbinder"
+                },
+                {
+                    "count": 1,
+                    "name": "The Wandering Emperor"
+                }
+            ],
+            "notes": "This deck focuses on playing efficient and aggressive creatures to quickly overwhelm the opponent. By playing mana dorks like Llanowar Elves and Elvish Mystic, the deck aims to ramp into powerful threats such as Archon of Emeria and Skyclave Apparition. Collected Company allows for explosive turns, while cards like Thalia, Guardian of Thraben and Voice of Resurgence disrupt the opponent's game plan. The deck also includes tempo plays like Aven Interrupter and Werefox Bodyguard to maintain pressure on the opponent. The mana base is optimized for consistency and includes utility lands like Shefet Dunes and Eiganjo, Seat of the Empire."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Rick Hup Beng Lee",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654180&f=PI",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Anointed Peacekeeper"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Aven Interrupter"
+                },
+                {
+                    "count": 3,
+                    "name": "Thalia, Guardian of Thraben"
+                },
+                {
+                    "count": 4,
+                    "name": "Enduring Innocence"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Voice of Resurgence"
+                },
+                {
+                    "count": 2,
+                    "name": "Werefox Bodyguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Collected Company"
+                },
+                {
+                    "count": 4,
+                    "name": "Branchloft Pathway"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                },
+                {
+                    "count": 4,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Prairie"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Werefox Bodyguard"
+                },
+                {
+                    "count": 2,
+                    "name": "Brutal Cathar"
+                },
+                {
+                    "count": 2,
+                    "name": "Gideon, Ally of Zendikar"
+                },
+                {
+                    "count": 2,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 1,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Agatha's Soul Cauldron"
+                },
+                {
+                    "count": 2,
+                    "name": "Dromoka's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Nature"
+                },
+                {
+                    "count": 1,
+                    "name": "Elite Spellbinder"
+                },
+                {
+                    "count": 1,
+                    "name": "Invasion of Gobakhan"
+                }
+            ],
+            "notes": "The deck focuses on using efficient creatures with disruptive abilities to apply pressure on the opponent and control the board. By combining creatures with taxing effects like Thalia, Guardian of Thraben and Archon of Emeria, along with powerful beaters like Aven Interrupter and Skyclave Apparition, the deck aims to quickly overwhelm the opponent before they can stabilize. Collected Company is used to refill the board with threats and keep the pressure on, while mana dorks like Llanowar Elves and Elvish Mystic help to accelerate the deck's game plan. The deck also includes some utility creatures like Scavenging Ooze to handle graveyard strategies, and Anointed Peacekeeper for additional disruption. The mana base is designed to support the deck's aggressive game plan, with a mix of dual lands and utility lands to ensure consistency and flexibility in casting spells."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Daston Lam",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654172&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 3,
+                    "name": "Reckoner Bankbuster"
+                },
+                {
+                    "count": 1,
+                    "name": "Bitter Triumph"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 3,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Transmogrify"
+                },
+                {
+                    "count": 4,
+                    "name": "Case of the Stashed Skeleton"
+                },
+                {
+                    "count": 1,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 4,
+                    "name": "Blackcleave Cliffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Blazemire Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Blightstep Pathway"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 4,
+                    "name": "Haunted Ridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirrex"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutavault"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Hidetsugu Consumes All"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckoner Bankbuster"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Extinction Event"
+                },
+                {
+                    "count": 2,
+                    "name": "Ob Nixilis, the Adversary"
+                },
+                {
+                    "count": 1,
+                    "name": "Chandra's Defeat"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Go Blank"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                }
+            ],
+            "notes": "The deck focuses on using the Transmogrify combo to cheat out powerful creatures like Atraxa, Grand Unifier and Hidetsugu Consumes All. It also includes control elements like Fatal Push and Thoughtseize to disrupt opponent's strategies. The companion Jegantha, the Wellspring provides additional flexibility and resources. Overall, the deck aims to control the board while setting up the combo win condition with Transmogrify and other synergistic cards."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Joshua Yang",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654174&f=PI",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 3,
+                    "name": "Memory Deluge"
+                },
+                {
+                    "count": 4,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 4,
+                    "name": "No More Lies"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 2,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 1,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 2,
+                    "name": "Change the Equation"
+                },
+                {
+                    "count": 1,
+                    "name": "Three Steps Ahead"
+                },
+                {
+                    "count": 2,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Farewell"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 2,
+                    "name": "Temporary Lockdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 3,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Anchorage"
+                },
+                {
+                    "count": 3,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Ardenvale"
+                },
+                {
+                    "count": 1,
+                    "name": "Raugrin Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 3,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Deserted Beach"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 1,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaheera, the Orphanguard"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Moonlight"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Gust"
+                },
+                {
+                    "count": 1,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 1,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Kutzil's Flanker"
+                },
+                {
+                    "count": 2,
+                    "name": "Detention Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game through counterspells, removal, and card draw. It aims to disrupt the opponent's strategy while slowly building up its own resources. The inclusion of Kaheera as a companion adds versatility and an additional threat on the board. The deck's win condition is to stabilize the board with powerful control spells like Supreme Verdict, Teferi, Hero of Dominaria, and Shark Typhoon, while creating card advantage through Memory Deluge and March of Otherworldly Light. The mana base is designed to support the deck's control elements and ensure consistent access to all colors needed."
+        },
+        {
+            "date": "2024-10-12",
+            "player": "Marco Philip Serafica",
+            "result": "17-32",
+            "anchor_uri": "https://mtgtop8.com/event?e=60471&d=654177&f=PI",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Three Steps Ahead"
+                },
+                {
+                    "count": 4,
+                    "name": "No More Lies"
+                },
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "Settle the Wreckage"
+                },
+                {
+                    "count": 4,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 2,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 4,
+                    "name": "March of Otherworldly Light"
+                },
+                {
+                    "count": 3,
+                    "name": "Memory Deluge"
+                },
+                {
+                    "count": 2,
+                    "name": "Supreme Verdict"
+                },
+                {
+                    "count": 1,
+                    "name": "Farewell"
+                },
+                {
+                    "count": 4,
+                    "name": "Temporary Lockdown"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 4,
+                    "name": "Omen of the Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Shark Typhoon"
+                },
+                {
+                    "count": 4,
+                    "name": "The Wandering Emperor"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Hero of Dominaria"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 4,
+                    "name": "Deserted Beach"
+                },
+                {
+                    "count": 4,
+                    "name": "Restless Anchorage"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 3,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Castle Ardenvale"
+                },
+                {
+                    "count": 2,
+                    "name": "Hall of Storm Giants"
+                },
+                {
+                    "count": 2,
+                    "name": "Field of Ruin"
+                },
+                {
+                    "count": 2,
+                    "name": "Demolition Field"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Eiganjo, Seat of the Empire"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Dovin's Veto"
+                },
+                {
+                    "count": 1,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 2,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 3,
+                    "name": "Knockout Blow"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 2,
+                    "name": "Chrome Host Seedshark"
+                },
+                {
+                    "count": 1,
+                    "name": "Hullbreaker Horror"
+                }
+            ],
+            "notes": "The deck focuses on controlling the opponent's board and hand through a combination of removal spells, counterspells, and card draw. It aims to outvalue the opponent by leveraging Yorion as a companion to generate additional value from entering the battlefield triggers. The deck also utilizes powerful planeswalkers like Teferi, Hero of Dominaria and Narset, Parter of Veils to further control the game. The mana base is carefully constructed to ensure consistent access to both colored mana sources and utility lands to support the deck's game plan."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

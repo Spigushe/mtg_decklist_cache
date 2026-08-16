@@ -1,0 +1,857 @@
+{
+    "tournament": {
+        "date": "2024-09-23",
+        "name": "The Original League Savona - 4° tappa",
+        "url": "https://mtgtop8.com/event?e=59780",
+        "format": "Pauper",
+        "players": 21
+    },
+    "decks": [
+        {
+            "date": "2024-09-23",
+            "player": "Andrea Frosio",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648253&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 1,
+                    "name": "Foundry Helix"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Abraded Bluffs"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "This deck focuses on quickly deploying cheap creatures like Glint Hawk, Kor Skyfisher, and Novice Inspector to pressure the opponent early. It prioritizes dealing damage using burn spells like Galvanic Blast and Lightning Bolt while also generating value with cards like Thraben Inspector and Experimental Synthesizer. The deck aims to maintain a steady board presence and keep up the pressure on the opponent until they run out of resources. The artifact lands and Lembas provide additional mana sources and synergy with the deck's artifact theme."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Christian Gramaglia",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648254&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Geothermal Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Twisted Landscape"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Grudge"
+                }
+            ],
+            "notes": "This deck focuses on using a combination of removal spells, card draw, and creature abilities to control the board and outlast the opponent. By utilizing cards like Snuff Out, Defile, and Cast Down to eliminate threats, while also generating value with Ichor Wellspring and Lembas, the deck aims to maintain control of the game until it can establish a strong board presence with creatures like Avenging Hunter and Troll of Khazad-dûm. The mana base is structured to support this strategy, with a mix of lands that provide both colored mana and utility."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Lorenzo Spirito",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648255&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The primary focus of this deck is to overwhelm the opponent with aggressive creatures and burn spells in order to quickly deal damage and win the game. It utilizes low-cost creatures and instant burn spells to efficiently put pressure on the opponent and control the board. With a mix of efficient creatures and direct damage spells, this deck aims to finish the game quickly before the opponent can stabilize. By utilizing a streamlined strategy focused on aggression, this deck aims to consistently outpace and overpower the opponent in a Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Michele Teardo",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648256&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 1,
+                    "name": "Evolution Witness"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Nadier's Nightblade"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Energy Refractor"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvok Lifestaff"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Sadistic Glee"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Twisted Landscape"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Tamiyo's Safekeeping"
+                }
+            ],
+            "notes": "This deck focuses on using creatures with sacrifice abilities, along with cards that benefit from sacrificing creatures, in order to generate card advantage and create a board state that overwhelms the opponent. The key strategy is to continuously sacrifice creatures to trigger powerful effects, generate resources, and disrupt the opponent's game plan while building towards a combo finish with Sadistic Glee, ultimately overwhelming the opponent with a combination of card advantage and lethal threats."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Mattia Basso",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648260&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 3,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                }
+            ],
+            "notes": "The main idea of this deck is to flood the board with cheap artifact creatures and use them to quickly overwhelm the opponent with aggressive attacks. The deck utilizes various artifact synergies and sacrifice effects to gain card advantage and generate value. By efficiently using resources and applying pressure early on, the deck aims to outpace the opponent and close out games before they can stabilize. The inclusion of ways to disrupt the opponent's strategy and remove threats helps to ensure the deck can maintain its aggressive momentum and secure victory."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Diego Parodi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648257&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Brinebarrow Intruder"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 2,
+                    "name": "Smoke Shroud"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                }
+            ],
+            "notes": "This deck focuses on playing low-cost aggressive creatures like Faeries and Ninjas to quickly overwhelm the opponent. It utilizes cheap spells like Counterspell and Spell Pierce to protect its creatures and disrupt the opponent's game plan. The deck also includes cards like Mutagenic Growth and Of One Mind to help maintain card advantage and push through damage. With a low mana curve and efficient threats, this mono blue aggro deck aims to apply constant pressure and win the game quickly."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Francesco Maria Schito",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648258&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Miscreant"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Brinebarrow Intruder"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Snaremaster Sprite"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Jace's Phantasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Weakstone's Subjugation"
+                }
+            ],
+            "notes": "The main focus of this Mono Blue Aggro deck is to overwhelm the opponent with a swarm of cheap, evasive creatures like Faeries and Ninjas, while maintaining control with counterspells like Spell Pierce and Counterspell. The deck's low mana curve and card draw capabilities allow for quick, aggressive plays, utilizing cards like Of One Mind and Snap to maintain card advantage. With a heavy emphasis on tempo and disruption, this deck aims to outpace and outmaneuver the opponent in order to secure victory in the early game."
+        },
+        {
+            "date": "2024-09-23",
+            "player": "Pasquale Aricò",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=59780&d=648259&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 3,
+                    "name": "Militia Bugler"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Suture Priest"
+                },
+                {
+                    "count": 3,
+                    "name": "Guardians' Pledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 2,
+                    "name": "Idyllic Grange"
+                },
+                {
+                    "count": 17,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 4,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Holy Light"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with a swarm of small white creatures, known as weenies, and buff them up with cards like Guardians' Pledge and Thraben Charm. The deck also includes cards like Eagles of the North and Battle Screech for additional flying and token generation, providing more ways to pressure the opponent. The deck aims to maintain board presence and utilize the efficient creatures to quickly chip away at the opponent's life total, ultimately leading to victory through aggressive and relentless attacks."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

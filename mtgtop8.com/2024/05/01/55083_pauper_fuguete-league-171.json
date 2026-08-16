@@ -1,0 +1,881 @@
+{
+    "tournament": {
+        "date": "2024-05-01",
+        "name": "Fuguete League 171",
+        "url": "https://mtgtop8.com/event?e=55083",
+        "format": "Pauper",
+        "players": 45
+    },
+    "decks": [
+        {
+            "date": "2024-05-01",
+            "player": "Fiasgo",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609650&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                },
+                {
+                    "count": 1,
+                    "name": "Remove Soul"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 1,
+                    "name": "Obscura Storefront"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Remove Soul"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 1,
+                    "name": "Nature's Chant"
+                },
+                {
+                    "count": 1,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Exclude"
+                }
+            ],
+            "notes": "This deck revolves around using Flicker effects to abuse ETB abilities of creatures like Mulldrifter and Sea Gate Oracle, while also gaining incremental value with cards like The Modern Age and Deep Analysis. The deck aims to control the board with counterspells like Remove Soul and Prohibit, while also gaining life with God-Pharaoh's Faithful and Prismatic Strands. The key strategy is to generate card advantage through flickering creatures and controlling the game until the combo pieces can be assembled for a game-winning play."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Newbarola",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609651&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 2,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Artful Dodge"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 16,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly put pressure on the opponent through aggressive creatures like Delver of Secrets and Cryptic Serpent while disrupting their game plan with counter spells like Force Spike and Counterspell. The deck is designed to maintain tempo and control the board using bounce spells like Boomerang and Echoing Truth, while drawing cards and filling the graveyard with spells like Thought Scour and Deep Analysis. The goal is to rapidly reduce the opponent's life total and secure a swift victory."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Cavicchiav",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609652&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Crawl from the Cellar"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                }
+            ],
+            "notes": "The focus of this Dimir Control deck is to disrupt the opponent's game plan through counterspells, removal, and card advantage. With a mix of efficient threats like Gurmag Angler and Tolarian Terror, alongside disruptive spells like Counterspell and Snuff Out, the deck aims to control the board and outvalue the opponent. Utilizing cards like Brainstorm and Deep Analysis for card selection and card draw, this deck seeks to maintain tempo and stay ahead in card advantage to ultimately outlast the opponent and secure victory."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Denisdominguito",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609653&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Reckless Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 3,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly flood the board with low-cost creatures and deal direct damage to the opponent using burn spells. By being aggressive and efficient with its resources, the deck aims to overwhelm the opponent and close out the game swiftly. The inclusion of artifacts like Implement of Combustion and Experimental Synthesizer adds additional synergy and consistency to the deck's game plan. With a focus on speed and direct damage, this Red Deck Wins variant is designed to put pressure on the opponent from the outset and maintain that pressure until victory is achieved."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Guivini06",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609654&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Reckless Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 2,
+                    "name": "Mogg Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The focus of this deck is to quickly overwhelm the opponent with aggressive creatures and burn spells, aiming to deal damage as efficiently as possible. The deck includes a mix of low-cost creatures and direct damage spells, with a particular emphasis on fast starts and consistent pressure. By utilizing a combination of creatures that can quickly attack and spells that can target the opponent directly, this deck aims to win within the early turns of the game before the opponent has a chance to stabilize."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Theexterminator",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609656&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with a swarm of aggressive creatures and burn spells. By utilizing efficient red creatures like Goblin Tomb Raider and Voldaren Epicure, along with instant damage spells like Lightning Bolt and Galvanic Blast, the deck aims to apply constant pressure and deal direct damage to the opponent. The inclusion of cards like Kuldotha Rebirth and Goblin Bushwhacker help to flood the board with creatures and maximize damage output, while Seal of Fire provides additional burn damage. Overall, the deck is designed for fast-paced aggression and consistent damage output."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Xulze",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609655&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 3,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 1,
+                    "name": "Goliath Paladin"
+                },
+                {
+                    "count": 2,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 1,
+                    "name": "Omen of the Dead"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Kabira Crossroads"
+                },
+                {
+                    "count": 3,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunlit Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Obscura Storefront"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 6,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmake"
+                }
+            ],
+            "notes": "The deck focuses on using low-cost creatures and efficient removal spells to quickly overwhelm the opponent and maintain pressure throughout the match. It also includes cards that provide card advantage and additional value with abilities like bouncing creatures back to hand or recurring creatures from the graveyard. The mana base is designed to ensure consistency in casting spells while maintaining a balance between white and black sources. The deck aims to finish the game as quickly as possible by utilizing its aggressive creatures and removal spells effectively."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "V0dka",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55083&d=609657&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Highway Robbery"
+                },
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Trespasser's Curse"
+                },
+                {
+                    "count": 2,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Gorilla Shaman"
+                }
+            ],
+            "notes": "The key focus of this Rakdos Aggro deck is to quickly overwhelm the opponent with low-cost aggressive creatures like Goblin Tomb Raider and Voldaren Epicure, while using burn spells like Fiery Temper and Lightning Bolt to remove any blockers or threats. The deck also includes card draw and graveyard recursion with Faithless Looting and Deadly Dispute, allowing for card advantage and extra reach. The mana base is streamlined for consistency, with some utility lands like Rakdos Carnarium and Vault of Whispers to help provide additional resources."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

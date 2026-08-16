@@ -1,0 +1,953 @@
+{
+    "tournament": {
+        "date": "2024-05-01",
+        "name": "IPT Piacenza 2024",
+        "url": "https://mtgtop8.com/event?e=55159",
+        "format": "Pauper",
+        "players": 63
+    },
+    "decks": [
+        {
+            "date": "2024-05-01",
+            "player": "Rinnen Davide",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610314&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 2,
+                    "name": "Scrapwork Mutt"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 2,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Demand Answers"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                }
+            ],
+            "notes": "The deck focuses on aggressively deploying low-cost creatures and burn spells to swiftly reduce the opponent's life total. Cards like Goblin Tomb Raider and Voldaren Epicure provide early pressure, while Fiery Temper and Lightning Bolt offer additional reach to close out the game. The deck also includes discard outlets like Faithless Looting to help dig for key cards, as well as Alms of the Vein for lifegain. The mana base includes artifact lands like Vault of Whispers for additional synergy with Galvanic Blast, maximizing the deck's efficiency and explosiveness."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Stefanello Giacomo",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610315&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Avacyn's Pilgrim"
+                },
+                {
+                    "count": 1,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 1,
+                    "name": "Crashing Drawbridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 4,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 1,
+                    "name": "Third Path Savant"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Valakut Invoker"
+                },
+                {
+                    "count": 3,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Vent Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 11,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbread Cabin"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian Naga"
+                },
+                {
+                    "count": 2,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Coalition Honor Guard"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Radiant Grove"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly ramp up mana by utilizing walls that tap for mana, such as Overgrown Battlement and Axebane Guardian, in combination with untap effects like Quirion Ranger. By generating a large amount of mana, the deck aims to cast combo pieces like Freed from the Real, which can be enchanted onto a creature like Axebane Guardian to create an infinite mana combo. This allows the player to then use cards like Valakut Invoker or Vent Sentinel to deal lethal damage to the opponent."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Di Candia Morgan",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610316&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 4,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 3,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Azorius Guildgate"
+                },
+                {
+                    "count": 1,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game through a combination of countering spells, removal, and protection spells. The deck utilizes Gates to fix mana and gain incremental advantages. It also includes card draw and card advantage spells to maintain resources. The creatures in the deck provide early defense and can chip away at the opponent's life total. Overall, the strategy is to disrupt the opponent's game plan while building up a strong board presence and eventually overwhelming them with efficient control and Gates synergy."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Landi Andrea",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610317&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Deduce"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Skred"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Union of the Third Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 7,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Essence Scatter"
+                },
+                {
+                    "count": 1,
+                    "name": "Kenku Artificer"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game through a combination of counterspells, removal spells, and the use of Ephemerate to reuse powerful enters-the-battlefield effects on creatures like Augur of Bolas, Archaeomancer, and Mulldrifter. The deck also includes a small amount of burn spells for additional removal and a few value-generating cards like Murmuring Mystic and Union of the Third Path. The mana base is designed to support the deck's color requirements while utilizing snow-covered lands for synergies with Skred and Cleansing Wildfire."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Perazzolo Stefano",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610318&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Wedding Invitation"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 4,
+                    "name": "Abraded Bluffs"
+                },
+                {
+                    "count": 3,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on efficiently deploying creatures with low mana costs and boosting them with artifacts and enchantments to quickly deal damage to the opponent. It also includes a mix of burn spells to control the board and finish off opponents. The deck aims to have a strong early game presence and overwhelm the opponent before they can establish a defense. With a mix of card advantage, removal, and aggressive creatures, this deck is designed to maintain pressure and close out games quickly."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Venturi Raul",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610320&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Wedding Invitation"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Abraded Bluffs"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                }
+            ],
+            "notes": "The deck focuses on playing cheap and efficient creatures, artifacts, and enchantments to build a strong board presence quickly. It utilizes cards like Thraben Inspector and Glint Hawk to generate card advantage and synergizes well with artifacts such as Lembas and Experimental Synthesizer. The deck also includes removal spells like Lightning Bolt and Galvanic Blast to deal with opposing threats. Overall, the strategy is to overwhelm the opponent with a fast and efficient aggro game plan while maintaining card advantage and board control."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Pesenti Mattia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610321&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Crawl from the Cellar"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                }
+            ],
+            "notes": "The main focus of this Dimir Control deck is to disrupt the opponent's game plan through a combination of counterspells, removal spells, and card draw. By using efficient removal like Snuff Out and Cast Down, along with powerful threats like Gurmag Angler, the deck aims to control the board while digging for answers with cards like Brainstorm and Deep Analysis. The inclusion of cards like Spell Pierce and Agony Warp offer additional versatility in dealing with various threats. Overall, the deck aims to outlast the opponent and win through attrition."
+        },
+        {
+            "date": "2024-05-01",
+            "player": "Contini Davide",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55159&d=610319&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 3,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Fathom Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Deprive"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Snap"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 18,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                }
+            ],
+            "notes": "The main focus of this Mono Blue Aggro Pauper deck is to quickly pressure the opponent with low-cost creatures like Delver of Secrets and Tolarian Terror while disrupting their plans with counterspells like Counterspell and Foil. The deck also includes card draw and selection spells like Brainstorm and Preordain to refill your hand and find key cards. With a low curve and efficient spells, this deck aims to maintain tempo and pressure the opponent until victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

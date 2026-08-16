@@ -1,0 +1,985 @@
+{
+    "tournament": {
+        "date": "2024-05-26",
+        "name": "St. Petersburg Open Championship",
+        "url": "https://mtgtop8.com/event?e=55977",
+        "format": "Pauper",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2024-05-26",
+            "player": "Kotopotato",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617022&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 1,
+                    "name": "Union of the Third Path"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Late to Dinner"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 7,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Volatile Fjord"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Blue"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                }
+            ],
+            "notes": "This deck focuses on utilizing flicker effects like Ephemerate to repeatedly generate value from creatures like Archaeomancer, Mulldrifter, and Kenku Artificer. By combining card draw, counterspells, and removal with flickering abilities, the deck aims to establish board control and outvalue the opponent. The inclusion of cards like Cleansing Wildfire and Union of the Third Path provide additional utility and disruption. The deck's mana base ensures consistent access to multiple colors while also leveraging snow lands for synergies with cards like Skred."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Hrono92",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617023&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 3,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 1,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 3,
+                    "name": "Drossforge Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                }
+            ],
+            "notes": "This deck focuses on quickly deploying low-cost artifacts to take advantage of the Affinity mechanic, allowing for explosive early-game aggression. With a mix of creatures, artifacts, and removal spells, the deck aims to overwhelm opponents with a flurry of efficient threats while maintaining card advantage through card draw effects. The synergy between the artifacts and spells in the deck allows for fast plays and tempo swings, while being supported by a mana base that enables smooth casting of its spells."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Simple3s",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617025&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on quickly deploying low-cost creatures and artifacts to pressure the opponent early on. The deck utilizes cards like Galvanic Blast and Lightning Bolt to remove threats while deploying efficient creatures like Seeker of the Way and Glint Hawk to push damage through. The deck also features cards like Lembas and Experimental Synthesizer to provide additional value and card advantage. Overall, this deck aims to maintain board presence and apply pressure to the opponent in order to win the game quickly."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Sanya317",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617024&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Crimson Fleet Commodore"
+                },
+                {
+                    "count": 3,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Volatile Fjord"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 1,
+                    "name": "Fiery Cannonade"
+                },
+                {
+                    "count": 1,
+                    "name": "Shenanigans"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Truth"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Curfew"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The UR Delver deck aims to control the game with counterspells and removal while using efficient creatures like Delver of Secrets and Spellstutter Sprite to apply pressure. It also utilizes card advantage through cards like Brainstorm and Preordain to keep up tempo. The deck's strategy revolves around flipping Delver of Secrets early and leveraging its evasive threats to close out the game quickly. In addition, the inclusion of snow-covered lands allows for synergy with Skred, providing additional removal options. The deck's versatility allows it to adapt to different matchups while maintaining a fast-paced playstyle."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Sergeyputilov",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617027&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 2,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 1,
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 1,
+                    "name": "Dimir Aqueduct"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Stormbound Geist"
+                },
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                }
+            ],
+            "notes": "The key concept of this Dimir Control deck is to heavily disrupt and control the opponent's board with a combination of counterspells, removal spells, and disruptive creatures while generating card advantage through card draw and card selection. The deck aims to lock down the opponent's threats and eventually take control of the game with powerful finishers like Gurmag Angler and Murmuring Mystic. By efficiently managing resources and disrupting the opponent's game plan, this deck looks to control the game until it can secure a win condition."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Funga",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617028&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Annoyed Altisaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 4,
+                    "name": "Boarding Party"
+                },
+                {
+                    "count": 1,
+                    "name": "Crimson Fleet Commodore"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                },
+                {
+                    "count": 3,
+                    "name": "Llanowar Visionary"
+                },
+                {
+                    "count": 3,
+                    "name": "Skred"
+                },
+                {
+                    "count": 4,
+                    "name": "Mwonvuli Acid-Moss"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 3,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Highland Forest"
+                },
+                {
+                    "count": 16,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Skred"
+                },
+                {
+                    "count": 3,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 1,
+                    "name": "Pick Your Poison"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The main idea of this deck is to overwhelm the opponent with aggressive creatures and efficient mana ramp. By using cards like Arbor Elf, Utopia Sprawl, and Wild Growth, the deck aims to quickly accelerate its mana production in order to play powerful creatures like Annoyed Altisaur and Avenging Hunter early in the game. Additionally, cards like Skred and Mwonvuli Acid-Moss provide removal and land destruction to disrupt the opponent's game plan. This deck combines speed, power, and disruption to dominate the battlefield and secure victory."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Svagosh",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617026&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 4,
+                    "name": "Songs of the Damned"
+                },
+                {
+                    "count": 1,
+                    "name": "Ardent Elementalist"
+                },
+                {
+                    "count": 2,
+                    "name": "Horror of the Broken Lands"
+                },
+                {
+                    "count": 4,
+                    "name": "Drannith Stinger"
+                },
+                {
+                    "count": 4,
+                    "name": "Imposing Vantasaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Carabid"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 4,
+                    "name": "Drannith Healer"
+                },
+                {
+                    "count": 4,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Ingot Chewer"
+                },
+                {
+                    "count": 2,
+                    "name": "Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": "The deck focuses on generating mana quickly through rituals and Lotus Petal in order to cast multiple spells in one turn, enabling powerful combos with cards like Reaping the Graves and Songs of the Damned to bring back creatures from the graveyard. It also utilizes cycling creatures like Street Wraith and Monstrous Carabid to dig for combo pieces while dealing damage to the opponent. The deck includes a mix of cheap creatures and removal spells to control the board while building towards a game-winning combo."
+        },
+        {
+            "date": "2024-05-26",
+            "player": "Puper",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=55977&d=617029&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Tireless Tribe"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Inside Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Shadow Rift"
+                },
+                {
+                    "count": 2,
+                    "name": "Whiteout"
+                },
+                {
+                    "count": 1,
+                    "name": "Peek"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 1,
+                    "name": "Disrupt"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Shelter"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 2,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Snow-Covered Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Seeker of the Way"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Piracy Charm"
+                },
+                {
+                    "count": 2,
+                    "name": "Beckon Apparition"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize the synergy between Tireless Tribe and Inside Out to create a powerful combo that can quickly defeat opponents. The deck includes various spells like Brainstorm and Preordain to set up the combo, as well as counterspells like Circular Logic and Spell Pierce to protect it. The inclusion of cards like Shadow Rift and Whiteout allows for additional ways to enable the combo. The deck also includes card draw and land manipulation spells to maintain consistency and ensure the combo's success."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,2045 @@
+{
+    "tournament": {
+        "date": "2024-01-06",
+        "name": "MTGO Challenge 32",
+        "url": "https://mtgtop8.com/event?e=51098",
+        "format": "Legacy",
+        "players": 63
+    },
+    "decks": [
+        {
+            "date": "2024-01-06",
+            "player": "DNSolver",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578818&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 3,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Grindstone"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Painter's Servant"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenform"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                }
+            ],
+            "notes": "The main concept of this deck is to combo off using the interaction between Painter's Servant and Grindstone. By naming a color with Painter's Servant, the player can mill their opponent's entire library with Grindstone. The deck includes various artifact-based card draw spells like Thoughtcast and Mishra's Bauble to help dig for combo pieces. Emry, Lurker of the Loch provides recursion for artifacts and Mox Opal enables faster mana acceleration. Additionally, cards like Urza's Saga, Seat of the Synod, and Ancient Tomb help to generate additional artifacts or mana for the combo to work efficiently."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "TrueFuturism",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578826&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Cloudpost"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmerpost"
+                },
+                {
+                    "count": 4,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 4,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 1,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 2,
+                    "name": "Vesuva"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Deeps"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 3,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 4,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 1,
+                    "name": "Rootpath Purifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                }
+            ],
+            "notes": "The key concept of this deck is to utilize Cloudpost and Glimmerpost to generate a large amount of mana and ramp quickly. The deck also includes the combo of Dark Depths and Thespian's Stage to create a powerful 20/20 creature, as well as Elvish Reclaimer to tutor for important lands. Additionally, Crop Rotation and Green Sun's Zenith provide additional land searching and creature tutoring. The deck also includes hand disruption with Bojuka Bog and disruption with Pithing Needle. Overall, the deck aims to ramp quickly and have strong land-based interactions for a combo finish."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "DeathWrongShaman420",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578830&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 3,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 4,
+                    "name": "Life from the Loam"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 2,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 3,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 3,
+                    "name": "Punishing Fire"
+                },
+                {
+                    "count": 1,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 3,
+                    "name": "Grove of the Burnwillows"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Kozilek's Return"
+                },
+                {
+                    "count": 1,
+                    "name": "Endurance"
+                }
+            ],
+            "notes": "The key concept of this deck is to control the game by utilizing lands. The deck focuses on quickly ramping up with cards like Exploration and Mox Diamond, while also disrupting the opponent's mana base with Wasteland and Crop Rotation. The main win condition is the Dark Depths and Thespian's Stage combo, which creates a powerful Marit Lage token. The deck also includes various utility lands like Maze of Ith and Karakas for additional control and protection. Other cards like Punishing Fire and Urza's Saga provide additional value and options in different situations."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "McWinSauce",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578815&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "\"Name Sticker\" Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Cry Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Muxus, Goblin Grandee"
+                },
+                {
+                    "count": 3,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Broadside Bombardiers"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Trashmaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                }
+            ],
+            "notes": "The primary concept of this deck is to overwhelm the opponent with a fast and aggressive goblin tribal strategy. The deck focuses on playing low-cost and efficient goblin creatures, supported by cards that generate mana and provide additional utility. The deck aims to disrupt the opponent's game plan with cards like Chalice of the Void and Chrome Mox while maximizing the power of goblin creatures through cards like Battle Cry Goblin and Goblin Warchief. The deck also utilizes powerful goblin lords like Goblin Rabblemaster and Goblin Ringleader, as well as explosive plays with Muxus, Goblin Grandee."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "davy2892",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578817&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in the Loch"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Court of Cunning"
+                },
+                {
+                    "count": 2,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "True-Name Nemesis"
+                }
+            ],
+            "notes": "This deck aims to quickly establish control of the game by disrupting the opponent's resources while maintaining a fast and aggressive tempo. Utilizing powerful disruptive spells like Force of Will and Daze, along with efficient threats like Delver of Secrets and Murktide Regent, the deck looks to pressure opponents while disrupting their game plan. Reanimate and Troll of Khazad-dûm provide additional threats and flexibility, while cards like Brainstorm and Ponder help maintain card advantage and sculpt the perfect hand. The deck's mana base is designed to support a smooth and consistent game plan, with access to both blue and black mana sources for its spells."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "mononofu",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578827&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Daze"
+                },
+                {
+                    "count": 3,
+                    "name": "Dauthi Voidwalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in the Loch"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": "This deck focuses on quickly disrupting and controlling opponents while deploying aggressive threats, utilizing cards like Reanimate, Grief, and Force of Will to disrupt the opponent's game plan and apply pressure. The deck also features efficient removal spells like Fatal Push and Snuff Out to deal with problematic creatures while leveraging tempo plays with cards like Daze and Stifle. The combination of aggressive creatures like Troll of Khazad-dûm and Murktide Regent with disruptive elements creates a fast-paced and adaptable strategy that aims to outpace and overwhelm opponents in Legacy 1 vs 1 matches."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "_Shatun_",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578816&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Broadside Bombardiers"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 2,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 4,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Fury"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Dead/Gone"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Confluence"
+                }
+            ],
+            "notes": "The main focus of this deck is to disrupt the opponent's mana base by playing early Blood Moon and Chalice of the Void, while also applying pressure with aggressive creatures like Goblin Rabblemaster and Broadside Bombardiers. The deck aims to quickly ramp into powerful threats using mana acceleration from Ancient Tomb, City of Traitors, and Chrome Mox. Trinisphere helps to slow down the opponent's spells, while cards like Fable of the Mirror-Breaker and Fury provide additional reach and removal options. Overall, the deck is built around locking down the opponent while applying fast and efficient threats."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Kazuga",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578822&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Molten Collapse"
+                },
+                {
+                    "count": 1,
+                    "name": "Preordain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The key concept of this Grixis Aggro deck is to use efficient creatures like Delver of Secrets and Dragon's Rage Channeler along with disruption spells like Force of Will and Daze to pressure the opponent while disrupting their game plan. The deck aims to control the board with removal spells like Lightning Bolt and wasteland, while also utilizing card selection cards like Ponder and Brainstorm to find the right threats and answers. With the inclusion of Murktide Regent as a powerful finisher, this deck aims to quickly close out the game before the opponent can stabilize."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "OnlyLandsDotCom",
+            "result": "9",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578828&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Saw in Half"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 1,
+                    "name": "Oliphaunt"
+                },
+                {
+                    "count": 2,
+                    "name": "Opposition Agent"
+                },
+                {
+                    "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 4,
+                    "name": "Broadside Bombardiers"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 1,
+                    "name": "Urborg, Tomb of Yawgmoth"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Dauthi Voidwalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Feed the Swarm"
+                }
+            ],
+            "notes": "The key concept of this Grixis Aggro deck is to play aggressively and efficiently by using powerful cards like Reanimate and Saw in Half to quickly get creatures on the field and deal damage to the opponent. By utilizing cards like Dark Ritual and Chrome Mox, the deck can generate early mana advantage to deploy threats ahead of schedule. The deck also includes disruptive cards like Opposition Agent to disrupt the opponent's strategies and close out games with burn spells like Lightning Bolt. The deck aims to overwhelm the opponent with powerful creatures and efficient removal spells."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "burrarun",
+            "result": "10",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578820&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Emeria"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Forth Eorlingas!"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 1,
+                    "name": "Eowyn, Fearless Knight"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 2,
+                    "name": "Plateau"
+                },
+                {
+                    "count": 4,
+                    "name": "Seasoned Dungeoneer"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 2,
+                    "name": "Touch the Spirit Realm"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Loran of the Third Path"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": "The main concept of this deck is to establish early board control and disrupt your opponent's game plan while using aggressive creatures to apply pressure. By utilizing cards like Archon of Emeria, Chalice of the Void, and City of Traitors, you can slow down your opponent and establish a strong presence on the battlefield. With a mix of aggressive creatures like Éowyn, Fearless Knight and Seasoned Dungeoneer, combined with powerful lands such as Karakas and Ancient Tomb, you can maintain the upper hand and secure victory quickly."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Jack9Em",
+            "result": "11",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578829&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 1,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 2,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Sai, Master Thopterist"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 3,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "The main concept of this deck is to aggressively utilize artifact cards and the blue color to control the board and overwhelm the opponent. With cards like Chalice of the Void and Force of Will to disrupt the opponent's plays, along with powerful artifact creatures like Emry, Lurker of the Loch and Patchwork Automaton, this deck aims to establish early control and pressure the opponent with a combination of artifacts, card advantage, and counter spells. The inclusion of Urza's Saga and efficient mana acceleration cards like Mox Opal further enhance the speed and consistency of this aggressive artifact-based strategy."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "InterludeShadow",
+            "result": "12",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578825&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 1,
+                    "name": "Xander's Lounge"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 3,
+                    "name": "Dress Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Uro, Titan of Nature's Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Terminus"
+                },
+                {
+                    "count": 3,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Forth Eorlingas!"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Savannah"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Terminus"
+                },
+                {
+                    "count": 3,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                }
+            ],
+            "notes": "This deck focuses on utilizing a combination of powerful control elements and key cards from the Lord of the Rings universe to manipulate the game in favor of the player. By using counterspells like Force of Will and Force of Negation, along with disruptive spells like Teferi, Time Raveler and Dress Down, the player can control the pace of the game. The inclusion of cards like Uro, Titan of Nature's Wrath and The One Ring provide additional value and win conditions for a versatile strategy. Ultimately, this deck aims to outplay opponents through manipulation and control."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "kiyoaggro",
+            "result": "13",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578824&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 2,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Rough/Tumble"
+                }
+            ],
+            "notes": "The core strategy of this Canadian Threshold deck revolves around playing aggressively by utilizing low-cost spells and creatures to quickly control the game. The deck focuses on disrupting opponents' strategies with cards like Wasteland, Stifle, and Force of Will while dealing consistent damage with Lightning Bolt and Delver of Secrets. Tarmogoyf and Murktide Regent provide powerful threats on the board, supported by cantrips like Ponder and Brainstorm to maintain card advantage. The deck aims to apply pressure early on and control the tempo of the game to secure a swift victory."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Atticuslol",
+            "result": "14",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578821&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 3,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Kappa Cannoneer"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Hurkyl's Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenform"
+                }
+            ],
+            "notes": "This deck focuses on using artifacts and efficient mana sources to quickly overwhelm the opponent with aggression, utilizing cards like Emry, Lurker of the Loch, Mishra's Bauble, Mox Opal, and Urza's Saga to generate advantage and pressure. The deck aims to disrupt the opponent's game plan with cards like Chalice of the Void and Force of Will while also maintaining card advantage with cards like Thoughtcast and Thought Monitor. The inclusion of various artifact creatures and artifacts support cards like Shadowspear and Soul-Guide Lantern adds versatility and adaptability to the deck's game plan."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "yamayama",
+            "result": "15",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578823&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Scrubland"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "Consider"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Edge of Autumn"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 3,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion's Eye Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Doomsday"
+                },
+                {
+                    "count": 1,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 3,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Time Raveler"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Serenity"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize the Doomsday combo to manipulate the top of the deck and win the game in one turn by casting Thassa's Oracle. The deck includes key components such as Dark Ritual and Lotus Petal to generate mana quickly, along with protection spells like Veil of Summer and Force of Will to ensure the combo goes off without interference. The deck also includes cards like Brainstorm and Ponder for card selection and manipulation, as well as interaction spells like Daze and Teferi, Time Raveler to disrupt opponents' strategies."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "ARAPAKO",
+            "result": "16",
+            "anchor_uri": "https://mtgtop8.com/event?e=51098&d=578819&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Removal"
+                },
+                {
+                    "count": 3,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Tarmogoyf"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Submerge"
+                },
+                {
+                    "count": 1,
+                    "name": "Counterbalance"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashiok, Dream Render"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Brotherhood's End"
+                }
+            ],
+            "notes": "The main concept of this deck is to apply pressure early on with aggressive creatures like Dragon's Rage Channeler and Questing Druid, while disrupting the opponent's game plan with counterspells like Force of Will and Daze. The deck also aims to control the board with removal spells like Unholy Heat and Lightning Bolt. Additionally, the deck utilizes card selection and fetching lands efficiently with cards like Preordain, Ponder, Mishra's Bauble, and fetch lands. Overall, the deck aims to maintain tempo and pressure the opponent while disrupting their plans."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

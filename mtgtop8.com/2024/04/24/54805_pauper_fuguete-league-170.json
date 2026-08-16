@@ -1,0 +1,973 @@
+{
+    "tournament": {
+        "date": "2024-04-24",
+        "name": "Fuguete League 170",
+        "url": "https://mtgtop8.com/event?e=54805",
+        "format": "Pauper",
+        "players": 38
+    },
+    "decks": [
+        {
+            "date": "2024-04-24",
+            "player": "Ninetales13",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607297&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 1,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Inspiring Overseer"
+                },
+                {
+                    "count": 2,
+                    "name": "Indoctrination Attendant"
+                },
+                {
+                    "count": 1,
+                    "name": "Okiba-Gang Shinobi"
+                },
+                {
+                    "count": 2,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Spare Supplies"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Unmake"
+                },
+                {
+                    "count": 1,
+                    "name": "Castigate"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 2,
+                    "name": "Omen of the Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 2,
+                    "name": "Kabira Crossroads"
+                },
+                {
+                    "count": 3,
+                    "name": "Orzhov Basilica"
+                },
+                {
+                    "count": 2,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 1,
+                    "name": "Sunlit Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Lone Missionary"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Bala Ged Scorpion"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Sanctify"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                }
+            ],
+            "notes": "This Orzhov Aggro deck focuses on maximizing value through card advantage, recursion, and disruption. By utilizing creatures with enter the battlefield abilities like Glint Hawk and Kor Skyfisher, along with card draw from Thraben Inspector, the deck aims to maintain a steady stream of threats. The inclusion of removal spells like Cast Down and Unmake along with disruption from cards like Castigate and Echoing Decay allows the deck to control the board while applying pressure. Additionally, the use of life gain lands and creatures like Kabira Crossroads and Dawnbringer Cleric helps to ensure longevity in the game."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Mideagames",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607298&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Rubblebelt Maverick"
+                },
+                {
+                    "count": 4,
+                    "name": "Satyr Wayfinder"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrapwork Mutt"
+                },
+                {
+                    "count": 4,
+                    "name": "Blanchwood Prowler"
+                },
+                {
+                    "count": 4,
+                    "name": "Stinkweed Imp"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotleth Giant"
+                },
+                {
+                    "count": 4,
+                    "name": "Gnaw to the Bone"
+                },
+                {
+                    "count": 3,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Dread Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Acorn Harvest"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Geothermal Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Wooded Ridgeline"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 2,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Coffin Purge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Grudge"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                }
+            ],
+            "notes": "The deck focuses on filling the graveyard with creature cards and then bringing them back to the battlefield quickly through reanimation spells like Exhume and Dread Return. The key strategy is to create a powerful board presence by utilizing the combo potential of cards like Scrapwork Mutt and Lotleth Giant while also gaining life with cards like Gnaw to the Bone. The deck aims to overwhelm the opponent with a fast and aggressive reanimation strategy, using various creatures with different abilities to outmaneuver and outpace the opponent."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Snakelicious",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607300&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 3,
+                    "name": "Wedding Invitation"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Boros Garrison"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Electrickery"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Arashin Cleric"
+                }
+            ],
+            "notes": "The main focus of this Boros Aggro deck is to quickly establish a board presence and deal damage efficiently using a combination of cheap creatures and burn spells. By utilizing cards such as Galvanic Blast and Lightning Bolt along with Glint Hawk and Kor Skyfisher for added value, the deck aims to overwhelm the opponent with early pressure and close out the game before they have a chance to stabilize. Additionally, the deck includes cards like All That Glitters and Lembas to boost the power of its creatures and further increase its aggressive potential."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Kaholtz",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607299&f=PAU",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Jaspera Sentinel"
+                },
+                {
+                    "count": 4,
+                    "name": "Saruli Caretaker"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Secret Door"
+                },
+                {
+                    "count": 2,
+                    "name": "Orochi Leafcaller"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Battlement"
+                },
+                {
+                    "count": 4,
+                    "name": "Axebane Guardian"
+                },
+                {
+                    "count": 1,
+                    "name": "Bloodrite Invoker"
+                },
+                {
+                    "count": 3,
+                    "name": "Drift of Phantasms"
+                },
+                {
+                    "count": 1,
+                    "name": "Third Path Savant"
+                },
+                {
+                    "count": 1,
+                    "name": "Tuktuk Rubblefort"
+                },
+                {
+                    "count": 1,
+                    "name": "Galvanic Alchemist"
+                },
+                {
+                    "count": 3,
+                    "name": "Shield-Wall Sentinel"
+                },
+                {
+                    "count": 1,
+                    "name": "Mnemonic Wall"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 1,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 1,
+                    "name": "Pulse of Murasa"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 1,
+                    "name": "Freed from the Real"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Healer of the Glade"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Scattershot Archer"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirrorshell Crab"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo's Safekeeping"
+                }
+            ],
+            "notes": "The deck focuses on utilizing walls with high toughness to generate mana and protect the player while setting up a combo win condition with Freed from the Real. By using cards like Axebane Guardian and Overgrown Battlement to generate mana, the player can quickly assemble the pieces needed for the combo, while also using cards like Lead the Stampede and Winding Way to draw into key pieces. The walls provide defense against aggressive decks, allowing the player to survive long enough to execute the combo and win the game."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Alchemisia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607303&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Omen of the Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Navigator's Compass"
+                },
+                {
+                    "count": 2,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbed Batterfist"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 2,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 1,
+                    "name": "Scoured Barrens"
+                },
+                {
+                    "count": 2,
+                    "name": "Goldmire Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Wind-Scarred Crag"
+                },
+                {
+                    "count": 2,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Navigator's Compass"
+                }
+            ],
+            "notes": "This Boros Aggro deck focuses on efficient creatures and buffs to quickly overwhelm the opponent with fast damage output. Utilizing artifacts and cheap removal spells, the deck aims to control the board early on and then pump up its creatures with cards like All That Glitters for a powerful offensive push. With a mix of flying creatures and efficient creature bounce, the deck can quickly adapt to various board states and maintain pressure on the opponent throughout the game."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Davidbrito",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607304&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 2,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 3,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 11,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Witch's Cottage"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 1,
+                    "name": "Fangren Marauder"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": "The main focus of this Golgari Garden control deck is to disrupt the opponent's strategy while generating value through sacrifice effects and card draw. It aims to control the board with removal spells like Cast Down and Crypt Rats, while generating advantage with cards like Ichor Wellspring and Deadly Dispute. The deck also aims to maintain card advantage with Thorn of the Black Rose and Avenging Hunter. Additionally, the deck has a recursion strategy with Witch's Cottage and Troll of Khazad-dûm to ensure a steady stream of threats to keep the opponent on the back foot."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Wolffuzil",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607302&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 2,
+                    "name": "Mesmeric Fiend"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark-Dweller Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Putrid Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 2,
+                    "name": "Chromatic Star"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "First Day of Class"
+                },
+                {
+                    "count": 1,
+                    "name": "Shred Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Rowan's Grim Search"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 1,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Tramway Station"
+                },
+                {
+                    "count": 3,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 1,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 2,
+                    "name": "Introduction to Prophecy"
+                }
+            ],
+            "notes": "The main concept of this deck is to utilize a combination of Goblins and various spells to generate mana quickly, allowing for explosive plays and combos. By sacrificing Goblins with Skirk Prospector and Dark Ritual, the deck can rapidly flood the board with creatures and utilize various sacrifice effects for additional value. Cards like Mesmeric Fiend and Putrid Goblin provide disruption and recursion, while cards like Deadly Dispute and First Day of Class offer ways to draw cards and further ramp up the mana generation. Ultimately, the goal is to overwhelm the opponent with a quick and powerful Goblin army."
+        },
+        {
+            "date": "2024-04-24",
+            "player": "Cavicchiav",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54805&d=607301&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 3,
+                    "name": "Fog"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Growth Spiral"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 2,
+                    "name": "Tangle"
+                },
+                {
+                    "count": 4,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Words of Wisdom"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 2,
+                    "name": "Behold the Multiverse"
+                },
+                {
+                    "count": 2,
+                    "name": "Stream of Thought"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Quandrix Campus"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Tangled Islet"
+                },
+                {
+                    "count": 2,
+                    "name": "Desert"
+                },
+                {
+                    "count": 2,
+                    "name": "Thornwood Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Simic Growth Chamber"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Desert"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Azure Fleet Admiral"
+                },
+                {
+                    "count": 4,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Wilt"
+                },
+                {
+                    "count": 1,
+                    "name": "Keep Watch"
+                }
+            ],
+            "notes": "The main focus of this deck is to use a combination of spell cards and land cards to quickly draw through the deck, generate card advantage, and stall the opponent's attacks using fog effects. The deck aims to set up a lock on the opponent by consistently drawing into more fog effects and countering key spells using Arcane Denial. The win condition is typically achieved through milling the opponent using Stream of Thought or overwhelming them with card advantage from Generous Ent and Arcane Denial. This deck is designed to control the game and outlast the opponent until victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

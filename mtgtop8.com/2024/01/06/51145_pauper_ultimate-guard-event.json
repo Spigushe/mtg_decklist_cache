@@ -1,0 +1,921 @@
+{
+    "tournament": {
+        "date": "2024-01-06",
+        "name": "Ultimate Guard Event",
+        "url": "https://mtgtop8.com/event?e=51145",
+        "format": "Pauper",
+        "players": 35
+    },
+    "decks": [
+        {
+            "date": "2024-01-06",
+            "player": "Christoph Hoffmeyer",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579191&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Augur of Bolas"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Seer"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 3,
+                    "name": "Ninja of the Deep Hours"
+                },
+                {
+                    "count": 4,
+                    "name": "Spellstutter Sprite"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 1,
+                    "name": "Agony Warp"
+                },
+                {
+                    "count": 3,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 4,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 3,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 11,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Maestros Theater"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Echoing Decay"
+                },
+                {
+                    "count": 2,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                }
+            ],
+            "notes": "This Dimir Control deck focuses on using counterspells, removal, and card advantage to control the game and outvalue the opponent. Cards like Spellstutter Sprite and Ninja of the Deep Hours provide incremental advantage, while Gurmag Angler and Thorn of the Black Rose offer powerful threats. The deck uses a mix of disruption and card draw spells to maintain control of the board and wear down the opponent. With a focus on efficient removal and countermagic, the deck aims to disrupt the opponent's game plan and secure victory through attrition."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Daniel Vettermann",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579192&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 1,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 10,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 4,
+                    "name": "Troublemaker Ouphe"
+                }
+            ],
+            "notes": "The deck focuses on controlling the board through removal spells and creature sacrifices while generating card advantage with cards like Ichor Wellspring and Lembas. It aims to disrupt the opponent's game plan with discard effects and removal spells like Cast Down and Deadly Dispute. The deck also utilizes the \"Monarch\" mechanic with Thorn of the Black Rose to generate card advantage. Additionally, Golgari and Jund lands provide mana fixing and recursion, allowing for a versatile and resilient gameplay style that can outvalue and outlast opponents in a long game."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Philipp Hinrichsen",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579193&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Blacksmith's Skill"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 3,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 3,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 3,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 3,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault Skirge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 1,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Obsidian Acolyte"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Blacksmith's Skill"
+                }
+            ],
+            "notes": "The key concept of this deck is to quickly deploy a board presence and overwhelm the opponent through the efficient use of artifacts and low-cost spells. By utilizing cards such as Thoughtcast, Lotus Petal, and Springleaf Drum, the deck aims to maximize card draw and mana acceleration to maintain a steady flow of threats. Additionally, the inclusion of powerful artifacts like All That Glitters and Deadly Dispute further enhances the deck's aggression. The combination of cheap artifacts and spell countermagic like Metallic Rebuke and Negate also provides a level of protection against opposing removal and disruption."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Michael Schwendner",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579194&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Lunarch Veteran"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Cat"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Dawnbringer Cleric"
+                },
+                {
+                    "count": 3,
+                    "name": "Raffine's Informant"
+                },
+                {
+                    "count": 4,
+                    "name": "Squadron Hawk"
+                },
+                {
+                    "count": 3,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 2,
+                    "name": "Guardian of the Guildpact"
+                },
+                {
+                    "count": 2,
+                    "name": "Eagles of the North"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 2,
+                    "name": "Rally the Peasants"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Screech"
+                },
+                {
+                    "count": 3,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 1,
+                    "name": "Azorius Guildgate"
+                },
+                {
+                    "count": 4,
+                    "name": "Basilisk Gate"
+                },
+                {
+                    "count": 4,
+                    "name": "Citadel Gate"
+                },
+                {
+                    "count": 2,
+                    "name": "Heap Gate"
+                },
+                {
+                    "count": 1,
+                    "name": "Idyllic Beachfront"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Journey to Nowhere"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game using a combination of cheap creatures and spells to stall the opponent's gameplay. The deck focuses on playing defensively with cards like Lunarch Veteran, Sacred Cat, and Thraben Inspector to gain life and create blockers. It also utilizes cards like Prismatic Strands and Rally the Peasants for combat tricks and removal. The deck benefits from the Gate subtheme, which provides mana fixing and card advantage. Overall, the deck aims to prolong the game and outvalue the opponent's resources."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Timon Bepperling",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579195&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Glint Hawk"
+                },
+                {
+                    "count": 3,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Kor Skyfisher"
+                },
+                {
+                    "count": 3,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 1,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Rustvale Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Razortide Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 2,
+                    "name": "Journey to Nowhere"
+                }
+            ],
+            "notes": "The main concept of this deck is to flood the board with low-cost artifact creatures and use cards like Glint Hawk, Kor Skyfisher, and Myr Enforcer to gain tempo advantage. By quickly emptying the hand with Thoughtcast and drawing cards, the deck can consistently put pressure on the opponent. The inclusion of cards like All That Glitters and Galvanic Blast further enhances the aggressive nature of the deck, making it a formidable force to be reckoned with in the Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Stefan Huehr",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579196&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ornithopter"
+                },
+                {
+                    "count": 4,
+                    "name": "Frogmite"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 4,
+                    "name": "Gingerbrute"
+                },
+                {
+                    "count": 4,
+                    "name": "Moon-Circuit Hacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Thraben Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 4,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 3,
+                    "name": "Of One Mind"
+                },
+                {
+                    "count": 4,
+                    "name": "All That Glitters"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Den"
+                },
+                {
+                    "count": 4,
+                    "name": "Razortide Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Darksteel Citadel"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Turn Aside"
+                },
+                {
+                    "count": 2,
+                    "name": "Standard Bearer"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 2,
+                    "name": "Revoke Existence"
+                }
+            ],
+            "notes": "This deck focuses on efficiently casting cheap artifact creatures and buffs to overwhelm opponents with a combination of aggressive creatures and powerful artifacts. By utilizing cards like Springleaf Drum and Metallic Rebuke to accelerate mana production and disrupt opponent's strategies, combined with efficient card draw like Thoughtcast and Of One Mind, the deck aims to quickly establish a dominating board presence with creatures like Ornithopter, Frogmite, and Myr Enforcer, while boosting their power with cards like All That Glitters."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Mathis G",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579197&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Crypt Rats"
+                },
+                {
+                    "count": 3,
+                    "name": "Thorn of the Black Rose"
+                },
+                {
+                    "count": 3,
+                    "name": "Avenging Hunter"
+                },
+                {
+                    "count": 3,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 3,
+                    "name": "Lembas"
+                },
+                {
+                    "count": 2,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 4,
+                    "name": "Defile"
+                },
+                {
+                    "count": 4,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Spinning Darkness"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Golgari Rot Farm"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Khalni Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch's Cottage"
+                },
+                {
+                    "count": 11,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Deglamer"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                },
+                {
+                    "count": 3,
+                    "name": "Drown in Sorrow"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the battlefield by utilizing removal spells, life gain, and sacrifice effects. It aims to outvalue opponents by generating card advantage with Ichor Wellspring and Tithing Blade, while also keeping the board clear with cards like Defile and Cast Down. The deck also utilizes reanimation effects like Avenging Hunter and Troll of Khazad-dûm to maintain a strong presence on the battlefield. With access to lifegain and sacrifice effects, it aims to grind out wins against aggressive strategies and outlast opponents in longer games."
+        },
+        {
+            "date": "2024-01-06",
+            "player": "Viktor Bernhardt",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51145&d=579198&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 1,
+                    "name": "Fodder Tosser"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 2,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 3,
+                    "name": "Seal of Fire"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Rakdos Carnarium"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                }
+            ],
+            "notes": "The main idea of this Rakdos Aggro deck is to overwhelm the opponent with low-cost aggressive creatures while using burn spells like Galvanic Blast, Lightning Bolt, and Fiery Temper to control the board and finish off the opponent. The deck also includes lifelink cards like Alms of the Vein and Vampire's Kiss to gain life and stay ahead in the race. Faithless Looting helps to dig for key cards while Seal of Fire provides additional removal. Overall, this deck aims to apply constant pressure and quickly close out games before the opponent can stabilize."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

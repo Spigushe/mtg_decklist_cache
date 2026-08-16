@@ -1,0 +1,981 @@
+{
+    "tournament": {
+        "date": "2024-02-17",
+        "name": "Sociedad Premodern CR (8ED: Camarones al gusto)",
+        "url": "https://mtgtop8.com/event?e=52504",
+        "format": "Premodern",
+        "players": 16
+    },
+    "decks": [
+        {
+            "date": "2024-02-17",
+            "player": "El Willy",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589801&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Living Wish"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 3,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Spiritmonger"
+                },
+                {
+                    "count": 2,
+                    "name": "Krosan Tusker"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 4,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 1,
+                    "name": "Tainted Wood"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 2,
+                    "name": "Oversold Cemetery"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Infest"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Spiritmonger"
+                }
+            ],
+            "notes": "The deck focuses on disrupting the opponent's strategy through hand disruption spells like Duress and Cabal Therapy, while also controlling the board with removal spells like Smother and Pernicious Deed. The deck aims to outvalue the opponent by utilizing cards like Recurring Nightmare to bring back powerful creatures like Ravenous Baloth and Blastoderm. The deck also has a toolbox aspect with Living Wish to search for specific answers or threats from the sideboard. The mana base is designed to support the deck's efficient spells and creatures, with a mix of lands that provide colored mana and utility."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Emmanuel Cianfanelli",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589802&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Rager"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 3,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 3,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using various removal spells and disruption effects to slow down the opponent's game plan. The deck aims to generate card advantage through cards like Phyrexian Arena and Yavimaya Elder, while also utilizing creatures like Ravenous Baloth and Deranged Hermit to pressure the opponent. The deck also includes utility lands like Dust Bowl and Volrath's Stronghold to provide additional value. Overall, the deck aims to outvalue and outlast the opponent by efficiently removing threats and generating card advantage."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Daniel Meza",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589803&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 4,
+                    "name": "Shadowmage Infiltrator"
+                },
+                {
+                    "count": 1,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Forbid"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghastly Demise"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 1,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 2,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 2,
+                    "name": "Peek"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Cephalid Coliseum"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground River"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunting Echoes"
+                },
+                {
+                    "count": 1,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 2,
+                    "name": "Lobotomy"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by utilizing cards such as Psychatog, Shadowmage Infiltrator, and Counterspell to prevent the opponent from executing their game plan. The deck aims to draw cards, disrupt the opponent's strategy, and ultimately win through incremental advantage. Cards like Gush, Accumulated Knowledge, and Peek help with card advantage, while Duress and Diabolic Edict help with disruption. The deck also has a land base that allows for consistency in mana production. Overall, the deck focuses on outlasting the opponent and winning through attrition."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Diego Medrano",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589804&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 3,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 2,
+                    "name": "Overload"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 2,
+                    "name": "Lava Dart"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly and aggressively attack the opponent's life total using efficient and low-cost direct damage spells and creatures. It aims to maintain pressure on the opponent by continuously casting burn spells like Lightning Bolt and Fireblast while playing aggressive creatures like Mogg Fanatic and Jackal Pup. The deck also includes cards like Sulfuric Vortex to further chip away at the opponent's life points and close out the game as quickly as possible."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Javier Córdoba",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589806&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Earthquake"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thermokarst"
+                },
+                {
+                    "count": 4,
+                    "name": "Winter's Grasp"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 3,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Mountain"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Call of the Herd"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 3,
+                    "name": "Zuran Orb"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game through disruption and resource management while setting up the combo of Oath of Druids to cheat out powerful creatures like Terravore. The deck aims to slow down the opponent with cards like Sphere of Resistance and Wasteland, while also having some board wipes like Earthquake and Pyroclasm for protection. The use of Sylvan Library helps with card advantage and consistency, while the mana base is optimized for efficiency and flexibility. Overall, the deck focuses on control elements and utilizing Oath of Druids for a strong end game."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Ricardo Abarca",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589808&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 2,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 1,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 1,
+                    "name": "Mogg Salvage"
+                },
+                {
+                    "count": 1,
+                    "name": "Overload"
+                },
+                {
+                    "count": 4,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent quickly with aggressive, low-cost creatures and direct damage spells. By efficiently utilizing burn spells and hasty creatures like Ball Lightning and Jackal Pup, the deck aims to put pressure on the opponent early in the game. The inclusion of Grim Lavamancer and Sulfuric Vortex further adds to the deck's ability to consistently deal damage and close out games swiftly. Additionally, the use of cheap mana accelerants like Urza's Bauble and Cursed Scroll ensures a fast and relentless tempo to secure victory."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Walter Ramírez",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589805&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Divert"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly assemble the combo of Phyrexian Dreadnought with Stifle to create a powerful threat on the board while preventing your opponent from countering or removing it. By disrupting your opponent's plays with cards like Meddling Mage and Counterspell, you can buy enough time to set up your combo and secure the win. The deck also includes card draw and manipulation spells to help find the pieces you need. Overall, it is a fast-paced, disruptive combo deck designed to take control of the game."
+        },
+        {
+            "date": "2024-02-17",
+            "player": "Julian Wiedenmann",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=52504&d=589807&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Natural Order"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 1,
+                    "name": "Multani, Maro-Sorcerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Phantom Nishoba"
+                },
+                {
+                    "count": 1,
+                    "name": "Symbiotic Wurm"
+                },
+                {
+                    "count": 2,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 2,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 1,
+                    "name": "Mishra's Factory"
+                },
+                {
+                    "count": 1,
+                    "name": "Dust Bowl"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Smother"
+                },
+                {
+                    "count": 1,
+                    "name": "Reverent Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Infest"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Chainer's Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Baloth"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using a combination of removal spells, hand disruption, and powerful creatures to outvalue the opponent. It aims to disrupt the opponent's game plan with cards like Duress and Cabal Therapy, while also dealing with threats with Pernicious Deed and Naturalize. The deck can also generate value through Recurring Nightmare and Natural Order, allowing it to continually pressure the opponent. The Rock archetype is known for its resilience and ability to grind out games into its favor through efficient plays and resource management."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

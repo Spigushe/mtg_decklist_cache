@@ -1,0 +1,969 @@
+{
+    "tournament": {
+        "date": "2024-01-13",
+        "name": "Challenge",
+        "url": "https://mtgtop8.com/event?e=51228",
+        "format": "Premodern",
+        "players": 22
+    },
+    "decks": [
+        {
+            "date": "2024-01-13",
+            "player": "Mike Flores",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579841&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Barbarian Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Incinerate"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 2,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 4,
+                    "name": "Ball Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Shock"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Jackal Pup"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Lavamancer"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Overload"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Price of Progress"
+                },
+                {
+                    "count": 3,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Scroll"
+                },
+                {
+                    "count": 1,
+                    "name": "Sulfuric Vortex"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly and aggressively deal damage to the opponent using a combination of efficient burn spells and powerful creatures. The deck aims to overwhelm the opponent's defenses and reduce their life total as quickly as possible. It heavily relies on direct damage spells like Lightning Bolt, Shock, and Incinerate along with high-impact creatures like Ball Lightning to apply constant pressure. With cards like Fireblast, Cursed Scroll, and Sulfuric Vortex, the deck has additional ways to maintain pressure and finish off the opponent."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Greg Fenton",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579842&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 3,
+                    "name": "Tangle Wire"
+                },
+                {
+                    "count": 4,
+                    "name": "Opposition"
+                },
+                {
+                    "count": 4,
+                    "name": "Survival of the Fittest"
+                },
+                {
+                    "count": 1,
+                    "name": "Genesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 1,
+                    "name": "Man-o'-War"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 1,
+                    "name": "Uktabi Orangutan"
+                },
+                {
+                    "count": 2,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 2,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 2,
+                    "name": "Merfolk Looter"
+                },
+                {
+                    "count": 2,
+                    "name": "Tradewind Rider"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Roots"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 2,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya Coast"
+                },
+                {
+                    "count": 6,
+                    "name": "Island"
+                },
+                {
+                    "count": 8,
+                    "name": "Forest"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Spike Weaver"
+                },
+                {
+                    "count": 2,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 3,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 3,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Hidden Gibbons"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by using various cards that disrupt the opponent's strategies and limit their resources. The deck focuses on using Winter Orb, Tangle Wire, and Opposition to stall the opponent and prevent them from making significant moves. Survival of the Fittest is used to search for specific creatures to adapt to the current game state, while cards like Genesis and Uktabi Orangutan provide additional utility. The deck also includes a mix of efficient creatures and mana ramp cards to provide stability and flexibility in the early game."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Cam Fulton",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579843&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Argothian Enchantress"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Elephant Grass"
+                },
+                {
+                    "count": 4,
+                    "name": "Enchantress's Presence"
+                },
+                {
+                    "count": 2,
+                    "name": "Exploration"
+                },
+                {
+                    "count": 9,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 2,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Serra's Sanctum"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 4,
+                    "name": "Sterling Grove"
+                },
+                {
+                    "count": 1,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 1,
+                    "name": "Words of Wind"
+                },
+                {
+                    "count": 1,
+                    "name": "Worship"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 1,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 1,
+                    "name": "Aura of Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Carpet of Flowers"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Black"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Green"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Sphere of Law"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": "This deck focuses on the powerful synergy between enchantments and card draw. The main objective is to generate card advantage by casting enchantments and triggering card draw effects from cards like Argothian Enchantress, Enchantress's Presence, and Sylvan Library. The deck includes enchantment-based defenses like Elephant Grass and Solitary Confinement to protect the player. Replenish and Opalescence are used to bring back powerful enchantments from the graveyard and turn them into creatures. The deck also features some control elements like Parallax Wave and Seal of Cleansing to deal with threats."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Alex Caviris",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579844&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 1,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Portent"
+                },
+                {
+                    "count": 3,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Chill"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Hibernation"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Perish"
+                },
+                {
+                    "count": 1,
+                    "name": "Rushing River"
+                },
+                {
+                    "count": 2,
+                    "name": "Winter Orb"
+                }
+            ],
+            "notes": "This deck focuses on utilizing the combo of Phyrexian Dreadnought and Stifle to quickly put pressure on the opponent. By controlling the opponent's resources with cards like Duress and Counterspell, while also maintaining card advantage with Deep Analysis and Impulse, it can set up powerful plays with Psychatog and Gush. The deck aims to disrupt the opponent's strategy while setting up its combo to close out the game efficiently. With a mix of control elements and combo potential, it can quickly overwhelm opponents in the Pre-modern format."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Lanny Huang",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579846&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 2,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Dryad"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 4,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game by using counterspells and disruption while simultaneously growing in power through the use of efficient card draw and creatures that get stronger with each spell cast. The deck aims to stall the opponent by countering their spells and disrupting their game plan, while building up its own resources and threatening to win with the powerful creature Psychatog. The deck also includes mana acceleration and efficient cantrips to ensure consistent gameplay and ensure it can maintain its control over the game."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Anthony Loman",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579845&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 3,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 2,
+                    "name": "Cataclysm"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Riftstone Portal"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "Rith's Grove"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Enforcer"
+                },
+                {
+                    "count": 1,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 3,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Warmth"
+                }
+            ],
+            "notes": "The central idea of this deck is to use the Oath of Druids card to gain an advantage by forcing your opponent to sacrifice creatures, while you maintain control of the battlefield. The deck relies on a combination of control elements such as Armageddon, Cataclysm, and Sphere of Resistance to disrupt the opponent's game plan and slow them down. Additionally, the deck includes cards like Sylvan Library and Enlightened Tutor to help find and assemble the necessary pieces for the Oath of Druids strategy. Overall, the deck aims to control the board state and overwhelm the opponent with its own powerful creatures."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Mike Harris",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579847&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Brain Freeze"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Flash of Insight"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                }
+            ],
+            "notes": "The focus of the deck is to quickly assemble the combo of Phyrexian Dreadnought and Stifle to create a powerful, game-winning threat while using counterspells and disruptive cards like Meddling Mage to control the board and protect the combo. The deck aims to efficiently disrupt the opponent while advancing its own game plan of comboing off as quickly as possible. It also includes card draw and manipulation spells like Gush and Portent to find the necessary pieces for the combo."
+        },
+        {
+            "date": "2024-01-13",
+            "player": "Dave Kaplan",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51228&d=579848&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Foil"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 9,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Dreadnought"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Vision Charm"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                }
+            ],
+            "notes": "The main concept of the deck is to quickly assemble the combo of playing Phyrexian Dreadnought and then Stifling its enter the battlefield ability to get a 12/12 creature for just one mana. The deck includes various counterspells and card draw spells to protect and find the combo pieces efficiently, while also including disruption in the form of Meddling Mage and Swords to Plowshares to control the opponent's game plan. The deck aims to win the game quickly and decisively by overwhelming the opponent with a powerful threat."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

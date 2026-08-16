@@ -1,0 +1,953 @@
+{
+    "tournament": {
+        "date": "2024-04-13",
+        "name": "Jornada 4",
+        "url": "https://mtgtop8.com/event?e=54605",
+        "format": "Premodern",
+        "players": 24
+    },
+    "decks": [
+        {
+            "date": "2024-04-13",
+            "player": "Igor Bidaurrazaga",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605587&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Forsaken City"
+                },
+                {
+                    "count": 19,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Stasis"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 2,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Thwart"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Arcane Denial"
+                },
+                {
+                    "count": 4,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 4,
+                    "name": "Black Vise"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnare"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Short"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Cursed Totem"
+                }
+            ],
+            "notes": "The main focus of this deck is to establish a lock on the game by utilizing the combo of Stasis and Forsaken City. By continuously bouncing Stasis back to your hand with cards like Boomerang and Chain of Vapor, you can prevent your opponent from untapping their permanents and effectively shutting down their ability to play spells. This control-oriented strategy is supplemented with counterspells like Daze and Arcane Denial to protect your lock, while also drawing into key pieces with cards like Gush and Impulse."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Luisma Martin",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605588&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 10,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Hearth Charm"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Hull Breach"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Sulfuric Vortex"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                }
+            ],
+            "notes": "This deck focuses on aggressively deploying goblin creatures early in the game to overwhelm the opponent with a fast and efficient assault. The key strategy is to use cards like Goblin Lackey and Goblin Matron to quickly bring out powerful goblin creatures like Goblin Piledriver and Siege-Gang Commander. With the ability to disrupt the opponent's mana base using Wasteland and Rishadan Port, along with removal options like Mogg Fanatic and Gempalm Incinerator, this deck aims to maintain control of the board while delivering consistent damage to secure victory."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Odei Torres",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605589&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Skycloud Expanse"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Wave"
+                },
+                {
+                    "count": 4,
+                    "name": "Attunement"
+                },
+                {
+                    "count": 4,
+                    "name": "Parallax Tide"
+                },
+                {
+                    "count": 4,
+                    "name": "Opalescence"
+                },
+                {
+                    "count": 4,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Replenish"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Frantic Search"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Orim's Chant"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Chill"
+                }
+            ],
+            "notes": "The foundation of this deck is built around utilizing cards like Attunement and Parallax Tide/Wave to fill the graveyard, then casting Replenish to bring back key enchantments like Opalescence for a game-winning combo. It also includes control elements with Seal of Cleansing and Swords to Plowshares to disrupt the opponent's strategy. Tsabo's Web helps to lock the opponent out of certain land abilities, while Frantic Search and Intuition provide additional card advantage and deck manipulation. The deck aims to quickly assemble its combo pieces and overwhelm the opponent before they can mount a defense."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Borja Villada",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605590&f=PREM",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 2,
+                    "name": "Forbid"
+                },
+                {
+                    "count": 2,
+                    "name": "Impulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Gush"
+                },
+                {
+                    "count": 2,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 3,
+                    "name": "Zombie Infestation"
+                },
+                {
+                    "count": 3,
+                    "name": "Intuition"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 2,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 3,
+                    "name": "Squee, Goblin Nabob"
+                },
+                {
+                    "count": 3,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Solitary Confinement"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 2,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                }
+            ],
+            "notes": "The main strategy of this deck is to control the game by utilizing a combination of counterspells, removal spells, and card draw. The deck aims to disrupt the opponent's game plan while slowly building up advantage through card advantage and powerful threats like Psychatog. By efficiently answering threats and generating card advantage, the deck seeks to outvalue the opponent and secure victory. Additionally, the inclusion of Zombie Infestation and Squee, Goblin Nabob provides alternative win conditions and additional card advantage options."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Ivan Arjona",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605594&f=PREM",
+            "mainboard": [
+                {
+                    "count": 9,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 3,
+                    "name": "Tainted Field"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Volrath's Stronghold"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 4,
+                    "name": "Gerrard's Verdict"
+                },
+                {
+                    "count": 4,
+                    "name": "Vindicate"
+                },
+                {
+                    "count": 1,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 1,
+                    "name": "Skeletal Scrying"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Masticore"
+                },
+                {
+                    "count": 3,
+                    "name": "Nantuko Shade"
+                },
+                {
+                    "count": 3,
+                    "name": "Exalted Angel"
+                },
+                {
+                    "count": 4,
+                    "name": "Hypnotic Specter"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 3,
+                    "name": "Phyrexian Negator"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                }
+            ],
+            "notes": "The main concept of this Deadguy Ale deck is to aggressively control the opponent's resources through disruption spells like Duress and Gerrard's Verdict, removal spells like Vindicate and Swords to Plowshares, while generating card advantage with Phyrexian Arena. The deck also aims to win quickly with powerful creatures like Nantuko Shade and Exalted Angel. Additionally, the inclusion of Wasteland helps disrupt the opponent's mana base. Overall, the deck focuses on early aggression and disruption to control the game."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Dario Gonzalez",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605591&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 8,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 1,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 4,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Sleight of Hand"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Foil"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Gush"
+                },
+                {
+                    "count": 4,
+                    "name": "Opt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Dryad"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 3,
+                    "name": "Chill"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 3,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                }
+            ],
+            "notes": "The deck focuses on controlling the opponent's board while simultaneously building up its own resources and card advantage. It uses cards like Swords to Plowshares, Counterspell, and Meddling Mage to disrupt the opponent's plans, while also utilizing Gush and Opt to draw additional cards. The deck can also generate additional mana with Mox Diamond and City of Brass to cast powerful spells like Armageddon and Winter Orb. Ultimately, the goal is to outlast the opponent and overwhelm them with powerful creatures like Psychatog and Quirion Dryad."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Naila Jornet",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605592&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 7,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 3,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Anarchy"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Domain"
+                },
+                {
+                    "count": 2,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                }
+            ],
+            "notes": "The main focus of this Goblins deck is to quickly swarm the board with aggressive creatures like Goblin Piledriver and Goblin Lackey, using cards like Skirk Prospector and Wasteland to disrupt the opponent's game plan. Siege-Gang Commander and Goblin Warchief provide additional value and pressure, while Goblin Ringleader and Goblin Matron help to maintain card advantage and find key pieces. The deck aims to overwhelm the opponent early in the game with a high creature count and efficient mana usage, making it a formidable force in the aggressive Aggro archetype."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Iñigo Anguiano",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54605&d=605593&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 2,
+                    "name": "Gemstone Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 3,
+                    "name": "Sylvan Library"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 4,
+                    "name": "Oath of Druids"
+                },
+                {
+                    "count": 4,
+                    "name": "Cataclysm"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Diamond"
+                },
+                {
+                    "count": 4,
+                    "name": "Terravore"
+                },
+                {
+                    "count": 2,
+                    "name": "Exalted Angel"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Sacred Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Chill"
+                },
+                {
+                    "count": 1,
+                    "name": "Warmth"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Totem"
+                },
+                {
+                    "count": 1,
+                    "name": "Karmic Justice"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Crumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Circle of Protection: Red"
+                },
+                {
+                    "count": 3,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 1,
+                    "name": "Armageddon"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                }
+            ],
+            "notes": "The main concept of this deck is to control the game through various disruptive spells and land destruction while utilizing Oath of Druids to cheat out powerful creatures like Terravore and Exalted Angel. The deck aims to slow down the opponent's game plan and ultimately overwhelm them with its own threats. The inclusion of cards like Swords to Plowshares and Sphere of Resistance further enhances its control aspect, making it challenging for the opponent to establish a strong board presence. Overall, the deck focuses on utilizing control elements to disrupt the opponent's strategy and secure a win."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

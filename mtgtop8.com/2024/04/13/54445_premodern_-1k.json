@@ -1,0 +1,950 @@
+{
+    "tournament": {
+        "date": "2024-04-13",
+        "name": "$1K",
+        "url": "https://mtgtop8.com/event?e=54445",
+        "format": "Premodern",
+        "players": 18
+    },
+    "decks": [
+        {
+            "date": "2024-04-13",
+            "player": "ZeeMaxMax",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604473&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 3,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Tinkerer"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Pyromancer"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 1,
+                    "name": "Caller of the Claw"
+                },
+                {
+                    "count": 2,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquility"
+                }
+            ],
+            "notes": "The main focus of this deck is to flood the board with aggressive Goblin creatures and overwhelm the opponent with their low-cost, high-impact abilities. By utilizing cards like Goblin Lackey to cheat out additional Goblins, as well as Goblin Matron and Goblin Ringleader to search for key pieces, the deck aims to quickly build a threatening army. Cards like Siege-Gang Commander and Goblin Warchief provide additional power and utility, while the inclusion of Gempalm Incinerator and Goblin Sharpshooter offer removal options. The deck also includes some utility cards like Naturalize to handle threats and Wasteland to disrupt the opponent's mana base."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Lordcinderb",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604467&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Strength of Lunacy"
+                },
+                {
+                    "count": 1,
+                    "name": "Crusade"
+                },
+                {
+                    "count": 1,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 1,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 2,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 2,
+                    "name": "About Face"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Anurid Brushhopper"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tribe"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Silver Knight"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Kirtar's Desire"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 1,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                }
+            ],
+            "notes": "This deck focuses on aggressive play, utilizing creatures like Wild Mongrel and Meddling Mage to quickly beat down opponents. It also includes disruption elements like Circular Logic and Swords to Plowshares to control the board. The inclusion of cards like Enlightened Tutor and Seal of Cleansing provide additional utility and flexibility. The deck aims to establish board presence early and maintain pressure throughout the game to overwhelm opponents before they can stabilize. The mana base is designed for consistency and flexibility, allowing the deck to adapt to various situations."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Schneidersan",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604468&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 1,
+                    "name": "Roar of the Wurm"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Spray"
+                },
+                {
+                    "count": 2,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 2,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 2,
+                    "name": "About Face"
+                },
+                {
+                    "count": 3,
+                    "name": "Quiet Speculation"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tribe"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 1,
+                    "name": "Dromar's Cavern"
+                },
+                {
+                    "count": 1,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 2,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 1,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Strands"
+                },
+                {
+                    "count": 1,
+                    "name": "Volcanic Spray"
+                },
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                }
+            ],
+            "notes": "This deck focuses on a fast and aggressive playstyle, utilizing a mix of creature aggression and disruptive spells to control the game. With a variety of early threats like Meddling Mage and Tireless Tribe, along with removal and counterspells like Swords to Plowshares and Circular Logic, the deck aims to put pressure on the opponent while disrupting their game plan. The inclusion of cards like Deep Analysis and Quiet Speculation provide card advantage and selection to keep the deck running smoothly. Overall, the deck aims to overwhelm the opponent quickly while staying flexible and reactionary."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Andrew Auburn",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604469&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Goblin Lackey"
+                },
+                {
+                    "count": 4,
+                    "name": "Mogg Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Skirk Prospector"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Piledriver"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Warchief"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege-Gang Commander"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Vandal"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                },
+                {
+                    "count": 2,
+                    "name": "Gempalm Incinerator"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Sharpshooter"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Sulfurous Springs"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Rishadan Port"
+                },
+                {
+                    "count": 2,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin King"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Patriarch's Bidding"
+                },
+                {
+                    "count": 3,
+                    "name": "Sulfuric Vortex"
+                }
+            ],
+            "notes": "The main focus of this deck is to play aggressive Goblin creatures early on and overwhelm the opponent with their numbers. By using cards like Goblin Lackey and Goblin Matron to search for specific Goblins, and cards like Goblin Warchief to reduce their cost, the goal is to quickly build a board presence and attack the opponent's life points directly. With some removal spells and disruption in the form of Cabal Therapy, this deck aims to apply continuous pressure and end the game as quickly as possible."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Ioncann0n",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604471&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Recoil"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 1,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 1,
+                    "name": "Chain of Vapor"
+                },
+                {
+                    "count": 2,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Fact or Fiction"
+                },
+                {
+                    "count": 3,
+                    "name": "Gush"
+                },
+                {
+                    "count": 3,
+                    "name": "Mana Leak"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 3,
+                    "name": "Portent"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Accumulated Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Wonder"
+                },
+                {
+                    "count": 3,
+                    "name": "Psychatog"
+                },
+                {
+                    "count": 3,
+                    "name": "Shadowmage Infiltrator"
+                },
+                {
+                    "count": 1,
+                    "name": "Cephalid Coliseum"
+                },
+                {
+                    "count": 1,
+                    "name": "Darkwater Catacombs"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Conclave"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 10,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 1,
+                    "name": "Perish"
+                },
+                {
+                    "count": 1,
+                    "name": "Infest"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Vendetta"
+                }
+            ],
+            "notes": "The main theme of this deck is to control the game through counterspells, hand disruption, and removal spells while utilizing the powerful creature Psychatog as a win condition. The deck aims to disrupt the opponent's game plan with cards like Duress and Mana Leak, while also generating card advantage with spells like Gush and Fact or Fiction. Psychatog serves as a flexible threat that can quickly grow in power and close out the game. The mana base is designed to support the deck's color requirements for its various control spells."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Grant Christopher",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604472&f=PREM",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Birds of Paradise"
+                },
+                {
+                    "count": 4,
+                    "name": "Wall of Blossoms"
+                },
+                {
+                    "count": 4,
+                    "name": "Ravenous Baloth"
+                },
+                {
+                    "count": 3,
+                    "name": "Blastoderm"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya Elder"
+                },
+                {
+                    "count": 1,
+                    "name": "Deranged Hermit"
+                },
+                {
+                    "count": 1,
+                    "name": "Krosan Tusker"
+                },
+                {
+                    "count": 2,
+                    "name": "Smother"
+                },
+                {
+                    "count": 2,
+                    "name": "Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 4,
+                    "name": "Cabal Therapy"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Recurring Nightmare"
+                },
+                {
+                    "count": 4,
+                    "name": "Pernicious Deed"
+                },
+                {
+                    "count": 7,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 7,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Treetop Village"
+                },
+                {
+                    "count": 1,
+                    "name": "Tainted Wood"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Naturalize"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Diabolic Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Withered Wretch"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Phantom Centaur"
+                },
+                {
+                    "count": 1,
+                    "name": "Massacre"
+                },
+                {
+                    "count": 1,
+                    "name": "Reverent Silence"
+                }
+            ],
+            "notes": "The deck focuses on slowing down the opponent's strategy with efficient removal spells and disruption while deploying resilient threats to apply pressure. By using cards like Cabal Therapy and Duress to strip the opponent's hand of key cards, as well as Pernicious Deed to wipe the board if necessary, the deck aims to control the game until it can establish a dominant board presence with creatures like Ravenous Baloth and Deranged Hermit. The mana base is designed to support the deck's color requirements and ensure consistent performance."
+        },
+        {
+            "date": "2024-04-13",
+            "player": "Xanosvi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=54445&d=604470&f=PREM",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Seal of Cleansing"
+                },
+                {
+                    "count": 1,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 1,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 1,
+                    "name": "Crusade"
+                },
+                {
+                    "count": 1,
+                    "name": "Winter Orb"
+                },
+                {
+                    "count": 1,
+                    "name": "Strength of Lunacy"
+                },
+                {
+                    "count": 2,
+                    "name": "About Face"
+                },
+                {
+                    "count": 2,
+                    "name": "Enlightened Tutor"
+                },
+                {
+                    "count": 3,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Circular Logic"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Anurid Brushhopper"
+                },
+                {
+                    "count": 4,
+                    "name": "Weathered Wayfarer"
+                },
+                {
+                    "count": 4,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Tireless Tribe"
+                },
+                {
+                    "count": 4,
+                    "name": "Wild Mongrel"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Steppe"
+                },
+                {
+                    "count": 1,
+                    "name": "Treva's Ruins"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "City of Brass"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Undiscovered Paradise"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Gemstone Mine"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ray of Revelation"
+                },
+                {
+                    "count": 1,
+                    "name": "Disenchant"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                },
+                {
+                    "count": 2,
+                    "name": "Engineered Plague"
+                },
+                {
+                    "count": 1,
+                    "name": "Kirtar's Desire"
+                },
+                {
+                    "count": 1,
+                    "name": "Tsabo's Web"
+                },
+                {
+                    "count": 2,
+                    "name": "Silver Knight"
+                },
+                {
+                    "count": 2,
+                    "name": "Phyrexian Furnace"
+                },
+                {
+                    "count": 1,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 1,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                }
+            ],
+            "notes": "The deck focuses on quickly putting pressure on the opponent with aggressive creatures like Wild Mongrel and Tireless Tribe, supported by protection spells like Swords to Plowshares and Circular Logic. It also includes disruptive elements like Meddling Mage and Winter Orb to slow down the opponent's game plan. The deck aims to control the board while keeping up the aggressive pressure to win the game quickly before the opponent has a chance to stabilize. The mana base is designed to support the deck's color requirements and enable consistent early aggression."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,941 @@
+{
+    "tournament": {
+        "date": "2024-01-29",
+        "name": "MTGO Preliminary",
+        "url": "https://mtgtop8.com/event?e=51725",
+        "format": "Legacy",
+        "players": 12
+    },
+    "decks": [
+        {
+            "date": "2024-01-29",
+            "player": "snoopy-magic",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583804&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Shallow Grave"
+                },
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 1,
+                    "name": "Sire of Insanity"
+                },
+                {
+                    "count": 2,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 4,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Grief"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 2,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 2,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 3,
+                    "name": "Exhume"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Badlands"
+                },
+                {
+                    "count": 3,
+                    "name": "Archon of Cruelty"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Show and Tell"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Dauthi Voidwalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred, the Apocalypse"
+                }
+            ],
+            "notes": "The main concept of this combo-reanimator deck is to rapidly bring back powerful creatures from the graveyard, leveraging the combination of cards like Shallow Grave, Reanimate, and Animate Dead. This allows for the quick deployment of creatures such as Griselbrand, Sire of Insanity, and Archon of Cruelty. The deck also includes disruptive elements, such as Unmask and Thoughtseize, to disrupt the opponent's strategy while setting up the reanimation combo. The inclusion of Lotus Petal and Dark Ritual help to generate the necessary mana to execute the combo effectively."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "_Shatun_",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583799&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Broadside Bombardiers"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 4,
+                    "name": "Fable of the Mirror-Breaker"
+                },
+                {
+                    "count": 1,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 3,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Sokenzan, Crucible of Defiance"
+                },
+                {
+                    "count": 3,
+                    "name": "Den of the Bugbear"
+                },
+                {
+                    "count": 4,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 1,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 3,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 3,
+                    "name": "Fiery Confluence"
+                },
+                {
+                    "count": 3,
+                    "name": "Dead/Gone"
+                },
+                {
+                    "count": 1,
+                    "name": "Caves of Chaos Adventurer"
+                },
+                {
+                    "count": 2,
+                    "name": "Magus of the Moon"
+                }
+            ],
+            "notes": "The main concept of this Aggro - Dragon Stompy deck is to utilize aggressive creatures and disruptive artifacts to control the board and shut down opponents' strategies. The deck focuses on casting powerful dragons quickly by ramping with Ancient Tomb and Chrome Mox. It also includes cards like Chalice of the Void, Blood Moon, and Magus of the Moon to disrupt opponents' mana bases, limiting their options. The inclusion of cards like Trinisphere and Den of the Bugbear further hinders opponents' ability to cast spells, making it difficult for them to mount a defense against the aggressive creatures."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "Laplasjan",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583800&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Syr Ginger, the Meal Ender"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Thought Monitor"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 2,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 4,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
+                }
+            ],
+            "notes": "The key concept of this deck is to utilize a combination of aggro elements and artifacts to create a strong and disruptive strategy. The deck focuses on generating quick mana with cards like Ancient Tomb, Mox Opal, and Lotus Petal to fuel the powerful artifacts and spells. It also includes disruptive elements like Force of Will and Chalice of the Void to control the opponent's plays. Additionally, the deck incorporates card draw and recursion with Mishra's Bauble, Urza's Bauble, and Emry, Lurker of the Loch to maintain a steady flow of resources."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "zhinonono",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583803&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 3,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 2,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 3,
+                    "name": "Crashing Footfalls"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyrokinesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Inevitable Betrayal"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 3,
+                    "name": "Magus of the Moon"
+                }
+            ],
+            "notes": "The main concept of this deck is to use Cascade mechanics to quickly put pressure on the opponent with aggressive creatures and disrupt their game plan with cards like Force of Will and Wasteland. By using cards like Shardless Agent and Violent Outburst, the deck aims to consistently cascade into powerful spells like Crashing Footfalls and Minsc &amp; Boo, Timeless Heroes. The inclusion of counter spells like Force of Negation and Mystical Dispute helps to protect the deck's key pieces and maintain pressure on the opponent. The deck's mix of aggression and disruption creates a fast-paced and versatile game plan."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "Koala40",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583802&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Matron"
+                },
+                {
+                    "count": 4,
+                    "name": "Chrome Mox"
+                },
+                {
+                    "count": 1,
+                    "name": "Gemstone Caverns"
+                },
+                {
+                    "count": 5,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Rabblemaster"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Muxus, Goblin Grandee"
+                },
+                {
+                    "count": 3,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Battle Cry Goblin"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "\"Name Sticker\" Goblin"
+                },
+                {
+                    "count": 2,
+                    "name": "Breeches, Eager Pillager"
+                },
+                {
+                    "count": 4,
+                    "name": "Broadside Bombardiers"
+                },
+                {
+                    "count": 1,
+                    "name": "Cursed Mirror"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Ringleader"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                }
+            ],
+            "notes": "The main concept of this Aggro Goblin deck is to quickly swarm the battlefield with multiple Goblin creatures, utilizing fast mana acceleration and disruptive cards like City of Traitors and Chrome Mox. The deck aims to overwhelm the opponent with aggressive attacks from cards like Goblin Rabblemaster and Muxus, Goblin Grandee, while also utilizing tribal synergy with cards like Cavern of Souls and Goblin Matron. The inclusion of cards like Shatterskull Smashing provides additional removal options, while Breeches, Eager Pillager and Broadside Bombardiers offer additional sources of damage and disruption."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "matyo804",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583798&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Molten Collapse"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Counterbalance"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 1,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 1,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                }
+            ],
+            "notes": "The main concept of this Grixis Aggro deck is to quickly establish board presence and disrupt the opponent's game plan using aggressive creatures like Delver of Secrets and Murktide Regent, while also utilizing powerful spells like Brainstorm, Force of Will, and Lightning Bolt to control the flow of the game. The deck aims to apply pressure early on with efficient threats and counter any opposing threats or strategies with a combination of disruption and removal spells. Additionally, the deck has a strong mana denial plan with cards like Wasteland to further disrupt the opponent's game plan."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "_INF_",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583808&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Violent Outburst"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 3,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 4,
+                    "name": "Shardless Agent"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Minsc & Boo, Timeless Heroes"
+                },
+                {
+                    "count": 1,
+                    "name": "Taiga"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Snow-Covered Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Tropical Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 3,
+                    "name": "Crashing Footfalls"
+                },
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Magus of the Moon"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 4,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                }
+            ],
+            "notes": "This deck focuses on using cascade mechanics to quickly put threats on the board and disrupt the opponent's game plan. By casting spells with cascade like Violent Outburst, Shardless Agent, and Crashing Footfalls, the deck can overwhelm the opponent with creatures and card advantage. The deck also includes counterspells like Force of Will and Force of Negation to protect its board state. Additionally, cards like Elvish Spirit Guide and Simian Spirit Guide allow for explosive starts. The mana base includes fetch lands and dual lands to ensure consistency in casting spells."
+        },
+        {
+            "date": "2024-01-29",
+            "player": "_Falcon_",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=51725&d=583806&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Molten Collapse"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Volcanic Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Narset, Parter of Veils"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Counterbalance"
+                }
+            ],
+            "notes": "The main focus of this deck is to put pressure on the opponent quickly with aggressive creatures like Delver of Secrets and Dragon's Rage Channeler while disrupting their game plan with cards like Daze and Force of Will. The deck also aims to control the board with cards like Wasteland and Lightning Bolt, allowing the aggro strategy to be more effective. The use of Murktide Regent provides a big threat in the late game that can finish off the opponent quickly. Overall, this Grixis Aggro deck is designed to be fast, disruptive, and powerful in the Legacy format."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

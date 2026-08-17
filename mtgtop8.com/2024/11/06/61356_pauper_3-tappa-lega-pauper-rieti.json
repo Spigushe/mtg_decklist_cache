@@ -1,0 +1,933 @@
+{
+    "tournament": {
+        "date": "2024-11-06",
+        "name": "3 Tappa Lega Pauper Rieti",
+        "url": "https://mtgtop8.com/event?e=61356",
+        "format": "Pauper",
+        "players": 22
+    },
+    "decks": [
+        {
+            "date": "2024-11-06",
+            "player": "Alessio Audizi",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661644&f=PAU",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Barren Moor"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Celebrant"
+                },
+                {
+                    "count": 3,
+                    "name": "Cabal Ritual"
+                },
+                {
+                    "count": 1,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 3,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Dihada's Ploy"
+                },
+                {
+                    "count": 4,
+                    "name": "Drannith Healer"
+                },
+                {
+                    "count": 4,
+                    "name": "Drannith Stinger"
+                },
+                {
+                    "count": 1,
+                    "name": "Geothermal Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Horror of the Broken Lands"
+                },
+                {
+                    "count": 4,
+                    "name": "Imposing Vantasaur"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Teachings"
+                },
+                {
+                    "count": 4,
+                    "name": "Reaping the Graves"
+                },
+                {
+                    "count": 1,
+                    "name": "Repository Skaab"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Songs of the Damned"
+                },
+                {
+                    "count": 4,
+                    "name": "Street Wraith"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Winds"
+                },
+                {
+                    "count": 2,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Dihada's Ploy"
+                },
+                {
+                    "count": 1,
+                    "name": "Repository Skaab"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Gilded Light"
+                },
+                {
+                    "count": 2,
+                    "name": "Gnaw to the Bone"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Siege Smash"
+                },
+                {
+                    "count": 1,
+                    "name": "Vision Charm"
+                }
+            ],
+            "notes": "The main goal of this deck is to quickly fill up your graveyard with cycling cards like Street Wraith and Imposing Vantasaur, then use cards like Dark Ritual and Cabal Ritual to generate a lot of mana. Finally, you can cast Reaping the Graves to bring back multiple creature cards from your graveyard, creating a strong board presence and overwhelming your opponent. By combining cycling and graveyard recursion, this deck aims to win the game through a powerful combo strategy."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Paolo Mobilia",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661645&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Candy Trail"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Kenku Artificer"
+                },
+                {
+                    "count": 3,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 3,
+                    "name": "Mistvault Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Myr Enforcer"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Reckoner's Bargain"
+                },
+                {
+                    "count": 4,
+                    "name": "Refurbished Familiar"
+                },
+                {
+                    "count": 2,
+                    "name": "Seat of the Synod"
+                },
+                {
+                    "count": 4,
+                    "name": "Silverbluff Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtcast"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Vault of Whispers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxin Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Drown in Sorrow"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Red Elemental Blast"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying artifact creatures and utilizing them with cards like Galvanic Blast and Krark-Clan Shaman to deal damage to the opponent. It also includes ways to generate value from sacrificing artifacts with Deadly Dispute and Reckoner's Bargain. The mana base is optimized for casting a variety of artifacts, with a mix of lands like Seat of the Synod and Silverbluff Bridge. Overall, the deck aims to overwhelm the opponent with aggressive plays and efficient removal, leveraging the affinity mechanic to its advantage."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Carlo Marinelli",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661647&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 1,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 2,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 2,
+                    "name": "Implement of Combustion"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 13,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Tectonic Hazard"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Tectonic Hazard"
+                },
+                {
+                    "count": 3,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Raze"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly overwhelm the opponent with a swarm of aggressive creatures and burn spells, while maximizing damage output. By combining cheap creatures like Goblin Bushwhacker and Goblin Blast-Runner with powerful burn spells like Lightning Bolt and Galvanic Blast, this deck aims to deal damage quickly and efficiently. The inclusion of cards like Kuldotha Rebirth and Goblin Grenade provides additional reach and ways to close out the game. The deck also includes support cards like Implement of Combustion and Tectonic Hazard to ensure a consistent aggressive strategy."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Nikolas Mostarda",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661646&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Consider"
+                },
+                {
+                    "count": 1,
+                    "name": "Contaminated Aquifer"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 2,
+                    "name": "Gurmag Angler"
+                },
+                {
+                    "count": 4,
+                    "name": "Ice Tunnel"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 10,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Suffocating Fumes"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 2,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 1,
+                    "name": "Wither and Bloom"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Unexpected Fangs"
+                },
+                {
+                    "count": 3,
+                    "name": "Annul"
+                },
+                {
+                    "count": 1,
+                    "name": "Arms of Hadar"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Rotten Reunion"
+                },
+                {
+                    "count": 2,
+                    "name": "Steel Sabotage"
+                }
+            ],
+            "notes": "In this Dimir Control deck, the focus is on disrupting the opponent's strategy while increasing card advantage through card draw and selection. By utilizing a mix of counterspells, removal spells, and card draw options like Brainstorm and Deep Analysis, the deck aims to control the game tempo and outvalue the opponent. Additionally, powerful creatures like Gurmag Angler provide a solid win condition, while cards like Lórien Revealed and Unexpected Fangs offer additional value. Overall, the deck aims to outlast and outmaneuver opponents in a Pauper 1v1 setting."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Matteo Ficorilli",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661651&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Abundant Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancestral Mask"
+                },
+                {
+                    "count": 4,
+                    "name": "Armadillo Cloak"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 2,
+                    "name": "Cartouche of Solidarity"
+                },
+                {
+                    "count": 4,
+                    "name": "Ethereal Armor"
+                },
+                {
+                    "count": 12,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Gladecover Scout"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 1,
+                    "name": "Ram Through"
+                },
+                {
+                    "count": 4,
+                    "name": "Rancor"
+                },
+                {
+                    "count": 2,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 3,
+                    "name": "Silhana Ledgewalker"
+                },
+                {
+                    "count": 4,
+                    "name": "Slippery Bogle"
+                },
+                {
+                    "count": 1,
+                    "name": "Tamiyo's Safekeeping"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Sentinel's Eyes"
+                },
+                {
+                    "count": 2,
+                    "name": "Tamiyo's Safekeeping"
+                },
+                {
+                    "count": 3,
+                    "name": "Crimson Acolyte"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Lifelink"
+                },
+                {
+                    "count": 4,
+                    "name": "Standard Bearer"
+                }
+            ],
+            "notes": "This Pauper 1 vs 1 Aggro - Aura Aggro deck focuses on quickly enchanting creatures with powerful auras like Ethereal Armor, Rancor, and Armadillo Cloak to create massive threats. The deck also includes cards like Abundant Growth and Utopia Sprawl to ramp up mana production, as well as protection and evasion spells like Tamiyo's Safekeeping and Silhana Ledgewalker. By overwhelming opponents with large, hexproof creatures that are difficult to remove, this deck seeks to win through swift and aggressive plays."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Alessio Angeletti",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661650&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Cleansing Wildfire"
+                },
+                {
+                    "count": 4,
+                    "name": "Deadly Dispute"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Eviscerator's Insight"
+                },
+                {
+                    "count": 2,
+                    "name": "Evolution Witness"
+                },
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Ichor Wellspring"
+                },
+                {
+                    "count": 2,
+                    "name": "Krark-Clan Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Makeshift Munitions"
+                },
+                {
+                    "count": 1,
+                    "name": "Molten Gatekeeper"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Sadistic Glee"
+                },
+                {
+                    "count": 4,
+                    "name": "Slagwoods Bridge"
+                },
+                {
+                    "count": 3,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 3,
+                    "name": "Tamiyo's Safekeeping"
+                },
+                {
+                    "count": 1,
+                    "name": "Tree of Tales"
+                },
+                {
+                    "count": 4,
+                    "name": "Twisted Landscape"
+                },
+                {
+                    "count": 4,
+                    "name": "Writhing Chrysalis"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 1,
+                    "name": "Last Rites"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Snuff Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Troublemaker Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Weather the Storm"
+                }
+            ],
+            "notes": "The deck focuses on generating value by sacrificing creatures and artifacts to trigger abilities that will give you card advantage and control over the board. It uses cards like Basking Broodscale and Ichor Wellspring to generate tokens and draw cards, while Sadistic Glee and Cleansing Wildfire provide removal and additional benefits when sacrificing permanents. The combo potential comes from cards like Krark-Clan Shaman and Writhing Chrysalis, with the ability to flood the board with tokens and overwhelm the opponent. The deck aims to outvalue and outpace the opponent through sacrificing and recurring resources."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Giacomo Pasquetti",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661648&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 14,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Clockwork Percussionist"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Blast-Runner"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Bushwhacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                },
+                {
+                    "count": 2,
+                    "name": "Chain Lightning"
+                },
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 4,
+                    "name": "Kuldotha Rebirth"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 4,
+                    "name": "Experimental Synthesizer"
+                },
+                {
+                    "count": 3,
+                    "name": "Implement of Combustion"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Grenade"
+                },
+                {
+                    "count": 1,
+                    "name": "Tectonic Hazard"
+                },
+                {
+                    "count": 1,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 4,
+                    "name": "Red Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Flaring Pain"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 1,
+                    "name": "Relic of Progenitus"
+                }
+            ],
+            "notes": "The deck focuses on quickly overwhelming opponents with aggressive red creatures and efficient burn spells. It aims to put pressure on the opponent early on with low-cost creatures like Goblin Bushwhacker and Goblin Blast-Runner, while also having access to powerful removal spells like Lightning Bolt and Galvanic Blast. The deck also utilizes artifacts like Clockwork Percussionist and Implement of Combustion to provide additional damage and card advantage. Overall, the deck seeks to maintain a fast pace and deal damage efficiently to secure a victory."
+        },
+        {
+            "date": "2024-11-06",
+            "player": "Luigi Santoro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=61356&d=661649&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Alms of the Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "Drossforge Bridge"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Blast"
+                },
+                {
+                    "count": 3,
+                    "name": "Goblin Tomb Raider"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 4,
+                    "name": "Great Furnace"
+                },
+                {
+                    "count": 4,
+                    "name": "Jagged Barrens"
+                },
+                {
+                    "count": 4,
+                    "name": "Kitchen Imp"
+                },
+                {
+                    "count": 3,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Vampire's Kiss"
+                },
+                {
+                    "count": 4,
+                    "name": "Vault of Whispers"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Breath Weapon"
+                },
+                {
+                    "count": 1,
+                    "name": "Cast Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "Extract a Confession"
+                },
+                {
+                    "count": 2,
+                    "name": "Gorilla Shaman"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Smash to Smithereens"
+                },
+                {
+                    "count": 2,
+                    "name": "Trespasser's Curse"
+                }
+            ],
+            "notes": "The main focus of this Rakdos Aggro deck is to overwhelm the opponent with aggressive creatures and burn spells. By utilizing low-cost creatures like Goblin Tomb Raider and Kitchen Imp, along with direct damage spells like Fiery Temper and Lightning Bolt, the deck aims to quickly reduce the opponent's life total to zero. Alms of the Vein and Vampire's Kiss provide additional incidental life gain, while cards like Grab the Prize and Galvanic Blast help to control the board and push through damage. The deck's mana base of artifact lands and dual lands ensures consistent access to all the necessary colors of mana for its spells."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

@@ -1,0 +1,934 @@
+{
+    "tournament": {
+        "date": "2024-11-30",
+        "name": "Event",
+        "url": "https://mtgtop8.com/event?e=62228",
+        "format": "Legacy",
+        "players": 18
+    },
+    "decks": [
+        {
+            "date": "2024-11-30",
+            "player": "Yonezawa Musashi",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669383&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodpits Drowner"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 3,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 2,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 2,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "The main concept of this Aggro - Dimir Tempo deck is to maintain control of the board through early aggression with creatures like Brazen Borrower and Orcish Bowmasters, while disrupting the opponent's game plan using counter spells like Force of Will and hand disruption tools like Thoughtseize. The deck also aims to generate card advantage and tempo advantage through cards like Psychic Frog and Tamiyo, Inquisitive Student. This deck focuses on utilizing efficient removal spells like Fatal Push and disrupting the opponent's mana base with Wasteland to maintain a strong tempo advantage throughout the game."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Takeuchi Ryota",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669384&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Candelabra of Tawnos"
+                },
+                {
+                    "count": 1,
+                    "name": "Basalt Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 2,
+                    "name": "Voltaic Key"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystic Forge"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Workshop"
+                },
+                {
+                    "count": 4,
+                    "name": "Planar Nexus"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Paradox Engine"
+                },
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 3,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Argentum Masticore"
+                },
+                {
+                    "count": 1,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "The main concept of this deck is to use Mystic Forge in combination with various artifacts and mana ramp cards to generate a powerful combo that can quickly overwhelm the opponent. Cards like Glaring Fleshraker and The One Ring provide additional support and synergy to this combo strategy, allowing the player to take control of the game and secure a victory. Additionally, cards like Karn, the Great Creator and Urza's Saga add versatility and additional win conditions to the deck, making it a formidable force in the Legacy 1 vs 1 format."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Kondo Yohei",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669385&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 2,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 3,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 2,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 2,
+                    "name": "Undercity Sewers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Toxic Deluge"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 2,
+                    "name": "Barrowgoyf"
+                }
+            ],
+            "notes": "This deck focuses on utilizing a combination of efficient creatures and disruptive spells to control the opponent's board while applying pressure with evasive threats. By leveraging tempo plays and hand disruption, the deck aims to disrupt the opponent's game plan and maintain a proactive stance in the match. The key strategy is to outpace the opponent by efficiently using resources and making calculated decisions to gain and maintain control of the game. The deck's flexibility allows for adaptability in various matchups, making it a formidable contender in the Legacy format."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Yamaguchi Shota",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669386&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 3,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 2,
+                    "name": "Metamorphosis Fanatic"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 3,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Entomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Reanimate"
+                },
+                {
+                    "count": 2,
+                    "name": "Animate Dead"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Dauthi Voidwalker"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 2,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 2,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "This deck focuses on quickly filling up the graveyard with powerful creatures like Archon of Cruelty and Atraxa, Grand Unifier, then reanimating them to overwhelm the opponent. It utilizes cards like Entomb and Reanimate to cheat big creatures into play early on. With a mix of disruption in cards like Force of Will and Daze, as well as card draw and selection with Brainstorm and Ponder, the deck aims to assemble its combo pieces efficiently and protect them from opposing disruption."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Sugimoto Takaaki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669387&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 3,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 1,
+                    "name": "Yuriko, the Tiger's Shadow"
+                },
+                {
+                    "count": 2,
+                    "name": "Baleful Strix"
+                },
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Orcish Bowmasters"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 1,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Plague Engineer"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 1,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Counterbalance"
+                }
+            ],
+            "notes": "The main concept of this deck is to maintain control and disruption over the opponent while quickly applying pressure through efficient creatures and disruption spells. By using cards such as Thoughtseize, Force of Will, Brainstorm, and Daze, the deck aims to disrupt the opponent's game plan while deploying threats like Kaito, Bane of Nightmares and Yuriko, the Tiger's Shadow. The deck also utilizes card advantage engines like Tamiyo, Inquisitive Student and Baleful Strix to maintain resources. Additionally, the deck includes efficient removal spells like Fatal Push and Psychic Frog to handle threats from the opponent."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Yamanashi Takeshi",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669388&f=LE",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 3,
+                    "name": "Worldspine Wurm"
+                },
+                {
+                    "count": 4,
+                    "name": "Simian Spirit Guide"
+                },
+                {
+                    "count": 3,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Ashen Rider"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Palantir of Orthanc"
+                },
+                {
+                    "count": 4,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Yggdrasil, Rebirth Engine"
+                },
+                {
+                    "count": 4,
+                    "name": "Through the Breach"
+                },
+                {
+                    "count": 4,
+                    "name": "Seething Song"
+                },
+                {
+                    "count": 1,
+                    "name": "Shatterskull Smashing"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneak Attack"
+                },
+                {
+                    "count": 9,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Crystal Vein"
+                },
+                {
+                    "count": 4,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Den of the Bugbear"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Griselbrand"
+                },
+                {
+                    "count": 2,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Abrade"
+                },
+                {
+                    "count": 2,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 2,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Ilharg, the Raze-Boar"
+                },
+                {
+                    "count": 2,
+                    "name": "Jeska's Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "The main concept of this deck is to cheat out powerful creatures like Griselbrand, Emrakul, and Worldspine Wurm for a devastating combo finish. Cards like Through the Breach, Sneak Attack, and Simian Spirit Guide allow for explosive plays, while Palantír of Orthanc provides card advantage. Yggdrasil, Rebirth Engine helps to generate additional mana for casting big creatures quickly. The deck aims to overwhelm opponents with massive threats and quick combos, utilizing red mana acceleration and powerful one-time effects to win the game before the opponent can respond."
+        },
+        {
+            "date": "2024-11-30",
+            "player": "Fujii Masahiro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62228&d=669389&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Basalt Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 3,
+                    "name": "Voltaic Key"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Key"
+                },
+                {
+                    "count": 3,
+                    "name": "Mystic Forge"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Workshop"
+                },
+                {
+                    "count": 4,
+                    "name": "Planar Nexus"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Forge"
+                },
+                {
+                    "count": 1,
+                    "name": "Paradox Engine"
+                },
+                {
+                    "count": 2,
+                    "name": "Silent Gravestone"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 3,
+                    "name": "Boseiju, Who Endures"
+                }
+            ],
+            "notes": "This deck focuses on assembling a powerful combo utilizing Mystic Forge and various artifact cards to generate mana and draw cards efficiently. By utilizing cards like Glaring Fleshraker and The One Ring, the deck aims to control the board while setting up a win condition. The deck also includes cards like Urza's Saga and Karn, the Great Creator to tutor for key pieces and disrupt opponent's strategies. With a strong artifact theme and powerful synergies, this deck aims to overwhelm the opponent with a powerful combo finish."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

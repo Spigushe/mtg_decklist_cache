@@ -1,0 +1,994 @@
+{
+    "tournament": {
+        "date": "2024-11-22",
+        "name": "Rumble",
+        "url": "https://mtgtop8.com/event?e=62032",
+        "format": "Legacy",
+        "players": 19
+    },
+    "decks": [
+        {
+            "date": "2024-11-22",
+            "player": "Onozuka Yushi",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667904&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 1,
+                    "name": "Stern Scolding"
+                },
+                {
+                    "count": 1,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 2,
+                    "name": "Stifle"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Daze"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodpits Drowner"
+                },
+                {
+                    "count": 3,
+                    "name": "Murktide Regent"
+                },
+                {
+                    "count": 3,
+                    "name": "Brazen Borrower"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 2,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 5,
+                    "name": "Island"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 2,
+                    "name": "True-Name Nemesis"
+                },
+                {
+                    "count": 2,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 1,
+                    "name": "Powder Keg"
+                },
+                {
+                    "count": 1,
+                    "name": "Back to Basics"
+                },
+                {
+                    "count": 1,
+                    "name": "Ratchet Bomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Flusterstorm"
+                }
+            ],
+            "notes": "This Legacy 1 vs 1 Aggro-Delver deck focuses on countering and disrupting the opponent while establishing a quick and aggressive board presence. It utilizes a combination of counterspells like Force of Will and Daze, along with efficient threats like Delver of Secrets and Brazen Borrower. The main strategy is to control the game tempo with disruptive spells while maintaining pressure with evasive creatures. The deck also includes card draw and filtering tools like Brainstorm and Preordain to ensure consistency and adaptability in various matchups."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Kotani Mizuki",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667905&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 4,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 1,
+                    "name": "Candelabra of Tawnos"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Talisman of Unity"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 4,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul Partition"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Cloudpost"
+                },
+                {
+                    "count": 1,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 3,
+                    "name": "Glimmerpost"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Deeps"
+                },
+                {
+                    "count": 4,
+                    "name": "Planar Nexus"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Mycosynth Lattice"
+                },
+                {
+                    "count": 1,
+                    "name": "Ensnaring Bridge"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Liquimetal Coating"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Veil of Summer"
+                },
+                {
+                    "count": 2,
+                    "name": "The Stone Brain"
+                }
+            ],
+            "notes": "This deck focuses on quickly ramping up mana using Cloudpost and Tron lands to cast powerful Eldrazi creatures like Ulamog and Emrakul. It also utilizes control elements such as Karn, the Great Creator and Pithing Needle to disrupt the opponent's strategy. The deck aims to overwhelm the opponent with huge threats and efficient land ramp, while also having a toolbox of cards to deal with various threats through disruption and removal spells. Additionally, the deck has utility lands like Karakas and Eye of Ugin to further enhance its control and ramp capabilities."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Nakamura Yuya",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667906&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Devourer of Destiny"
+                },
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 1,
+                    "name": "Wastescape Battlemage"
+                },
+                {
+                    "count": 4,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 4,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Petal"
+                },
+                {
+                    "count": 2,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 2,
+                    "name": "Talisman of Curiosity"
+                },
+                {
+                    "count": 2,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Ugin, the Ineffable"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 1,
+                    "name": "City of Traitors"
+                },
+                {
+                    "count": 3,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
+                    "name": "Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya, Cradle of Growth"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Wastescape Battlemage"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Unlicensed Hearse"
+                },
+                {
+                    "count": 3,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly deploy powerful Eldrazi creatures and disrupt the opponent's game plan with cards like Thought-Knot Seer and Chalice of the Void. The deck also aims to ramp up its mana quickly with cards like Lotus Petal and Grim Monolith to cast its high-cost Eldrazi spells like Ugin, the Ineffable. The inclusion of cards like Sowing Mycospawn and Kozilek's Command allows the deck to maintain board presence and control. The lands in the deck provide mana fixing and acceleration to support the Eldrazi creatures' casting cost."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Sakamoto Hiroyuki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667908&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Soul Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Dark Ritual"
+                },
+                {
+                    "count": 4,
+                    "name": "Sickening Shoal"
+                },
+                {
+                    "count": 4,
+                    "name": "Fell the Profane"
+                },
+                {
+                    "count": 4,
+                    "name": "Sign in Blood"
+                },
+                {
+                    "count": 4,
+                    "name": "Unmask"
+                },
+                {
+                    "count": 4,
+                    "name": "Necrodominance"
+                },
+                {
+                    "count": 4,
+                    "name": "Shadow of Mortality"
+                },
+                {
+                    "count": 4,
+                    "name": "Troll of Khazad-dum"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Cellarspawn"
+                },
+                {
+                    "count": 4,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 2,
+                    "name": "Castle Locthwain"
+                },
+                {
+                    "count": 12,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Opposition Agent"
+                },
+                {
+                    "count": 2,
+                    "name": "Torpor Orb"
+                },
+                {
+                    "count": 3,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 2,
+                    "name": "Contagion"
+                },
+                {
+                    "count": 1,
+                    "name": "Cavern of Souls"
+                }
+            ],
+            "notes": "The main idea of this mono black aggro deck is to quickly and aggressively overwhelm the opponent with powerful creatures and removal spells. By utilizing cards like Dark Ritual and Necrodominance, the deck aims to ramp up mana quickly to play high-impact threats such as Sheoldred, the Apocalypse and Troll of Khazad-dûm. The deck also includes a number of card draw and removal spells like Sign in Blood and Fell the Profane to maintain card advantage and control the board. The overall strategy is to apply early pressure and maintain tempo to secure a swift victory."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Seki Toshihide",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667909&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Kaldra Compleat"
+                },
+                {
+                    "count": 1,
+                    "name": "Assimilation Aegis"
+                },
+                {
+                    "count": 2,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Pre-War Formalwear"
+                },
+                {
+                    "count": 4,
+                    "name": "Aether Vial"
+                },
+                {
+                    "count": 4,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Lavinia, Azorius Renegade"
+                },
+                {
+                    "count": 1,
+                    "name": "Giver of Runes"
+                },
+                {
+                    "count": 1,
+                    "name": "Lion Sash"
+                },
+                {
+                    "count": 1,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 1,
+                    "name": "Witch Enchanter"
+                },
+                {
+                    "count": 1,
+                    "name": "Meddling Mage"
+                },
+                {
+                    "count": 2,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 3,
+                    "name": "Gilded Drake"
+                },
+                {
+                    "count": 3,
+                    "name": "Mother of Runes"
+                },
+                {
+                    "count": 3,
+                    "name": "Skyclave Apparition"
+                },
+                {
+                    "count": 4,
+                    "name": "Stoneforge Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Recruiter of the Guard"
+                },
+                {
+                    "count": 4,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Prismatic Vista"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 4,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 1,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 1,
+                    "name": "Yorion, Sky Nomad"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 1,
+                    "name": "Containment Priest"
+                }
+            ],
+            "notes": "This deck aims to maximize efficiency by utilizing Aether Vial to cheat creatures into play and control the board with removal spells like Swords to Plowshares. The key strategy involves using cards like Stoneforge Mystic to search for powerful equipment like Kaldra Compleat and controlling the opponent's board with creatures like Skyclave Apparition and Recruiter of the Guard. The deck also utilizes card advantage and disruption with cards such as Flickerwisp and Meddling Mage. With a mix of aggressive creatures and disruptive elements, this deck aims to outpace and outmaneuver its opponents in Legacy 1 vs 1 matches."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Koyano Naoya",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667907&f=LE",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Green Sun's Zenith"
+                },
+                {
+                    "count": 3,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 1,
+                    "name": "Insidious Fungus"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the World Anew"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Ulamog, the Ceaseless Hunger"
+                },
+                {
+                    "count": 2,
+                    "name": "Elvish Spirit Guide"
+                },
+                {
+                    "count": 3,
+                    "name": "Primeval Titan"
+                },
+                {
+                    "count": 4,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 4,
+                    "name": "Elvish Reclaimer"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 1,
+                    "name": "Thespian's Stage"
+                },
+                {
+                    "count": 1,
+                    "name": "Dark Depths"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Chasm"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 1,
+                    "name": "Echoing Deeps"
+                },
+                {
+                    "count": 1,
+                    "name": "Maze of Ith"
+                },
+                {
+                    "count": 1,
+                    "name": "Vesuva"
+                },
+                {
+                    "count": 2,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 4,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 4,
+                    "name": "Glimmerpost"
+                },
+                {
+                    "count": 4,
+                    "name": "Planar Nexus"
+                },
+                {
+                    "count": 4,
+                    "name": "Cloudpost"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                },
+                {
+                    "count": 2,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Rootpath Purifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 1,
+                    "name": "Collector Ouphe"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Carpet of Flowers"
+                }
+            ],
+            "notes": "This deck aims to control the game by ramping up mana quickly with Cloudpost and Tron lands while disrupting the opponent's game plan with cards like Disruptor Flute and Sowing Mycospawn. The deck includes powerful finishers like Emrakul and Primeval Titan to close out the game once it has gained control. The combination of land tutoring spells like Crop Rotation and resilient threats like Elvish Reclaimer make this deck a potent force in the late game, overwhelming opponents with its powerful threats and mana advantage."
+        },
+        {
+            "date": "2024-11-22",
+            "player": "Nakai Ryo",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62032&d=667910&f=LE",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Thought-Knot Seer"
+                },
+                {
+                    "count": 3,
+                    "name": "Devourer of Destiny"
+                },
+                {
+                    "count": 4,
+                    "name": "Glaring Fleshraker"
+                },
+                {
+                    "count": 2,
+                    "name": "Wastescape Battlemage"
+                },
+                {
+                    "count": 4,
+                    "name": "Sowing Mycospawn"
+                },
+                {
+                    "count": 3,
+                    "name": "Sire of Seven Deaths"
+                },
+                {
+                    "count": 3,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 4,
+                    "name": "Talisman of Curiosity"
+                },
+                {
+                    "count": 2,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Once Upon a Time"
+                },
+                {
+                    "count": 4,
+                    "name": "Kozilek's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 3,
+                    "name": "Eye of Ugin"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaea's Cradle"
+                },
+                {
+                    "count": 1,
+                    "name": "Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Eldrazi Temple"
+                },
+                {
+                    "count": 1,
+                    "name": "Blast Zone"
+                },
+                {
+                    "count": 2,
+                    "name": "Yavimaya, Cradle of Growth"
+                },
+                {
+                    "count": 1,
+                    "name": "Secluded Courtyard"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wastescape Battlemage"
+                },
+                {
+                    "count": 2,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 3,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 3,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Disruptor Flute"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying powerful Eldrazi creatures to overwhelm the opponent and disrupt their game plan. It also features mana acceleration and disruptive elements like Chalice of the Void to control the game and protect its threats. With a mix of aggressive creatures and disruptive spells, the deck aims to close out games quickly while maintaining control of the board. The inclusion of cards like Thought-Knot Seer and Sire of Seven Deaths further disrupts the opponent's strategy, while The One Ring serves as a powerful finisher."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

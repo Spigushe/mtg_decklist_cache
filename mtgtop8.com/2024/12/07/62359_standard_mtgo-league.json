@@ -1,0 +1,985 @@
+{
+    "tournament": {
+        "date": "2024-12-07",
+        "name": "MTGO League",
+        "url": "https://mtgtop8.com/event?e=62359",
+        "format": "Standard",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2024-12-07",
+            "player": "senior_shak",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670359&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 3,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 2,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 3,
+                    "name": "Overlord of the Floodpits"
+                },
+                {
+                    "count": 3,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 2,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 4,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Hedge Maze"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Herd Migration"
+                },
+                {
+                    "count": 4,
+                    "name": "Zur, Eternal Schemer"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrollshift"
+                },
+                {
+                    "count": 2,
+                    "name": "Sunfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 3,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Get Lost"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 1,
+                    "name": "Doppelgang"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Tear Asunder"
+                }
+            ],
+            "notes": "The main focus of this deck is to utilize control elements to manipulate the board, disrupt the opponent's strategy, and generate powerful card advantage. The deck includes a variety of Overlord creatures that can dominate the battlefield, alongside support cards like Leyline Binding and Meticulous Archive. The mana base is designed to support the deck's high-cost spells and enable consistent casting. Overall, the deck aims to outlast the opponent, accumulate resources, and ultimately secure victory through overwhelming control and strategic play."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "TheManLand",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670360&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 4,
+                    "name": "Carrot Cake"
+                },
+                {
+                    "count": 4,
+                    "name": "Caretaker's Talent"
+                },
+                {
+                    "count": 3,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 4,
+                    "name": "Hushwood Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Razorverge Thicket"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Boon-Bringer Valkyrie"
+                },
+                {
+                    "count": 3,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 3,
+                    "name": "Thrun, Breaker of Silence"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 3,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 1,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                }
+            ],
+            "notes": "The deck focuses on controlling the game by utilizing a variety of spells and abilities to disrupt the opponent's strategy. By utilizing cards like Up the Beanstalk, Get Lost, and Caretaker's Talent, the deck can manipulate the opponent's hand and board state. Additionally, having powerful creatures like Beza, the Bounding Spring and the Overlords of the Mistmoors and Hauntwoods allows for strong offensive and defensive capabilities. The mana base of the deck is evenly spread between forests, plains, and dual lands to ensure consistent access to all colors of mana needed for the deck's spells and abilities."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "Fleetwheels",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670361&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 2,
+                    "name": "Archfiend of the Dross"
+                },
+                {
+                    "count": 1,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 2,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 3,
+                    "name": "Glissa Sunslayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Mosswood Dreadknight"
+                },
+                {
+                    "count": 4,
+                    "name": "Restless Cottage"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 6,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 1,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 1,
+                    "name": "Virtue of Persistence"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Choking Miasma"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 1,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Harvester of Misery"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 3,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Aclazotz, Deepest Betrayal"
+                }
+            ],
+            "notes": "The deck focuses on quickly building up mana with Llanowar Elves and using aggressive creatures like Archfiend of the Dross and Mosswood Dreadknight to overwhelm the opponent. It also includes removal spells like Go for the Throat and Maelstrom Pulse to deal with any threats from the opponent. The deck utilizes a mix of creatures, spells, and enchantments to create a fast-paced, aggressive playstyle with a Golgari color identity. It aims to pressure the opponent and control the board while maintaining a steady stream of threats."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "BARNYARD",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670362&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Clay-Fired Bricks"
+                },
+                {
+                    "count": 2,
+                    "name": "Soul Partition"
+                },
+                {
+                    "count": 4,
+                    "name": "Caretaker's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 4,
+                    "name": "Carrot Cake"
+                },
+                {
+                    "count": 4,
+                    "name": "Lay Down Arms"
+                },
+                {
+                    "count": 2,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 2,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 4,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 4,
+                    "name": "Enduring Innocence"
+                },
+                {
+                    "count": 2,
+                    "name": "Demolition Field"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunken Citadel"
+                },
+                {
+                    "count": 4,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 16,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "The Stone Brain"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 3,
+                    "name": "Exorcise"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 3,
+                    "name": "Authority of the Consuls"
+                }
+            ],
+            "notes": "The primary focus of this deck is to establish control over the game by using various spells and creatures to manipulate the board state in favor of the player. With a mix of removal spells, card draw, and creatures with abilities that disrupt the opponent's strategy, the deck seeks to outlast the opponent and eventually win through attrition. The inclusion of cards like Clay-Fired Bricks and Sunfall provide additional ways to maintain control of the battlefield, while cards like Enduring Innocence and Beza, the Bounding Spring offer resilience and value in the long game."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "Seibo",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670363&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Brushland"
+                },
+                {
+                    "count": 2,
+                    "name": "Glass Casket"
+                },
+                {
+                    "count": 4,
+                    "name": "Archangel of Wrath"
+                },
+                {
+                    "count": 4,
+                    "name": "Herd Migration"
+                },
+                {
+                    "count": 2,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunfall"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 4,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 1,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 3,
+                    "name": "Analyze the Pollen"
+                },
+                {
+                    "count": 1,
+                    "name": "Hedge Maze"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancient Cornucopia"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 4,
+                    "name": "Hushwood Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Ascended Animist"
+                },
+                {
+                    "count": 1,
+                    "name": "Outrageous Robbery"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Authority of the Consuls"
+                }
+            ],
+            "notes": "This deck focuses on using a mix of control spells and powerful creatures to dominate the game. The main strategy involves ramping up mana quickly with cards like Herd Migration and Up the Beanstalk, then using cards like Archangel of Wrath and Atraxa, Grand Unifier to control the board and pressure the opponent. Leyline Binding and Overlord of the Hauntwoods provide additional control options, while Sunfall and Analyze the Pollen offer card advantage. Overall, the deck aims to outvalue the opponent through a combination of control and powerful threats."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "DoubleStrike2",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670364&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Glissa Sunslayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 2,
+                    "name": "Anoint with Affliction"
+                },
+                {
+                    "count": 4,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 1,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Mosswood Dreadknight"
+                },
+                {
+                    "count": 1,
+                    "name": "Aclazotz, Deepest Betrayal"
+                },
+                {
+                    "count": 2,
+                    "name": "Scavenging Ooze"
+                },
+                {
+                    "count": 4,
+                    "name": "Restless Cottage"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 1,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 1,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Sentinel of the Nameless City"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Royal Treatment"
+                },
+                {
+                    "count": 1,
+                    "name": "Spinner of Souls"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 2,
+                    "name": "Archfiend of the Dross"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 2,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 2,
+                    "name": "Mazemind Tome"
+                },
+                {
+                    "count": 2,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Choking Miasma"
+                }
+            ],
+            "notes": "This deck focuses on fast and aggressive gameplay, utilizing a mix of creatures and spells to quickly overwhelm opponents. It combines strong creatures like Glissa Sunslayer and Mosswood Dreadknight with removal spells like Go for the Throat to maintain board control. The inclusion of various utility cards like Anoint with Affliction and Duress allows for disruption of opponents' strategies. The deck also includes cards like Soulstone Sanctuary and Sentinel of the Nameless City to provide additional support and resilience. Overall, this deck aims to apply constant pressure and finish off opponents quickly."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "Linden_43",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670365&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 3,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Archfiend of the Dross"
+                },
+                {
+                    "count": 2,
+                    "name": "Glissa Sunslayer"
+                },
+                {
+                    "count": 4,
+                    "name": "Mosswood Dreadknight"
+                },
+                {
+                    "count": 3,
+                    "name": "Restless Cottage"
+                },
+                {
+                    "count": 4,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 3,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 5,
+                    "name": "Forest"
+                },
+                {
+                    "count": 5,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 1,
+                    "name": "Anoint with Affliction"
+                },
+                {
+                    "count": 1,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Blot Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Royal Treatment"
+                },
+                {
+                    "count": 1,
+                    "name": "Aclazotz, Deepest Betrayal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 1,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Blot Out"
+                },
+                {
+                    "count": 2,
+                    "name": "Choking Miasma"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Vivien Reid"
+                },
+                {
+                    "count": 1,
+                    "name": "Dreams of Steel and Oil"
+                },
+                {
+                    "count": 2,
+                    "name": "Tranquil Frillback"
+                },
+                {
+                    "count": 1,
+                    "name": "Harvester of Misery"
+                }
+            ],
+            "notes": "This Golgari Aggro deck focuses on a combination of aggressive creatures like Mosswood Dreadknight and Archfiend of the Dross, supported by removal spells like Cut Down and Go for the Throat. The deck also includes powerful late-game threats like Sheoldred, the Apocalypse and Glissa Sunslayer. The mana base is designed to support a fast and consistent early game with Llanowar Elves and Blooming Marsh. Additionally, the deck includes some disruption and card advantage tools like Preacher of the Schism and Soulstone Sanctuary to maintain tempo and overwhelm the opponent."
+        },
+        {
+            "date": "2024-12-07",
+            "player": "Kaitlyn_MTG",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=62359&d=670366&f=ST",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Ajani, Caller of the Pride"
+                },
+                {
+                    "count": 3,
+                    "name": "Season of the Burrow"
+                },
+                {
+                    "count": 4,
+                    "name": "Subterranean Schooner"
+                },
+                {
+                    "count": 4,
+                    "name": "Sheltered by Ghosts"
+                },
+                {
+                    "count": 4,
+                    "name": "Virtue of Loyalty"
+                },
+                {
+                    "count": 4,
+                    "name": "Collector's Cage"
+                },
+                {
+                    "count": 4,
+                    "name": "Steel Seraph"
+                },
+                {
+                    "count": 4,
+                    "name": "Spyglass Siren"
+                },
+                {
+                    "count": 4,
+                    "name": "Warden of the Inner Sky"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 1,
+                    "name": "Mirrex"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Anchorage"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 5,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 4,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Elspeth's Smite"
+                },
+                {
+                    "count": 2,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Exorcise"
+                },
+                {
+                    "count": 1,
+                    "name": "Season of the Burrow"
+                }
+            ],
+            "notes": "The main concept of this Azorius Aggro deck is to quickly establish a board presence and apply early pressure to the opponent. The deck utilizes efficient creatures like Steel Seraph and Spyglass Siren, as well as support cards such as Sheltered by Ghosts and Virtue of Loyalty to protect and enhance its creatures. The inclusion of cards like Season of the Burrow and Collector's Cage helps to disrupt the opponent's game plan while maintaining a proactive strategy. By combining aggression with disruption, this deck aims to overwhelm the opponent and secure a quick victory."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

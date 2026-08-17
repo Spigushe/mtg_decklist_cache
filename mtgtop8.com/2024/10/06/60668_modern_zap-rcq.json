@@ -1,0 +1,954 @@
+{
+    "tournament": {
+        "date": "2024-10-06",
+        "name": "Zap RCQ",
+        "url": "https://mtgtop8.com/event?e=60668",
+        "format": "Modern",
+        "players": 64
+    },
+    "decks": [
+        {
+            "date": "2024-10-06",
+            "player": "Alexis Gosset",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655976&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Beyeen Veil"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Disrupting Shoal"
+                },
+                {
+                    "count": 4,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Flare of Denial"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Goblin Charbelcher"
+                },
+                {
+                    "count": 4,
+                    "name": "Harbinger of the Seas"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroelectric Specimen"
+                },
+                {
+                    "count": 4,
+                    "name": "Jwari Disruption"
+                },
+                {
+                    "count": 4,
+                    "name": "Lotus Bloom"
+                },
+                {
+                    "count": 3,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Sea Gate Restoration"
+                },
+                {
+                    "count": 4,
+                    "name": "Silundi Vision"
+                },
+                {
+                    "count": 4,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 4,
+                    "name": "Thundertrap Trainer"
+                },
+                {
+                    "count": 2,
+                    "name": "Waterlogged Teachings"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Commandeer"
+                },
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Disruptor Flute"
+                },
+                {
+                    "count": 1,
+                    "name": "Gigadrowse"
+                },
+                {
+                    "count": 2,
+                    "name": "Into the Flood Maw"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Unable to Scream"
+                }
+            ],
+            "notes": "The main strategy of this deck is to use a combination of cheap and free counterspells to protect key combo pieces like Goblin Charbelcher and Thundertrap Trainer. By utilizing cards like Silundi Vision and Sea Gate Restoration to dig for combo pieces, as well as using Beyeen Veil to protect against removal spells, the deck aims to quickly assemble a lethal combo and win the game without the need for traditional lands. The deck focuses on using a landless approach to overwhelm opponents with a powerful combo finish."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Alexandre Doremus",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655977&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 3,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Guildpact"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 3,
+                    "name": "Ragavan, Nimble Pilferer"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 4,
+                    "name": "Scion of Draco"
+                },
+                {
+                    "count": 1,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 3,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Territorial Kavu"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                },
+                {
+                    "count": 1,
+                    "name": "Zagoth Triome"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Stern Scolding"
+                },
+                {
+                    "count": 2,
+                    "name": "Stubborn Denial"
+                }
+            ],
+            "notes": "The deck focuses on playing powerful creatures like Ragavan, Nimble Pilferer, Scion of Draco and Territorial Kavu quickly and efficiently, while also utilizing cards like Leyline of the Guildpact and Leyline Binding to control the board. Counterspells such as Force of Negation and Spell Snare are used to protect your creatures and disrupt your opponent's game plan. Tamiyo, Inquisitive Student provides card advantage and selection, while Prismatic Ending can deal with problematic permanents. The deck aims to apply pressure early and maintain control throughout the game to secure a victory."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Alexis Saute",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655978&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Agatha's Soul Cauldron"
+                },
+                {
+                    "count": 4,
+                    "name": "Arbor Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Basking Broodscale"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 4,
+                    "name": "Collected Company"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Guide of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Heliod, Sun-Crowned"
+                },
+                {
+                    "count": 2,
+                    "name": "Horizon Canopy"
+                },
+                {
+                    "count": 2,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 3,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Misty Rainforest"
+                },
+                {
+                    "count": 1,
+                    "name": "Pendelhaven"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Prosperous Innkeeper"
+                },
+                {
+                    "count": 3,
+                    "name": "Rosie Cotton of South Lane"
+                },
+                {
+                    "count": 2,
+                    "name": "Shifting Woodland"
+                },
+                {
+                    "count": 4,
+                    "name": "Spike Feeder"
+                },
+                {
+                    "count": 2,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 4,
+                    "name": "Utopia Sprawl"
+                },
+                {
+                    "count": 1,
+                    "name": "Verdant Catacombs"
+                },
+                {
+                    "count": 2,
+                    "name": "Walking Ballista"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Deafening Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Emrakul, the Aeons Torn"
+                },
+                {
+                    "count": 1,
+                    "name": "Gaddock Teeg"
+                },
+                {
+                    "count": 1,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 2,
+                    "name": "Sanctifier en-Vec"
+                },
+                {
+                    "count": 1,
+                    "name": "Soulless Jailer"
+                },
+                {
+                    "count": 2,
+                    "name": "Suncleanser"
+                },
+                {
+                    "count": 3,
+                    "name": "Veil of Summer"
+                }
+            ],
+            "notes": "The main idea of this deck is to use Collected Company to quickly assemble the Heliod, Sun-Crowned and Spike Feeder combo, allowing for infinite life gain and creature tokens. The deck aims to control the board with cards like Malevolent Rumble and Agatha's Soul Cauldron while generating mana with cards like Utopia Sprawl and Arbor Elf. Guide of Souls and Rosie Cotton of South Lane help to tutor for key pieces of the combo, ensuring consistency in executing the win condition. Prosperous Innkeeper provides additional life gain and mana ramp to support the combo."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Quentin Mathieu",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655982&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Aether Hub"
+                },
+                {
+                    "count": 4,
+                    "name": "Ajani, Nacatl Pariah"
+                },
+                {
+                    "count": 4,
+                    "name": "Amped Raptor"
+                },
+                {
+                    "count": 3,
+                    "name": "Arena of Glory"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 2,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Elegant Parlor"
+                },
+                {
+                    "count": 3,
+                    "name": "Galvanic Discharge"
+                },
+                {
+                    "count": 1,
+                    "name": "Goblin Bombardment"
+                },
+                {
+                    "count": 4,
+                    "name": "Guide of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Ocelot Pride"
+                },
+                {
+                    "count": 4,
+                    "name": "Phlage, Titan of Fire's Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 3,
+                    "name": "Static Prison"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Windswept Heath"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Chained to the Rocks"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Fear, Fire, Foes!"
+                },
+                {
+                    "count": 1,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 1,
+                    "name": "Jegantha, the Wellspring"
+                },
+                {
+                    "count": 3,
+                    "name": "Obsidian Charmaw"
+                },
+                {
+                    "count": 2,
+                    "name": "Suncleanser"
+                },
+                {
+                    "count": 2,
+                    "name": "Thraben Charm"
+                }
+            ],
+            "notes": "The main concept of this Boros Aggro deck is to quickly overwhelm the opponent with aggressive creatures and burn spells while also utilizing artifacts and enchantments to control the board and disrupt the opponent's strategy. The deck aims to maintain a fast pace and apply pressure early on, taking advantage of its versatile card selection and powerful synergies to secure victory in a swift and decisive manner. By combining efficient creatures, direct damage, and disruptive elements, this deck strives to maintain aggression and tempo throughout the game."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Frederic Archambault",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655979&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 1,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Fire/Ice"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Grinding Station"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Amber"
+                },
+                {
+                    "count": 4,
+                    "name": "Otherworldly Gaze"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Sevinne's Reclamation"
+                },
+                {
+                    "count": 1,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 4,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 1,
+                    "name": "Thassa's Oracle"
+                },
+                {
+                    "count": 4,
+                    "name": "Underworld Breach"
+                },
+                {
+                    "count": 3,
+                    "name": "Urza's Saga"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Alpine Moon"
+                },
+                {
+                    "count": 1,
+                    "name": "Anger of the Gods"
+                },
+                {
+                    "count": 1,
+                    "name": "Engineered Explosives"
+                },
+                {
+                    "count": 2,
+                    "name": "Flusterstorm"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 2,
+                    "name": "Surge of Salvation"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                }
+            ],
+            "notes": "This deck focuses on utilizing the combo between Underworld Breach, Grinding Station, and Aether Spellbomb to continuously loop cards from the graveyard and deck, eventually leading to a win condition with Thassa's Oracle or Dragon's Rage Channeler. The deck also includes disruption and card draw elements with Teferi, Time Raveler and Tamiyo, Inquisitive Student. Mishra's Bauble and Mox Amber help generate card advantage and mana acceleration, while Urza's Saga provides additional value through tutoring for key combo pieces. The deck aims to efficiently combo off while controlling the game with disruptive elements."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Ismael Boulbaz",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655980&f=MO",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Arena of Glory"
+                },
+                {
+                    "count": 4,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 1,
+                    "name": "Elegant Parlor"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Galvanic Discharge"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 1,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Monumental Henge"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Gate"
+                },
+                {
+                    "count": 3,
+                    "name": "Phlage, Titan of Fire's Fury"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Spara's Headquarters"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Subtlety"
+                },
+                {
+                    "count": 3,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 2,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Tune the Narrative"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 3,
+                    "name": "Obsidian Charmaw"
+                },
+                {
+                    "count": 2,
+                    "name": "Stern Scolding"
+                },
+                {
+                    "count": 1,
+                    "name": "Supreme Verdict"
+                }
+            ],
+            "notes": "This deck focuses on controlling the opponent's actions through counterspells and removal while building up to play The One Ring, a powerful artifact that can help dominate the game. The deck also utilizes enchantments like Leyline Binding and Phlage, Titan of Fire's Fury to further control the board, along with Teferi, Time Raveler to disrupt the opponent's strategy. Additionally, the deck includes cards like Solitude and Wrath of the Skies for removal options. Overall, the strategy is to establish control early on and use The One Ring to secure victory."
+        },
+        {
+            "date": "2024-10-06",
+            "player": "Cyril Frey",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=60668&d=655981&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Guildpact"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 4,
+                    "name": "Wrenn and Six"
+                },
+                {
+                    "count": 4,
+                    "name": "Malevolent Rumble"
+                },
+                {
+                    "count": 2,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 3,
+                    "name": "Dryad of the Ilysian Grove"
+                },
+                {
+                    "count": 3,
+                    "name": "Phlage, Titan of Fire's Fury"
+                },
+                {
+                    "count": 4,
+                    "name": "Scion of Draco"
+                },
+                {
+                    "count": 1,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Xander's Lounge"
+                },
+                {
+                    "count": 1,
+                    "name": "Boseiju, Who Endures"
+                },
+                {
+                    "count": 1,
+                    "name": "Temple Garden"
+                },
+                {
+                    "count": 1,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 1,
+                    "name": "Arena of Glory"
+                },
+                {
+                    "count": 1,
+                    "name": "Elegant Parlor"
+                },
+                {
+                    "count": 1,
+                    "name": "Zagoth Triome"
+                },
+                {
+                    "count": 1,
+                    "name": "Shifting Woodland"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Windswept Heath"
+                },
+                {
+                    "count": 4,
+                    "name": "Valakut, the Molten Pinnacle"
+                },
+                {
+                    "count": 4,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Vigor"
+                },
+                {
+                    "count": 3,
+                    "name": "Endurance"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 4,
+                    "name": "Obsidian Charmaw"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                }
+            ],
+            "notes": "The deck focuses on assembling lands like Valakut, the Molten Pinnacle and Dryad of the Ilysian Grove to deal massive amounts of damage to the opponent quickly. It also utilizes Leyline of the Guildpact and Leyline Binding to control the opponent's resources and protect its own game plan. Cards like Wrenn and Six and Malevolent Rumble provide additional value and removal, while Phlage, Titan of Fire's Fury and Scion of Draco can act as finishers. The deck aims to set up a powerful combo and overwhelm the opponent with its synergy and efficient threats."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

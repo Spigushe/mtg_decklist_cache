@@ -1,0 +1,921 @@
+{
+    "tournament": {
+        "date": "2025-01-19",
+        "name": "Rumble",
+        "url": "https://mtgtop8.com/event?e=63889",
+        "format": "Standard",
+        "players": 29
+    },
+    "decks": [
+        {
+            "date": "2025-01-19",
+            "player": "Obara Yuichiro",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682788&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 2,
+                    "name": "Pawpatch Recruit"
+                },
+                {
+                    "count": 3,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 3,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 3,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 2,
+                    "name": "Innkeeper's Talent"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 1,
+                    "name": "Restless Ridgeline"
+                },
+                {
+                    "count": 3,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Thornspire Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 1,
+                    "name": "Screaming Nemesis"
+                },
+                {
+                    "count": 1,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 3,
+                    "name": "Lithomantic Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Case of the Crimson Pulse"
+                },
+                {
+                    "count": 3,
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 2,
+                    "name": "Pawpatch Formation"
+                }
+            ],
+            "notes": "The deck focuses on quickly deploying aggressive creatures and overwhelming the opponent with a flurry of attacks. It aims to control the board and apply consistent pressure by playing efficient creatures and burn spells to deal damage quickly. The mana base is carefully constructed to support the aggressive nature of the deck and ensure consistent access to the necessary colors of mana. The deck's strategy revolves around utilizing cheap creatures and burn spells to maintain a strong board presence and finish the game before the opponent can stabilize."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Murayama Kyohei",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682789&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 3,
+                    "name": "Hopeless Nightmare"
+                },
+                {
+                    "count": 3,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 4,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "This Town Ain't Big Enough"
+                },
+                {
+                    "count": 3,
+                    "name": "Enduring Curiosity"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodpits Drowner"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Isolation"
+                },
+                {
+                    "count": 4,
+                    "name": "Spyglass Siren"
+                },
+                {
+                    "count": 2,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 4,
+                    "name": "Gloomlake Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 2,
+                    "name": "Tishana's Tidebinder"
+                },
+                {
+                    "count": 2,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Cut Down"
+                }
+            ],
+            "notes": "The main focus of this deck is to overwhelm the opponent with aggressive creatures and disruptive spells, utilizing fear and isolation to control the board. By leveraging the power of the Dimir color combination, the deck aims to outpace and outmaneuver the opponent with a combination of removal, card draw, and evasive threats. The key strategy is to maintain a steady stream of threats while disrupting the opponent's game plan, ultimately leading to victory through a combination of tempo and aggression."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Isogaya Leo",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682790&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 3,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 4,
+                    "name": "Mosswood Dreadknight"
+                },
+                {
+                    "count": 4,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 4,
+                    "name": "Sentinel of the Nameless City"
+                },
+                {
+                    "count": 4,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 3,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 2,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 6,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 4,
+                    "name": "Llanowar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Restless Cottage"
+                },
+                {
+                    "count": 2,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 1,
+                    "name": "Soulstone Sanctuary"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 2,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Obstinate Baloth"
+                },
+                {
+                    "count": 2,
+                    "name": "Anoint with Affliction"
+                },
+                {
+                    "count": 2,
+                    "name": "Nissa, Ascended Animist"
+                },
+                {
+                    "count": 1,
+                    "name": "Glistening Deluge"
+                },
+                {
+                    "count": 2,
+                    "name": "Blot Out"
+                },
+                {
+                    "count": 1,
+                    "name": "The End"
+                },
+                {
+                    "count": 2,
+                    "name": "Deadly Cover-Up"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghost Vacuum"
+                }
+            ],
+            "notes": "This deck focuses on aggressive gameplay using low-cost creatures like Llanowar Elves and Mosswood Dreadknight to quickly build a board presence. Sheoldred, the Apocalypse and Preacher of the Schism provide powerful threats that can overwhelm the opponent. Removal spells like Go for the Throat and Cut Down help control the board, while cards like Sentinel of the Nameless City provide additional utility. The deck utilizes Golgari colors for a mix of efficient creatures and removal spells, aiming to pressure the opponent and secure victory before they can stabilize."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Kurosaki Ryou",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682791&f=ST",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Dreams of Steel and Oil"
+                },
+                {
+                    "count": 2,
+                    "name": "Liliana of the Veil"
+                },
+                {
+                    "count": 2,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 3,
+                    "name": "Cut Down"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Annex/Ritual Chamber"
+                },
+                {
+                    "count": 4,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "Duress"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred, the Apocalypse"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodletter of Aclazotz"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep-Cavern Bat"
+                },
+                {
+                    "count": 3,
+                    "name": "Preacher of the Schism"
+                },
+                {
+                    "count": 4,
+                    "name": "Unstoppable Slasher"
+                },
+                {
+                    "count": 2,
+                    "name": "Fountainport"
+                },
+                {
+                    "count": 2,
+                    "name": "Escape Tunnel"
+                },
+                {
+                    "count": 4,
+                    "name": "Soulstone Sanctuary"
+                },
+                {
+                    "count": 17,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Malicious Eclipse"
+                },
+                {
+                    "count": 2,
+                    "name": "The Filigree Sylex"
+                },
+                {
+                    "count": 2,
+                    "name": "Sheoldred's Edict"
+                },
+                {
+                    "count": 3,
+                    "name": "Anoint with Affliction"
+                },
+                {
+                    "count": 3,
+                    "name": "Caustic Bronco"
+                },
+                {
+                    "count": 3,
+                    "name": "Soul-Guide Lantern"
+                }
+            ],
+            "notes": "This Mono Black Aggro deck focuses on overwhelming the opponent with creatures and removal spells. It aims to put pressure on the opponent early with aggressive creatures like Bloodletter of Aclazotz and Unstoppable Slasher, while disrupting their game plan with Duress and Go for the Throat. The deck also has some late-game threats like Sheoldred, the Apocalypse to close out the game. The deck is also resilient with cards like Dreams of Steel and Oil to protect its creatures and Unholy Annex / Ritual Chamber to generate extra mana. Ultimately, this deck aims to be fast and disruptive to outpace the opponent."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Abe Kentaro",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682792&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Nurturing Pixie"
+                },
+                {
+                    "count": 2,
+                    "name": "Mockingbird"
+                },
+                {
+                    "count": 4,
+                    "name": "Optimistic Scavenger"
+                },
+                {
+                    "count": 2,
+                    "name": "Entity Tracker"
+                },
+                {
+                    "count": 4,
+                    "name": "Fear of Isolation"
+                },
+                {
+                    "count": 1,
+                    "name": "Tithing Blade"
+                },
+                {
+                    "count": 2,
+                    "name": "Go for the Throat"
+                },
+                {
+                    "count": 4,
+                    "name": "This Town Ain't Big Enough"
+                },
+                {
+                    "count": 4,
+                    "name": "Hopeless Nightmare"
+                },
+                {
+                    "count": 4,
+                    "name": "Stormchaser's Talent"
+                },
+                {
+                    "count": 4,
+                    "name": "Nowhere to Run"
+                },
+                {
+                    "count": 2,
+                    "name": "Kaito, Bane of Nightmares"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 3,
+                    "name": "Caves of Koilos"
+                },
+                {
+                    "count": 3,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Underground River"
+                },
+                {
+                    "count": 4,
+                    "name": "Darkslick Shores"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Authority of the Consuls"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 1,
+                    "name": "Gix's Command"
+                },
+                {
+                    "count": 2,
+                    "name": "Shrouded Shepherd"
+                },
+                {
+                    "count": 4,
+                    "name": "No More Lies"
+                },
+                {
+                    "count": 2,
+                    "name": "Split Up"
+                }
+            ],
+            "notes": "The main concept of this deck is to quickly establish a board presence with aggressive creatures like Nurturing Pixie and Optimistic Scavenger, while disrupting the opponent's game plan with cards like Fear of Isolation and Go for the Throat. By utilizing cards like This Town Ain't Big Enough and Hopeless Nightmare, the deck aims to apply pressure and close out the game quickly. Additionally, the inclusion of Stormchaser's Talent and Entity Tracker allows for additional value and versatility in combat. With a mixture of threats and disruption, this Esper Aggro deck aims to overwhelm opponents and secure victories efficiently."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Moriya Daisuke",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682794&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 4,
+                    "name": "Emberheart Challenger"
+                },
+                {
+                    "count": 4,
+                    "name": "Heartfire Hero"
+                },
+                {
+                    "count": 4,
+                    "name": "Hired Claw"
+                },
+                {
+                    "count": 4,
+                    "name": "Manifold Mouse"
+                },
+                {
+                    "count": 4,
+                    "name": "Pawpatch Recruit"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Rage"
+                },
+                {
+                    "count": 2,
+                    "name": "Torch the Tower"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Innkeeper's Talent"
+                },
+                {
+                    "count": 6,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Karplusan Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Copperline Gorge"
+                },
+                {
+                    "count": 2,
+                    "name": "Restless Ridgeline"
+                },
+                {
+                    "count": 2,
+                    "name": "Rockface Village"
+                },
+                {
+                    "count": 4,
+                    "name": "Thornspire Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Questing Druid"
+                },
+                {
+                    "count": 2,
+                    "name": "Obliterating Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Urabrask's Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Lithomantic Barrage"
+                },
+                {
+                    "count": 2,
+                    "name": "Scorching Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Pawpatch Formation"
+                }
+            ],
+            "notes": "This deck focuses on quickly building a board of creatures and attacking aggressively to deal damage to the opponent. It includes low-cost creatures like Questing Druid and Hired Claw, as well as removal and burn spells like Burst Lightning and Obliterating Bolt to clear the way for attacks. The deck also includes pump spells like Monstrous Rage to increase the power of creatures. The mana base is set up to provide a good balance of red and green sources to support the aggressive game plan."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Kondou Ryuuki",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682793&f=ST",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Resolute Reinforcements"
+                },
+                {
+                    "count": 4,
+                    "name": "Knight-Errant of Eos"
+                },
+                {
+                    "count": 4,
+                    "name": "Imodane's Recruiter"
+                },
+                {
+                    "count": 4,
+                    "name": "Warden of the Inner Sky"
+                },
+                {
+                    "count": 4,
+                    "name": "Spyglass Siren"
+                },
+                {
+                    "count": 4,
+                    "name": "Novice Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Mockingbird"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleeful Demolition"
+                },
+                {
+                    "count": 2,
+                    "name": "Case of the Gateway Express"
+                },
+                {
+                    "count": 4,
+                    "name": "Sheltered by Ghosts"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Spirebluff Canal"
+                },
+                {
+                    "count": 4,
+                    "name": "Battlefield Forge"
+                },
+                {
+                    "count": 2,
+                    "name": "Shivan Reef"
+                },
+                {
+                    "count": 4,
+                    "name": "Adarkar Wastes"
+                },
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Disdainful Stroke"
+                },
+                {
+                    "count": 2,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 3,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 4,
+                    "name": "Protect the Negotiators"
+                },
+                {
+                    "count": 4,
+                    "name": "Torch the Tower"
+                }
+            ],
+            "notes": "This deck focuses on an aggressive playstyle with a combination of creature cards and removal spells to quickly overwhelm the opponent and deal damage efficiently. The cards included enable the player to maintain board presence and pressure the opponent early on, setting up for a swift victory. The mana base is built with lands that provide access to all necessary colors for the spells in the deck, ensuring consistency in casting spells. Overall, the deck aims to win the game by applying constant pressure and utilizing synergy between the cards included."
+        },
+        {
+            "date": "2025-01-19",
+            "player": "Hashigaya Wataru",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=63889&d=682795&f=ST",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Zur, Eternal Schemer"
+                },
+                {
+                    "count": 1,
+                    "name": "Atraxa, Grand Unifier"
+                },
+                {
+                    "count": 2,
+                    "name": "Harvester of Misery"
+                },
+                {
+                    "count": 1,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Mistmoors"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Hauntwoods"
+                },
+                {
+                    "count": 3,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Herd Migration"
+                },
+                {
+                    "count": 3,
+                    "name": "Sunfall"
+                },
+                {
+                    "count": 2,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline Binding"
+                },
+                {
+                    "count": 4,
+                    "name": "Up the Beanstalk"
+                },
+                {
+                    "count": 1,
+                    "name": "Caretaker's Talent"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Lush Portico"
+                },
+                {
+                    "count": 3,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 2,
+                    "name": "Underground Mortuary"
+                },
+                {
+                    "count": 3,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Hushwood Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Beza, the Bounding Spring"
+                },
+                {
+                    "count": 1,
+                    "name": "Split Up"
+                },
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Tear Asunder"
+                },
+                {
+                    "count": 1,
+                    "name": "Nissa, Ascended Animist"
+                },
+                {
+                    "count": 2,
+                    "name": "Kutzil's Flanker"
+                },
+                {
+                    "count": 1,
+                    "name": "Doppelgang"
+                },
+                {
+                    "count": 2,
+                    "name": "Pest Control"
+                }
+            ],
+            "notes": "This deck focuses on using powerful control elements like Zur, Eternal Schemer and Leyline Binding to manipulate the opponent's board state and limit their options. It also utilizes a variety of creatures like Harvester of Misery and Overlords to establish dominance on the field. The deck includes cards like Get Lost and Maelstrom Pulse to deal with threats, as well as ramp spells like Up the Beanstalk and Herd Migration to ensure a steady flow of resources. With a mix of creature control, removal, and resource management, this deck aims to outlast the opponent and secure victory through strategic play."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

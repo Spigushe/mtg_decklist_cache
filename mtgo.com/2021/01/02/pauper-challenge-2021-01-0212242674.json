@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2021-01-01",
+        "name": "Pauper Challenge",
+        "url": "https://www.mtgo.com/decklist/pauper-challenge-2021-01-0212242674",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "gottelicious",
+                    "player_2": "Diego_Brando",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "Beicodegeia",
+                    "player_2": "LiturgijskaKnjiga",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "nekonekoneko",
+                    "player_2": "PauloCabral_Br",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "Pilototo",
+                    "player_2": "barff",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "gottelicious",
+                    "player_2": "Beicodegeia",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "nekonekoneko",
+                    "player_2": "Pilototo",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "gottelicious",
+                    "player_2": "nekonekoneko",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

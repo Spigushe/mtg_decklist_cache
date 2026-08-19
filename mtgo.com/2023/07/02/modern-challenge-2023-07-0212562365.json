@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2023-07-01",
+        "name": "Modern Challenge",
+        "url": "https://www.mtgo.com/decklist/modern-challenge-2023-07-0212562365",
+        "format": "Modern",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "kyon1024",
+                    "player_2": "YungDingo",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "RadiantRice",
+                    "player_2": "AnziD",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "fried-liver-attack",
+                    "player_2": "5anyangkkun",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Dazai",
+                    "player_2": "ezebessone",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "kyon1024",
+                    "player_2": "RadiantRice",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "fried-liver-attack",
+                    "player_2": "Dazai",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "kyon1024",
+                    "player_2": "fried-liver-attack",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

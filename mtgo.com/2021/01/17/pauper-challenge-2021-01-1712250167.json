@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2021-01-16",
+        "name": "Pauper Challenge",
+        "url": "https://www.mtgo.com/decklist/pauper-challenge-2021-01-1712250167",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "lucajak",
+                    "player_2": "1yo2yo",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Freudian_Slip",
+                    "player_2": "PauloCabral_Br",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "gazmon48",
+                    "player_2": "Usama96",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "kasa",
+                    "player_2": "Venom1",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "lucajak",
+                    "player_2": "Freudian_Slip",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "gazmon48",
+                    "player_2": "kasa",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "lucajak",
+                    "player_2": "gazmon48",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

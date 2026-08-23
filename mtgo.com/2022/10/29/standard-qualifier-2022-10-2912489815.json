@@ -1,0 +1,416 @@
+{
+    "tournament": {
+        "date": "2022-10-28",
+        "name": "Standard Qualifier",
+        "url": "https://www.mtgo.com/decklist/standard-qualifier-2022-10-2912489815",
+        "format": "Standard",
+        "players": 89
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "Bryzem1",
+                    "player_2": "mysteryman21",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "JUJUBEAN__2004",
+                    "player_2": "azatoyellow",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "O_danielakos",
+                    "player_2": "sandydogmtg",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "CSwicky97",
+                    "player_2": "AoFTW",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "Bryzem1",
+                    "player_2": "JUJUBEAN__2004",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "O_danielakos",
+                    "player_2": "CSwicky97",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "Bryzem1",
+                    "player_2": "O_danielakos",
+                    "result": "2-0"
+                }
+            ]
+        }
+    ],
+    "standings": [
+        {
+            "rank": 1,
+            "player": "O_danielakos",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.006497,
+            "gwp": 0.007221999999999999,
+            "ogwp": 0.005607
+        },
+        {
+            "rank": 2,
+            "player": "mysteryman21",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.006395,
+            "gwp": 0.007221999999999999,
+            "ogwp": 0.0057669999999999996
+        },
+        {
+            "rank": 3,
+            "player": "JUJUBEAN__2004",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.006395,
+            "gwp": 0.006842,
+            "ogwp": 0.0059099999999999995
+        },
+        {
+            "rank": 4,
+            "player": "AoFTW",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.005782000000000001,
+            "gwp": 0.007058999999999999,
+            "ogwp": 0.005439
+        },
+        {
+            "rank": 5,
+            "player": "CSwicky97",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.005469000000000001,
+            "gwp": 0.0075,
+            "ogwp": 0.005272
+        },
+        {
+            "rank": 6,
+            "player": "azatoyellow",
+            "points": 18,
+            "wins": 6,
+            "losses": 1,
+            "draws": 0,
+            "omwp": 0.005129,
+            "gwp": 0.007058999999999999,
+            "ogwp": 0.005078
+        },
+        {
+            "rank": 7,
+            "player": "Bryzem1",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.006122,
+            "gwp": 0.007058999999999999,
+            "ogwp": 0.005413
+        },
+        {
+            "rank": 8,
+            "player": "sandydogmtg",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.006122,
+            "gwp": 0.006471,
+            "ogwp": 0.005580000000000001
+        },
+        {
+            "rank": 9,
+            "player": "xfile",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005986,
+            "gwp": 0.006316,
+            "ogwp": 0.005506
+        },
+        {
+            "rank": 10,
+            "player": "fingers1991",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005849999999999999,
+            "gwp": 0.00625,
+            "ogwp": 0.0053
+        },
+        {
+            "rank": 11,
+            "player": "Idea013",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005646,
+            "gwp": 0.00625,
+            "ogwp": 0.005319000000000001
+        },
+        {
+            "rank": 12,
+            "player": "msskinbolic",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005578,
+            "gwp": 0.00625,
+            "ogwp": 0.005237
+        },
+        {
+            "rank": 13,
+            "player": "JiggiestJay",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005544,
+            "gwp": 0.006111,
+            "ogwp": 0.005345
+        },
+        {
+            "rank": 14,
+            "player": "Patxi",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005272,
+            "gwp": 0.006875,
+            "ogwp": 0.004894
+        },
+        {
+            "rank": 15,
+            "player": "YoloSwagGangsta",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.005272,
+            "gwp": 0.006471,
+            "ogwp": 0.004883
+        },
+        {
+            "rank": 16,
+            "player": "BEAFy",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.004884,
+            "gwp": 0.0055000000000000005,
+            "ogwp": 0.005187000000000001
+        },
+        {
+            "rank": 17,
+            "player": "Edel",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.00483,
+            "gwp": 0.006471,
+            "ogwp": 0.00459
+        },
+        {
+            "rank": 18,
+            "player": "_dr4gun0v_",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.00468,
+            "gwp": 0.00625,
+            "ogwp": 0.004987
+        },
+        {
+            "rank": 19,
+            "player": "Mogged",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.0045579999999999996,
+            "gwp": 0.006666999999999999,
+            "ogwp": 0.004675
+        },
+        {
+            "rank": 20,
+            "player": "bernardocssa",
+            "points": 15,
+            "wins": 5,
+            "losses": 2,
+            "draws": 0,
+            "omwp": 0.004388,
+            "gwp": 0.007332999999999999,
+            "ogwp": 0.004262
+        },
+        {
+            "rank": 21,
+            "player": "naka_mura",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.006531,
+            "gwp": 0.005263,
+            "ogwp": 0.006086
+        },
+        {
+            "rank": 22,
+            "player": "RNGspecialist",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.00649,
+            "gwp": 0.005881999999999999,
+            "ogwp": 0.005766
+        },
+        {
+            "rank": 23,
+            "player": "Bob49",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.006429000000000001,
+            "gwp": 0.005294,
+            "ogwp": 0.00612
+        },
+        {
+            "rank": 24,
+            "player": "Thatted",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.006395,
+            "gwp": 0.005625,
+            "ogwp": 0.005835
+        },
+        {
+            "rank": 25,
+            "player": "FunkiMunki",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005986,
+            "gwp": 0.005,
+            "ogwp": 0.005617
+        },
+        {
+            "rank": 26,
+            "player": "rastaf",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005986,
+            "gwp": 0.005,
+            "ogwp": 0.005581
+        },
+        {
+            "rank": 27,
+            "player": "Tunaktunak",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.0059050000000000005,
+            "gwp": 0.005881999999999999,
+            "ogwp": 0.005682
+        },
+        {
+            "rank": 28,
+            "player": "HouseOfManaMTG",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005536999999999999,
+            "gwp": 0.006111,
+            "ogwp": 0.005576
+        },
+        {
+            "rank": 29,
+            "player": "Xenowan",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005476,
+            "gwp": 0.004706,
+            "ogwp": 0.005377
+        },
+        {
+            "rank": 30,
+            "player": "Harry13",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005442,
+            "gwp": 0.005294,
+            "ogwp": 0.005324
+        },
+        {
+            "rank": 31,
+            "player": "INickStrad",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005442,
+            "gwp": 0.005,
+            "ogwp": 0.005223
+        },
+        {
+            "rank": 32,
+            "player": "CMack_",
+            "points": 12,
+            "wins": 4,
+            "losses": 3,
+            "draws": 0,
+            "omwp": 0.005333,
+            "gwp": 0.005,
+            "ogwp": 0.005138
+        }
+    ]
+}

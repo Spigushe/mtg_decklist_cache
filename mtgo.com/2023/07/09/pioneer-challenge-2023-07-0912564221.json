@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2023-07-08",
+        "name": "Pioneer Challenge",
+        "url": "https://www.mtgo.com/decklist/pioneer-challenge-2023-07-0912564221",
+        "format": "Pioneer",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "DenebLyrae",
+                    "player_2": "Jaberwocki",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "ScouterTF2",
+                    "player_2": "Makoobi",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "YungDingo",
+                    "player_2": "Dr4ken",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "wkmidori",
+                    "player_2": "Toltar",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "DenebLyrae",
+                    "player_2": "ScouterTF2",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "YungDingo",
+                    "player_2": "wkmidori",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "DenebLyrae",
+                    "player_2": "YungDingo",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

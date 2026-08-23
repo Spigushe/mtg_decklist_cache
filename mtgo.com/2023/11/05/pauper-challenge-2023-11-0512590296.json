@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2023-11-04",
+        "name": "Pauper Challenge",
+        "url": "https://www.mtgo.com/decklist/pauper-challenge-2023-11-0512590296",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "carrot_eater",
+                    "player_2": "bernardocssa",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "ziofrancone",
+                    "player_2": "ezocratto",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "PaoloSanto",
+                    "player_2": "LasVegasChaos",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "pepeteam",
+                    "player_2": "Hamuda",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "carrot_eater",
+                    "player_2": "ziofrancone",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "PaoloSanto",
+                    "player_2": "pepeteam",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "carrot_eater",
+                    "player_2": "PaoloSanto",
+                    "result": "2-1"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

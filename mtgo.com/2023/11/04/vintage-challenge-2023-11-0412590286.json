@@ -1,0 +1,63 @@
+{
+    "tournament": {
+        "date": "2023-11-03",
+        "name": "Vintage Challenge",
+        "url": "https://www.mtgo.com/decklist/vintage-challenge-2023-11-0412590286",
+        "format": "Vintage",
+        "players": 0
+    },
+    "decks": [],
+    "rounds": [
+        {
+            "round_name": "Quarterfinals",
+            "matches": [
+                {
+                    "player_1": "Beekeeper",
+                    "player_2": "burrarun",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "Turn1GlistenerElf",
+                    "player_2": "ecobaronen",
+                    "result": "2-1"
+                },
+                {
+                    "player_1": "unluckymonkey",
+                    "player_2": "J0SE",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "jvidarte",
+                    "player_2": "Murkyblack11",
+                    "result": "2-0"
+                }
+            ]
+        },
+        {
+            "round_name": "Semifinals",
+            "matches": [
+                {
+                    "player_1": "Beekeeper",
+                    "player_2": "Turn1GlistenerElf",
+                    "result": "2-0"
+                },
+                {
+                    "player_1": "unluckymonkey",
+                    "player_2": "jvidarte",
+                    "result": "2-1"
+                }
+            ]
+        },
+        {
+            "round_name": "Final",
+            "matches": [
+                {
+                    "player_1": "Beekeeper",
+                    "player_2": "unluckymonkey",
+                    "result": "2-0"
+                }
+            ]
+        }
+    ],
+    "standings": []
+}

@@ -1,0 +1,797 @@
+{
+    "tournament": {
+        "date": "2026-08-24",
+        "name": "MTGO League",
+        "url": "https://mtgtop8.com/event?e=89995",
+        "format": "Pauper",
+        "players": 0
+    },
+    "decks": [
+        {
+            "date": "2026-08-24",
+            "player": "Gn42",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883011&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Sea Gate Oracle"
+                },
+                {
+                    "count": 1,
+                    "name": "Remove Soul"
+                },
+                {
+                    "count": 2,
+                    "name": "Prohibit"
+                },
+                {
+                    "count": 1,
+                    "name": "Contaminated Landscape"
+                },
+                {
+                    "count": 1,
+                    "name": "Thraben Charm"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Glacial Floodplain"
+                },
+                {
+                    "count": 4,
+                    "name": "God-Pharaoh's Faithful"
+                },
+                {
+                    "count": 2,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 1,
+                    "name": "Mortuary Mire"
+                },
+                {
+                    "count": 4,
+                    "name": "Mulldrifter"
+                },
+                {
+                    "count": 1,
+                    "name": "Ghostly Flicker"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 2,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Azorius Chancery"
+                },
+                {
+                    "count": 3,
+                    "name": "Ash Barrens"
+                },
+                {
+                    "count": 3,
+                    "name": "Archaeomancer"
+                },
+                {
+                    "count": 8,
+                    "name": "Snow-Covered Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunscape Familiar"
+                },
+                {
+                    "count": 3,
+                    "name": "The Modern Age"
+                },
+                {
+                    "count": 4,
+                    "name": "Snap"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Negate"
+                },
+                {
+                    "count": 2,
+                    "name": "Destroy Evil"
+                },
+                {
+                    "count": 2,
+                    "name": "Envelop"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 2,
+                    "name": "Dust to Dust"
+                },
+                {
+                    "count": 1,
+                    "name": "Last Breath"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonehorn Dignitary"
+                }
+            ],
+            "notes": "The main focus of this deck is to control the game by using cards like Ephemerate, Mulldrifter, and Archaeomancer to constantly generate value and outlast the opponent. The deck also includes various counterspells and removal spells to disrupt the opponent's game plan. Additionally, cards like Sunscape Familiar and God-Pharaoh's Faithful help to keep your life total high while drawing cards with Deep Analysis and Preordain. The deck aims to grind out games and win through card advantage and incremental advantage."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Purgatory_01",
+            "result": "2",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883012&f=PAU",
+            "mainboard": [
+                {
+                    "count": 16,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                },
+                {
+                    "count": 3,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 3,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Steel Sabotage"
+                },
+                {
+                    "count": 2,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Annul"
+                }
+            ],
+            "notes": "The main focus of this Mono Blue Aggro deck is to quickly play low-cost creatures like Delver of Secrets and Cryptic Serpent, while using efficient counterspells like Spell Pierce and Counterspell to protect them. The deck also includes card draw spells like Brainstorm, Thought Scour, and Deep Analysis to maintain hand advantage. The overall strategy is to apply early pressure and disrupt opponents' game plans, gradually wearing them down with chip damage from evasive creatures and finishing the game swiftly."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Huskyman20035",
+            "result": "3",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883013&f=PAU",
+            "mainboard": [
+                {
+                    "count": 13,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Lead the Stampede"
+                },
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 3,
+                    "name": "Nyxborn Hydra"
+                },
+                {
+                    "count": 4,
+                    "name": "Priest of Titania"
+                },
+                {
+                    "count": 4,
+                    "name": "Quirion Ranger"
+                },
+                {
+                    "count": 1,
+                    "name": "Gingerbread Cabin"
+                },
+                {
+                    "count": 2,
+                    "name": "Llanowar Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 3,
+                    "name": "Elvish Mystic"
+                },
+                {
+                    "count": 2,
+                    "name": "Sagu Wildling"
+                },
+                {
+                    "count": 4,
+                    "name": "Timberwatch Elf"
+                },
+                {
+                    "count": 4,
+                    "name": "Fyndhorn Elves"
+                },
+                {
+                    "count": 4,
+                    "name": "Avenging Hunter"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Lignify"
+                },
+                {
+                    "count": 4,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 4,
+                    "name": "Monstrous Emergence"
+                },
+                {
+                    "count": 3,
+                    "name": "Vitu-Ghazi Inspector"
+                }
+            ],
+            "notes": "The deck focuses on utilizing a swarm of efficient elf creatures to quickly overwhelm the opponent. By playing cards like Priest of Titania and Timberwatch Elf, the deck can generate large amounts of mana while pumping up its creatures to deliver powerful attacks. Lead the Stampede and Winding Way help the player refill their hand with more elves to keep the pressure on. Masked Vandal provides some utility by removing problematic artifacts or enchantments. Overall, the deck aims to establish a strong board presence early and maintain it to secure a victory."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "ZeNonato",
+            "result": "4",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883014&f=PAU",
+            "mainboard": [
+                {
+                    "count": 19,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Fiery Temper"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 4,
+                    "name": "Grab the Prize"
+                },
+                {
+                    "count": 3,
+                    "name": "Guttersnipe"
+                },
+                {
+                    "count": 4,
+                    "name": "Highway Robbery"
+                },
+                {
+                    "count": 4,
+                    "name": "Kessig Flamebreather"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 3,
+                    "name": "Fireblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Sneaky Snacker"
+                },
+                {
+                    "count": 4,
+                    "name": "Voldaren Epicure"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Cast into the Fire"
+                },
+                {
+                    "count": 2,
+                    "name": "End the Festivities"
+                },
+                {
+                    "count": 4,
+                    "name": "Pyroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 2,
+                    "name": "Searing Blaze"
+                }
+            ],
+            "notes": "The main focus of this Pauper 1 vs 1 Aggro - Burn deck is to quickly deal damage to the opponent using low-cost spells and creatures. By utilizing cards like Fiery Temper, Lightning Bolt, and Fireblast, along with creatures like Guttersnipe and Kessig Flamebreather, the goal is to reduce the opponent's life total as fast as possible. With a heavy emphasis on burn and aggressive creatures, this deck aims to overwhelm the opponent and secure a swift victory through direct damage and efficient card advantage."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Syns",
+            "result": "5",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883015&f=PAU",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Ulamog's Crusher"
+                },
+                {
+                    "count": 3,
+                    "name": "Bonder's Ornament"
+                },
+                {
+                    "count": 1,
+                    "name": "Conduit Pylons"
+                },
+                {
+                    "count": 2,
+                    "name": "Barrels of Blasting Jelly"
+                },
+                {
+                    "count": 3,
+                    "name": "Crop Rotation"
+                },
+                {
+                    "count": 4,
+                    "name": "Bramble Wurm"
+                },
+                {
+                    "count": 1,
+                    "name": "Kaervek's Torch"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Power Plant"
+                },
+                {
+                    "count": 2,
+                    "name": "Ancient Stirrings"
+                },
+                {
+                    "count": 2,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Fengraf"
+                },
+                {
+                    "count": 3,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Pinnacle Kill-Ship"
+                },
+                {
+                    "count": 2,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Tower"
+                },
+                {
+                    "count": 4,
+                    "name": "Expedition Map"
+                },
+                {
+                    "count": 4,
+                    "name": "Maelstrom Colossus"
+                },
+                {
+                    "count": 4,
+                    "name": "Giant's Boulder"
+                },
+                {
+                    "count": 4,
+                    "name": "Rush of Knowledge"
+                },
+                {
+                    "count": 1,
+                    "name": "Call Damage Control"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Call Damage Control"
+                },
+                {
+                    "count": 1,
+                    "name": "Whispersilk Cloak"
+                },
+                {
+                    "count": 2,
+                    "name": "Monstrous Emergence"
+                },
+                {
+                    "count": 2,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Scour from Existence"
+                },
+                {
+                    "count": 2,
+                    "name": "Campfire"
+                },
+                {
+                    "count": 3,
+                    "name": "Breath Weapon"
+                }
+            ],
+            "notes": "The deck aims to control the game by ramping up mana quickly with the Urzatron lands and Expedition Map, allowing for the early appearance of powerful creatures like Ulamog's Crusher and Maelstrom Colossus. Bonder's Ornament and Bramble Wurm provide card draw and defense, while cards like Crop Rotation and Bojuka Bog disrupt the opponent's strategy. The deck also includes some direct damage options like Kaervek's Torch for finishing off opponents. Overall, the key concept is to establish a strong mana base and overwhelm the opponent with efficient, high-powered threats."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "HaHaHa_",
+            "result": "6",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883016&f=PAU",
+            "mainboard": [
+                {
+                    "count": 10,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Generous Ent"
+                },
+                {
+                    "count": 4,
+                    "name": "Glistener Seer"
+                },
+                {
+                    "count": 4,
+                    "name": "Gnaw to the Bone"
+                },
+                {
+                    "count": 4,
+                    "name": "Masked Vandal"
+                },
+                {
+                    "count": 11,
+                    "name": "Persistent Petitioners"
+                },
+                {
+                    "count": 4,
+                    "name": "Pond Prophet"
+                },
+                {
+                    "count": 4,
+                    "name": "Forest"
+                },
+                {
+                    "count": 1,
+                    "name": "Tangled Islet"
+                },
+                {
+                    "count": 4,
+                    "name": "Winding Way"
+                },
+                {
+                    "count": 4,
+                    "name": "Mothdust Changeling"
+                },
+                {
+                    "count": 2,
+                    "name": "Echoing Return"
+                },
+                {
+                    "count": 4,
+                    "name": "Undercover Skrull"
+                },
+                {
+                    "count": 1,
+                    "name": "Haunted Mire"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Relic of Progenitus"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Moment's Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Spreading Seas"
+                }
+            ],
+            "notes": "The main idea of this deck is to utilize Persistent Petitioners in combination with other cards like Masked Vandal, Winding Way, and Gnaw to the Bone to create a powerful combo strategy. By consistently milling opponents with Persistent Petitioners and using cards like Generous Ent and Glistener Seer for support, the deck aims to overwhelm opponents and secure victory. With a mix of creature control and card draw, this deck is designed to be versatile and adaptable in various matchups in a Pauper 1 vs 1 format."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "GabrieelMaiaa",
+            "result": "7",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883017&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 2,
+                    "name": "Boomerang"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 2,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 1,
+                    "name": "Deep Analysis"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 15,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Dispel"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 4,
+                    "name": "Blue Elemental Blast"
+                },
+                {
+                    "count": 2,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                },
+                {
+                    "count": 1,
+                    "name": "Steel Sabotage"
+                }
+            ],
+            "notes": "The main focus of this deck is to quickly overwhelm the opponent with low-cost creatures while maintaining control through counterspells and bounce spells. The deck aims to use card draw and mill effects to keep a steady stream of threats on the board while disrupting the opponent's game plan. By efficiently using cheap spells and evasion creatures, the deck aims to put pressure on the opponent early on and maintain that pressure throughout the match."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "flower270",
+            "result": "8",
+            "anchor_uri": "https://mtgtop8.com/event?e=89995&d=883018&f=PAU",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Lorien Revealed"
+                },
+                {
+                    "count": 4,
+                    "name": "Cryptic Serpent"
+                },
+                {
+                    "count": 4,
+                    "name": "Brainstorm"
+                },
+                {
+                    "count": 4,
+                    "name": "Tolarian Terror"
+                },
+                {
+                    "count": 4,
+                    "name": "Thought Scour"
+                },
+                {
+                    "count": 4,
+                    "name": "Mental Note"
+                },
+                {
+                    "count": 14,
+                    "name": "Island"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
+                },
+                {
+                    "count": 4,
+                    "name": "Force Spike"
+                },
+                {
+                    "count": 2,
+                    "name": "Sleep of the Dead"
+                },
+                {
+                    "count": 2,
+                    "name": "Deem Inferior"
+                },
+                {
+                    "count": 4,
+                    "name": "Counterspell"
+                },
+                {
+                    "count": 2,
+                    "name": "Vapor Snag"
+                },
+                {
+                    "count": 2,
+                    "name": "Artful Dodge"
+                },
+                {
+                    "count": 4,
+                    "name": "Delver of Secrets"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Hydroblast"
+                },
+                {
+                    "count": 3,
+                    "name": "Spreading Seas"
+                },
+                {
+                    "count": 4,
+                    "name": "Annul"
+                },
+                {
+                    "count": 3,
+                    "name": "Gut Shot"
+                },
+                {
+                    "count": 1,
+                    "name": "Murmuring Mystic"
+                }
+            ],
+            "notes": "This Mono Blue Aggro deck focuses on quickly dropping low cost creatures like Delver of Secrets and Lórien Revealed, while utilizing spells like Brainstorm, Thought Scour, and Mental Note to dig for more threats. Counterspell and Force Spike provide disruption while maintaining tempo, and Sleep of the Dead and Deem Inferior help to control the board. The deck aims to overwhelm the opponent with early aggression and efficient spell casting, making it a fast and dynamic threat in the Pauper format."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

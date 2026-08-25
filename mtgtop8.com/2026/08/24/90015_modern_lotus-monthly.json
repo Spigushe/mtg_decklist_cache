@@ -1,0 +1,982 @@
+{
+    "tournament": {
+        "date": "2026-08-24",
+        "name": "Lotus monthly",
+        "url": "https://mtgtop8.com/event?e=90015",
+        "format": "Modern",
+        "players": 31
+    },
+    "decks": [
+        {
+            "date": "2026-08-24",
+            "player": "Lorenzo T.",
+            "result": "1",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883244&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Gran-Gran"
+                },
+                {
+                    "count": 2,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 3,
+                    "name": "Fallaji Archaeologist"
+                },
+                {
+                    "count": 4,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 4,
+                    "name": "Abhorrent Oculus"
+                },
+                {
+                    "count": 4,
+                    "name": "Archon of Cruelty"
+                },
+                {
+                    "count": 2,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 4,
+                    "name": "Flare of Denial"
+                },
+                {
+                    "count": 4,
+                    "name": "Faithless Looting"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 4,
+                    "name": "Unearth"
+                },
+                {
+                    "count": 4,
+                    "name": "Persist"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Crypt"
+                },
+                {
+                    "count": 4,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Raucous Theater"
+                },
+                {
+                    "count": 1,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 1,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 2,
+                    "name": "Watery Grave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Snare"
+                },
+                {
+                    "count": 2,
+                    "name": "Strix Serenade"
+                },
+                {
+                    "count": 1,
+                    "name": "Surgical Extraction"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                }
+            ],
+            "notes": "The deck focuses on quickly putting powerful creatures into play from the graveyard using reanimation spells like Unearth and Persist, while disrupting the opponent's game plan with cards like Thoughtseize and Fatal Push. The combination of powerful creatures like Archon of Cruelty and Emperor of Bones, along with card draw and control elements, creates a strong combo-reanimator strategy that aims to overwhelm the opponent with big threats early in the game. The mana base is designed to support a diverse range of spells and ensure consistency in executing the deck's game plan."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Reto Sormani",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883245&f=MO",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 4,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
+                    "count": 1,
+                    "name": "Psychic Frog"
+                },
+                {
+                    "count": 3,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Boggart Trawler"
+                },
+                {
+                    "count": 3,
+                    "name": "Witch Enchanter"
+                },
+                {
+                    "count": 1,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 1,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 1,
+                    "name": "White Orchid Phantom"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 2,
+                    "name": "Clarion Conqueror"
+                },
+                {
+                    "count": 1,
+                    "name": "Faerie Macabre"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                }
+            ],
+            "notes": "The deck focuses on quickly playing aggressive creatures and then using blink effects to protect them or generate extra value. By combining cards like Flickerwisp, Ephemerate, and Teferi, Time Raveler with powerful creatures like Emperor of Bones and Overlord of the Balemurk, the deck can disrupt opponents' strategies and outvalue them in the long run. The inclusion of disruption spells like Thoughtseize and Fatal Push helps to keep the opponent off balance while the deck's mana base allows for consistent casting of both colored and colorless spells."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Mattia Luppi",
+            "result": "3-4",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883246&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Dragon's Rage Channeler"
+                },
+                {
+                    "count": 4,
+                    "name": "Monastery Swiftspear"
+                },
+                {
+                    "count": 4,
+                    "name": "Slickshot Show-Off"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 1,
+                    "name": "Flashback"
+                },
+                {
+                    "count": 4,
+                    "name": "Lava Dart"
+                },
+                {
+                    "count": 4,
+                    "name": "Lightning Bolt"
+                },
+                {
+                    "count": 3,
+                    "name": "Mutagenic Growth"
+                },
+                {
+                    "count": 2,
+                    "name": "Violent Urge"
+                },
+                {
+                    "count": 4,
+                    "name": "Preordain"
+                },
+                {
+                    "count": 4,
+                    "name": "Expressive Iteration"
+                },
+                {
+                    "count": 2,
+                    "name": "Arid Mesa"
+                },
+                {
+                    "count": 3,
+                    "name": "Bloodstained Mire"
+                },
+                {
+                    "count": 2,
+                    "name": "Fiery Islet"
+                },
+                {
+                    "count": 3,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 2,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 3,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                },
+                {
+                    "count": 2,
+                    "name": "Wooded Foothills"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Meltdown"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 2,
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismari Charm"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystical Dispute"
+                },
+                {
+                    "count": 1,
+                    "name": "Murktide Regent"
+                }
+            ],
+            "notes": "This UR Aggro deck focuses on playing low-cost aggressive creatures like Dragon's Rage Channeler and Monastery Swiftspear to quickly deal damage to the opponent. The deck also includes efficient burn spells such as Lightning Bolt and Lava Dart to control the board and finish off the opponent. Mishra's Bauble and Preordain help with card selection and maintaining pressure. The deck aims to overwhelm the opponent with fast, evasive threats and efficient removal spells while staying ahead on the board and securing a quick victory."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Christian Vittoni",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883249&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Bilbo, Thief in the Night"
+                },
+                {
+                    "count": 4,
+                    "name": "Loki, God of Mischief"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 1,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Mox Amber"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 1,
+                    "name": "Aether Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Key to the Side-Door"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrite Spellbomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Skateboard"
+                },
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 4,
+                    "name": "Cori-Steel Cutter"
+                },
+                {
+                    "count": 4,
+                    "name": "Unholy Heat"
+                },
+                {
+                    "count": 2,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Breeding Pool"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 4,
+                    "name": "Scalding Tarn"
+                },
+                {
+                    "count": 2,
+                    "name": "Steam Vents"
+                },
+                {
+                    "count": 1,
+                    "name": "Thundering Falls"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Soul-Guide Lantern"
+                },
+                {
+                    "count": 1,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 2,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Fire Magic"
+                },
+                {
+                    "count": 2,
+                    "name": "Haywire Mite"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Blood Moon"
+                },
+                {
+                    "count": 2,
+                    "name": "Flame of Anor"
+                },
+                {
+                    "count": 2,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 1,
+                    "name": "Harbinger of the Seas"
+                }
+            ],
+            "notes": "The deck focuses on utilizing artifacts and legendary creatures to quickly overwhelm the opponent with aggressive plays. It incorporates cards that synergize well with artifacts, such as Mishra's Bauble and Mox Opal, to generate additional value and resources. The inclusion of powerful planeswalkers like Tamiyo, Inquisitive Student allows for card advantage and control elements. The deck also contains removal spells like Unholy Heat and Sink into Stupor to deal with opposing threats. The deck ultimately aims to establish a board presence quickly and efficiently to pressure the opponent and secure a win."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Argjent Kurtaj",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883247&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 4,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
+                    "count": 3,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Boggart Trawler"
+                },
+                {
+                    "count": 4,
+                    "name": "Witch Enchanter"
+                },
+                {
+                    "count": 3,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 2,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 1,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 2,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 2,
+                    "name": "Clarion Conqueror"
+                }
+            ],
+            "notes": "This deck focuses on aggressive gameplay by utilizing creatures with powerful abilities that can repeatedly enter and exit the battlefield (blink). By constantly flickering creatures like Phelia, Exuberant Shepherd and Overlord of the Balemurk, the deck aims to apply pressure on the opponent while gaining advantage through card draw and removal spells. Cards like Ephemerate and Flickerwisp provide additional blinking options, while spells like Fatal Push and Thoughtseize help control the board and disrupt the opponent's plans. The deck's mana base allows for consistent access to different colors and utility lands to support its game plan."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Kevin Ardia",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883248&f=MO",
+            "mainboard": [
+                {
+                    "count": 3,
+                    "name": "Emperor of Bones"
+                },
+                {
+                    "count": 4,
+                    "name": "Phelia, Exuberant Shepherd"
+                },
+                {
+                    "count": 3,
+                    "name": "Flickerwisp"
+                },
+                {
+                    "count": 4,
+                    "name": "Overlord of the Balemurk"
+                },
+                {
+                    "count": 4,
+                    "name": "Quantum Riddler"
+                },
+                {
+                    "count": 4,
+                    "name": "Solitude"
+                },
+                {
+                    "count": 1,
+                    "name": "Boggart Trawler"
+                },
+                {
+                    "count": 3,
+                    "name": "Witch Enchanter"
+                },
+                {
+                    "count": 1,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Ephemerate"
+                },
+                {
+                    "count": 4,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Prismatic Ending"
+                },
+                {
+                    "count": 4,
+                    "name": "Thoughtseize"
+                },
+                {
+                    "count": 2,
+                    "name": "Teferi, Time Raveler"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 2,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 1,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Marsh Flats"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 2,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowy Backstreet"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Undercity Sewers"
+                },
+                {
+                    "count": 1,
+                    "name": "Watery Grave"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Nihil Spellbomb"
+                },
+                {
+                    "count": 2,
+                    "name": "High Noon"
+                },
+                {
+                    "count": 1,
+                    "name": "White Orchid Phantom"
+                },
+                {
+                    "count": 3,
+                    "name": "Wrath of the Skies"
+                },
+                {
+                    "count": 2,
+                    "name": "Clarion Conqueror"
+                },
+                {
+                    "count": 2,
+                    "name": "Mystical Dispute"
+                }
+            ],
+            "notes": "The deck focuses on aggressive creatures that have the ability to blink in and out of the battlefield, allowing them to avoid removal spells and trigger enter the battlefield effects multiple times. It also includes disruption spells like Thoughtseize and Teferi, Time Raveler to control the opponent's hand and board. The mana base is designed to support both white and black mana requirements for the diverse range of cards in the deck. Overall, the strategy is to overwhelm the opponent with fast, efficient creatures and disrupt their game plan with targeted removal and control elements."
+        },
+        {
+            "date": "2026-08-24",
+            "player": "Martino Bernaschina",
+            "result": "5-8",
+            "anchor_uri": "https://mtgtop8.com/event?e=90015&d=883250&f=MO",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Seachrome Coast"
+                },
+                {
+                    "count": 4,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 4,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 2,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 1,
+                    "name": "Minamo, School at Water's Edge"
+                },
+                {
+                    "count": 1,
+                    "name": "Otawara, Soaring City"
+                },
+                {
+                    "count": 1,
+                    "name": "Meticulous Archive"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Loki, God of Mischief"
+                },
+                {
+                    "count": 4,
+                    "name": "Oswald Fiddlebender"
+                },
+                {
+                    "count": 4,
+                    "name": "Emry, Lurker of the Loch"
+                },
+                {
+                    "count": 4,
+                    "name": "Tamiyo, Inquisitive Student"
+                },
+                {
+                    "count": 4,
+                    "name": "Metallic Rebuke"
+                },
+                {
+                    "count": 4,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Opal"
+                },
+                {
+                    "count": 4,
+                    "name": "Mox Amber"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Bauble"
+                },
+                {
+                    "count": 2,
+                    "name": "Sewer-veillance Cam"
+                },
+                {
+                    "count": 1,
+                    "name": "Key to the Side-Door"
+                },
+                {
+                    "count": 1,
+                    "name": "Grinding Station"
+                },
+                {
+                    "count": 1,
+                    "name": "Skateboard"
+                },
+                {
+                    "count": 1,
+                    "name": "Scrabbling Claws"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Drannith Magistrate"
+                },
+                {
+                    "count": 1,
+                    "name": "Damping Sphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Shadowspear"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 4,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Tormod's Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Teferi, Time Raveler"
+                }
+            ],
+            "notes": "The deck revolves around assembling a specific combination of cards to create a powerful synergy that allows for explosive plays and consistent win conditions. By utilizing cards like Loki, God of Mischief and Oswald Fiddlebender in combination with artifacts and mana acceleration, the deck aims to quickly establish a dominant board presence and disrupt the opponent's strategy. The inclusion of cards like Emry, Lurker of the Loch and Tamiyo, Inquisitive Student provide additional card advantage and utility to ensure the deck remains flexible and responsive to various threats."
+        }
+    ],
+    "rounds": [],
+    "standings": []
+}

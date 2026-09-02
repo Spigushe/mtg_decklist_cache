@@ -9,33 +9,17 @@
     "decks": [
         {
             "date": "2026-08-12",
-            "player": "robcastermage13",
+            "player": "albertosd87",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_robcastermage13",
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_albertosd87",
             "mainboard": [
                 {
                     "count": 1,
                     "name": "Black Lotus"
                 },
                 {
-                    "count": 4,
-                    "name": "Coveted Jewel"
-                },
-                {
-                    "count": 4,
-                    "name": "Grim Monolith"
-                },
-                {
                     "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Vault"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
+                    "name": "Mishra's Bauble"
                 },
                 {
                     "count": 1,
@@ -47,31 +31,15 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 1,
                     "name": "Mox Sapphire"
                 },
                 {
-                    "count": 1,
-                    "name": "Paradox Engine"
-                },
-                {
-                    "count": 3,
-                    "name": "Relic of Sauron"
+                    "count": 2,
+                    "name": "Null Rod"
                 },
                 {
                     "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 4,
-                    "name": "The One Ring"
-                },
-                {
-                    "count": 1,
-                    "name": "Trinisphere"
+                    "name": "Soul-Guide Lantern"
                 },
                 {
                     "count": 1,
@@ -79,76 +47,18 @@
                 },
                 {
                     "count": 4,
-                    "name": "Void Mirror"
-                },
-                {
-                    "count": 1,
-                    "name": "Chaos Defiler"
+                    "name": "Bilbo, Thief in the Night"
                 },
                 {
                     "count": 4,
-                    "name": "Phyrexian Metamorph"
+                    "name": "Psychic Frog"
                 },
                 {
                     "count": 1,
                     "name": "Ancestral Recall"
                 },
                 {
-                    "count": 2,
-                    "name": "Sink into Stupor"
-                },
-                {
-                    "count": 4,
-                    "name": "Ancient Tomb"
-                },
-                {
                     "count": 3,
-                    "name": "Island"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Workshop"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 1,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 1,
-                    "name": "Karn, the Great Creator"
-                },
-                {
-                    "count": 1,
-                    "name": "Gitaxian Probe"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                },
-                {
-                    "count": 1,
-                    "name": "Tinker"
-                },
-                {
-                    "count": 4,
-                    "name": "Transmute Artifact"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Argentum Masticore"
-                },
-                {
-                    "count": 3,
-                    "name": "Defense Grid"
-                },
-                {
-                    "count": 1,
                     "name": "Force of Negation"
                 },
                 {
@@ -157,19 +67,113 @@
                 },
                 {
                     "count": 1,
-                    "name": "Mindbreak Trap"
+                    "name": "Mental Misstep"
                 },
                 {
                     "count": 1,
-                    "name": "Portable Hole"
+                    "name": "Spell Pierce"
+                },
+                {
+                    "count": 3,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 3,
+                    "name": "Flooded Strand"
+                },
+                {
+                    "count": 1,
+                    "name": "Island"
+                },
+                {
+                    "count": 3,
+                    "name": "Polluted Delta"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 3,
+                    "name": "Tundra"
+                },
+                {
+                    "count": 3,
+                    "name": "Underground Sea"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Demonic Tutor"
+                },
+                {
+                    "count": 4,
+                    "name": "Flow State"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
                 },
                 {
                     "count": 2,
-                    "name": "Talon Gates of Madara"
+                    "name": "Lórien Revealed"
+                },
+                {
+                    "count": 2,
+                    "name": "Ponder"
                 },
                 {
                     "count": 1,
-                    "name": "Wurmcoil Engine"
+                    "name": "Time Walk"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Consign to Memory"
+                },
+                {
+                    "count": 2,
+                    "name": "Containment Priest"
+                },
+                {
+                    "count": 1,
+                    "name": "Fatal Push"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 2,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 1,
+                    "name": "Lurrus of the Dream-Den"
+                },
+                {
+                    "count": 2,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Stony Silence"
+                },
+                {
+                    "count": 1,
+                    "name": "Swords to Plowshares"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
                 }
             ],
             "notes": null
@@ -538,6 +542,376 @@
         },
         {
             "date": "2026-08-12",
+            "player": "robcastermage13",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_robcastermage13",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 4,
+                    "name": "Coveted Jewel"
+                },
+                {
+                    "count": 4,
+                    "name": "Grim Monolith"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Paradox Engine"
+                },
+                {
+                    "count": 3,
+                    "name": "Relic of Sauron"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "The One Ring"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 4,
+                    "name": "Void Mirror"
+                },
+                {
+                    "count": 1,
+                    "name": "Chaos Defiler"
+                },
+                {
+                    "count": 4,
+                    "name": "Phyrexian Metamorph"
+                },
+                {
+                    "count": 1,
+                    "name": "Ancestral Recall"
+                },
+                {
+                    "count": 2,
+                    "name": "Sink into Stupor"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 3,
+                    "name": "Island"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                },
+                {
+                    "count": 1,
+                    "name": "Gitaxian Probe"
+                },
+                {
+                    "count": 1,
+                    "name": "Time Walk"
+                },
+                {
+                    "count": 1,
+                    "name": "Tinker"
+                },
+                {
+                    "count": 4,
+                    "name": "Transmute Artifact"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Argentum Masticore"
+                },
+                {
+                    "count": 3,
+                    "name": "Defense Grid"
+                },
+                {
+                    "count": 1,
+                    "name": "Force of Negation"
+                },
+                {
+                    "count": 4,
+                    "name": "Force of Will"
+                },
+                {
+                    "count": 1,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Portable Hole"
+                },
+                {
+                    "count": 2,
+                    "name": "Talon Gates of Madara"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-08-12",
+            "player": "fondaparinoux",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_fondaparinoux",
+            "mainboard": [
+                {
+                    "count": 1,
+                    "name": "Black Lotus"
+                },
+                {
+                    "count": 1,
+                    "name": "Chalice of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Crucible of Worlds"
+                },
+                {
+                    "count": 1,
+                    "name": "God-Pharaoh's Statue"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Crypt"
+                },
+                {
+                    "count": 1,
+                    "name": "Mana Vault"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Emerald"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Jet"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Pearl"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Ruby"
+                },
+                {
+                    "count": 1,
+                    "name": "Mox Sapphire"
+                },
+                {
+                    "count": 1,
+                    "name": "Mystic Forge"
+                },
+                {
+                    "count": 1,
+                    "name": "Nettlecyst"
+                },
+                {
+                    "count": 3,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Sol Ring"
+                },
+                {
+                    "count": 4,
+                    "name": "Sphere of Resistance"
+                },
+                {
+                    "count": 1,
+                    "name": "The Fantasticar"
+                },
+                {
+                    "count": 1,
+                    "name": "Thorn of Amethyst"
+                },
+                {
+                    "count": 1,
+                    "name": "Trinisphere"
+                },
+                {
+                    "count": 1,
+                    "name": "Vexing Bauble"
+                },
+                {
+                    "count": 3,
+                    "name": "Golos, Tireless Pilgrim"
+                },
+                {
+                    "count": 1,
+                    "name": "Lodestone Golem"
+                },
+                {
+                    "count": 4,
+                    "name": "Patchwork Automaton"
+                },
+                {
+                    "count": 4,
+                    "name": "Scrawling Crawler"
+                },
+                {
+                    "count": 1,
+                    "name": "Stonecoil Serpent"
+                },
+                {
+                    "count": 1,
+                    "name": "Ultron, Artificial Malevolence"
+                },
+                {
+                    "count": 4,
+                    "name": "Ancient Tomb"
+                },
+                {
+                    "count": 1,
+                    "name": "Bojuka Bog"
+                },
+                {
+                    "count": 1,
+                    "name": "Inventors' Fair"
+                },
+                {
+                    "count": 1,
+                    "name": "Karakas"
+                },
+                {
+                    "count": 4,
+                    "name": "Mishra's Workshop"
+                },
+                {
+                    "count": 1,
+                    "name": "Petrified Hamlet"
+                },
+                {
+                    "count": 1,
+                    "name": "Strip Mine"
+                },
+                {
+                    "count": 1,
+                    "name": "Talon Gates of Madara"
+                },
+                {
+                    "count": 1,
+                    "name": "Tolarian Academy"
+                },
+                {
+                    "count": 1,
+                    "name": "Urza's Saga"
+                },
+                {
+                    "count": 4,
+                    "name": "Wasteland"
+                },
+                {
+                    "count": 1,
+                    "name": "Karn, the Great Creator"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 1,
+                    "name": "Argentum Masticore"
+                },
+                {
+                    "count": 2,
+                    "name": "Dismember"
+                },
+                {
+                    "count": 1,
+                    "name": "Grafdigger's Cage"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 3,
+                    "name": "Mindbreak Trap"
+                },
+                {
+                    "count": 1,
+                    "name": "Null Rod"
+                },
+                {
+                    "count": 1,
+                    "name": "Pithing Needle"
+                },
+                {
+                    "count": 1,
+                    "name": "Sundering Titan"
+                },
+                {
+                    "count": 1,
+                    "name": "The Tabernacle at Pendrell Vale"
+                },
+                {
+                    "count": 1,
+                    "name": "Wurmcoil Engine"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-08-12",
             "player": "CapTenPlanIt",
             "result": null,
             "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_CapTenPlanIt",
@@ -890,380 +1264,6 @@
                 {
                     "count": 1,
                     "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "The Tabernacle at Pendrell Vale"
-                },
-                {
-                    "count": 1,
-                    "name": "Wurmcoil Engine"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-08-12",
-            "player": "albertosd87",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_albertosd87",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Mishra's Bauble"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 2,
-                    "name": "Null Rod"
-                },
-                {
-                    "count": 1,
-                    "name": "Soul-Guide Lantern"
-                },
-                {
-                    "count": 1,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 4,
-                    "name": "Bilbo, Thief in the Night"
-                },
-                {
-                    "count": 4,
-                    "name": "Psychic Frog"
-                },
-                {
-                    "count": 1,
-                    "name": "Ancestral Recall"
-                },
-                {
-                    "count": 3,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 4,
-                    "name": "Force of Will"
-                },
-                {
-                    "count": 1,
-                    "name": "Mental Misstep"
-                },
-                {
-                    "count": 1,
-                    "name": "Spell Pierce"
-                },
-                {
-                    "count": 3,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 3,
-                    "name": "Flooded Strand"
-                },
-                {
-                    "count": 1,
-                    "name": "Island"
-                },
-                {
-                    "count": 3,
-                    "name": "Polluted Delta"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 3,
-                    "name": "Tundra"
-                },
-                {
-                    "count": 3,
-                    "name": "Underground Sea"
-                },
-                {
-                    "count": 1,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 1,
-                    "name": "Demonic Tutor"
-                },
-                {
-                    "count": 4,
-                    "name": "Flow State"
-                },
-                {
-                    "count": 1,
-                    "name": "Gitaxian Probe"
-                },
-                {
-                    "count": 2,
-                    "name": "Lórien Revealed"
-                },
-                {
-                    "count": 2,
-                    "name": "Ponder"
-                },
-                {
-                    "count": 1,
-                    "name": "Time Walk"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 3,
-                    "name": "Consign to Memory"
-                },
-                {
-                    "count": 2,
-                    "name": "Containment Priest"
-                },
-                {
-                    "count": 1,
-                    "name": "Fatal Push"
-                },
-                {
-                    "count": 1,
-                    "name": "Force of Negation"
-                },
-                {
-                    "count": 2,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 1,
-                    "name": "Lurrus of the Dream-Den"
-                },
-                {
-                    "count": 2,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Stony Silence"
-                },
-                {
-                    "count": 1,
-                    "name": "Swords to Plowshares"
-                },
-                {
-                    "count": 1,
-                    "name": "The Tabernacle at Pendrell Vale"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-08-12",
-            "player": "fondaparinoux",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/vintage-league-2026-08-1311047#deck_fondaparinoux",
-            "mainboard": [
-                {
-                    "count": 1,
-                    "name": "Black Lotus"
-                },
-                {
-                    "count": 1,
-                    "name": "Chalice of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Crucible of Worlds"
-                },
-                {
-                    "count": 1,
-                    "name": "God-Pharaoh's Statue"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Crypt"
-                },
-                {
-                    "count": 1,
-                    "name": "Mana Vault"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Emerald"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Jet"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Pearl"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Ruby"
-                },
-                {
-                    "count": 1,
-                    "name": "Mox Sapphire"
-                },
-                {
-                    "count": 1,
-                    "name": "Mystic Forge"
-                },
-                {
-                    "count": 1,
-                    "name": "Nettlecyst"
-                },
-                {
-                    "count": 3,
-                    "name": "Null Rod"
-                },
-                {
-                    "count": 1,
-                    "name": "Sol Ring"
-                },
-                {
-                    "count": 4,
-                    "name": "Sphere of Resistance"
-                },
-                {
-                    "count": 1,
-                    "name": "The Fantasticar"
-                },
-                {
-                    "count": 1,
-                    "name": "Thorn of Amethyst"
-                },
-                {
-                    "count": 1,
-                    "name": "Trinisphere"
-                },
-                {
-                    "count": 1,
-                    "name": "Vexing Bauble"
-                },
-                {
-                    "count": 3,
-                    "name": "Golos, Tireless Pilgrim"
-                },
-                {
-                    "count": 1,
-                    "name": "Lodestone Golem"
-                },
-                {
-                    "count": 4,
-                    "name": "Patchwork Automaton"
-                },
-                {
-                    "count": 4,
-                    "name": "Scrawling Crawler"
-                },
-                {
-                    "count": 1,
-                    "name": "Stonecoil Serpent"
-                },
-                {
-                    "count": 1,
-                    "name": "Ultron, Artificial Malevolence"
-                },
-                {
-                    "count": 4,
-                    "name": "Ancient Tomb"
-                },
-                {
-                    "count": 1,
-                    "name": "Bojuka Bog"
-                },
-                {
-                    "count": 1,
-                    "name": "Inventors' Fair"
-                },
-                {
-                    "count": 1,
-                    "name": "Karakas"
-                },
-                {
-                    "count": 4,
-                    "name": "Mishra's Workshop"
-                },
-                {
-                    "count": 1,
-                    "name": "Petrified Hamlet"
-                },
-                {
-                    "count": 1,
-                    "name": "Strip Mine"
-                },
-                {
-                    "count": 1,
-                    "name": "Talon Gates of Madara"
-                },
-                {
-                    "count": 1,
-                    "name": "Tolarian Academy"
-                },
-                {
-                    "count": 1,
-                    "name": "Urza's Saga"
-                },
-                {
-                    "count": 4,
-                    "name": "Wasteland"
-                },
-                {
-                    "count": 1,
-                    "name": "Karn, the Great Creator"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 1,
-                    "name": "Argentum Masticore"
-                },
-                {
-                    "count": 2,
-                    "name": "Dismember"
-                },
-                {
-                    "count": 1,
-                    "name": "Grafdigger's Cage"
-                },
-                {
-                    "count": 3,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 3,
-                    "name": "Mindbreak Trap"
-                },
-                {
-                    "count": 1,
-                    "name": "Null Rod"
-                },
-                {
-                    "count": 1,
-                    "name": "Pithing Needle"
-                },
-                {
-                    "count": 1,
-                    "name": "Sundering Titan"
                 },
                 {
                     "count": 1,

@@ -9,16 +9,401 @@
     "decks": [
         {
             "date": "2026-09-17",
-            "player": "4man",
+            "player": "SolarPotato",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_4man",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_SolarPotato",
             "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Springleaf Drum"
+                },
+                {
+                    "count": 1,
+                    "name": "Darval, Whose Web Protects"
+                },
+                {
+                    "count": 4,
+                    "name": "Dour Port-Mage"
+                },
+                {
+                    "count": 4,
+                    "name": "Eirdu, Carrier of Dawn"
+                },
+                {
+                    "count": 1,
+                    "name": "Harmonized Trio"
+                },
+                {
+                    "count": 4,
+                    "name": "Momo, Friendly Flier"
+                },
+                {
+                    "count": 2,
+                    "name": "Nurturing Pixie"
+                },
+                {
+                    "count": 4,
+                    "name": "Starfield Shepherd"
+                },
+                {
+                    "count": 4,
+                    "name": "Steamcore Scholar"
+                },
+                {
+                    "count": 4,
+                    "name": "Yera and Oski, Weaver and Guide"
+                },
+                {
+                    "count": 1,
+                    "name": "Zack Fair"
+                },
+                {
+                    "count": 2,
+                    "name": "Zora, Spider Fancier"
+                },
+                {
+                    "count": 2,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 2,
+                    "name": "Erode"
+                },
+                {
+                    "count": 2,
+                    "name": "Adagia, Windswept Bastion"
+                },
+                {
+                    "count": 4,
+                    "name": "Floodfarm Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Gleaming Bastion"
+                },
+                {
+                    "count": 4,
+                    "name": "Hallowed Fountain"
+                },
+                {
+                    "count": 7,
+                    "name": "Plains"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Aang, Swift Savior"
+                },
+                {
+                    "count": 1,
+                    "name": "Appa, Steadfast Guardian"
+                },
+                {
+                    "count": 1,
+                    "name": "Curious Farm Animals"
+                },
+                {
+                    "count": 2,
+                    "name": "Detect Intrusion"
+                },
+                {
+                    "count": 1,
+                    "name": "Glen Elendra Guardian"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 2,
+                    "name": "Sage of the Skies"
+                },
+                {
+                    "count": 1,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 2,
+                    "name": "Voice of Victory"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-09-17",
+            "player": "AgrusKos93",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_AgrusKos93",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Amalia Benavides Aguirre"
+                },
+                {
+                    "count": 1,
+                    "name": "Aunt May"
+                },
+                {
+                    "count": 1,
+                    "name": "Curious Farm Animals"
+                },
+                {
+                    "count": 4,
+                    "name": "Deep-Cavern Bat"
+                },
+                {
+                    "count": 2,
+                    "name": "Emptiness"
+                },
+                {
+                    "count": 1,
+                    "name": "Enduring Innocence"
+                },
+                {
+                    "count": 3,
+                    "name": "Haliya, Guided by Light"
+                },
+                {
+                    "count": 4,
+                    "name": "Hinterland Sanctifier"
+                },
+                {
+                    "count": 3,
+                    "name": "Moseo, Vein's New Dean"
+                },
+                {
+                    "count": 3,
+                    "name": "Starscape Cleric"
+                },
+                {
+                    "count": 3,
+                    "name": "Voice of Victory"
+                },
+                {
+                    "count": 1,
+                    "name": "Zoraline, Cosmos Caller"
+                },
+                {
+                    "count": 4,
+                    "name": "Case of the Uneaten Feast"
+                },
+                {
+                    "count": 3,
+                    "name": "Lunar Convocation"
+                },
+                {
+                    "count": 2,
+                    "name": "Erode"
+                },
+                {
+                    "count": 1,
+                    "name": "Bleachbone Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 1,
+                    "name": "Dalkovan Encampment"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 3,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Shattered Sanctum"
+                },
+                {
+                    "count": 4,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Clarion Conqueror"
+                },
+                {
+                    "count": 2,
+                    "name": "Curious Farm Animals"
+                },
+                {
+                    "count": 1,
+                    "name": "Decorum Dissertation"
+                },
+                {
+                    "count": 1,
+                    "name": "Dewdrop Cure"
+                },
+                {
+                    "count": 1,
+                    "name": "Enduring Tenacity"
+                },
+                {
+                    "count": 1,
+                    "name": "Erode"
+                },
+                {
+                    "count": 3,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Phyrexian Arena"
+                },
+                {
+                    "count": 1,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 2,
+                    "name": "Shoot the Sheriff"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-09-17",
+            "player": "Feitosa_",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_Feitosa_",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Clarion Conqueror"
+                },
+                {
+                    "count": 2,
+                    "name": "Magda, the Hoardmaster"
+                },
+                {
+                    "count": 4,
+                    "name": "Magmatic Hellkite"
+                },
+                {
+                    "count": 4,
+                    "name": "Momo, Friendly Flier"
+                },
+                {
+                    "count": 4,
+                    "name": "Nova Hellkite"
+                },
+                {
+                    "count": 4,
+                    "name": "Sarkhan, Dragon Ascendant"
+                },
+                {
+                    "count": 4,
+                    "name": "Smaug the Magnificent"
+                },
+                {
+                    "count": 2,
+                    "name": "Twinmaw Stormbrood"
+                },
+                {
+                    "count": 2,
+                    "name": "Voice of Victory"
+                },
+                {
+                    "count": 4,
+                    "name": "Burst Lightning"
+                },
+                {
+                    "count": 2,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 2,
+                    "name": "Cavern of Souls"
+                },
+                {
+                    "count": 4,
+                    "name": "Inspiring Vantage"
+                },
+                {
+                    "count": 4,
+                    "name": "Maelstrom of the Spirit Dragon"
+                },
+                {
+                    "count": 1,
+                    "name": "Mountain"
+                },
+                {
+                    "count": 4,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 1,
+                    "name": "Plains"
+                },
+                {
+                    "count": 4,
+                    "name": "Sacred Foundry"
+                },
+                {
+                    "count": 4,
+                    "name": "Sunbillow Verge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Dawn's Truce"
+                },
+                {
+                    "count": 1,
+                    "name": "Desolation of Smaug"
+                },
+                {
+                    "count": 1,
+                    "name": "Get Lost"
+                },
+                {
+                    "count": 2,
+                    "name": "Pyroclasm"
+                },
+                {
+                    "count": 3,
+                    "name": "Rest in Peace"
+                },
+                {
+                    "count": 4,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 1,
+                    "name": "The Legend of Roku"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-09-17",
+            "player": "fireshoes",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_fireshoes",
+            "mainboard": [
+                {
+                    "count": 2,
+                    "name": "The Ooze"
+                },
                 {
                     "count": 4,
                     "name": "Biotech Specialist"
                 },
                 {
-                    "count": 4,
+                    "count": 1,
                     "name": "Callous Inspector"
                 },
                 {
@@ -26,11 +411,15 @@
                     "name": "Gene Pollinator"
                 },
                 {
+                    "count": 1,
+                    "name": "Goldvein Hydra"
+                },
+                {
                     "count": 4,
                     "name": "Greedy Freebooter"
                 },
                 {
-                    "count": 2,
+                    "count": 3,
                     "name": "Mutagen Man, Living Ooze"
                 },
                 {
@@ -38,35 +427,23 @@
                     "name": "Rottenmouth Viper"
                 },
                 {
-                    "count": 4,
-                    "name": "The Sackville-Bagginses"
+                    "count": 1,
+                    "name": "Sentinel of the Nameless City"
                 },
                 {
                     "count": 1,
-                    "name": "Umbral Collar Zealot"
+                    "name": "Super Shredder"
                 },
                 {
-                    "count": 2,
-                    "name": "Vinereap Mentor"
+                    "count": 4,
+                    "name": "The Sackville-Bagginses"
                 },
                 {
                     "count": 4,
                     "name": "Obsessive Pursuit"
                 },
                 {
-                    "count": 2,
-                    "name": "Fanatical Offering"
-                },
-                {
-                    "count": 2,
-                    "name": "Requiting Hex"
-                },
-                {
-                    "count": 4,
-                    "name": "Blazemire Verge"
-                },
-                {
-                    "count": 1,
+                    "count": 3,
                     "name": "Blood Crypt"
                 },
                 {
@@ -78,111 +455,8 @@
                     "name": "Forest"
                 },
                 {
-                    "count": 3,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 3,
-                    "name": "Stomping Ground"
-                },
-                {
                     "count": 1,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Wastewood Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Deadly Precision"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Duress"
-                },
-                {
-                    "count": 2,
-                    "name": "Guerrilla Gorilla"
-                },
-                {
-                    "count": 3,
-                    "name": "Professor Dellian Fel"
-                },
-                {
-                    "count": 2,
-                    "name": "Requiting Hex"
-                },
-                {
-                    "count": 4,
-                    "name": "Strategic Betrayal"
-                },
-                {
-                    "count": 2,
-                    "name": "The Ooze"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-09-17",
-            "player": "Nyxen",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_Nyxen",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Biotech Specialist"
-                },
-                {
-                    "count": 4,
-                    "name": "Callous Inspector"
-                },
-                {
-                    "count": 4,
-                    "name": "Gene Pollinator"
-                },
-                {
-                    "count": 4,
-                    "name": "Greedy Freebooter"
-                },
-                {
-                    "count": 2,
-                    "name": "Mutagen Man, Living Ooze"
-                },
-                {
-                    "count": 2,
-                    "name": "Susurian Voidborn"
-                },
-                {
-                    "count": 4,
-                    "name": "The Sackville-Bagginses"
-                },
-                {
-                    "count": 4,
-                    "name": "Umbral Collar Zealot"
-                },
-                {
-                    "count": 4,
-                    "name": "Obsessive Pursuit"
-                },
-                {
-                    "count": 2,
-                    "name": "Blazemire Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
+                    "name": "Multiversal Passage"
                 },
                 {
                     "count": 4,
@@ -193,11 +467,11 @@
                     "name": "Starting Town"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
                     "name": "Stomping Ground"
                 },
                 {
-                    "count": 1,
+                    "count": 2,
                     "name": "Swamp"
                 },
                 {
@@ -205,33 +479,37 @@
                     "name": "Wastewood Verge"
                 },
                 {
-                    "count": 3,
+                    "count": 1,
+                    "name": "Back for Seconds"
+                },
+                {
+                    "count": 2,
                     "name": "Deadly Precision"
                 },
                 {
-                    "count": 4,
-                    "name": "Lively Dirge"
+                    "count": 2,
+                    "name": "Stir Up Trouble"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
+                    "count": 2,
+                    "name": "Disruptive Stormbrood"
+                },
+                {
+                    "count": 4,
                     "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Leatherhead, Swamp Stalker"
                 },
                 {
                     "count": 1,
                     "name": "Maelstrom Pulse"
                 },
                 {
-                    "count": 2,
-                    "name": "Professor Dellian Fel"
-                },
-                {
-                    "count": 2,
-                    "name": "Requiting Hex"
-                },
-                {
-                    "count": 2,
+                    "count": 1,
                     "name": "Shoot the Sheriff"
                 },
                 {
@@ -240,7 +518,11 @@
                 },
                 {
                     "count": 1,
-                    "name": "The Ooze"
+                    "name": "Surrak, Elusive Hunter"
+                },
+                {
+                    "count": 1,
+                    "name": "Troublemaker Ouphe"
                 }
             ],
             "notes": null
@@ -375,6 +657,260 @@
                 },
                 {
                     "count": 2,
+                    "name": "Strategic Betrayal"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-09-17",
+            "player": "Nyxen",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_Nyxen",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Biotech Specialist"
+                },
+                {
+                    "count": 4,
+                    "name": "Callous Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Gene Pollinator"
+                },
+                {
+                    "count": 4,
+                    "name": "Greedy Freebooter"
+                },
+                {
+                    "count": 2,
+                    "name": "Mutagen Man, Living Ooze"
+                },
+                {
+                    "count": 2,
+                    "name": "Susurian Voidborn"
+                },
+                {
+                    "count": 4,
+                    "name": "The Sackville-Bagginses"
+                },
+                {
+                    "count": 4,
+                    "name": "Umbral Collar Zealot"
+                },
+                {
+                    "count": 4,
+                    "name": "Obsessive Pursuit"
+                },
+                {
+                    "count": 2,
+                    "name": "Blazemire Verge"
+                },
+                {
+                    "count": 4,
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 4,
+                    "name": "Overgrown Tomb"
+                },
+                {
+                    "count": 4,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 2,
+                    "name": "Wastewood Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Deadly Precision"
+                },
+                {
+                    "count": 4,
+                    "name": "Lively Dirge"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 3,
+                    "name": "Duress"
+                },
+                {
+                    "count": 1,
+                    "name": "Maelstrom Pulse"
+                },
+                {
+                    "count": 2,
+                    "name": "Professor Dellian Fel"
+                },
+                {
+                    "count": 2,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 2,
+                    "name": "Shoot the Sheriff"
+                },
+                {
+                    "count": 4,
+                    "name": "Strategic Betrayal"
+                },
+                {
+                    "count": 1,
+                    "name": "The Ooze"
+                }
+            ],
+            "notes": null
+        },
+        {
+            "date": "2026-09-17",
+            "player": "YourDoom25",
+            "result": null,
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_YourDoom25",
+            "mainboard": [
+                {
+                    "count": 4,
+                    "name": "Amalia Benavides Aguirre"
+                },
+                {
+                    "count": 1,
+                    "name": "Curious Farm Animals"
+                },
+                {
+                    "count": 3,
+                    "name": "Deep-Cavern Bat"
+                },
+                {
+                    "count": 2,
+                    "name": "Essence Channeler"
+                },
+                {
+                    "count": 3,
+                    "name": "Haliya, Guided by Light"
+                },
+                {
+                    "count": 4,
+                    "name": "Hinterland Sanctifier"
+                },
+                {
+                    "count": 2,
+                    "name": "Leonardo, Cutting Edge"
+                },
+                {
+                    "count": 3,
+                    "name": "Moseo, Vein's New Dean"
+                },
+                {
+                    "count": 2,
+                    "name": "Starscape Cleric"
+                },
+                {
+                    "count": 2,
+                    "name": "Voice of Victory"
+                },
+                {
+                    "count": 1,
+                    "name": "Zora, Spider Fancier"
+                },
+                {
+                    "count": 1,
+                    "name": "Zoraline, Cosmos Caller"
+                },
+                {
+                    "count": 4,
+                    "name": "Case of the Uneaten Feast"
+                },
+                {
+                    "count": 3,
+                    "name": "Lunar Convocation"
+                },
+                {
+                    "count": 2,
+                    "name": "Erode"
+                },
+                {
+                    "count": 3,
+                    "name": "Bleachbone Verge"
+                },
+                {
+                    "count": 3,
+                    "name": "Concealed Courtyard"
+                },
+                {
+                    "count": 4,
+                    "name": "Godless Shrine"
+                },
+                {
+                    "count": 2,
+                    "name": "Multiversal Passage"
+                },
+                {
+                    "count": 2,
+                    "name": "Plains"
+                },
+                {
+                    "count": 3,
+                    "name": "Shattered Sanctum"
+                },
+                {
+                    "count": 3,
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 2,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Strategic Betrayal"
+                }
+            ],
+            "sideboard": [
+                {
+                    "count": 2,
+                    "name": "Ancient Vendetta"
+                },
+                {
+                    "count": 2,
+                    "name": "Curious Farm Animals"
+                },
+                {
+                    "count": 1,
+                    "name": "Decorum Dissertation"
+                },
+                {
+                    "count": 4,
+                    "name": "Leyline of the Void"
+                },
+                {
+                    "count": 1,
+                    "name": "Pyrrhic Strike"
+                },
+                {
+                    "count": 2,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 2,
+                    "name": "Seam Rip"
+                },
+                {
+                    "count": 1,
                     "name": "Strategic Betrayal"
                 }
             ],
@@ -545,115 +1081,123 @@
         },
         {
             "date": "2026-09-17",
-            "player": "Feitosa_",
+            "player": "4man",
             "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_Feitosa_",
+            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_4man",
             "mainboard": [
                 {
                     "count": 4,
-                    "name": "Clarion Conqueror"
+                    "name": "Biotech Specialist"
+                },
+                {
+                    "count": 4,
+                    "name": "Callous Inspector"
+                },
+                {
+                    "count": 4,
+                    "name": "Gene Pollinator"
+                },
+                {
+                    "count": 4,
+                    "name": "Greedy Freebooter"
                 },
                 {
                     "count": 2,
-                    "name": "Magda, the Hoardmaster"
+                    "name": "Mutagen Man, Living Ooze"
                 },
                 {
                     "count": 4,
-                    "name": "Magmatic Hellkite"
+                    "name": "Rottenmouth Viper"
                 },
                 {
                     "count": 4,
-                    "name": "Momo, Friendly Flier"
-                },
-                {
-                    "count": 4,
-                    "name": "Nova Hellkite"
-                },
-                {
-                    "count": 4,
-                    "name": "Sarkhan, Dragon Ascendant"
-                },
-                {
-                    "count": 4,
-                    "name": "Smaug the Magnificent"
-                },
-                {
-                    "count": 2,
-                    "name": "Twinmaw Stormbrood"
-                },
-                {
-                    "count": 2,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 4,
-                    "name": "Burst Lightning"
-                },
-                {
-                    "count": 2,
-                    "name": "Get Lost"
-                },
-                {
-                    "count": 2,
-                    "name": "Cavern of Souls"
-                },
-                {
-                    "count": 4,
-                    "name": "Inspiring Vantage"
-                },
-                {
-                    "count": 4,
-                    "name": "Maelstrom of the Spirit Dragon"
+                    "name": "The Sackville-Bagginses"
                 },
                 {
                     "count": 1,
-                    "name": "Mountain"
+                    "name": "Umbral Collar Zealot"
+                },
+                {
+                    "count": 2,
+                    "name": "Vinereap Mentor"
                 },
                 {
                     "count": 4,
-                    "name": "Multiversal Passage"
+                    "name": "Obsessive Pursuit"
+                },
+                {
+                    "count": 2,
+                    "name": "Fanatical Offering"
+                },
+                {
+                    "count": 2,
+                    "name": "Requiting Hex"
+                },
+                {
+                    "count": 4,
+                    "name": "Blazemire Verge"
                 },
                 {
                     "count": 1,
-                    "name": "Plains"
+                    "name": "Blood Crypt"
                 },
                 {
                     "count": 4,
-                    "name": "Sacred Foundry"
+                    "name": "Blooming Marsh"
+                },
+                {
+                    "count": 1,
+                    "name": "Forest"
+                },
+                {
+                    "count": 3,
+                    "name": "Overgrown Tomb"
                 },
                 {
                     "count": 4,
-                    "name": "Sunbillow Verge"
+                    "name": "Starting Town"
+                },
+                {
+                    "count": 3,
+                    "name": "Stomping Ground"
+                },
+                {
+                    "count": 1,
+                    "name": "Swamp"
+                },
+                {
+                    "count": 1,
+                    "name": "Wastewood Verge"
+                },
+                {
+                    "count": 1,
+                    "name": "Deadly Precision"
                 }
             ],
             "sideboard": [
                 {
-                    "count": 3,
-                    "name": "Dawn's Truce"
-                },
-                {
-                    "count": 1,
-                    "name": "Desolation of Smaug"
-                },
-                {
-                    "count": 1,
-                    "name": "Get Lost"
+                    "count": 2,
+                    "name": "Duress"
                 },
                 {
                     "count": 2,
-                    "name": "Pyroclasm"
+                    "name": "Guerrilla Gorilla"
                 },
                 {
                     "count": 3,
-                    "name": "Rest in Peace"
+                    "name": "Professor Dellian Fel"
+                },
+                {
+                    "count": 2,
+                    "name": "Requiting Hex"
                 },
                 {
                     "count": 4,
-                    "name": "Seam Rip"
+                    "name": "Strategic Betrayal"
                 },
                 {
-                    "count": 1,
-                    "name": "The Legend of Roku"
+                    "count": 2,
+                    "name": "The Ooze"
                 }
             ],
             "notes": null
@@ -777,550 +1321,6 @@
                 {
                     "count": 2,
                     "name": "Rest in Peace"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-09-17",
-            "player": "AgrusKos93",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_AgrusKos93",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Amalia Benavides Aguirre"
-                },
-                {
-                    "count": 1,
-                    "name": "Aunt May"
-                },
-                {
-                    "count": 1,
-                    "name": "Curious Farm Animals"
-                },
-                {
-                    "count": 4,
-                    "name": "Deep-Cavern Bat"
-                },
-                {
-                    "count": 2,
-                    "name": "Emptiness"
-                },
-                {
-                    "count": 1,
-                    "name": "Enduring Innocence"
-                },
-                {
-                    "count": 3,
-                    "name": "Haliya, Guided by Light"
-                },
-                {
-                    "count": 4,
-                    "name": "Hinterland Sanctifier"
-                },
-                {
-                    "count": 3,
-                    "name": "Moseo, Vein's New Dean"
-                },
-                {
-                    "count": 3,
-                    "name": "Starscape Cleric"
-                },
-                {
-                    "count": 3,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 1,
-                    "name": "Zoraline, Cosmos Caller"
-                },
-                {
-                    "count": 4,
-                    "name": "Case of the Uneaten Feast"
-                },
-                {
-                    "count": 3,
-                    "name": "Lunar Convocation"
-                },
-                {
-                    "count": 2,
-                    "name": "Erode"
-                },
-                {
-                    "count": 1,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Concealed Courtyard"
-                },
-                {
-                    "count": 1,
-                    "name": "Dalkovan Encampment"
-                },
-                {
-                    "count": 4,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 3,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Shattered Sanctum"
-                },
-                {
-                    "count": 4,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 2,
-                    "name": "Swamp"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Clarion Conqueror"
-                },
-                {
-                    "count": 2,
-                    "name": "Curious Farm Animals"
-                },
-                {
-                    "count": 1,
-                    "name": "Decorum Dissertation"
-                },
-                {
-                    "count": 1,
-                    "name": "Dewdrop Cure"
-                },
-                {
-                    "count": 1,
-                    "name": "Enduring Tenacity"
-                },
-                {
-                    "count": 1,
-                    "name": "Erode"
-                },
-                {
-                    "count": 3,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Phyrexian Arena"
-                },
-                {
-                    "count": 1,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 2,
-                    "name": "Shoot the Sheriff"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-09-17",
-            "player": "YourDoom25",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_YourDoom25",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Amalia Benavides Aguirre"
-                },
-                {
-                    "count": 1,
-                    "name": "Curious Farm Animals"
-                },
-                {
-                    "count": 3,
-                    "name": "Deep-Cavern Bat"
-                },
-                {
-                    "count": 2,
-                    "name": "Essence Channeler"
-                },
-                {
-                    "count": 3,
-                    "name": "Haliya, Guided by Light"
-                },
-                {
-                    "count": 4,
-                    "name": "Hinterland Sanctifier"
-                },
-                {
-                    "count": 2,
-                    "name": "Leonardo, Cutting Edge"
-                },
-                {
-                    "count": 3,
-                    "name": "Moseo, Vein's New Dean"
-                },
-                {
-                    "count": 2,
-                    "name": "Starscape Cleric"
-                },
-                {
-                    "count": 2,
-                    "name": "Voice of Victory"
-                },
-                {
-                    "count": 1,
-                    "name": "Zora, Spider Fancier"
-                },
-                {
-                    "count": 1,
-                    "name": "Zoraline, Cosmos Caller"
-                },
-                {
-                    "count": 4,
-                    "name": "Case of the Uneaten Feast"
-                },
-                {
-                    "count": 3,
-                    "name": "Lunar Convocation"
-                },
-                {
-                    "count": 2,
-                    "name": "Erode"
-                },
-                {
-                    "count": 3,
-                    "name": "Bleachbone Verge"
-                },
-                {
-                    "count": 3,
-                    "name": "Concealed Courtyard"
-                },
-                {
-                    "count": 4,
-                    "name": "Godless Shrine"
-                },
-                {
-                    "count": 2,
-                    "name": "Multiversal Passage"
-                },
-                {
-                    "count": 2,
-                    "name": "Plains"
-                },
-                {
-                    "count": 3,
-                    "name": "Shattered Sanctum"
-                },
-                {
-                    "count": 3,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 2,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 1,
-                    "name": "Strategic Betrayal"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Ancient Vendetta"
-                },
-                {
-                    "count": 2,
-                    "name": "Curious Farm Animals"
-                },
-                {
-                    "count": 1,
-                    "name": "Decorum Dissertation"
-                },
-                {
-                    "count": 4,
-                    "name": "Leyline of the Void"
-                },
-                {
-                    "count": 1,
-                    "name": "Pyrrhic Strike"
-                },
-                {
-                    "count": 2,
-                    "name": "Requiting Hex"
-                },
-                {
-                    "count": 2,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 1,
-                    "name": "Strategic Betrayal"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-09-17",
-            "player": "SolarPotato",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_SolarPotato",
-            "mainboard": [
-                {
-                    "count": 4,
-                    "name": "Springleaf Drum"
-                },
-                {
-                    "count": 1,
-                    "name": "Darval, Whose Web Protects"
-                },
-                {
-                    "count": 4,
-                    "name": "Dour Port-Mage"
-                },
-                {
-                    "count": 4,
-                    "name": "Eirdu, Carrier of Dawn"
-                },
-                {
-                    "count": 1,
-                    "name": "Harmonized Trio"
-                },
-                {
-                    "count": 4,
-                    "name": "Momo, Friendly Flier"
-                },
-                {
-                    "count": 2,
-                    "name": "Nurturing Pixie"
-                },
-                {
-                    "count": 4,
-                    "name": "Starfield Shepherd"
-                },
-                {
-                    "count": 4,
-                    "name": "Steamcore Scholar"
-                },
-                {
-                    "count": 4,
-                    "name": "Yera and Oski, Weaver and Guide"
-                },
-                {
-                    "count": 1,
-                    "name": "Zack Fair"
-                },
-                {
-                    "count": 2,
-                    "name": "Zora, Spider Fancier"
-                },
-                {
-                    "count": 2,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 2,
-                    "name": "Erode"
-                },
-                {
-                    "count": 2,
-                    "name": "Adagia, Windswept Bastion"
-                },
-                {
-                    "count": 4,
-                    "name": "Floodfarm Verge"
-                },
-                {
-                    "count": 4,
-                    "name": "Gleaming Bastion"
-                },
-                {
-                    "count": 4,
-                    "name": "Hallowed Fountain"
-                },
-                {
-                    "count": 7,
-                    "name": "Plains"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Aang, Swift Savior"
-                },
-                {
-                    "count": 1,
-                    "name": "Appa, Steadfast Guardian"
-                },
-                {
-                    "count": 1,
-                    "name": "Curious Farm Animals"
-                },
-                {
-                    "count": 2,
-                    "name": "Detect Intrusion"
-                },
-                {
-                    "count": 1,
-                    "name": "Glen Elendra Guardian"
-                },
-                {
-                    "count": 3,
-                    "name": "Rest in Peace"
-                },
-                {
-                    "count": 2,
-                    "name": "Sage of the Skies"
-                },
-                {
-                    "count": 1,
-                    "name": "Seam Rip"
-                },
-                {
-                    "count": 2,
-                    "name": "Voice of Victory"
-                }
-            ],
-            "notes": null
-        },
-        {
-            "date": "2026-09-17",
-            "player": "fireshoes",
-            "result": null,
-            "anchor_uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_fireshoes",
-            "mainboard": [
-                {
-                    "count": 2,
-                    "name": "The Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Biotech Specialist"
-                },
-                {
-                    "count": 1,
-                    "name": "Callous Inspector"
-                },
-                {
-                    "count": 4,
-                    "name": "Gene Pollinator"
-                },
-                {
-                    "count": 1,
-                    "name": "Goldvein Hydra"
-                },
-                {
-                    "count": 4,
-                    "name": "Greedy Freebooter"
-                },
-                {
-                    "count": 3,
-                    "name": "Mutagen Man, Living Ooze"
-                },
-                {
-                    "count": 4,
-                    "name": "Rottenmouth Viper"
-                },
-                {
-                    "count": 1,
-                    "name": "Sentinel of the Nameless City"
-                },
-                {
-                    "count": 1,
-                    "name": "Super Shredder"
-                },
-                {
-                    "count": 4,
-                    "name": "The Sackville-Bagginses"
-                },
-                {
-                    "count": 4,
-                    "name": "Obsessive Pursuit"
-                },
-                {
-                    "count": 3,
-                    "name": "Blood Crypt"
-                },
-                {
-                    "count": 4,
-                    "name": "Blooming Marsh"
-                },
-                {
-                    "count": 1,
-                    "name": "Forest"
-                },
-                {
-                    "count": 1,
-                    "name": "Multiversal Passage"
-                },
-                {
-                    "count": 4,
-                    "name": "Overgrown Tomb"
-                },
-                {
-                    "count": 4,
-                    "name": "Starting Town"
-                },
-                {
-                    "count": 1,
-                    "name": "Stomping Ground"
-                },
-                {
-                    "count": 2,
-                    "name": "Swamp"
-                },
-                {
-                    "count": 2,
-                    "name": "Wastewood Verge"
-                },
-                {
-                    "count": 1,
-                    "name": "Back for Seconds"
-                },
-                {
-                    "count": 2,
-                    "name": "Deadly Precision"
-                },
-                {
-                    "count": 2,
-                    "name": "Stir Up Trouble"
-                }
-            ],
-            "sideboard": [
-                {
-                    "count": 2,
-                    "name": "Disruptive Stormbrood"
-                },
-                {
-                    "count": 4,
-                    "name": "Duress"
-                },
-                {
-                    "count": 1,
-                    "name": "Leatherhead, Swamp Stalker"
-                },
-                {
-                    "count": 1,
-                    "name": "Maelstrom Pulse"
-                },
-                {
-                    "count": 1,
-                    "name": "Shoot the Sheriff"
-                },
-                {
-                    "count": 4,
-                    "name": "Strategic Betrayal"
-                },
-                {
-                    "count": 1,
-                    "name": "Surrak, Elusive Hunter"
-                },
-                {
-                    "count": 1,
-                    "name": "Troublemaker Ouphe"
                 }
             ],
             "notes": null
